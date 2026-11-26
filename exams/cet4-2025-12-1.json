@@ -1,0 +1,1182 @@
+{
+ "id": "cet4-2025-12-1",
+ "levelId": "cet4",
+ "title": "四级 2025 年 12 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年12月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2025-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2025-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "一只受惊的猫在一辆汽车的引擎盖下完成了五英里的往返行程"
+      },
+      {
+       "idx": 2,
+       "zh": "King先生的妻子说"
+      },
+      {
+       "idx": 3,
+       "zh": "\"我们甚至不确定它是否还活着,所以我用一根棍子轻轻推了推它,确认它还在呼吸,发现是一只受惊的小猫。它往引擎深处又退了退,被卡住了。我试图够到它,但它在太深的地方,我没办法把它弄出来"
+      },
+      {
+       "idx": 4,
+       "zh": "经过英国慈善机构Cats Protection的救援"
+      },
+      {
+       "idx": 5,
+       "zh": "这家巧克力公司此前曾诉诸法庭以保护其畅销巧克力产品"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 这有点悲观,不过我在某种程度上能理解"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 老实说,我同意"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 是啊。那个部分太简短了"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 实际上是四分之一的人"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "Where was the black cat found?",
+       "options": [
+        "Outside the office of a charity foundation.",
+        "Inside the car of David King's neighbour.",
+        "Under the engine cover of a man's car.",
+        "At the gate of a grade school in Kent."
+       ],
+       "optionsZh": [
+        "在一家慈善基金会的办公室外面。",
+        "在David King邻居的车内。",
+        "在一名男子汽车的引擎盖下面。",
+        "在Kent一所小学的大门口。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Under the engine cover of a man's car.（在一名男子汽车的引擎盖下面。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What do we learn about the cat at the end of the news report?",
+       "options": [
+        "It got reunited with its owner.",
+        "It was injured during the rescue.",
+        "It became a pet of Mr King's grandson.",
+        "It was placed in the care of a UK charity."
+       ],
+       "optionsZh": [
+        "它与主人团聚了。",
+        "它在救援过程中受伤了。",
+        "它成为了King先生孙子的宠物。",
+        "它被交由一家英国慈善机构照料。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It got reunited with its owner.（它与主人团聚了。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What will Fayetteville witness in less than a month?",
+       "options": [
+        "The 100th anniversary celebration of Methodist University.",
+        "The first important political event in the next five years.",
+        "The opening of the Special Olympics Spring Games.",
+        "The reunion of this year's Olympic gold medalists."
+       ],
+       "optionsZh": [
+        "Methodist University 的百年校庆庆典。",
+        "未来五年中的第一个重要政治活动。",
+        "特殊奥林匹克春季运动会的开幕式。",
+        "今年奥运会金牌得主的重聚。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The opening of the Special Olympics Spring Games.（特殊奥林匹克春季运动会的开幕式。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What did Benjamin Kowalczyk say is rewarding to see?",
+       "options": [
+        "Volunteers visit the Games' website to sign up.",
+        "Athletes with special needs triumph in the Games.",
+        "Organizers devote their time and energy to the Games.",
+        "Children play in a fun tent and enjoy themselves fully."
+       ],
+       "optionsZh": [
+        "志愿者访问运动会网站报名参加。",
+        "有特殊需要的运动员在运动会上取得胜利。",
+        "组织者为运动会投入他们的时间和精力。",
+        "孩子们在趣味帐篷里玩耍并尽情享受。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Athletes with special needs triumph in the Games.（有特殊需要的运动员在运动会上取得胜利。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What has the German supermarket been ordered to do?",
+       "options": [
+        "Destroy its imitation chocolate rabbits.",
+        "Change the wrapping of its commodities.",
+        "Compensate for the Swiss manufacturer's loss.",
+        "Defend itself in the country's commercial court."
+       ],
+       "optionsZh": [
+        "销毁其仿制的巧克力兔子。",
+        "更改其商品的包装。",
+        "赔偿瑞士制造商的损失。",
+        "在该国商事法院为自己辩护。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Destroy its imitation chocolate rabbits.（销毁其仿制的巧克力兔子。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What did Switzerland's highest court suggest about the chocolate in question?",
+       "options": [
+        "It could be rewrapped and sold by the budget supermarket.",
+        "It could be reshaped into animals other than rabbits.",
+        "It could be resold cheaper to avoid waste.",
+        "It could be reused in other products."
+       ],
+       "optionsZh": [
+        "它可以被重新包装并由廉价超市出售。",
+        "它可以被重新塑造成兔子以外的动物。",
+        "它可以以更低价格转售以避免浪费。",
+        "它可以在其他产品中重新使用。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It could be reused in other products.（它可以在其他产品中重新使用。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why did Switzerland's highest court overturn the commercial court's ruling?",
+       "options": [
+        "To be fair to the German supermarkets.",
+        "To protect chocolate retailers' interests.",
+        "To boost the growth of the chocolate industry.",
+        "To prevent consumers' possible confusion."
+       ],
+       "optionsZh": [
+        "为了对德国超市公平。",
+        "为了保护巧克力零售商的利益。",
+        "为了促进巧克力行业的增长。",
+        "为了防止消费者可能产生的混淆。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：To prevent consumers' possible confusion.（为了防止消费者可能产生的混淆。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What does the man request the woman to do?",
+       "options": [
+        "Return the handbook to him.",
+        "Make a vegetable dish.",
+        "Pass a book to him.",
+        "Meet his sister's boyfriend."
+       ],
+       "optionsZh": [
+        "把手册还给他。",
+        "做一道蔬菜菜肴。",
+        "把一本书递给他。",
+        "见见他姐姐的男朋友。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Pass a book to him.（把一本书递给他。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the woman say about eating vegetables only?",
+       "options": [
+        "It doesn't seem to be a balanced diet.",
+        "It would reduce one's protein intake.",
+        "It would do harm to one's muscles.",
+        "It doesn't sound practical for her."
+       ],
+       "optionsZh": [
+        "这似乎不是均衡的饮食。",
+        "这会减少一个人的蛋白质摄入。",
+        "这会对一个人的肌肉造成伤害。",
+        "这对她来说听起来不实际。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It doesn't seem to be a balanced diet.（这似乎不是均衡的饮食。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "Why does the boyfriend of the man's sister choose to be a vegetarian?",
+       "options": [
+        "To improve his health.",
+        "To protect animal rights.",
+        "To follow a trendy lifestyle.",
+        "To stick to his religious belief."
+       ],
+       "optionsZh": [
+        "为了改善他的健康。",
+        "为了保护动物权利。",
+        "为了追随时尚的生活方式。",
+        "为了坚持他的宗教信仰。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To protect animal rights.（为了保护动物权利。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "On what point does the man agree with the woman at the end of the conversation?",
+       "options": [
+        "The torture and distress dolphins suffer in parks.",
+        "The necessity of having zoos and eating meat.",
+        "The gloomy environments animals are kept in.",
+        "The urgency of joining an animal rights group."
+       ],
+       "optionsZh": [
+        "海豚在公园里遭受的折磨和痛苦。",
+        "拥有动物园和吃肉的必要性。",
+        "动物被饲养的阴暗环境。",
+        "加入动物权利组织的紧迫性。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The necessity of having zoos and eating meat.（拥有动物园和吃肉的必要性。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What part of the TV program does the man say was interesting?",
+       "options": [
+        "The part about getting over jetlag.",
+        "The part about air travel in the past.",
+        "The part about not eating on board the plane.",
+        "The part about avoiding sleeping on the plane."
+       ],
+       "optionsZh": [
+        "关于克服时差反应的部分。",
+        "关于过去航空旅行的部分。",
+        "关于不在飞机上进食的部分。",
+        "关于避免在飞机上睡觉的部分。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The part about getting over jetlag.（关于克服时差反应的部分。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the man say he will do next time he flies a long distance?",
+       "options": [
+        "Take a nap to adjust to a new time zone.",
+        "Have meals as usual to stay away from hunger.",
+        "Concentrate on reading articles recommended by experts.",
+        "Try following the advice given by the expert on the show."
+       ],
+       "optionsZh": [
+        "小睡一会儿以适应新时区。",
+        "像平常一样进餐以避免饥饿。",
+        "专注阅读专家推荐的文章。",
+        "尝试遵循节目中专家给出的建议。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Try following the advice given by the expert on the show.（尝试遵循节目中专家给出的建议。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "Why does the woman think she is lucky?",
+       "options": [
+        "She does not have any problem flying.",
+        "She can spend a lot of time vacationing.",
+        "She does not have to worry about jetlag.",
+        "She has been well treated when traveling."
+       ],
+       "optionsZh": [
+        "她乘飞机没有任何问题。",
+        "她可以花大量时间度假。",
+        "她不必担心时差反应。",
+        "她在旅行时得到了很好的待遇。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：She does not have to worry about jetlag.（她不必担心时差反应。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "Why does the woman think the problem of being afraid to fly deserves attention?",
+       "options": [
+        "It has caused heavy losses to many airlines.",
+        "It impacts female travelers more seriously.",
+        "It has long been ignored by many experts.",
+        "It affects twenty-five percent of people."
+       ],
+       "optionsZh": [
+        "它给许多航空公司造成了重大损失。",
+        "它对女性旅客的影响更严重。",
+        "它长期以来被许多专家忽视。",
+        "它影响百分之二十五的人。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It affects twenty-five percent of people.（它影响百分之二十五的人。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker think is the best way to get started in user experience design?",
+       "options": [
+        "Learning from skilled designers.",
+        "Obtaining real-world experience.",
+        "Joining a 6-month training camp.",
+        "Anticipating actual challenges."
+       ],
+       "optionsZh": [
+        "向熟练的设计师学习。",
+        "获得真实世界的经验。",
+        "参加为期6个月的培训营。",
+        "预见实际挑战。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Obtaining real-world experience.（获得真实世界的经验。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the speaker say being effective requires?",
+       "options": [
+        "Core skills.",
+        "Higher education.",
+        "Adaptability.",
+        "Capability."
+       ],
+       "optionsZh": [
+        "核心技能。",
+        "高等教育。",
+        "适应能力。",
+        "能力。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Adaptability.（适应能力。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What can people do as long as they know their end goal and strive for it?",
+       "options": [
+        "Start anywhere.",
+        "Face challenges.",
+        "Pursue roles in teams.",
+        "Follow their own path."
+       ],
+       "optionsZh": [
+        "从任何地方开始。",
+        "面对挑战。",
+        "在团队中追求角色。",
+        "遵循自己的道路。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Start anywhere.（从任何地方开始。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "Why did the school principal ask what needed to change?",
+       "options": [
+        "To respond actively to students' requests.",
+        "To engage students more in their learning.",
+        "To enable teachers to interact more with their students.",
+        "To allow students more freedom in their academic work."
+       ],
+       "optionsZh": [
+        "积极回应学生的要求。",
+        "让学生更多地参与到学习中。",
+        "使教师能够更多地与学生互动。",
+        "让学生在学业上拥有更多自由。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To engage students more in their learning.（让学生更多地参与到学习中。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What has flexible seating meant at the speaker's school?",
+       "options": [
+        "Using new furniture to create a comfortable environment.",
+        "Shifting from traditional teaching to task-based learning.",
+        "Adopting a variety of different seating options.",
+        "Rearranging most traditional chairs and desks."
+       ],
+       "optionsZh": [
+        "使用新家具营造舒适的环境。",
+        "从传统教学转向基于任务的学习。",
+        "采用多种不同的座位选择。",
+        "重新摆放大部分传统的椅子和课桌。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Adopting a variety of different seating options.（采用多种不同的座位选择。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What has flexible seating brought about at the speaker's school?",
+       "options": [
+        "A win for all people involved.",
+        "A strengthened effect of its discipline.",
+        "A harmonious relationship among its students.",
+        "A change to teachers' opinion of their students."
+       ],
+       "optionsZh": [
+        "对所有相关人员都有益。",
+        "加强了纪律效果。",
+        "学生之间关系和谐。",
+        "改变了教师对学生的看法。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：A win for all people involved.（对所有相关人员都有益。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "Why were dozens of British students sent home on Tuesday?",
+       "options": [
+        "They weren't informed of the school's updated rules.",
+        "They arrived late for their first day of school.",
+        "They answered their headteacher's email in an impolite way.",
+        "They didn't wear the shoes required by the school's new policy."
+       ],
+       "optionsZh": [
+        "他们没有被告知学校更新的规定。",
+        "他们在开学第一天迟到了。",
+        "他们以不礼貌的方式回复了校长的电子邮件。",
+        "他们没有穿学校新政策要求的鞋子。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They didn't wear the shoes required by the school's new policy.（他们没有穿学校新政策要求的鞋子。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What can the price of school uniforms spark among families in financial difficulty?",
+       "options": [
+        "Riots.",
+        "Anger.",
+        "Disputes.",
+        "Panic."
+       ],
+       "optionsZh": [
+        "骚乱。",
+        "愤怒。",
+        "争议。",
+        "恐慌。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Panic.（恐慌。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What did the headteacher think of the school's new uniform rules?",
+       "options": [
+        "They strengthened the school's discipline and order.",
+        "They improved student behavior and performance.",
+        "They enhanced the positive image of the school.",
+        "They rendered the school unique in the district."
+       ],
+       "optionsZh": [
+        "它们加强了学校的纪律和秩序。",
+        "它们改善了学生的行为和表现。",
+        "它们提升了学校的正面形象。",
+        "它们使学校在该地区独树一帜。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They improved student behavior and performance.（它们改善了学生的行为和表现。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What did Lucinda May have to do to buy her child the correct pair of shoes?",
+       "options": [
+        "Turn to her parents for help.",
+        "Tighten her monthly budget.",
+        "Borrow £65 from her friend.",
+        "Postpone paying her other bills."
+       ],
+       "optionsZh": [
+        "向她的父母求助。",
+        "压缩她的月度预算。",
+        "向她的朋友借65英镑。",
+        "推迟支付她的其他账单。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Turn to her parents for help.（向她的父母求助。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose the student union of your university is collecting opinions on improving its work for the coming year. You are now to write a response by suggesting how it can better enrich student life. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "I am truly glad that the student union is collecting our opinions for the coming year, and I would like to share a\nfew thoughts on how campus life could become richer and more colourful.\nTo begin with, I suggest that more student clubs be set up, ranging from photography to debating, so that\neveryone can find a hobby and make new friends. It would also be helpful if the union organized regular sports\nmeets and art festivals, because such events relax us after study and build a stronger sense of community.\nAnother idea is to invite experts to hold lectures and workshops, which would broaden our horizons and\nprepare us for future careers.\nI believe these suggestions, if adopted, will make our daily life on campus far more enjoyable. Thank you for\nlistening, and I am always ready to offer any help the union may need."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "People tend to want as many choices as possible. They believe this will maximize their {{1}} of making the best decision. But research shows that, when it comes to actually making a {{2}} from all of these choices, people can become {{3}} and avoid making a decision altogether. Even worse, when people finally do decide, they are generally less satisfied with their decision and feel more regretful over whatever choice they made. Why does this happen? Research shows that when people choose from many options, they {{4}} more in the decision, but feel less confident in their ability to decide well. In other words, when we are {{5}} with more choices, making the \"right\" or \"correct\" decision begins to feel more {{6}} and, at the same time, more difficult to do. This may contribute to the deep fear that we will make the wrong decision. How can we solve this problem? I believe this fear could be tempered by putting decisions into perspective. It might help to remember that many of the choices you make, such as what to have for lunch, will not {{7}} much in the future and that, even more important choices, like accepting a new job, can {{8}} be changed. It could also help to {{9}} these situations with clear guidelines and ideas of what you want from the {{10}} of options, which can narrow the possible choices, and also make you more confident about your ability to make the right decision.",
+     "options": [
+      "approximately",
+      "case",
+      "chance",
+      "confused",
+      "crucial",
+      "deposited",
+      "enter",
+      "invest",
+      "matter",
+      "presented",
+      "range",
+      "regular",
+      "seize",
+      "selection",
+      "ultimately"
+     ],
+     "answers": [
+      2,
+      13,
+      3,
+      7,
+      9,
+      4,
+      8,
+      14,
+      6,
+      10
+     ],
+     "blankExplains": [
+      "【定位】They believe this will maximize their ____ of making the best decision.\n【依据】答案是 chance：填回后与所在句 believe、maximize、making、best、decision 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But research shows that, when it comes to actually making a ____ from all of these choices, people can become  … and avoid making a decision altogether.\n【依据】答案是 selection：填回后与所在句 research、shows、when、comes、actually、making 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But research shows that, when it comes to actually making a  … from all of these choices, people can become ____ and avoid making a decision altogether.\n【依据】答案是 confused：填回后与所在句 research、shows、when、comes、actually、making 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Research shows that when people choose from many options, they ____ more in the decision, but feel less confident in their ability to decide well.\n【依据】答案是 invest：填回后与所在句 research、shows、when、people、choose、many 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In other words, when we are ____ with more choices, making the \"right\" or \"correct\" decision begins to feel more  … and, at the same time, more difficult to do.\n【依据】答案是 presented：填回后与所在句 other、words、when、choices、making、right 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In other words, when we are  … with more choices, making the \"right\" or \"correct\" decision begins to feel more ____ and, at the same time, more difficult to do.\n【依据】答案是 crucial：填回后与所在句 other、words、when、choices、making、right 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It might help to remember that many of the choices you make, such as what to have for lunch, will not ____ much in the future and that, even more important choices, like accepting a new job, can  … be changed.\n【依据】答案是 matter：填回后与所在句 help、remember、many、choices、make、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It might help to remember that many of the choices you make, such as what to have for lunch, will not  … much in the future and that, even more important choices, like accepting a new job, can ____ be changed.\n【依据】答案是 ultimately：填回后与所在句 help、remember、many、choices、make、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It could also help to ____ these situations with clear guidelines and ideas of what you want from the  … of options, which can narrow the possible choices, and also make you more confident about your ability to make the right decision.\n【依据】答案是 enter：填回后与所在句 help、situations、clear、guidelines、ideas、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It could also help to  … these situations with clear guidelines and ideas of what you want from the ____ of options, which can narrow the possible choices, and also make you more confident about your ability to make the right decision.\n【依据】答案是 range：填回后与所在句 help、situations、clear、guidelines、ideas、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "They believe this will maximize their ____ of making the best decision.",
+       "why": "答案是 chance：填回后与所在句 believe、maximize、making、best、decision 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chance 这个词性/语义，而不是 case）。",
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chance 这个词性/语义，而不是 confused）。"
+       }
+      },
+      {
+       "locate": "But research shows that, when it comes to actually making a ____ from all of these choices, people can become  … and avoid making a decision altogether.",
+       "why": "答案是 selection：填回后与所在句 research、shows、when、comes、actually、making 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 selection 这个词性/语义，而不是 seize）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 selection 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "But research shows that, when it comes to actually making a  … from all of these choices, people can become ____ and avoid making a decision altogether.",
+       "why": "答案是 confused：填回后与所在句 research、shows、when、comes、actually、making 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 confused 这个词性/语义，而不是 case）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 confused 这个词性/语义，而不是 chance）。"
+       }
+      },
+      {
+       "locate": "Research shows that when people choose from many options, they ____ more in the decision, but feel less confident in their ability to decide well.",
+       "why": "答案是 invest：填回后与所在句 research、shows、when、people、choose、many 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 invest 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 invest 这个词性/语义，而不是 case）。"
+       }
+      },
+      {
+       "locate": "In other words, when we are ____ with more choices, making the \"right\" or \"correct\" decision begins to feel more  … and, at the same time, more difficult to do.",
+       "why": "答案是 presented：填回后与所在句 other、words、when、choices、making、right 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 presented 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 presented 这个词性/语义，而不是 case）。"
+       }
+      },
+      {
+       "locate": "In other words, when we are  … with more choices, making the \"right\" or \"correct\" decision begins to feel more ____ and, at the same time, more difficult to do.",
+       "why": "答案是 crucial：填回后与所在句 other、words、when、choices、making、right 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 crucial 这个词性/语义，而不是 case）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 crucial 这个词性/语义，而不是 chance）。"
+       }
+      },
+      {
+       "locate": "It might help to remember that many of the choices you make, such as what to have for lunch, will not ____ much in the future and that, even more important choices, like accepting a new job, can  … be changed.",
+       "why": "答案是 matter：填回后与所在句 help、remember、many、choices、make、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 matter 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 matter 这个词性/语义，而不是 case）。"
+       }
+      },
+      {
+       "locate": "It might help to remember that many of the choices you make, such as what to have for lunch, will not  … much in the future and that, even more important choices, like accepting a new job, can ____ be changed.",
+       "why": "答案是 ultimately：填回后与所在句 help、remember、many、choices、make、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ultimately 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ultimately 这个词性/语义，而不是 case）。"
+       }
+      },
+      {
+       "locate": "It could also help to ____ these situations with clear guidelines and ideas of what you want from the  … of options, which can narrow the possible choices, and also make you more confident about your ability to make the right decision.",
+       "why": "答案是 enter：填回后与所在句 help、situations、clear、guidelines、ideas、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 enter 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 enter 这个词性/语义，而不是 case）。"
+       }
+      },
+      {
+       "locate": "It could also help to  … these situations with clear guidelines and ideas of what you want from the ____ of options, which can narrow the possible choices, and also make you more confident about your ability to make the right decision.",
+       "why": "答案是 range：填回后与所在句 help、situations、clear、guidelines、ideas、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 range 这个词性/语义，而不是 regular）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 range 这个词性/语义，而不是 approximately）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Five years ago, the city of Queens, New York, announced that it would be putting bike lanes onto a stretch of Skillman Ave — and removing 116 parking spots. Cyclists loved the plan, but local business owners got very angry. Taking out those parking spots, as they argued at protests and in letters to the city council, would ruin stores and restaurants along Skillman. \"Parking here is already a nightmare,\" one shouted at a protest rally."
+      },
+      {
+       "id": "B",
+       "text": "But the bike lanes were a done deal, and soon they were in place. Early this year, Jesse Coburn — an investigative writer with Streetsblog New York — wondered whether those predictions of economic collapse came true. So he asked the city's Department of Finance to give him a few years' worth of sales figures for that stretch of Skillman Ave. How had the businesses on that street fared?"
+      },
+      {
+       "id": "C",
+       "text": "Quite well, it turns out. In the year after the bike lanes arrived, businesses on Skillman saw sales rise by 12 percent, compared to 3 percent for Queens in general. What's more, that section of road saw new businesses open, while Queens overall had a net loss."
+      },
+      {
+       "id": "D",
+       "text": "The thing is, the actual merchants along Skillman? They didn't believe it. When Coburn spoke to them and described what he'd found, only a few store owners admitted the lanes had helped. Many still insisted the lanes were killing their part of the city. And emotions ran hot: Someone scattered tacks(大头钉) on the bike lane."
+      },
+      {
+       "id": "E",
+       "text": "This little story turns out to be a fascinating glimpse at the challenges cities face as they try to update their urban infrastructure — to clean up the air, reduce greenhouse emissions, and speed up travel by making towns more bike-friendly. There's a rising amount of data showing that installing bike lanes and making streets more pedestrian-friendly boosts the economic fortunes of a place. Removing cars and parking spots works. But the folks who run local businesses simply aren't convinced, even when their own street performs. Given that sort of mess, can political fights over bike lanes ever end?"
+      },
+      {
+       "id": "F",
+       "text": "In 2013, researchers at New York City's Department of Transportation studied seven stretches of road that had installed bike lanes or created pedestrian-friendly areas. The city analyzed the data for businesses along those routes and found that by the third year, sales grew faster on five of the streets than in the district overall, on average — up to five times faster, in fact."
+      },
+      {
+       "id": "G",
+       "text": "Beyond New York, a survey of research from 23 cities found that bike lanes and pedestrian-friendly design didn't hurt local retail and food stores. (\"Fears of disastrous consequences for local businesses are unfounded,\" the researchers concluded.) More recent work has shown roughly the same."
+      },
+      {
+       "id": "H",
+       "text": "The truth is that in fairly dense areas, bikes are more efficient at moving people around. You might lose one car driver's business — but you gain shoppers who now can arrive more easily on bikes. \"Cyclists and pedestrians are consumers too,\" notes Professor Susan Handy. Plus, streets redesigned for bikes and pedestrians tend to become more pleasant places to hang around, so \"in a lot of cases, that's created much nicer environments that are really good for those businesses.\""
+      },
+      {
+       "id": "I",
+       "text": "Mom-and-pop shops are usually pretty quick at recognizing situations that will help their bottom lines. So why the blind spot here? Perhaps it's that attention focuses on horror stories — and some merchants do get hit when bike lanes come in."
+      },
+      {
+       "id": "J",
+       "text": "I spoke to Cindy Hughes, a hairdresser(理发师) in Cambridge, Massachusetts. She said business fell by at least 40 percent when the city removed nearby parking to put in a bike lane. The majority of her customers drive, with many coming from nearby towns. Only a very few have shifted to cycling, and even those almost certainly won't cycle in Boston's snowy winters. So while Hughes supports bike lanes — \"cyclists deserve to be safe\" — she sees the parking loss as an existential risk. \"Look, 90 percent of my customers drive,\" she told me. \"For our business, the bike lanes are way worse than Covid was.\""
+      },
+      {
+       "id": "K",
+       "text": "For others, the pushback is cultural, says Henry Grabar, a writer for the Slate Magazine. Small business owners are frequently drivers who commute from other parts of the city by car, Grabar points out. They're also often longtime locals. \"They tend to be people with deep roots in the city, who have hung around since before the neighborhood became what it is today,\" he adds. Driving around town in a car is so normal to them that cycling seems weird and unusual — despite its boost from Covid, when bike sales exploded by 75 percent."
+      },
+      {
+       "id": "L",
+       "text": "Psychology beats all! Who knew, right? The fierce divide between store owners and bike-lane advocates seems similar to our larger culture wars over climate change. If we've learned anything about culture wars, it's that data isn't much good at changing minds."
+      },
+      {
+       "id": "M",
+       "text": "When Janette Sadik-Khan was the head of New York City's Transportation Department back in the early 2000s, she oversaw a rollout(推出) of bike lanes — and got angry blowback from residents and business owners who claimed there weren't enough cyclists to justify installing lanes. Now, she notes ironically, the lanes are so full of activity that opponents have turned to claiming the problem is the opposite: There are too many cyclists getting in the way of cars."
+      },
+      {
+       "id": "N",
+       "text": "Maybe bike lanes will always be charged with emotion, until enough of the public is finally concerned about climate change — and it seems reckless(鲁莽的) to not have them."
+      },
+      {
+       "id": "O",
+       "text": "Crises, after all, have a way of opening people's eyes to possibilities. During Covid, restaurants and cafés lost so much business that cities nationwide began allowing them to build curbside seating areas where people could sit, safely, in the open air. It greatly reduced parking — but because, well, shop owners didn't see any way around it. Customers loved the outdoor seating so much that cities are making it permanent: A New York City study of several streets closed during Covid found storeowners making more than before, and diners enjoying the outdoor lifestyle. If data won't change minds, customers might."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "An increasing amount of data indicates that installing bike lanes raises local business revenues."
+      },
+      {
+       "id": "s37",
+       "text": "According to a magazine writer, some small business owners' resistance to bike lanes arises from cultural factors."
+      },
+      {
+       "id": "s38",
+       "text": "A stretch of Skillman Ave witnessed not only a big increase in sales but also the opening of new businesses."
+      },
+      {
+       "id": "s39",
+       "text": "When people have no way out in crises, they are more likely to embrace changes."
+      },
+      {
+       "id": "s40",
+       "text": "According to one survey, city design with bike lanes and pedestrian space did not negatively impact local businesses."
+      },
+      {
+       "id": "s41",
+       "text": "Despite increased business activity on Skillman Ave, many store owners insisted the bike lanes were destroying their area."
+      },
+      {
+       "id": "s42",
+       "text": "In a war of culture, data does not help much in changing people's minds."
+      },
+      {
+       "id": "s43",
+       "text": "A businesswoman said her business dropped sharply when parking space gave way to a bike lane, because most of her customers came by car."
+      },
+      {
+       "id": "s44",
+       "text": "Local business owners on Skillman Ave argued that their businesses would be ruined when parking spots were replaced by bike lanes."
+      },
+      {
+       "id": "s45",
+       "text": "People may find it more pleasant to wander around streets redesigned for cycling and walking."
+      }
+     ],
+     "answers": [
+      "E",
+      "K",
+      "C",
+      "O",
+      "G",
+      "D",
+      "L",
+      "J",
+      "A",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】There's a rising amount of data showing that installing bike lanes and making streets more pedestrian-friendly boosts the economic fortunes of a place.\n【依据】陈述里的 amount、data、installing、bike、lanes 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】For others, the pushback is cultural, says Henry Grabar, a writer for the Slate Magazine.\n【依据】陈述里的 magazine、writer、cultural 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】In the year after the bike lanes arrived, businesses on Skillman saw sales rise by 12 percent, compared to 3 percent for Queens in general.\n【依据】陈述里的 skillman、sales、businesses 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Crises, after all, have a way of opening people's eyes to possibilities.\n【依据】陈述里的 people、way、crises 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+      "【定位】Beyond New York, a survey of research from 23 cities found that bike lanes and pedestrian-friendly design didn't hurt local retail and food stores.\n【依据】陈述里的 survey、design、bike、lanes、pedestrian、local 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】When Coburn spoke to them and described what he'd found, only a few store owners admitted the lanes had helped.\n【依据】陈述里的 store、owners、lanes 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】If we've learned anything about culture wars, it's that data isn't much good at changing minds.\n【依据】陈述里的 culture、data、much、changing、minds 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】She said business fell by at least 40 percent when the city removed nearby parking to put in a bike lane.\n【依据】陈述里的 businesswoman、said、business、when、parking、bike 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Five years ago, the city of Queens, New York, announced that it would be putting bike lanes onto a stretch of Skillman Ave — and removing 116 parking spots.\n【依据】陈述里的 skillman、ave、parking、spots、bike、lanes 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Plus, streets redesigned for bikes and pedestrians tend to become more pleasant places to hang around, so \"in a lot of cases, that's created much nicer environments that are really good for those businesses.\"\n【依据】陈述里的 pleasant、around、streets、redesigned 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：15 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "There's a rising amount of data showing that installing bike lanes and making streets more pedestrian-friendly boosts the economic fortunes of a place.",
+       "why": "陈述里的 amount、data、installing、bike、lanes 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For others, the pushback is cultural, says Henry Grabar, a writer for the Slate Magazine.",
+       "why": "陈述里的 magazine、writer、cultural 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In the year after the bike lanes arrived, businesses on Skillman saw sales rise by 12 percent, compared to 3 percent for Queens in general.",
+       "why": "陈述里的 skillman、sales、businesses 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Crises, after all, have a way of opening people's eyes to possibilities.",
+       "why": "陈述里的 people、way、crises 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Beyond New York, a survey of research from 23 cities found that bike lanes and pedestrian-friendly design didn't hurt local retail and food stores.",
+       "why": "陈述里的 survey、design、bike、lanes、pedestrian、local 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "When Coburn spoke to them and described what he'd found, only a few store owners admitted the lanes had helped.",
+       "why": "陈述里的 store、owners、lanes 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If we've learned anything about culture wars, it's that data isn't much good at changing minds.",
+       "why": "陈述里的 culture、data、much、changing、minds 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "She said business fell by at least 40 percent when the city removed nearby parking to put in a bike lane.",
+       "why": "陈述里的 businesswoman、said、business、when、parking、bike 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Five years ago, the city of Queens, New York, announced that it would be putting bike lanes onto a stretch of Skillman Ave — and removing 116 parking spots.",
+       "why": "陈述里的 skillman、ave、parking、spots、bike、lanes 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Plus, streets redesigned for bikes and pedestrians tend to become more pleasant places to hang around, so \"in a lot of cases, that's created much nicer environments that are really good for those businesses.\"",
+       "why": "陈述里的 pleasant、around、streets、redesigned 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "All living organisms on Earth are exposed to a 24-hour day-night cycle. This cycle is the reason why people rest at night and are active during the day. Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health. For example, eating at night can lead to weight gain over time because food intake at night leads to increased fat storage. Many drug targets in the body follow a 24-hour cycle, too. This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period. Because how the body responds to a drug can differ depending on the time it is taken, it logically follows that taking medicines at specific times could help increase their effectiveness and reduce unwanted side effects. When doctors prescribe medicine for people, they rarely consider the best time to take it. There are two main reasons for that oversight. First, many physicians are not aware that some drugs work better during a specific time of the day. And second, most drugs have not been studied for possible different effects during a 24-hour cycle. Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance. Over 50 years ago, researchers found that the cholesterol drug simvastatin is more effective at lowering cholesterol levels when taken at night rather than during the day. This is because the liver enzyme(酶) these drugs target is more active at night. Taking medicine at the wrong time can even cause harm. My colleagues and I wondered whether midazolam, the most common sedative(镇静剂) used in surgical procedures worldwide, might interfere with the internal clock that protects the heart at night. Currently, there are no guidelines regarding when midazolam should be administered. More research is needed to determine the best times to administer treatments for different diseases. I believe taking drug timing into account could help make treatments more effective and help more people worldwide.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn from the passage about the timing of our behaviors?",
+       "options": [
+        "It has a considerable impact on our health.",
+        "It confines us to a 24-hour day-night cycle.",
+        "It requires us to follow a particular rhythm.",
+        "It holds the key to all human body functions."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health.\n【依据】正确项的核心词 health 与定位句对得上；其余 considerable、impact 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health.",
+        "why": "正确项的核心词 health 与定位句对得上；其余 considerable、impact 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「confines」全文未出现。",
+         "C": "无中生有：「requires、particular」全文未出现；把原文的「follow、rhythm」换成了「requires、particular」，主语或对象被调包。",
+         "D": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「holds、key」全文未出现；把原文的「human、body、functions」换成了「holds、key」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author say about the proteins in our body?",
+       "options": [
+        "They can modify the effects of medicines in different ways.",
+        "They can reduce unwanted side effects of certain medicines.",
+        "Their reaction to medicines changes during the day-night cycle.",
+        "Their design determines how differently they react to medicines."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period.\n【依据】正确项的核心词 reaction、medicines 与定位句对得上；其余 changes、during、day-night、cycle 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period.",
+        "why": "正确项的核心词 reaction、medicines 与定位句对得上；其余 changes、during、day-night、cycle 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「ways」全文未出现；把原文的「modify、medicines、different」换成了「effects、ways」，主语或对象被调包。",
+         "B": "偷换主体：「certain」全文未出现；把原文的「medicines」换成了「reduce、unwanted、side」，主语或对象被调包。",
+         "D": "偷换主体：「determines」全文未出现；把原文的「design、differently、react」换成了「determines、how」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do doctors do when prescribing medicine for people?",
+       "options": [
+        "They give little thought to the time of taking it for maximum effect.",
+        "They rarely consider which medicine works better for which patient.",
+        "They tell patients its possible side effects during a period of 24 hours.",
+        "They tell patients to comply with the directions of drug manufacturers."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】When doctors prescribe medicine for people, they rarely consider the best time to take it.\n【依据】正确项的核心词 time 与定位句对得上；其余 give、little、thought、taking 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When doctors prescribe medicine for people, they rarely consider the best time to take it.",
+        "why": "正确项的核心词 time 与定位句对得上；其余 give、little、thought、taking 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「which、works、which」全文未出现；把原文的「rarely、consider、medicine」换成了「which、works、better」，主语或对象被调包。",
+         "C": "因果倒置：「tell、hours」全文未出现。",
+         "D": "无中生有：「tell、comply、directions」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "Why do doctors advise patients to take most drugs in the morning or in the evening?",
+       "options": [
+        "To discourage them from making complaints.",
+        "To ensure they take the drugs as instructed.",
+        "To comply with new research findings strictly.",
+        "To guarantee the maximum effect of the drugs."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance.\n【依据】正确项的核心词 ensure、take、drugs 与定位句对得上；其余 instructed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance.",
+        "why": "正确项的核心词 ensure、take、drugs 与定位句对得上；其余 instructed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「discourage、making」全文未出现；把原文的「complaints」换成了「discourage、making」，主语或对象被调包。",
+         "C": "无中生有：「new、findings、strictly」全文未出现；把原文的「comply」换成了「new、research、findings」，主语或对象被调包。",
+         "D": "无中生有：「guarantee、maximum、effect」全文未出现；把原文的「drugs」换成了「guarantee、maximum、effect」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author suggest near the end of the passage?",
+       "options": [
+        "Considering drug-taking timing when prescribing drugs for patients.",
+        "Making treatments less complex by taking drug timing into account.",
+        "Conducting more studies to find out the best timing for treating different diseases.",
+        "Finding out the most effective drugs for treating diseases through further research."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】More research is needed to determine the best times to administer treatments for different diseases.\n【依据】正确项的核心词 best、treating、different、diseases 与定位句对得上；其余 conducting、studies、find、out 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "More research is needed to determine the best times to administer treatments for different diseases.",
+        "why": "正确项的核心词 best、treating、different、diseases 与定位句对得上；其余 conducting、studies、find、out 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「considering、drug-taking、prescribing」全文未出现。",
+         "B": "偷换主体：「making、less、complex」全文未出现；把原文的「treatments」换成了「making、less、complex」，主语或对象被调包。",
+         "D": "无中生有：「finding、out、through」全文未出现；把原文的「treating、diseases、research」换成了「finding、out、effective」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 344 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Katharine Abraham, an economics professor, was chatting with her hairdresser(理发师) about retirement plans. The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money. Both scenarios(情况) are contributing to a big increase in the number of people in the U.S. working into their 70s. Over the past 20 years, the share of Americans working in their 70s has risen from less than 10% to nearly 15%. In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement. The decline of manufacturing and the increase in the number of people working in less labor-intensive occupations also has contributed to the trend, says Abraham, who researches work and retirement decisions of older Americans. \"Which matters more depends on what your history up until that point has been in the type of work you're doing,\" Abraham says. The overall trend is hitting Americans of all different levels of educational attainment, although the percentages vary by category. The share of Americans with bachelor's degrees who were working into their 70s reached nearly 20% in 2018. For those with a high school degree or less, the proportion of those working in their 70s had risen to around 10%, while those with some college education were in the middle at around 15%. Martin Neil Baily, an economist who is leading a research project on retirement security, notes that quitting a career can lead to feelings of isolation and loneliness, particularly for men. He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons. They're also more likely to be in professional occupations where they tend to enjoy their work more. Workers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn from the passage about the economics professor and her hairdresser?",
+       "options": [
+        "They differ in their reasons for continuing to work.",
+        "They are both committed to working into their 70s.",
+        "They are happy about their current financial situation.",
+        "They hold different views about postponing retirement."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Katharine Abraham, an economics professor, was chatting with her hairdresser(理发师) about retirement plans.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 differ、reasons、continuing、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Katharine Abraham, an economics professor, was chatting with her hairdresser(理发师) about retirement plans.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 differ、reasons、continuing、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「committed」全文未出现。",
+         "C": "无中生有：「happy、current、situation」全文未出现；把原文的「about」换成了「happy、current、financial」，主语或对象被调包。",
+         "D": "无中生有：「hold、views、postponing」全文未出现；把原文的「about、retirement」换成了「hold、different、views」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is one of the reasons for people to delay retirement?",
+       "options": [
+        "More and more people have switched to less intellectually challenging jobs.",
+        "The number of jobs suitable for older people has increased in the private sector.",
+        "The rate of wage increase in terms of purchasing power has slowed down for years.",
+        "More and more people in the workplace find it hard to rely on traditional pensions."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement.\n【依据】正确项的核心词 years 与定位句对得上；其余 rate、wage、increase、terms 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement.",
+        "why": "正确项的核心词 years 与定位句对得上；其余 rate、wage、increase、terms 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「switched、intellectually、challenging」全文未出现；把原文的「people」换成了「switched、less、intellectually」，主语或对象被调包。",
+         "B": "偷换主体：「suitable、increased」全文未出现；把原文的「people、private、sector」换成了「number、jobs、suitable」，主语或对象被调包。",
+         "D": "无中生有：「workplace、find、hard」全文未出现；把原文的「people、traditional、pensions」换成了「workplace、find、hard」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What is the general trend in people delaying retirement?",
+       "options": [
+        "The higher their earnings, the more likely they are tempted to delay retirement.",
+        "Those who have more job satisfaction tend to retire later than those who have less.",
+        "More men than women are likely to stay in the labor force until their late seventies.",
+        "The higher their educational level, the more likely they are to delay retirement."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement.\n【依据】正确项的核心词 delay、retirement 与定位句对得上；其余 higher、educational、level、likely 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement.",
+        "why": "正确项的核心词 delay、retirement 与定位句对得上；其余 higher、educational、level、likely 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「higher、earnings、tempted」全文未出现；把原文的「delay、retirement」换成了「higher、earnings、likely」，主语或对象被调包。",
+         "B": "偷换主体：「job、satisfaction、later」全文未出现；把原文的「retire」换成了「who、job、satisfaction」，主语或对象被调包。",
+         "C": "因果倒置：「women、late、seventies」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What is the chief reason for college-educated workers delaying retirement according to an economist?",
+       "options": [
+        "Enjoying financial security.",
+        "Staying connected socially.",
+        "Contributing more professionally.",
+        "Increasing social security payments."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons.\n【依据】正确项的核心词 socially 与定位句对得上；其余 staying、connected 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons.",
+        "why": "正确项的核心词 socially 与定位句对得上；其余 staying、connected 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「enjoying」全文未出现；把原文的「financial」换成了「enjoying、security」，主语或对象被调包。",
+         "C": "因果倒置：「professionally」全文未出现。",
+         "D": "无中生有：「increasing、payments」全文未出现；把原文的「social」换成了「increasing、security、payments」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the passage say about people doing manual work?",
+       "options": [
+        "They are eager to enjoy life after retiring.",
+        "They are likely to have financial troubles.",
+        "They generally don't enjoy doing it.",
+        "They tend to anticipate retirement."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement.\n【依据】正确项的核心词 retirement 与定位句对得上；其余 tend、anticipate 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement.",
+        "why": "正确项的核心词 retirement 与定位句对得上；其余 tend、anticipate 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「eager、life、after」全文未出现；把原文的「retiring」换成了「eager、enjoy、life」，主语或对象被调包。",
+         "B": "偷换主体：「troubles」全文未出现；把原文的「financial」换成了「likely、troubles」，主语或对象被调包。",
+         "C": "因果倒置：「generally、don't」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 347 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "近年来，中国政府高度重视民营经济(private economy)的发展，出台了一系列政策支持民营企业。截至2025年3月底，全国民营企业数量超过5700万家，占企业总量的92.3%。民营企业不仅数量稳步增长，质量和结构也在不断提升。民营企业的研发投入不断增加，在新一代信息技术、人工智能等领域发展迅速。民营企业核心竞争力的增强为中国经济的高质量发展提供了有力支撑。",
+     "reference": "In recent years, the Chinese government has attached great importance to the development of the private economy and introduced a series of policies to support private enterprises. By the end of March 2025, the number of private enterprises nationwide exceeded 57 million, accounting for 92.3% of the total number of enterprises Private enterprises are not only growing steadily in number but also improving in quality and structure. Private enterprises are increasing their R&D investment and developing rapidly in fields such as next-generation information technology and artificial intelligence. The enhancement of private enterprises' core competitiveness provides strong support for the high-quality development of China's economy",
+     "keyPoints": [
+      "In recent years, the Chinese government has attached great importance to the development of the private economy and introduced a series of policies to support private enterprises.",
+      "By the end of March 2025, the number of private enterprises nationwide exceeded 57 million, accounting for 92.3% of the total number of enterprises Private enterprises are not only growing steadily in number but also improving in quality and structure.",
+      "Private enterprises are increasing their R&D investment and developing rapidly in fields such as next-generation information technology and artificial intelligence.",
+      "The enhancement of private enterprises' core competitiveness provides strong support for the high-quality development of China's economy"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

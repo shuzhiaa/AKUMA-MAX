@@ -1,0 +1,1163 @@
+{
+ "id": "cet4-2021-06-2",
+ "levelId": "cet4",
+ "title": "四级 2021 年 06 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年6月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2021-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2021-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "一位81岁的老人在试图从英国纽卡斯尔前往意大利罗马时意外到达了德国"
+      },
+      {
+       "idx": 2,
+       "zh": "这位领取养老金的老人此行是为了拜见天主教会领袖教皇"
+      },
+      {
+       "idx": 3,
+       "zh": "当GPS系统告诉他已经到达目的地时"
+      },
+      {
+       "idx": 4,
+       "zh": "老人停好车,但没有正确拉上手刹"
+      },
+      {
+       "idx": 5,
+       "zh": "他的车向后滑行,极具讽刺意味的是"
+      },
+      {
+       "idx": 6,
+       "zh": "警方表示,汽车撞上标志牌后停了下来"
+      },
+      {
+       "idx": 7,
+       "zh": "这位生活在英国、原籍意大利的老人可能是因为罗马在意大利语中写作\"Roma\""
+      },
+      {
+       "idx": 8,
+       "zh": "M: 哦,不。那肯定要你自己决定"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What did the old age pensioner plan to do?",
+       "options": [
+        "See the Pope.",
+        "Go to Newcastle.",
+        "Travel to Germany.",
+        "Tour an Italian city."
+       ],
+       "optionsZh": [
+        "见教皇。",
+        "去纽卡斯尔。",
+        "去德国旅行。",
+        "游览一座意大利城市。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：See the Pope.（见教皇。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What finally happened to the old man?",
+       "options": [
+        "He was taken to hospital in an ambulance.",
+        "His car hit a sign and was badly damaged.",
+        "His GPS system went out of order.",
+        "He ended up in the wrong place."
+       ],
+       "optionsZh": [
+        "他被救护车送往医院。",
+        "他的车撞到了标志牌,严重损坏。",
+        "他的GPS系统出现故障。",
+        "他最终到了错误的地方。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He ended up in the wrong place.（他最终到了错误的地方。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What do we learn from the news report?",
+       "options": [
+        "Scotland will reach the national target in carbon emissions reduction ahead of schedule.",
+        "Glasgow City Council has made a deal with ScottishPower on carbon emissions.",
+        "Glasgow has pledged to take the lead in reducing carbon emissions in the UK.",
+        "First Minister Nicola Sturgeon urged ScottishPower to reduce carbon emissions."
+       ],
+       "optionsZh": [
+        "苏格兰将提前完成碳排放减排的国家目标。",
+        "Glasgow市议会已与ScottishPower就碳排放达成协议。",
+        "Glasgow承诺在英国率先减少碳排放。",
+        "首席大臣Nicola Sturgeon敦促ScottishPower减少碳排放。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Glasgow has pledged to take the lead in reducing carbon emissions in the UK.（Glasgow承诺在英国率先减少碳排放。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What did ScottishPower's chief executive say ahead of the All Energy Conference?",
+       "options": [
+        "Glasgow needs to invest in new technologies to reach its goal.",
+        "Glasgow is going to explore new sources of renewable energy.",
+        "Stricter regulation is needed in transforming Glasgow's economy.",
+        "It's necessary to create more low-emission zones as soon as possible."
+       ],
+       "optionsZh": [
+        "Glasgow需要投资新技术才能实现其目标。",
+        "Glasgow将探索可再生能源的新来源。",
+        "在转变Glasgow经济方面需要更严格的监管。",
+        "有必要尽快建立更多低排放区。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Glasgow needs to invest in new technologies to reach its goal.（Glasgow需要投资新技术才能实现其目标。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn from the news report about the Japanese IT firm?",
+       "options": [
+        "It donates money to overpopulated animal shelters.",
+        "It permits employees to bring cats into their office.",
+        "It gives 5,000 yen to employees who keep pet cats.",
+        "It allows workers to do whatever their hearts desire."
+       ],
+       "optionsZh": [
+        "它向动物数量过多的收容所捐款。",
+        "它允许员工把猫带到办公室。",
+        "它给养宠物猫的员工发放5000日元。",
+        "它允许员工做任何他们心里想做的事。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It permits employees to bring cats into their office.（它允许员工把猫带到办公室。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does Fukuda encourage his employees to do?",
+       "options": [
+        "Keep cats off the street.",
+        "Rescue homeless cats.",
+        "Volunteer to help in animal shelters.",
+        "Contribute to a fund for cat protection."
+       ],
+       "optionsZh": [
+        "让猫远离街道。",
+        "救助流浪猫。",
+        "自愿到动物收容所帮忙。",
+        "向猫保护基金捐款。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Rescue homeless cats.（救助流浪猫。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the news report say about the firm's policy?",
+       "options": [
+        "It has contributed tremendously to the firm's fame.",
+        "It has helped a lot to improve animals' well-being.",
+        "It has led some other companies to follow suit.",
+        "It has resulted in damage to office equipment."
+       ],
+       "optionsZh": [
+        "它极大地提升了公司的知名度。",
+        "它对改善动物福祉帮助很大。",
+        "它促使其他一些公司效仿。",
+        "它导致了办公设备的损坏。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It has led some other companies to follow suit.（它促使其他一些公司效仿。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What does the man want to do?",
+       "options": [
+        "Find out where Jimmy is.",
+        "Borrow money from Jimmy.",
+        "Make friends with Jimmy.",
+        "Ask Jimmy what is to be done."
+       ],
+       "optionsZh": [
+        "找出Jimmy在哪里。",
+        "向Jimmy借钱。",
+        "和Jimmy交朋友。",
+        "问Jimmy该做什么。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Find out where Jimmy is.（找出Jimmy在哪里。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What do we learn about the man who came to see the woman yesterday?",
+       "options": [
+        "He was unsure what kind of fellow Jimmy was.",
+        "He was working on a study project with Jimmy.",
+        "He wanted to make a sincere apology to Jimmy.",
+        "He wanted to invite her to join in a study project."
+       ],
+       "optionsZh": [
+        "他不确定Jimmy是什么样的人。",
+        "他正在和Jimmy一起做一个研究项目。",
+        "他想向Jimmy真诚地道歉。",
+        "他想邀请她加入一个研究项目。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He was working on a study project with Jimmy.（他正在和Jimmy一起做一个研究项目。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What did Jimmy say happened to him one day?",
+       "options": [
+        "He got a ticket for speeding.",
+        "He got his car badly damaged.",
+        "He was involved in a traffic accident.",
+        "He had an operation for his injury."
+       ],
+       "optionsZh": [
+        "他因超速而被开罚单。",
+        "他的车严重损坏了。",
+        "他卷入了一起交通事故。",
+        "他因受伤做了手术。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He was involved in a traffic accident.（他卷入了一起交通事故。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "Why did Jimmy borrow money according to the man?",
+       "options": [
+        "He needed to make some donations to charity.",
+        "He found the 60 pounds in his pocket missing.",
+        "He wanted to buy a gift for his mother's birthday.",
+        "He wanted to conceal something from his parents."
+       ],
+       "optionsZh": [
+        "他需要向慈善机构捐款。",
+        "他发现口袋里的60英镑不见了。",
+        "他想为母亲的生日买一份礼物。",
+        "他想向父母隐瞒某事。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He wanted to conceal something from his parents.（他想向父母隐瞒某事。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What did the woman want to ask Max about?",
+       "options": [
+        "Shopping delivery.",
+        "Shopping online.",
+        "Where he goes shopping.",
+        "How often he does shopping."
+       ],
+       "optionsZh": [
+        "购物配送。",
+        "网上购物。",
+        "他去哪里购物。",
+        "他多久购物一次。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Shopping online.（网上购物。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the man think is a problem with shopping in supermarkets?",
+       "options": [
+        "Searching in the aisles.",
+        "Dealing with the traffic.",
+        "Driving too long a distance.",
+        "Getting one's car parked."
+       ],
+       "optionsZh": [
+        "在过道里寻找商品。",
+        "应对交通状况。",
+        "开车距离太远。",
+        "停车。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Getting one's car parked.（停车。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What is the woman's concern about shopping online?",
+       "options": [
+        "The after-sales service.",
+        "The replacement policy.",
+        "The quality of food products.",
+        "The damage to the packaging."
+       ],
+       "optionsZh": [
+        "售后服务。",
+        "退换政策。",
+        "食品的质量。",
+        "包装的损坏。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The quality of food products.（食品的质量。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the man find about shopping online?",
+       "options": [
+        "It saves money.",
+        "It offers more choice.",
+        "It increases the joy of shopping.",
+        "It is less time-consuming."
+       ],
+       "optionsZh": [
+        "省钱。",
+        "提供更多选择。",
+        "增加购物的乐趣。",
+        "更省时间。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It saves money.（省钱。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What did a recent study find about some British children?",
+       "options": [
+        "They have little talent for learning math.",
+        "They need medical help for math anxiety.",
+        "They need extra help to catch up in the math class.",
+        "They have strong negative emotions towards math."
+       ],
+       "optionsZh": [
+        "他们学习数学的天赋很少。",
+        "他们需要医疗帮助来应对数学焦虑。",
+        "他们需要额外帮助才能在数学课上赶上进度。",
+        "他们对数学有强烈的负面情绪。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They have strong negative emotions towards math.（他们对数学有强烈的负面情绪。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What is the widespread misunderstanding about math anxiety?",
+       "options": [
+        "It will gradually pass away without teachers' help.",
+        "It affects low performing children only.",
+        "It is related to a child's low intelligence.",
+        "It exists mostly among children from poor families."
+       ],
+       "optionsZh": [
+        "它会在没有教师帮助的情况下逐渐消失。",
+        "它只影响成绩差的儿童。",
+        "它与儿童的低智商有关。",
+        "它主要存在于来自贫困家庭的儿童中。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It affects low performing children only.（它只影响成绩差的儿童。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What does the passage say about British students with math anxiety?",
+       "options": [
+        "Most of them have average to strong math ability.",
+        "Most of them get timely help from their teachers.",
+        "They will regain confidence with counselling.",
+        "They are mostly secondary school students."
+       ],
+       "optionsZh": [
+        "他们中的大多数具有中等到较强的数学能力。",
+        "他们中的大多数从老师那里得到及时的帮助。",
+        "他们通过咨询会重新获得信心。",
+        "他们大多数是中学生。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Most of them have average to strong math ability.（他们中的大多数具有中等到较强的数学能力。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What conclusion has the World Health Organization come to recently?",
+       "options": [
+        "Social media addiction is a threat to our health.",
+        "Too many people are addicted to smartphones.",
+        "Addiction to computer games is a disease.",
+        "Computer games can be rather addictive."
+       ],
+       "optionsZh": [
+        "社交媒体成瘾是对我们健康的威胁。",
+        "太多人对智能手机上瘾。",
+        "电脑游戏成瘾是一种疾病。",
+        "电脑游戏可能相当容易让人上瘾。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Addiction to computer games is a disease.（电脑游戏成瘾是一种疾病。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What is said of people with addictive behavior?",
+       "options": [
+        "They prioritize their favored activity over what they should do.",
+        "They do their favored activity whenever and wherever possible.",
+        "They are unaware of the damage their behavior is doing to them.",
+        "They are unable to get rid of their addiction without professional help."
+       ],
+       "optionsZh": [
+        "他们把自己喜欢的活动置于应该做的事情之上。",
+        "他们随时随地尽可能从事自己喜欢的活动。",
+        "他们没有意识到自己的行为对他们造成的伤害。",
+        "他们无法在没有专业帮助的情况下摆脱成瘾。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They prioritize their favored activity over what they should do.（他们把自己喜欢的活动置于应该做的事情之上。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do some behavior experts think of addiction to computer games?",
+       "options": [
+        "It may be less damaging than previously believed.",
+        "There will never be agreement on its harm to people.",
+        "It may prove to be beneficial to developing creativity.",
+        "There is not enough evidence to classify it as a disease."
+       ],
+       "optionsZh": [
+        "它的危害可能比之前认为的要小。",
+        "人们永远不会就其危害达成一致。",
+        "它可能被证明有益于培养创造力。",
+        "没有足够的证据将其归类为一种疾病。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：There is not enough evidence to classify it as a disease.（没有足够的证据将其归类为一种疾病。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do we learn about most European passports?",
+       "options": [
+        "They are relatively uniform in color and design.",
+        "They appear more formal than other passports.",
+        "They are a shade of red bordering on brown.",
+        "They vary in color from country to country."
+       ],
+       "optionsZh": [
+        "它们在颜色和设计上相对统一。",
+        "它们看起来比其他护照更正式。",
+        "它们是一种近乎棕色的红色。",
+        "它们的颜色因国家而异。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They are a shade of red bordering on brown.（它们是一种近乎棕色的红色。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What does the passage say about the design of passports?",
+       "options": [
+        "They must endure wear and tear.",
+        "They must be of the same size.",
+        "They must be made from a rare material.",
+        "They must follow some common standards."
+       ],
+       "optionsZh": [
+        "它们必须经得起磨损。",
+        "它们必须尺寸相同。",
+        "它们必须由稀有材料制成。",
+        "它们必须遵循一些共同标准。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They must follow some common standards.（它们必须遵循一些共同标准。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Why are dark colors chosen for passport covers?",
+       "options": [
+        "They look more traditional.",
+        "They look more official.",
+        "They are favored by airlines.",
+        "They are easily identifiable."
+       ],
+       "optionsZh": [
+        "它们看起来更传统。",
+        "它们看起来更正式。",
+        "它们受到航空公司的青睐。",
+        "它们容易识别。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They look more official.（它们看起来更正式。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What is one special function of the images inside many passports?",
+       "options": [
+        "For beauty.",
+        "For variety.",
+        "For visibility.",
+        "For security."
+       ],
+       "optionsZh": [
+        "为了美观。",
+        "为了多样性。",
+        "为了可见性。",
+        "为了安全性。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：For security.（为了安全性。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay titled“Is technology making people lazy?”.The statement given below is for your reference. You should write at least 120 words but no more than 180 words . Many studies claim that computers distract people, make them lazy thinkers and even lower their work efficiency.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Is technology making people lazy? My answer is a qualified yes: while technology itself is neutral, the way\nmost of us use it does breed laziness of both mind and body.\nTo begin with, technology encourages mental laziness. When a search engine can answer any question in\nseconds and a navigation app can guide every turn, few people bother to think, memorize or reason on their\nown. Gradually, we outsource our brains and lose the habit of deep thinking. Physical laziness follows the\nsame logic: with delivery apps and online services, many people rarely walk, cook or move, so their bodies\ngrow as idle as their minds.\nAdmittedly, technology can also make us more efficient. Yet the tool is not to blame; our passive dependence\nis. Therefore, the real question is not whether technology makes us lazy, but whether we control it or let it\ncontrol us. Used wisely, it frees us; used blindly, it enslaves us."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Social isolation poses more health risks than obesity or smoking 15 cigarettes a day, according to research published by Brigham Young University. The {{1}} is that loneliness is a huge, if silent, risk factor. Loneliness affects physical health in two ways. First, it produces stress hormones that can lead to many health problems. Second, people who live alone are less likely to go to doctor {{2}} , to exercise or to eat a healthy diet. Public health experts in many countries are {{3}} how to address widespread loneliness in our society. Last year Britain even appointed a minister for loneliness. \"Loneliness {{4}} almost every one of us at some point,\" its minister for loneliness Baroness Barran said. \"It can lead to very serious health {{5}} for individuals who become isolated and disconnected.\" Barran started a \"Let's Talk Loneliness\" campaign that {{6}} difficult conversations across Britain. He is now supporting \" {{7}} benches,\" which are public seating areas where people are encouraged to go and chat with one another. The minister is also {{8}} to stop public transportation from being cut in ways that leave people isolated. More than one-fifth of adults in both the United States and Britain said in a 2018 {{9}} that they often or always feel lonely. More than half of American adults are unmarried, and researchers have found that even among those who are married, 30% of relationships are {{10}} strained. A quarter of Americans now live alone, and as the song says, one is the loneliest number.",
+     "options": [
+      "abruptly",
+      "appointments",
+      "consequences",
+      "debating",
+      "dimensions",
+      "friendly",
+      "hindered",
+      "idiom",
+      "implication",
+      "pushing",
+      "severely",
+      "sparked",
+      "splitting",
+      "survey",
+      "touches"
+     ],
+     "answers": [
+      8,
+      1,
+      3,
+      14,
+      2,
+      11,
+      5,
+      9,
+      13,
+      10
+     ],
+     "blankExplains": [
+      "【定位】The ____ is that loneliness is a huge, if silent, risk factor.\n【依据】答案是 implication：填回后与所在句 loneliness、huge、silent、risk、factor 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Second, people who live alone are less likely to go to doctor ____ , to exercise or to eat a healthy diet.\n【依据】答案是 appointments：填回后与所在句 second、people、who、live、alone、less 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Public health experts in many countries are ____ how to address widespread loneliness in our society.\n【依据】答案是 debating：填回后与所在句 public、health、experts、many、countries、how 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"Loneliness ____ almost every one of us at some point,\" its minister for loneliness Baroness Barran said.\n【依据】答案是 touches：填回后与所在句 loneliness、almost、every、point、minister、loneliness 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"It can lead to very serious health ____ for individuals who become isolated and disconnected.\" Barran started a \"Let's Talk Loneliness\" campaign that  … difficult conversations across Britain.\n【依据】答案是 consequences：填回后与所在句 lead、very、serious、health、individuals、who 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"It can lead to very serious health  … for individuals who become isolated and disconnected.\" Barran started a \"Let's Talk Loneliness\" campaign that ____ difficult conversations across Britain.\n【依据】答案是 sparked：填回后与所在句 lead、very、serious、health、individuals、who 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】He is now supporting \" ____ benches,\" which are public seating areas where people are encouraged to go and chat with one another.\n【依据】答案是 friendly：填回后与所在句 now、supporting、benches、which、public、seating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The minister is also ____ to stop public transportation from being cut in ways that leave people isolated.\n【依据】答案是 pushing：填回后与所在句 minister、stop、public、transportation、cut、ways 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】More than one-fifth of adults in both the United States and Britain said in a 2018 ____ that they often or always feel lonely.\n【依据】答案是 survey：填回后与所在句 one-fifth、adults、both、united、states、britain 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】More than half of American adults are unmarried, and researchers have found that even among those who are married, 30% of relationships are ____ strained.\n【依据】答案是 severely：填回后与所在句 half、american、adults、unmarried、researchers、found 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "The ____ is that loneliness is a huge, if silent, risk factor.",
+       "why": "答案是 implication：填回后与所在句 loneliness、huge、silent、risk、factor 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 implication 这个词性/语义，而不是 idiom）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 implication 这个词性/语义，而不是 abruptly）。"
+       }
+      },
+      {
+       "locate": "Second, people who live alone are less likely to go to doctor ____ , to exercise or to eat a healthy diet.",
+       "why": "答案是 appointments：填回后与所在句 second、people、who、live、alone、less 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 appointments 这个词性/语义，而不是 abruptly）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 appointments 这个词性/语义，而不是 consequences）。"
+       }
+      },
+      {
+       "locate": "Public health experts in many countries are ____ how to address widespread loneliness in our society.",
+       "why": "答案是 debating：填回后与所在句 public、health、experts、many、countries、how 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 debating 这个词性/语义，而不是 dimensions）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 debating 这个词性/语义，而不是 abruptly）。"
+       }
+      },
+      {
+       "locate": "\"Loneliness ____ almost every one of us at some point,\" its minister for loneliness Baroness Barran said.",
+       "why": "答案是 touches：填回后与所在句 loneliness、almost、every、point、minister、loneliness 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 touches 这个词性/语义，而不是 abruptly）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 touches 这个词性/语义，而不是 appointments）。"
+       }
+      },
+      {
+       "locate": "\"It can lead to very serious health ____ for individuals who become isolated and disconnected.\" Barran started a \"Let's Talk Loneliness\" campaign that  … difficult conversations across Britain.",
+       "why": "答案是 consequences：填回后与所在句 lead、very、serious、health、individuals、who 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 consequences 这个词性/语义，而不是 abruptly）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 consequences 这个词性/语义，而不是 appointments）。"
+       }
+      },
+      {
+       "locate": "\"It can lead to very serious health  … for individuals who become isolated and disconnected.\" Barran started a \"Let's Talk Loneliness\" campaign that ____ difficult conversations across Britain.",
+       "why": "答案是 sparked：填回后与所在句 lead、very、serious、health、individuals、who 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 sparked 这个词性/语义，而不是 splitting）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 sparked 这个词性/语义，而不是 severely）。"
+       }
+      },
+      {
+       "locate": "He is now supporting \" ____ benches,\" which are public seating areas where people are encouraged to go and chat with one another.",
+       "why": "答案是 friendly：填回后与所在句 now、supporting、benches、which、public、seating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 friendly 这个词性/语义，而不是 abruptly）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 friendly 这个词性/语义，而不是 appointments）。"
+       }
+      },
+      {
+       "locate": "The minister is also ____ to stop public transportation from being cut in ways that leave people isolated.",
+       "why": "答案是 pushing：填回后与所在句 minister、stop、public、transportation、cut、ways 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pushing 这个词性/语义，而不是 abruptly）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pushing 这个词性/语义，而不是 appointments）。"
+       }
+      },
+      {
+       "locate": "More than one-fifth of adults in both the United States and Britain said in a 2018 ____ that they often or always feel lonely.",
+       "why": "答案是 survey：填回后与所在句 one-fifth、adults、both、united、states、britain 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 survey 这个词性/语义，而不是 severely）。",
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 survey 这个词性/语义，而不是 sparked）。"
+       }
+      },
+      {
+       "locate": "More than half of American adults are unmarried, and researchers have found that even among those who are married, 30% of relationships are ____ strained.",
+       "why": "答案是 severely：填回后与所在句 half、american、adults、unmarried、researchers、found 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 severely 这个词性/语义，而不是 sparked）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 severely 这个词性/语义，而不是 splitting）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Numbers do not exist in all cultures. There are numberless hunter-gatherers in Amazonia, living along branches of the world's largest river tree. Instead of using words for precise quantities, these people rely exclusively on terms similar to \"a few\" or \"some.\" In contrast, our own lives are governed by numbers. As you read this, you are likely aware of what time it is, how old you are, your checking account balance, your weight and so on. The exact numbers we think with impact everything in our lives."
+      },
+      {
+       "id": "B",
+       "text": "But, in a historical sense, number-conscious people like us are the unusual ones. For the bulk of our species' approximately 200,000-year lifespan, we had no means of precisely representing quantities. What's more, the 7,000 or so languages that exist today vary dramatically in how they utilize numbers."
+      },
+      {
+       "id": "C",
+       "text": "Speakers of anumeric, or numberless, languages offer a window into how the invention of numbers reshaped the human experience. Cultures without numbers, or with only one or two precise numbers, include the Munduruku and Piraha in Amazonia. Researchers have also studied some adults in Nicaragua who were never taught number words. Without numbers, healthy human adults struggle to precisely distinguish and recall quantities as low as four. In an experiment, a researcher will place nuts into a can one at a time and then remove them one by one. The person watching is asked to signal when all the nuts have been removed. Responses suggest that anumeric people have some trouble keeping track of how many nuts remain in the can, even if there are only four or five in total."
+      },
+      {
+       "id": "D",
+       "text": "This and many other experiments have led to a simple conclusion: When people do not have number words, they struggle to make quantitative distinctions that probably seem natural to someone like you or me. While only a small portion of the world's languages are anumeric or nearly anumeric, they demonstrate that number words are not a human universal."
+      },
+      {
+       "id": "E",
+       "text": "It is worth stressing that these anumeric people are cognitively(在认知方面) normal, well-adapted to the surroundings they have dominated for centuries. As a child, I spent some time living with anumeric people, the Piraha who live along the banks of the black Maici River. Like other outsiders, I was continually impressed by their superior understanding of the ecology we shared. Yet numberless people struggle with tasks that require precise discrimination between quantities. Perhaps this should be unsurprising. After all, without counting, how can someone tell whether there are, say, seven or eight coconuts(椰子) in a tree? Such seemingly straightforward distinctions become blurry through numberless eyes."
+      },
+      {
+       "id": "F",
+       "text": "This conclusion is echoed by work with anumeric children in industrialized societies. Prior to being spoon-fed number words, children can only approximately discriminate quantities beyond three. We must be handed the cognitive tools of numbers before we can consistently and easily recognize higher quantities. In fact, acquiring the exact meaning of number words is a painstaking process that takes children years. Initially, kids learn numbers much like they learn letters. They recognize that numbers are organized sequentially, but have little awareness of what each individual number means. With time, they start to understand that a given number represents a quantity greater by one than the number coming before it. This \"successor principle\" is part of the foundation of our numerical(数字的) cognition, but requires extensive practice to understand."
+      },
+      {
+       "id": "G",
+       "text": "None of us, then, is really a \"numbers person.\" We are not born to handle quantitative distinctions skillfully. In the absence of the cultural traditions that fill our lives with numbers from infancy, we would all struggle with even basic quantitative distinctions. Number words and their written forms transform our quantitative reasoning as they are introduced into our cognitive experience by our parents, peers and school teachers. The process seems so normal that we sometimes think of it as a natural part of growing up, but it is not. Human brains come equipped with certain quantitative instincts that are refined with age, but these instincts are very limited."
+      },
+      {
+       "id": "H",
+       "text": "Compared with other mammals, our numerical instincts are not as remarkable as many assume. We even share some basic instinctual quantitative reasoning with distant non-mammalian relatives like birds. Indeed, work with some other species suggests they too can refine their quantitative thought if they are introduced to the cognitive power tools we call numbers."
+      },
+      {
+       "id": "I",
+       "text": "So, how did we ever invent \"unnatural\" numbers in the first place? The answer is, literally, at your fingertips. The bulk of the world's languages use base-10, base-20 or base-5 number systems. That is, these smaller numbers are the basis of larger numbers. English is a base-10 or decimal(十进制的) language, as evidenced by words like 14(\"four\" + \"10\") and 31 (\"three\" x \"10\" + \"one\"). We speak a decimal language because an ancestral tongue, proto-Indo-European, was decimally based. Proto-Indo-European was decimally oriented because, as in so many cultures, our ancestors' hands served as the gateway to the realization that \"five fingers on one hand is the same as five fingers on the other.\" Such momentary thoughts were represented in words and passed down across generations. This is why the word \"five\" in many languages is derived from the word for \"hand.\" Most number systems, then, are the by-product of two key factors: the human capacity for language and our inclination for focusing on our hands and fingers. This manual fixation—an indirect by-product of walking upright on two legs—has helped yield numbers in most cultures, but not all."
+      },
+      {
+       "id": "J",
+       "text": "Cultures without numbers also offer insight into the cognitive influence of particular numeric traditions. Consider what time it is. Your day is ruled by minutes and seconds, but these concepts are not real in any physical sense and are nonexistent to numberless people. Minutes and seconds are the verbal and written representations of an uncommon base-60 number system used in ancient Mesopotamia. They reside in our minds, numerical artifacts(人工制品) that not all humans inherit conceptually."
+      },
+      {
+       "id": "K",
+       "text": "Research on the language of numbers shows, more and more, that one of our species' key characteristics is tremendous linguistic(语言的) and cognitive diversity. If we are to truly understand how much our cognitive lives differ cross-culturally, we must continually explore the depths of our species' linguistic diversity."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "It is difficult for anumeric people to keep track of the change in numbers even when the total is very small."
+      },
+      {
+       "id": "s37",
+       "text": "Human numerical instincts are not so superior to those of other mammals as is generally believed."
+      },
+      {
+       "id": "s38",
+       "text": "The author emphasizes being anumeric does not affect one's cognitive ability."
+      },
+      {
+       "id": "s39",
+       "text": "In the long history of mankind, humans who use numbers are a very small minority."
+      },
+      {
+       "id": "s40",
+       "text": "An in-depth study of differences between human languages contributes to a true understanding of cognitive differences between cultures."
+      },
+      {
+       "id": "s41",
+       "text": "A conclusion has been drawn from many experiments that anumeric people have a hard time distinguishing quantities."
+      },
+      {
+       "id": "s42",
+       "text": "Making quantitative distinctions is not an inborn skill."
+      },
+      {
+       "id": "s43",
+       "text": "Every aspect of our lives is affected by numbers."
+      },
+      {
+       "id": "s44",
+       "text": "Larger numbers are said to be built upon smaller numbers."
+      },
+      {
+       "id": "s45",
+       "text": "It takes great efforts for children to grasp the concept of number words."
+      }
+     ],
+     "answers": [
+      "C",
+      "H",
+      "E",
+      "B",
+      "K",
+      "D",
+      "G",
+      "A",
+      "I",
+      "F"
+     ],
+     "statementExplains": [
+      "【定位】Responses suggest that anumeric people have some trouble keeping track of how many nuts remain in the can, even if there are only four or five in total.\n【依据】陈述里的 anumeric、people、track、even、total 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Compared with other mammals, our numerical instincts are not as remarkable as many assume.\n【依据】陈述里的 numerical、instincts、other、mammals 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】It is worth stressing that these anumeric people are cognitively(在认知方面) normal, well-adapted to the surroundings they have dominated for centuries.\n【依据】陈述里的 anumeric、cognitive 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】But, in a historical sense, number-conscious people like us are the unusual ones.\n【依据】陈述里的 history、numbers 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】If we are to truly understand how much our cognitive lives differ cross-culturally, we must continually explore the depths of our species' linguistic diversity.\n【依据】陈述里的 differences、understanding、cognitive、differences 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】This and many other experiments have led to a simple conclusion: When people do not have number words, they struggle to make quantitative distinctions that probably seem natural to someone like you or me.\n【依据】陈述里的 conclusion、many、experiments、people、distinguishing、quantities 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】None of us, then, is really a \"numbers person.\" We are not born to handle quantitative distinctions skillfully.\n【依据】陈述里的 quantitative、distinctions、skill 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】The exact numbers we think with impact everything in our lives.\n【依据】陈述里的 every、lives、numbers 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】That is, these smaller numbers are the basis of larger numbers.\n【依据】陈述里的 larger、numbers、smaller、numbers 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】In fact, acquiring the exact meaning of number words is a painstaking process that takes children years.\n【依据】陈述里的 takes、children、number、words 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Responses suggest that anumeric people have some trouble keeping track of how many nuts remain in the can, even if there are only four or five in total.",
+       "why": "陈述里的 anumeric、people、track、even、total 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Compared with other mammals, our numerical instincts are not as remarkable as many assume.",
+       "why": "陈述里的 numerical、instincts、other、mammals 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It is worth stressing that these anumeric people are cognitively(在认知方面) normal, well-adapted to the surroundings they have dominated for centuries.",
+       "why": "陈述里的 anumeric、cognitive 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But, in a historical sense, number-conscious people like us are the unusual ones.",
+       "why": "陈述里的 history、numbers 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If we are to truly understand how much our cognitive lives differ cross-culturally, we must continually explore the depths of our species' linguistic diversity.",
+       "why": "陈述里的 differences、understanding、cognitive、differences 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This and many other experiments have led to a simple conclusion: When people do not have number words, they struggle to make quantitative distinctions that probably seem natural to someone like you or me.",
+       "why": "陈述里的 conclusion、many、experiments、people、distinguishing、quantities 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "None of us, then, is really a \"numbers person.\" We are not born to handle quantitative distinctions skillfully.",
+       "why": "陈述里的 quantitative、distinctions、skill 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The exact numbers we think with impact everything in our lives.",
+       "why": "陈述里的 every、lives、numbers 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "That is, these smaller numbers are the basis of larger numbers.",
+       "why": "陈述里的 larger、numbers、smaller、numbers 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In fact, acquiring the exact meaning of number words is a painstaking process that takes children years.",
+       "why": "陈述里的 takes、children、number、words 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Sugar shocked. That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from sugar's role in heart disease—and put the spotlight(注意的中心) squarely on dietary fat. What might surprise consumers is just how many present-day nutrition studies are still funded by the food industry. Nutrition scholar Marion Nestle of New York University spent a year informally tracking industry-funded studies on food. \"Roughly 90% of nearly 170 studies favored the sponsor's interest,\" Nestle tells us. Other systematic reviews support her conclusions. For instance, studies funded by Welch Foods—the brand behind Welch's 100% Grape Juice—found that drinking Concord grape juice daily may boost brain function. Another, funded by Quaker Oats, concluded, as a Daily Mail story put it, that \"hot oatmeal(燕麦粥) breakfast keeps you full for longer.\" Last year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink. Coca-Cola also released data detailing its funding of several medical institutions and associations between 2010 and 2015. \"It's certainly a problem that so much research in nutrition and health is funded by industry,\" says Bonnie Liebman, director of nutrition at the Center for Science in the Public Interest. \"When the food industry pays for research, it often gets what it pays for.\" And what it pays for is often a pro-industry finding. Given this environment, consumers should be skeptical(怀疑的) when reading the latest finding in nutrition science and ignore the latest study that pops up on your news feed. \"Rely on health experts who've reviewed all the evidence,\" Liebman says, pointing to the official government Dietary Guidelines, which are based on reviews of hundreds of studies. \"And that expert advice remains pretty simple,\" says Nestle. \"We know what healthy diets are—lots of vegetables, not too much junk food, balanced calories. Everything else is really difficult to do experimentally.\"",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What did Harvard scientists do 50 years ago?",
+       "options": [
+        "They raised public awareness of the possible causes of heart disease.",
+        "They turned public attention away from the health risks of sugar to fat.",
+        "They placed the sugar industry in the spotlight with their new findings.",
+        "They conducted large-scale research on the role of sugar in people's health."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from sugar's role in heart disease—and put the spotlight(注意的中心) squarely on dietary fat.\n【依据】正确项的核心词 away、sugar、fat 与定位句对得上；其余 turned、public、attention、health 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from sugar's role in heart disease—and put the spotlight(注意的中心) squarely on dietary fat.",
+        "why": "正确项的核心词 away、sugar、fat 与定位句对得上；其余 turned、public、attention、health 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「raised、awareness、possible」全文未出现；把原文的「heart、disease」换成了「raised、public、awareness」，主语或对象被调包。",
+         "C": "无中生有：「placed、findings」全文未出现；把原文的「sugar、industry、spotlight」换成了「placed、new、findings」，主语或对象被调包。",
+         "D": "无中生有：「conducted、large-scale、people's」全文未出现；把原文的「research、role、sugar」换成了「conducted、large-scale、people's」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does Marion Nestle say about present-day nutrition studies?",
+       "options": [
+        "They took her a full year to track and analyze.",
+        "Most of them are based on systematic reviews.",
+        "They depend on funding from the food industries.",
+        "Nearly all of them serve the purpose of the funders."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】What might surprise consumers is just how many present-day nutrition studies are still funded by the food industry.\n【依据】正确项的核心词 funders 与定位句对得上；其余 nearly、serve、purpose 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "What might surprise consumers is just how many present-day nutrition studies are still funded by the food industry.",
+        "why": "正确项的核心词 funders 与定位句对得上；其余 nearly、serve、purpose 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「took、track、analyze」全文未出现。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "偷换主体：「depend」全文未出现；把原文的「food、industries」换成了「depend、funding」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What did Coca-Cola-funded studies claim?",
+       "options": [
+        "Exercise is more important to good health than diet.",
+        "Choosing what to eat and drink is key to weight control.",
+        "Drinking Coca-Cola does not contribute to weight gain.",
+        "The food industry plays a major role in fighting obesity."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Another, funded by Quaker Oats, concluded, as a Daily Mail story put it, that \"hot oatmeal(燕麦粥) breakfast keeps you full for longer.\" Last year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink.\n【依据】正确项的核心词 exercise 与定位句对得上；其余 important、good、health、diet 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Another, funded by Quaker Oats, concluded, as a Daily Mail story put it, that \"hot oatmeal(燕麦粥) breakfast keeps you full for longer.\" Last year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink.",
+        "why": "正确项的核心词 exercise 与定位句对得上；其余 important、good、health、diet 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「choosing、key、control」全文未出现；把原文的「what、eat、drink」换成了「choosing、key、control」，主语或对象被调包。",
+         "C": "无中生有：「contribute」全文未出现；把原文的「drinking、coca-cola、weight」换成了「contribute」，主语或对象被调包。",
+         "D": "因果倒置：「plays、major、fighting」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does Liebman say about industry-funded research?",
+       "options": [
+        "It simply focuses on nutrition and health.",
+        "It causes confusion among consumers.",
+        "It rarely results in objective findings.",
+        "It runs counter to the public interest."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】\"When the food industry pays for research, it often gets what it pays for.\" And what it pays for is often a pro-industry finding.\n【依据】正确项的核心词 findings 与定位句对得上；其余 rarely、results、objective 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"When the food industry pays for research, it often gets what it pays for.\" And what it pays for is often a pro-industry finding.",
+        "why": "正确项的核心词 findings 与定位句对得上；其余 rarely、results、objective 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「simply、focuses」全文未出现。",
+         "B": "无中生有：「causes、confusion、among」全文未出现。",
+         "D": "因果倒置：「runs、counter」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What is the author's advice to consumers?",
+       "options": [
+        "Follow their intuition in deciding what to eat.",
+        "Be doubtful of diet experts' recommendations.",
+        "Ignore irrelevant information on their news feed.",
+        "Think twice about new nutrition research findings."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】What might surprise consumers is just how many present-day nutrition studies are still funded by the food industry.\n【依据】正确项的核心词 nutrition 与定位句对得上；其余 think、twice、about、new 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "What might surprise consumers is just how many present-day nutrition studies are still funded by the food industry.",
+        "why": "正确项的核心词 nutrition 与定位句对得上；其余 think、twice、about、new 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「follow、intuition、deciding」全文未出现；把原文的「what」换成了「follow、intuition、deciding」，主语或对象被调包。",
+         "B": "无中生有：「doubtful、diet、experts'」全文未出现。",
+         "C": "因果倒置：「irrelevant、information」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 338 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Success was once defined as being able to stay at a company for a long time and move up the corporate ladder. The goal was to reach the top, accumulate wealth and retire to a life of ease. My father is a successful senior executive. In 35 years, he worked for only three companies. When I started my career, things were already different. If you weren't changing companies every three or four years, you simply weren't getting ahead in your career. But back then, if you were a consultant or freelancer(自由职业者), people would wonder what was wrong with you. They would assume you had problems getting a job. Today, consulting or freelancing for five businesses at the same time is a badge of honor. It shows how valuable an individual is. Many companies now look to these \"ultimate professionals\" to solve problems their full-time teams can't. Or they save money by hiring \"top-tier(顶尖的) experts\" only for particular projects. Working at home or in cafes, starting businesses of their own, and even launching business ventures that eventually may fail, all indicate \"initiative,\" \"creativity,\" and \"adaptability,\" which are desirable qualities in today's workplace. Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients. Who are these people? They are artists, writers, programmers, providers of office services and career advice. What's needed now is a marketplace platform specifically designed to bring freelancers and clients together. Such platforms then become a place to feature the most experienced, professional, and creative talent. This is where they conduct business, where a sense of community reinforces the culture and values of the gig economy(零工经济), and where success is rewarded with good reviews that encourage more business. Slowly but surely, these platforms create a bridge between traditional enterprises and this emerging economy. Perhaps more important, as the global economy continues to be disrupted by technology and other massive change, the gig economy will itself become an engine of economic and social transformation.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author use the example of his father to illustrate?",
+       "options": [
+        "How long people took to reach the top of their career.",
+        "How people accumulated wealth in his father's time.",
+        "How people viewed success in his father's time.",
+        "How long people usually stayed in a company."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】My father is a successful senior executive.\n【依据】正确项的核心词 success、father's 与定位句对得上；其余 how、people、viewed、time 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "My father is a successful senior executive.",
+        "why": "正确项的核心词 success、father's 与定位句对得上；其余 how、people、viewed、time 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「took」全文未出现。",
+         "B": "偷换主体：「accumulated」全文未出现；把原文的「father's」换成了「how、people、accumulated」，主语或对象被调包。",
+         "D": "因果倒置：「usually、stayed」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "Why did people often change jobs when the author started his career?",
+       "options": [
+        "It was considered a fashion at that time.",
+        "It was a way to advance in their career.",
+        "It was a response to the changing job market.",
+        "It was difficult to keep a job for long."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】When I started my career, things were already different.\n【依据】正确项的核心词 career 与定位句对得上；其余 way、advance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When I started my career, things were already different.",
+        "why": "正确项的核心词 career 与定位句对得上；其余 way、advance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「considered、fashion」全文未出现。",
+         "C": "因果倒置：「response、market」全文未出现。",
+         "D": "因果倒置：「difficult、keep」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the author say about people now working for several businesses at the same time?",
+       "options": [
+        "They are often regarded as most treasured talents.",
+        "They are able to bring their potential into fuller play.",
+        "They have control over their life and work schedules.",
+        "They feel proud of being outstanding problem solvers."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 often、regarded、treasured、talents 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 often、regarded、treasured、talents 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「potential、into、fuller」全文未出现；把原文的「play」换成了「able、bring、potential」，主语或对象被调包。",
+         "C": "无中生有：「control、over、schedules」全文未出现；把原文的「work」换成了「control、over、life」，主语或对象被调包。",
+         "D": "无中生有：「feel、proud、outstanding」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What have businesses come to recognize now?",
+       "options": [
+        "Who is capable of solving problems with ease.",
+        "How people can be more focused and productive.",
+        "What kind of people can contribute more to them.",
+        "Why some people are more passionate about work."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients.\n【依据】正确项的核心词 what、people 与定位句对得上；其余 kind、contribute 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients.",
+        "why": "正确项的核心词 what、people 与定位句对得上；其余 kind、contribute 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「capable、solving」全文未出现；把原文的「who」换成了「capable、solving、problems」，主语或对象被调包。",
+         "B": "偷换主体：把原文的「people、focused、productive」换成了「how」，主语或对象被调包。",
+         "D": "无中生有：「why」全文未出现；把原文的「people、passionate、about」换成了「why」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author say about the gig economy?",
+       "options": [
+        "It may force companies to reform their business practice.",
+        "It may soon replace the traditional economic model.",
+        "It will drive technological progress on a global scale.",
+        "It will bring about radical economic and social changes."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Perhaps more important, as the global economy continues to be disrupted by technology and other massive change, the gig economy will itself become an engine of economic and social transformation.\n【依据】正确项的核心词 economic、social、changes 与定位句对得上；其余 bring、about、radical 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Perhaps more important, as the global economy continues to be disrupted by technology and other massive change, the gig economy will itself become an engine of economic and social transformation.",
+        "why": "正确项的核心词 economic、social、changes 与定位句对得上；其余 bring、about、radical 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「force、reform、practice」全文未出现。",
+         "B": "无中生有：「soon、replace、model」全文未出现；把原文的「economic」换成了「soon、replace、traditional」，主语或对象被调包。",
+         "C": "无中生有：「drive、progress、scale」全文未出现；把原文的「technological、global」换成了「drive、progress、scale」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 347 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "普洱'茶深受中国人喜爱。最好的普洱茶产自云南的西双版纳，那里的气候和环境为普洱茶树的生长提供了最佳条件。普洱茶颜色较深味道与其他许多茶截然不同。普洱茶泡的时间越长越有味道。许多爱喝茶的人尤其喜欢其独特的香味和口感。普洱茶含有多种有益健康的元素常饮普洱茶有助于保护心脏和血管还有减肥、消除疲劳和促进消化的功效。",
+     "reference": "Pu'er tea (also known as Pur'er tea) is deeply loved by the Chinese people. The best Pu'er tea comes from Xishuangbanna in Yunnan Province, where the climate and environment provide the ideal conditions for the growth of Pu'er tea trees. Pu'er tea has a darker color and a taste that is quite different from that of many other teas The longer Pu'er tea is brewed, the more flavorful it becomes. Many tea lovers especially enjoy its unique aroma and taste Pu'er tea contains many elements beneficial to health. Drinking it regularly helps protect the heart and blood vessels, and also helps lose weight, relieve fatigue and promote digestion",
+     "keyPoints": [
+      "Pu'er tea (also known as Pur'er tea) is deeply loved by the Chinese people.",
+      "The best Pu'er tea comes from Xishuangbanna in Yunnan Province, where the climate and environment provide the ideal conditions for the growth of Pu'er tea trees.",
+      "Pu'er tea has a darker color and a taste that is quite different from that of many other teas The longer Pu'er tea is brewed, the more flavorful it becomes.",
+      "Many tea lovers especially enjoy its unique aroma and taste Pu'er tea contains many elements beneficial to health.",
+      "Drinking it regularly helps protect the heart and blood vessels, and also helps lose weight, relieve fatigue and promote digestion"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

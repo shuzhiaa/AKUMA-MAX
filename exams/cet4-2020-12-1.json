@@ -1,0 +1,1166 @@
+{
+ "id": "cet4-2020-12-1",
+ "levelId": "cet4",
+ "title": "四级 2020 年 12 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2020年12月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2020-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2020-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "科学家警告称，一种毒刺强度足以致人死亡的有毒鱼类正在入侵地中海"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 我也很高兴见到你"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 嗯，我来这儿是想向您展示我们公司能为您做些什么"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 谢谢你，Houston女士"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 我们为企业提供各方面的建议"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 好的，当然。这是我祖父在1950年创办的家族企业"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 我明白了。这很有意思"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 实际上出乎意料地便宜"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 太好了。如果你不介意的话"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What is reported in the news?",
+       "options": [
+        "Many people have been attacked by Devil Firefish.",
+        "The Mediterranean is a natural habitat of Devil Firefish.",
+        "Invasive species are driving away certain native species.",
+        "A deadly fish has been spotted in the Mediterranean waters."
+       ],
+       "optionsZh": [
+        "许多人遭到魔鬼火鱼的攻击。",
+        "地中海是魔鬼火鱼的天然栖息地。",
+        "入侵物种正在驱逐某些本地物种。",
+        "地中海水域发现了一种致命鱼类。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：A deadly fish has been spotted in the Mediterranean waters.（地中海水域发现了一种致命鱼类。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What is the environmentalist concerned about the spread of Devil Firefish in the Mediterranean?",
+       "options": [
+        "It could badly pollute the surrounding waters.",
+        "It could pose a threat to other marine species.",
+        "It could disrupt the food chains there.",
+        "It could add to greenhouse emissions."
+       ],
+       "optionsZh": [
+        "它可能严重污染周围水域。",
+        "它可能对其他海洋物种构成威胁。",
+        "它可能破坏那里的食物链。",
+        "它可能增加温室气体排放。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It could pose a threat to other marine species.（它可能对其他海洋物种构成威胁。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What will happen on World Car-Free Day in Paris?",
+       "options": [
+        "Cars will not be allowed to enter the city.",
+        "Pedestrians will have free access to the city.",
+        "About half of its city center will be closed to cars.",
+        "Buses will be the only vehicles allowed on its streets."
+       ],
+       "optionsZh": [
+        "汽车将不被允许进入该城市。",
+        "行人将可以免费进入该城市。",
+        "该城市约一半的市中心将对汽车关闭。",
+        "公共汽车将是其街道上唯一允许通行的车辆。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：About half of its city center will be closed to cars.（该城市约一半的市中心将对汽车关闭。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What motivated the mayor of Paris to promote the first World Car-Free Day in her city?",
+       "options": [
+        "The unbearable traffic noise.",
+        "The worsening global warming.",
+        "The ever-growing cost of petrol.",
+        "The rising air pollution in Paris."
+       ],
+       "optionsZh": [
+        "难以忍受的交通噪音。",
+        "日益恶化的全球变暖。",
+        "不断增长的汽油成本。",
+        "巴黎不断上升的空气污染。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The rising air pollution in Paris.（巴黎不断上升的空气污染。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What happened to the Philippine fisherman one day?",
+       "options": [
+        "His house was burnt down in a fire.",
+        "Many of his possessions were stolen.",
+        "His good luck charm sank into the sea.",
+        "His fishing boat got wrecked on a rock."
+       ],
+       "optionsZh": [
+        "他的房子在一场火灾中被烧毁了。",
+        "他的许多财物被盗了。",
+        "他的幸运符沉入了海里。",
+        "他的渔船在一块岩石上失事了。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：His house was burnt down in a fire.（他的房子在一场火灾中被烧毁了。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What was the fisherman forced to do?",
+       "options": [
+        "Change his fishing locations.",
+        "Find a job in a travel agency.",
+        "Sell the pearl he had kept for years.",
+        "Spend a few nights on a small island."
+       ],
+       "optionsZh": [
+        "改变他的捕鱼地点。",
+        "在一家旅行社找一份工作。",
+        "出售他保存多年的珍珠。",
+        "在一个小岛上度过几个晚上。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Sell the pearl he had kept for years.（出售他保存多年的珍珠。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What did the fisherman learn from the tourist agent?",
+       "options": [
+        "His pearl could be displayed in a museum.",
+        "His monstrous pearl was extremely valuable.",
+        "The largest pearl in the world weighs 14 pounds.",
+        "A New York museum has the world's biggest pearl."
+       ],
+       "optionsZh": [
+        "他的珍珠可以在博物馆展出。",
+        "他的巨型珍珠极其珍贵。",
+        "世界上最大的珍珠重14磅。",
+        "纽约的一家博物馆拥有世界上最大的珍珠。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：His monstrous pearl was extremely valuable.（他的巨型珍珠极其珍贵。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What do we learn about the woman's company?",
+       "options": [
+        "It boasts a fairly long history.",
+        "It has over 50 business partners.",
+        "It has 75 offices around the world.",
+        "It produces construction materials."
+       ],
+       "optionsZh": [
+        "它拥有相当悠久的历史。",
+        "它有超过50个业务合作伙伴。",
+        "它在全球有75个办事处。",
+        "它生产建筑材料。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It boasts a fairly long history.（它拥有相当悠久的历史。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the man say about his own company?",
+       "options": [
+        "It was started by his father.",
+        "It has about 50 employees.",
+        "It is over 100 years old.",
+        "It is a family business."
+       ],
+       "optionsZh": [
+        "它是由他父亲创办的。",
+        "它有大约50名员工。",
+        "它已有100多年的历史。",
+        "它是一家家族企业。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is a family business.（它是一家家族企业。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What is the main problem with the man's company?",
+       "options": [
+        "Outdated product design.",
+        "Loss of competitive edge.",
+        "Shortage of raw material supply.",
+        "Legal disputes in many countries."
+       ],
+       "optionsZh": [
+        "产品设计过时。",
+        "丧失竞争优势。",
+        "原材料供应短缺。",
+        "在许多国家存在法律纠纷。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Loss of competitive edge.（丧失竞争优势。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the woman suggest doing to help the man's company?",
+       "options": [
+        "Introducing innovative marketing strategies.",
+        "Seeking new ways to increase its exports.",
+        "Providing training for its staff members.",
+        "Conducting a financial analysis for it."
+       ],
+       "optionsZh": [
+        "引入创新的营销策略。",
+        "寻求新的方式来增加出口。",
+        "为其员工提供培训。",
+        "为其进行财务分析。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Conducting a financial analysis for it.（为其进行财务分析。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What do we learn about the woman from the conversation?",
+       "options": [
+        "She is a real expert at house decorations.",
+        "She is really impressed by the man's house.",
+        "She is well informed about the design business.",
+        "She is attracted by the color of the sitting room."
+       ],
+       "optionsZh": [
+        "她是房屋装饰方面的真正专家。",
+        "她对这位男士的房子印象深刻。",
+        "她对设计行业非常了解。",
+        "她被起居室的颜色所吸引。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She is really impressed by the man's house.（她对这位男士的房子印象深刻。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "Where did the man get his ideas for the project?",
+       "options": [
+        "From a construction businessman.",
+        "From his younger brother Greg.",
+        "From home design magazines.",
+        "From a professional interior designer."
+       ],
+       "optionsZh": [
+        "从一位建筑商人那里。",
+        "从他的弟弟Greg那里。",
+        "从家居设计杂志上。",
+        "从一位专业室内设计师那里。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：From home design magazines.（从家居设计杂志上。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What did the man say about the project he recently completed?",
+       "options": [
+        "The cost was affordable.",
+        "The style was fashionable.",
+        "The effort was worthwhile.",
+        "The effect was unexpected."
+       ],
+       "optionsZh": [
+        "费用是可以承受的。",
+        "风格是时尚的。",
+        "付出的努力是值得的。",
+        "效果是出乎意料的。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The cost was affordable.（费用是可以承受的。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "Why does the woman invite the man to her house next week?",
+       "options": [
+        "She'd like him to talk with Jonathan about a new project.",
+        "She'd like to show him around her newly-renovated house.",
+        "She wants to discuss the house decoration budget with him.",
+        "She wants him to share his renovation experience with her."
+       ],
+       "optionsZh": [
+        "她想让他和Jonathan谈谈一个新项目。",
+        "她想带他参观她新装修的房子。",
+        "她想和他讨论房屋装修预算。",
+        "她想让他分享他的装修经验。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She wants him to share his renovation experience with her.（她想让他分享他的装修经验。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does England spend an annual three million pounds on?",
+       "options": [
+        "Paying hospital bills for emergency cases.",
+        "Doing research on ear, nose and throat diseases.",
+        "Removing objects from patients' noses and ears.",
+        "Providing routine care for small children."
+       ],
+       "optionsZh": [
+        "支付急诊病例的住院费用。",
+        "研究耳鼻喉疾病。",
+        "从患者的鼻子和耳朵中取出异物。",
+        "为幼儿提供常规护理。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Removing objects from patients' noses and ears.（从患者的鼻子和耳朵中取出异物。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What do we learn from England's Hospital Episode Statistics?",
+       "options": [
+        "Children aged one to four are often more curious than older children.",
+        "Five- to nine-year-olds are the most likely to put things in their ears.",
+        "Many children like to put foreign objects in their mouths.",
+        "Many children like to smell things they find or play with."
+       ],
+       "optionsZh": [
+        "一到四岁的儿童往往比年龄较大的儿童更有好奇心。",
+        "五到九岁的儿童最有可能把东西塞进耳朵里。",
+        "许多儿童喜欢把异物放进嘴里。",
+        "许多儿童喜欢闻他们找到或玩耍的东西。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Five- to nine-year-olds are the most likely to put things in their ears.（五到九岁的儿童最有可能把东西塞进耳朵里。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What is generally believed to account for children putting things in their ears or noses?",
+       "options": [
+        "They want to attract attention.",
+        "They tend to act out of impulse.",
+        "They are unaware of the potential risks.",
+        "They are curious about these body parts."
+       ],
+       "optionsZh": [
+        "他们想吸引注意力。",
+        "他们往往出于冲动行事。",
+        "他们没有意识到潜在的风险。",
+        "他们对这些身体部位感到好奇。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are curious about these body parts.（他们对这些身体部位感到好奇。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What did ReBicycle do to help Leila Rahimi?",
+       "options": [
+        "It gave her a used bicycle.",
+        "It paid for her English lessons.",
+        "It delivered her daily necessities.",
+        "It provided her with physical therapy."
+       ],
+       "optionsZh": [
+        "它给了她一辆二手自行车。",
+        "它支付了她的英语课程费用。",
+        "它配送了她的日常生活必需品。",
+        "它为她提供了物理治疗。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It gave her a used bicycle.（它给了她一辆二手自行车。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What is ReBicycle doing to help those in need?",
+       "options": [
+        "Expanding bike-riding lessons.",
+        "Providing free public transport.",
+        "Offering walking tours to visitors.",
+        "Asking local people for donations."
+       ],
+       "optionsZh": [
+        "扩大自行车骑行课程。",
+        "提供免费公共交通。",
+        "为游客提供步行游览。",
+        "向当地居民募捐。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Expanding bike-riding lessons.（扩大自行车骑行课程。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do we learn from the passage about ReBicycle?",
+       "options": [
+        "It is a sports club.",
+        "It is a language school.",
+        "It is a counseling center.",
+        "It is a charity organization."
+       ],
+       "optionsZh": [
+        "它是一个体育俱乐部。",
+        "它是一所语言学校。",
+        "它是一个咨询中心。",
+        "它是一个慈善组织。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is a charity organization.（它是一个慈善组织。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do NASA scientists want to learn about?",
+       "options": [
+        "How animals deal with lack of gravity.",
+        "How mice interact in a new environment.",
+        "How low gravity affects the human body.",
+        "How mice imitate human behavior in space."
+       ],
+       "optionsZh": [
+        "动物如何应对失重状态。",
+        "小鼠如何在新环境中互动。",
+        "低重力如何影响人体。",
+        "小鼠如何在太空中模仿人类行为。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：How animals deal with lack of gravity.（动物如何应对失重状态。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What does the passage say about the mice at the beginning of the experiment?",
+       "options": [
+        "They found the space in the cage too small to stay in.",
+        "They found it difficult to figure out where they were.",
+        "They were not used to the low-gravity environment.",
+        "They were not sensitive to the changed environment."
+       ],
+       "optionsZh": [
+        "它们发现笼子里的空间太小而无法待在里面。",
+        "它们发现很难弄清楚自己在哪里。",
+        "它们不适应低重力环境。",
+        "它们对改变的环境不敏感。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They were not used to the low-gravity environment.（它们不适应低重力环境。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What was observed about the mice on the eleventh day of the experiment?",
+       "options": [
+        "They continued to behave as they did in the beginning.",
+        "They already felt at home in the new environment.",
+        "They had found a lot more activities to engage in.",
+        "They tried everything possible to escape from the cage."
+       ],
+       "optionsZh": [
+        "它们继续像开始时那样行动。",
+        "它们已经在新环境中感到自在了。",
+        "它们找到了更多可以参与的活动。",
+        "它们尝试了一切可能的方法逃离笼子。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They already felt at home in the new environment.（它们已经在新环境中感到自在了。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What did the scientists find about the mice from the experiment?",
+       "options": [
+        "They changed their routines in space.",
+        "They began to eat less after some time.",
+        "They behaved as if they were on Earth.",
+        "They repeated their activities every day."
+       ],
+       "optionsZh": [
+        "它们在太空中改变了自己的日常习惯。",
+        "它们一段时间后开始吃得更少。",
+        "它们的行为表现得就像在地球上一样。",
+        "它们每天重复自己的活动。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They behaved as if they were on Earth.（它们的行为表现得就像在地球上一样。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part,you are allowed 30 minutes to write on the topic Changes in the Way of Education.You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Education is undergoing a profound transformation. Not long ago, learning meant sitting in a fixed classroom\nand listening to a teacher; today it is being reshaped by technology into something far more flexible and\npersonal. In my view, these changes make education more open and effective than ever before.\nThe clearest sign of this shift is the rise of online and blended learning. During and after the pandemic, millions\nof students turned to video lectures and learning apps, so that a lesson could be paused, replayed and studied at\none's own pace. Meanwhile, artificial intelligence now recommends exercises based on each learner's weak\npoints, transforming a one-size-fits-all lecture into tailored guidance. These tools break the old limits of time\nand place and let knowledge reach anyone with a phone.\nAdmittedly, no screen can fully replace a caring teacher. Yet the direction is clear: education is moving from\nrigid instruction toward flexible, learner-centred study. If we embrace these tools wisely, learning will become\nboth wider in reach and deeper in quality."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Trust is fundamental to life. If you can't trust anything, life becomes intolerable. You can't have relationships without trust, let alone good ones. In the workplace, too, trust is {{1}} . An organization without trust will be full of fear and {{2}} . If you work for a boss who doesn't trust their employees to do things right, you'll have a {{3}} time. They'll be checking up on you all the time, correcting \"mistakes\" and {{4}} reminding you to do this or that. Colleagues who don't trust one another will need to spend more time {{5}} their backs than doing any useful work. Organizations are always trying to cut costs. Think of all the additional tasks caused by lack of trust. Audit(审计) departments only exist because of it. Companies keep large volumes of {{6}} because they don't trust their suppliers, their contractors or their customers. Probably more than half of all administrative work is only there because of an ever-existing sense that \"you can't trust anyone these days.\" If even a small part of such valueless work could be {{7}} , the savings would run into millions of dollars. All this is extra work we {{8}} onto ourselves because we don't trust people—the checking, following through, doing things ourselves because we don't believe others will do them {{9}} —or at all. If we took all that away, how much extra time would we suddenly find in our life? How much of our work {{10}} would disappear?",
+     "options": [
+      "constantly",
+      "credible",
+      "essential",
+      "exploring",
+      "gather",
+      "load",
+      "miserable",
+      "pressure",
+      "properly",
+      "records",
+      "removed",
+      "stacks",
+      "suspicion",
+      "tracked",
+      "watching"
+     ],
+     "answers": [
+      2,
+      12,
+      6,
+      0,
+      14,
+      9,
+      10,
+      5,
+      8,
+      7
+     ],
+     "blankExplains": [
+      "【定位】In the workplace, too, trust is ____ .\n【依据】答案是 essential：填回后与所在句 workplace、too、trust 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】An organization without trust will be full of fear and ____ .\n【依据】答案是 suspicion：填回后与所在句 organization、without、trust、full、fear 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If you work for a boss who doesn't trust their employees to do things right, you'll have a ____ time.\n【依据】答案是 miserable：填回后与所在句 work、boss、who、doesn't、trust、employees 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】They'll be checking up on you all the time, correcting \"mistakes\" and ____ reminding you to do this or that.\n【依据】答案是 constantly：填回后与所在句 they'll、checking、time、correcting、mistakes、reminding 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Colleagues who don't trust one another will need to spend more time ____ their backs than doing any useful work.\n【依据】答案是 watching：填回后与所在句 colleagues、who、don't、trust、another、need 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Companies keep large volumes of ____ because they don't trust their suppliers, their contractors or their customers.\n【依据】答案是 records：填回后与所在句 companies、keep、large、volumes、because、don't 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Probably more than half of all administrative work is only there because of an ever-existing sense that \"you can't trust anyone these days.\" If even a small part of such valueless work could be ____ , the savings would run into millions of dollars.\n【依据】答案是 removed：填回后与所在句 probably、half、administrative、work、only、there 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】All this is extra work we ____ onto ourselves because we don't trust people—the checking, following through, doing things ourselves because we don't believe others will do them  … —or at all.\n【依据】答案是 load：填回后与所在句 extra、work、onto、ourselves、because、don't 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】All this is extra work we  … onto ourselves because we don't trust people—the checking, following through, doing things ourselves because we don't believe others will do them ____ —or at all.\n【依据】答案是 properly：填回后与所在句 extra、work、onto、ourselves、because、don't 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】How much of our work ____ would disappear?\n【依据】答案是 pressure：填回后与所在句 how、much、work、disappear 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "In the workplace, too, trust is ____ .",
+       "why": "答案是 essential：填回后与所在句 workplace、too、trust 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 essential 这个词性/语义，而不是 exploring）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 essential 这个词性/语义，而不是 constantly）。"
+       }
+      },
+      {
+       "locate": "An organization without trust will be full of fear and ____ .",
+       "why": "答案是 suspicion：填回后与所在句 organization、without、trust、full、fear 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 suspicion 这个词性/语义，而不是 stacks）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 suspicion 这个词性/语义，而不是 constantly）。"
+       }
+      },
+      {
+       "locate": "If you work for a boss who doesn't trust their employees to do things right, you'll have a ____ time.",
+       "why": "答案是 miserable：填回后与所在句 work、boss、who、doesn't、trust、employees 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 miserable 这个词性/语义，而不是 constantly）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 miserable 这个词性/语义，而不是 credible）。"
+       }
+      },
+      {
+       "locate": "They'll be checking up on you all the time, correcting \"mistakes\" and ____ reminding you to do this or that.",
+       "why": "答案是 constantly：填回后与所在句 they'll、checking、time、correcting、mistakes、reminding 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 constantly 这个词性/语义，而不是 credible）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 constantly 这个词性/语义，而不是 essential）。"
+       }
+      },
+      {
+       "locate": "Colleagues who don't trust one another will need to spend more time ____ their backs than doing any useful work.",
+       "why": "答案是 watching：填回后与所在句 colleagues、who、don't、trust、another、need 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 watching 这个词性/语义，而不是 constantly）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 watching 这个词性/语义，而不是 credible）。"
+       }
+      },
+      {
+       "locate": "Companies keep large volumes of ____ because they don't trust their suppliers, their contractors or their customers.",
+       "why": "答案是 records：填回后与所在句 companies、keep、large、volumes、because、don't 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 records 这个词性/语义，而不是 removed）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 records 这个词性/语义，而不是 constantly）。"
+       }
+      },
+      {
+       "locate": "Probably more than half of all administrative work is only there because of an ever-existing sense that \"you can't trust anyone these days.\" If even a small part of such valueless work could be ____ , the savings would run into millions of dollars.",
+       "why": "答案是 removed：填回后与所在句 probably、half、administrative、work、only、there 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 removed 这个词性/语义，而不是 records）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 removed 这个词性/语义，而不是 constantly）。"
+       }
+      },
+      {
+       "locate": "All this is extra work we ____ onto ourselves because we don't trust people—the checking, following through, doing things ourselves because we don't believe others will do them  … —or at all.",
+       "why": "答案是 load：填回后与所在句 extra、work、onto、ourselves、because、don't 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 load 这个词性/语义，而不是 constantly）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 load 这个词性/语义，而不是 credible）。"
+       }
+      },
+      {
+       "locate": "All this is extra work we  … onto ourselves because we don't trust people—the checking, following through, doing things ourselves because we don't believe others will do them ____ —or at all.",
+       "why": "答案是 properly：填回后与所在句 extra、work、onto、ourselves、because、don't 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 properly 这个词性/语义，而不是 pressure）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 properly 这个词性/语义，而不是 constantly）。"
+       }
+      },
+      {
+       "locate": "How much of our work ____ would disappear?",
+       "why": "答案是 pressure：填回后与所在句 how、much、work、disappear 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pressure 这个词性/语义，而不是 properly）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pressure 这个词性/语义，而不是 constantly）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "This is the land of opportunity. If that weren't already implied by the landscape—rolling green hills, palm trees, sun-kissed flowers—then it's evident in the many stories of people who grew up poor in these sleepy neighborhoods and rose to enormous success. People like Tri Tran, who fled Vietnam on a boat in 1986, showed up in San Jose with nothing, made it to MIT, and then founded the food-delivery start-up Munchery, which is valued at $300 million."
+      },
+      {
+       "id": "B",
+       "text": "Indeed, data suggests that this is one of the best places to grow up poor in America. A child born in the early 1980s into a low-income family in San Jose had a 12.9 percent chance of becoming a high earner as an adult, according to a landmark study released in 2014 by the economist Raj Chetty and his colleagues from Harvard and Berkeley. That number—12.9 percent—may not seem remarkable, but it was: Kids in San Jose whose families fell in the bottom quintile(五分位数) of income nationally had the best shot in the country at reaching the top quintile."
+      },
+      {
+       "id": "C",
+       "text": "By contrast, just 4.4 percent of poor kids in Charlotte moved up to the top; in Detroit the figure was 5.5 percent. San Jose had social mobility comparable to Denmark's and Canada's and higher than other progressive cities such as Boston and Minneapolis."
+      },
+      {
+       "id": "D",
+       "text": "The reasons kids in San Jose performed so well might seem obvious. Some of the world's most innovative companies are located here, providing opportunities such as the one seized by a 12-year-old Mountain View resident named Steve Jobs when he called William Hewlett to ask for spare parts and subsequently received a summer job. This is a city of immigrants—38 percent of the city's population today is foreign-born—and immigrants and their children have historically experienced significant upward mobility in America. The city has long had a large foreign-born population (26.5 percent in 1990), leading to broader diversity, which, the Harvard and Berkeley economists say, is a good predictor of mobility."
+      },
+      {
+       "id": "E",
+       "text": "Indeed, the streets of San Jose seem, in some ways, to embody the best of America. It's possible to drive in a matter of minutes from sleek(光亮的) office towers near the airport where people pitch ideas to investors, to single-family homes with orange trees in their yards, or to a Vietnamese mall. The libraries here offer programs in 17 languages, and there are areas filled with small businesses owned by Vietnamese immigrants, Mexican immigrants, Korean immigrants, and Filipino immigrants, to name a few."
+      },
+      {
+       "id": "F",
+       "text": "But researchers aren't sure exactly why poor kids in San Jose did so well. The city has a low prevalence of children growing up in single-parent families, and a low level of concentrated poverty, both factors that usually mean a city allows for good intergenerational mobility. But San Jose also performs poorly on some of the measures correlated with good mobility. It is one of the most unequal places out of the 741 that the researchers measured, and it has high degrees of racial and economic segregation(隔离). Its schools underperform based on how much money there is in the area, said Ben Scuderi, a predoctoral fellow at the Equality of Opportunity Project at Harvard, which uses big data to study how to improve economic opportunities for low-income children. \"There's a lot going on here which we don't totally understand,\" he said. \"It's interesting, because it kind of defies our expectations.\""
+      },
+      {
+       "id": "G",
+       "text": "The Chetty data shows that neighborhoods and places mattered for children born in the San Jose area of the 1980s. Whether the city still allows for upward mobility of poor kids today, though, is up for debate. Some of the indicators such as income inequality, measured by the Equality of Opportunity Project for the year 2000, have only worsened in the past 16 years."
+      },
+      {
+       "id": "H",
+       "text": "Some San Jose residents say that as inequality has grown in recent years, upward mobility has become much more difficult to achieve. As Silicon Valley has become home to more successful companies, the flood of people to the area has caused housing prices to skyrocket. By most measures, San Jose is no longer a place where low-income, or even middle-income families, can afford to live. Rents in San Jose grew 42.6 percent between 2006 and 2014, which was the largest increase in the country during that time period. The city has a growing homelessness problem, which it tried to address by shutting down \"The Jungle,\" one of the largest homeless encampments(临时住地) in the nation, in 2014. Inequality is extreme. The Human Development Index—a measure of life expectancy, education and per capita(人均的) income—gives East San Jose a score of 4.85 out of 10, while nearby Cupertino, where Apple's headquarters sits, receives a 9.26. San Jose used to have a happy mix of factors—cheap housing, closeness to a rapidly developing industry, tightly-knit immigrant communities—that together opened up the possibility of prosperity for even its poorest residents. But in recent years, housing prices have skyrocketed, the region's rich and poor have segregated, and middle-class jobs have disappeared. Given this, the future for the region's poor doesn't look nearly as bright as it once did."
+      },
+      {
+       "id": "I",
+       "text": "Leaders in San Jose are determined to make sure that the city regains its status as a place where even poor kids can access the resources to succeed. With Silicon Valley in its backyard, it certainly has the chance to do so. \"I think there is a broad consciousness in the Valley that we can do better than to leave thousands of our neighbors behind through a period of extraordinary success,\" San Jose Mayor Sam Liccardo said."
+      },
+      {
+       "id": "J",
+       "text": "But in today's America—a land of rising inequality, increasing segregation, and stagnating(不增长的) middle-class wages—can the San Jose region really once again become a place of opportunity?"
+      },
+      {
+       "id": "K",
+       "text": "The idea that those at the bottom can rise to the top is central to America's ideas about itself. That such mobility has become more difficult in San Jose raises questions about the endurance of that foundational belief. After all, if the one-time land of opportunity can't be fixed, what does that say for the rest of America?"
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "According to some people living in San Jose, it has become much harder for the poor to get ahead due to the increased inequality."
+      },
+      {
+       "id": "s37",
+       "text": "In American history, immigrants used to have a good chance to move upward in society."
+      },
+      {
+       "id": "s38",
+       "text": "If the problems of San Jose can't be solved, one of America's fundamental beliefs about itself can be shaken."
+      },
+      {
+       "id": "s39",
+       "text": "San Jose was among the best cities in America for poor kids to move up the social ladder."
+      },
+      {
+       "id": "s40",
+       "text": "Whether poor kids in San Jose today still have the chance to move upward is questionable."
+      },
+      {
+       "id": "s41",
+       "text": "San Jose's officials are resolved to give poor kids access to the resources necessary for success in life."
+      },
+      {
+       "id": "s42",
+       "text": "San Jose appears to manifest some of the best features of America."
+      },
+      {
+       "id": "s43",
+       "text": "As far as social mobility is concerned, San Jose beat many other progressive cities in America."
+      },
+      {
+       "id": "s44",
+       "text": "Due to some changes like increases in housing prices in San Jose, the prospects for its poor people have dimmed."
+      },
+      {
+       "id": "s45",
+       "text": "Researchers do not have a clear idea why poor children in San Jose achieved such great success several decades ago."
+      }
+     ],
+     "answers": [
+      "H",
+      "D",
+      "K",
+      "B",
+      "G",
+      "I",
+      "E",
+      "C",
+      "H",
+      "F"
+     ],
+     "statementExplains": [
+      "【定位】Some San Jose residents say that as inequality has grown in recent years, upward mobility has become much more difficult to achieve.\n【依据】陈述里的 san、jose、become、much、inequality 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】This is a city of immigrants—38 percent of the city's population today is foreign-born—and immigrants and their children have historically experienced significant upward mobility in America.\n【依据】陈述里的 american、history、immigrants、upward 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】That such mobility has become more difficult in San Jose raises questions about the endurance of that foundational belief.\n【依据】陈述里的 san、jose、beliefs、about 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】That number—12.9 percent—may not seem remarkable, but it was: Kids in San Jose whose families fell in the bottom quintile(五分位数) of income nationally had the best shot in the country at reaching the top quintile.\n【依据】陈述里的 san、jose、best、kids 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Whether the city still allows for upward mobility of poor kids today, though, is up for debate.\n【依据】陈述里的 whether、poor、kids、today、still、upward 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】Leaders in San Jose are determined to make sure that the city regains its status as a place where even poor kids can access the resources to succeed.\n【依据】陈述里的 san、poor、kids、access、resources、success 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Indeed, the streets of San Jose seem, in some ways, to embody the best of America.\n【依据】陈述里的 san、jose、best、america 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】San Jose had social mobility comparable to Denmark's and Canada's and higher than other progressive cities such as Boston and Minneapolis.\n【依据】陈述里的 social、mobility、san、jose、other、progressive 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】San Jose used to have a happy mix of factors—cheap housing, closeness to a rapidly developing industry, tightly-knit immigrant communities—that together opened up the possibility of prosperity for even its poorest residents.\n【依据】陈述里的 housing、san、jose、prospects 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】But researchers aren't sure exactly why poor kids in San Jose did so well.\n【依据】陈述里的 researchers、why、poor、san、jose 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Some San Jose residents say that as inequality has grown in recent years, upward mobility has become much more difficult to achieve.",
+       "why": "陈述里的 san、jose、become、much、inequality 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This is a city of immigrants—38 percent of the city's population today is foreign-born—and immigrants and their children have historically experienced significant upward mobility in America.",
+       "why": "陈述里的 american、history、immigrants、upward 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "That such mobility has become more difficult in San Jose raises questions about the endurance of that foundational belief.",
+       "why": "陈述里的 san、jose、beliefs、about 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "That number—12.9 percent—may not seem remarkable, but it was: Kids in San Jose whose families fell in the bottom quintile(五分位数) of income nationally had the best shot in the country at reaching the top quintile.",
+       "why": "陈述里的 san、jose、best、kids 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Whether the city still allows for upward mobility of poor kids today, though, is up for debate.",
+       "why": "陈述里的 whether、poor、kids、today、still、upward 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Leaders in San Jose are determined to make sure that the city regains its status as a place where even poor kids can access the resources to succeed.",
+       "why": "陈述里的 san、poor、kids、access、resources、success 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Indeed, the streets of San Jose seem, in some ways, to embody the best of America.",
+       "why": "陈述里的 san、jose、best、america 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "San Jose had social mobility comparable to Denmark's and Canada's and higher than other progressive cities such as Boston and Minneapolis.",
+       "why": "陈述里的 social、mobility、san、jose、other、progressive 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "San Jose used to have a happy mix of factors—cheap housing, closeness to a rapidly developing industry, tightly-knit immigrant communities—that together opened up the possibility of prosperity for even its poorest residents.",
+       "why": "陈述里的 housing、san、jose、prospects 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But researchers aren't sure exactly why poor kids in San Jose did so well.",
+       "why": "陈述里的 researchers、why、poor、san、jose 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Three children in every classroom have a diagnosable mental health condition. Half of these are behavioural disorders, while one third are emotional disorders such as stress, anxiety and depression, which often become outwardly apparent through self-harm. There was an astonishing 52 percent jump in hospital admissions for children and young people who had harmed themselves between 2009 and 2015. Schools and teachers have consistently reported the scale of the problem since 2009. Last year, over half of teachers reported that more of their pupils experience mental health problems than in the past. But teachers also consistently report how ill-equipped they feel to meet pupils' mental health needs, and often cite a lack of training, expertise and support from the National Health Service(英国国家医疗服务体系). Part of the reason for the increased pressure on schools is that there are now fewer 'early intervention(干预)' and low-level mental health services based in the community. Cuts to local authority budgets since 2010 have resulted in a significant decline of these services, despite strong evidence of their effectiveness in preventing crises further down the line. The only way to break the pressures on both mental health services and schools is to reinvest in early intervention services inside schools. There are strong arguments for why schools are best placed to provide mental health services. Schools see young people more than any other service, which gives them a unique ability to get to hard-to-reach children and young people and build meaningful relationships with them over time. Recent studies have shown that children and young people largely prefer to see a counsellor in school rather than in an outside environment. Young people have reported that for low-level conditions such as stress and anxiety, a clinical setting can sometimes be daunting(令人却步的). There are already examples of innovative schools which combine mental health and wellbeing provision with a strong academic curriculum. This will, though, require a huge cultural shift. Politicians, policymakers, commissioners and school leaders must be brave enough to make the leap towards reimagining schools as providers of health as well as education services.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What are teachers complaining about?",
+       "options": [
+        "There are too many students requiring special attention.",
+        "They are under too much stress counselling needy students.",
+        "Schools are inadequately equipped to implement any intervention.",
+        "They lack the necessary resources to address pupils' mental problems."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】But teachers also consistently report how ill-equipped they feel to meet pupils' mental health needs, and often cite a lack of training, expertise and support from the National Health Service(英国国家医疗服务体系).\n【依据】正确项的核心词 lack、pupils'、mental 与定位句对得上；其余 necessary、resources、address、problems 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But teachers also consistently report how ill-equipped they feel to meet pupils' mental health needs, and often cite a lack of training, expertise and support from the National Health Service(英国国家医疗服务体系).",
+        "why": "正确项的核心词 lack、pupils'、mental 与定位句对得上；其余 necessary、resources、address、problems 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「too、many、students」全文未出现。",
+         "B": "无中生有：「under、too、much」全文未出现。",
+         "C": "无中生有：「inadequately、equipped、implement」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we learn from the passage about community health services in Britain?",
+       "options": [
+        "They have deteriorated due to budget cuts.",
+        "They facilitate local residents' everyday lives.",
+        "They prove ineffective in helping mental patients.",
+        "They cover preventative care for the local resident."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Part of the reason for the increased pressure on schools is that there are now fewer 'early intervention(干预)' and low-level mental health services based in the community.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 deteriorated、due、budget、cuts 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Part of the reason for the increased pressure on schools is that there are now fewer 'early intervention(干预)' and low-level mental health services based in the community.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 deteriorated、due、budget、cuts 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「facilitate、residents'、everyday」全文未出现。",
+         "C": "无中生有：「prove、ineffective、helping」全文未出现；把原文的「mental」换成了「prove、ineffective、helping」，主语或对象被调包。",
+         "D": "无中生有：「cover、preventative、care」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "Where does the author suggest mental health services be placed?",
+       "options": [
+        "At home.",
+        "At school.",
+        "In hospitals.",
+        "In communities."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】There are strong arguments for why schools are best placed to provide mental health services.\n【依据】正确项的核心词 school 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "There are strong arguments for why schools are best placed to provide mental health services.",
+        "why": "正确项的核心词 school 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「home」全文未出现。",
+         "C": "无中生有：「hospitals」全文未出现。",
+         "D": "无中生有：「communities」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What do we learn from the recent studies?",
+       "options": [
+        "Students prefer to rely on peers to relieve stress and anxiety.",
+        "Young people are keen on building meaningful relationships.",
+        "Students are more comfortable seeking counselling in school.",
+        "Young people benefit from various kinds of outdoor activities."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Recent studies have shown that children and young people largely prefer to see a counsellor in school rather than in an outside environment.\n【依据】正确项的核心词 counselling、school 与定位句对得上；其余 students、comfortable、seeking 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Recent studies have shown that children and young people largely prefer to see a counsellor in school rather than in an outside environment.",
+        "why": "正确项的核心词 counselling、school 与定位句对得上；其余 students、comfortable、seeking 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「students、rely、peers」全文未出现；把原文的「prefer」换成了「students、rely、peers」，主语或对象被调包。",
+         "B": "偷换主体：「keen、building」全文未出现；把原文的「young、people」换成了「keen、building、meaningful」，主语或对象被调包。",
+         "D": "无中生有：「benefit、various、kinds」全文未出现；把原文的「young、people」换成了「benefit、various、kinds」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author mean by a cultural shift (Line 2, Para. 6)?",
+       "options": [
+        "Simplification of schools' academic curriculums.",
+        "Parents' involvement in schools' policy-making.",
+        "A change in teachers' attitudes to mental health.",
+        "A change in the conception of what schools are."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Cuts to local authority budgets since 2010 have resulted in a significant decline of these services, despite strong evidence of their effectiveness in preventing crises further down the line.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 change、conception、what、schools 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Cuts to local authority budgets since 2010 have resulted in a significant decline of these services, despite strong evidence of their effectiveness in preventing crises further down the line.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 change、conception、what、schools 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「simplification、schools'、curriculums」全文未出现。",
+         "B": "无中生有：「parents'、involvement、schools'」全文未出现。",
+         "C": "无中生有：「change、teachers'、attitudes」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 338 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Picture this: You're at a movie theater food stand loading up on snacks. You have a choice of a small, medium or large soda. The small is $3.50 and the large is $5.50. It's a tough decision: The small size may not last you through the whole movie, but $5.50 for some sugary drink seems ridiculous. But there's a third option, a medium soda for $5.25. Medium may be the perfect amount of soda for you, but the large is only a quarter more. If you're like most people, you end up buying the large (and taking a bathroom break midshow). If you're wondering who would buy the medium soda, the answer is almost no one. In fact, there's a good chance the marketing department purposely priced the medium soda as a decoy(诱饵), making you more likely to buy the large soda rather than the small. I have written about this peculiarity in human nature before with my friend Dan Ariely, who studied this phenomenon extensively after noticing pricing for subscriptions(订阅) to The Economist. The digital subscription was $59, the print subscription was $125, and the print plus digital subscription was also $125. No one in their right mind would buy the print subscription when you could get digital as well for the same price, so why was it even an option? Ariely ran an experiment and found that when only the two \"real\" choices were offered, more people chose the less-expensive digital subscription. But the addition of the bad option made people much more likely to choose the more expensive print plus digital option. Brain scientists call this effect \"asymmetric dominance\" and it means that people gravitate toward the choice nearest a clearly inferior option. Marketing professors call it the decoy effect, which is certainly easier to remember. Lucky for consumers, almost no one in the business community understands it. The decoy effect works because of the way our brains assign value when making choices. Value is almost never absolute; rather, we decide an object's value relative to our other choices. If more options are introduced, the value equation changes.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "Why does the author ask us to imagine buying food in the movie theater?",
+       "options": [
+        "To illustrate people's peculiar shopping behavior.",
+        "To illustrate the increasing variety of snacks there.",
+        "To show how hard it can be to choose a drink there.",
+        "To show how popular snacks are among movie fans."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Picture this: You're at a movie theater food stand loading up on snacks.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 illustrate、people's、peculiar、shopping 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Picture this: You're at a movie theater food stand loading up on snacks.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 illustrate、people's、peculiar、shopping 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「illustrate、increasing、variety」全文未出现；把原文的「snacks」换成了「illustrate、increasing、variety」，主语或对象被调包。",
+         "C": "无中生有：「show、how、hard」全文未出现。",
+         "D": "无中生有：「show、how、popular」全文未出现；把原文的「snacks、movie」换成了「show、how、popular」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "Why is the medium soda priced the way it is?",
+       "options": [
+        "To attract more customers to buy it.",
+        "To show the price matches the amount.",
+        "To ensure customers drink the right amount of soda.",
+        "To make customers believe they are getting a bargain."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】In fact, there's a good chance the marketing department purposely priced the medium soda as a decoy(诱饵), making you more likely to buy the large soda rather than the small.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 make、customers、believe、getting 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In fact, there's a good chance the marketing department purposely priced the medium soda as a decoy(诱饵), making you more likely to buy the large soda rather than the small.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 make、customers、believe、getting 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「attract、customers」全文未出现；把原文的「buy」换成了「attract、customers」，主语或对象被调包。",
+         "B": "无中生有：「show、matches」全文未出现；把原文的「price」换成了「show、matches、amount」，主语或对象被调包。",
+         "C": "偷换主体：「ensure、customers」全文未出现；把原文的「soda」换成了「ensure、customers、drink」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do we learn from Dan Ariely's experiment?",
+       "options": [
+        "Lower-priced goods attract more customers.",
+        "The Economist's promotional strategy works.",
+        "The Economist's print edition turns out to sell the best.",
+        "More readers choose the digital over the print edition."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】I have written about this peculiarity in human nature before with my friend Dan Ariely, who studied this phenomenon extensively after noticing pricing for subscriptions(订阅) to The Economist.\n【依据】正确项的核心词 economist's 与定位句对得上；其余 promotional、strategy、works 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "I have written about this peculiarity in human nature before with my friend Dan Ariely, who studied this phenomenon extensively after noticing pricing for subscriptions(订阅) to The Economist.",
+        "why": "正确项的核心词 economist's 与定位句对得上；其余 promotional、strategy、works 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「lower-priced、goods、attract」全文未出现。",
+         "C": "无中生有：「edition、turns、out」全文未出现；把原文的「economist's」换成了「print、edition、turns」，主语或对象被调包。",
+         "D": "因果倒置：「readers、over、edition」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "For what purpose is \"the bad option\" (Line 7, Para. 3) added?",
+       "options": [
+        "To cater to the peculiar needs of some customers.",
+        "To help customers to make more rational choices.",
+        "To trap customers into buying the more pricey item.",
+        "To provide customers with a greater variety of goods."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】But the addition of the bad option made people much more likely to choose the more expensive print plus digital option.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 trap、customers、into、buying 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But the addition of the bad option made people much more likely to choose the more expensive print plus digital option.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 trap、customers、into、buying 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「cater、peculiar、needs」全文未出现。",
+         "B": "无中生有：「help、customers、make」全文未出现。",
+         "D": "无中生有：「provide、customers、greater」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "How do we assess the value of a commodity, according to the passage?",
+       "options": [
+        "By considering its usefulness.",
+        "By comparing it with other choices.",
+        "By taking its quality into account.",
+        "By examining its value equation."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Value is almost never absolute; rather, we decide an object's value relative to our other choices.\n【依据】正确项的核心词 other、choices 与定位句对得上；其余 comparing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Value is almost never absolute; rather, we decide an object's value relative to our other choices.",
+        "why": "正确项的核心词 other、choices 与定位句对得上；其余 comparing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「considering、usefulness」全文未出现。",
+         "C": "无中生有：「quality、into、account」全文未出现。",
+         "D": "偷换主体：「examining」全文未出现；把原文的「value」换成了「examining、equation」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 344 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "生活在中国不同地区的人们饮食多种多样。北方人主要吃面食，南方人大多吃米饭。在沿海地区，海鲜和淡水水产品在人们饮食中占有相当大的比例，而在其他地区人们的饮食中，肉类和奶制品更为常见。四川、湖南等省份的居民普遍爱吃辛辣食物，而江苏和浙江人更喜欢甜食。然而，因为烹任方式各异，同类食物的味道可能会有所不同。",
+     "reference": "People living in different parts of China have diverse diets. People in the north mainly eat wheat-based foods, while those in the south mostly eat rice In coastal areas, seafood and freshwater products make up a large proportion of people's diets, while in other regions, meat and dairy products are more common. Residents of provinces such as Sichuan and Hunan generally love spicy food, while people from Jiangsu and Zhejiang prefer sweet food. However, because cooking methods vary, the taste of the same food may differ.",
+     "keyPoints": [
+      "People living in different parts of China have diverse diets.",
+      "People in the north mainly eat wheat-based foods, while those in the south mostly eat rice In coastal areas, seafood and freshwater products make up a large proportion of people's diets, while in other regions, meat and dairy products are more common.",
+      "Residents of provinces such as Sichuan and Hunan generally love spicy food, while people from Jiangsu and Zhejiang prefer sweet food.",
+      "However, because cooking methods vary, the taste of the same food may differ."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

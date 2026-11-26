@@ -1,0 +1,1177 @@
+{
+ "id": "cet4-2023-12-1",
+ "levelId": "cet4",
+ "title": "四级 2023 年 12 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2023年12月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2023-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2023-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "你有没有注意到你和朋友有多相似?这可能是因为你们的大脑彼此协调运作"
+      },
+      {
+       "idx": 2,
+       "zh": "加利福尼亚大学的研究人员扫描了42名同学的大脑"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 哎呀,严重吗?"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 不,一点也不严重"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 我下周六不在这儿"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 动物园?"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 对。我小侄子要过六岁生日了"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 哦,好吧。我从小时候起就没去过动物园了"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 动物园远不像我们小时候那么受欢迎了"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 你知道 Dan 下周六有空吗?"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 嗯,我觉得他应该有空"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What may be the reason that friends are similar to each other according to the recent research?",
+       "options": [
+        "Their brains work in harmony.",
+        "They are generally the same age.",
+        "Their interests are quite similar.",
+        "They have the same ethnic background."
+       ],
+       "optionsZh": [
+        "他们的大脑协调运作。",
+        "他们通常年龄相同。",
+        "他们的兴趣非常相似。",
+        "他们有相同的族裔背景。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Their brains work in harmony.（他们的大脑协调运作。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the news report say about the relationship between friends?",
+       "options": [
+        "It can be touching.",
+        "It is hard to predict.",
+        "It can work both ways.",
+        "It resembles family ties."
+       ],
+       "optionsZh": [
+        "它可能令人感动。",
+        "它难以预测。",
+        "它可以双向作用。",
+        "它类似于家庭纽带。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It can work both ways.（它可以双向作用。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What did both Alan Robinson and Walter MacDonald attempt to do on DNA matching websites?",
+       "options": [
+        "Search for their half-brothers.",
+        "Identify their biological fathers.",
+        "Find out more about their ancestry.",
+        "See whether they are actually related."
+       ],
+       "optionsZh": [
+        "寻找他们同父异母的兄弟。",
+        "确认他们的生父身份。",
+        "了解更多关于他们祖先的信息。",
+        "查看他们是否真的有血缘关系。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Find out more about their ancestry.（了解更多关于他们祖先的信息。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What did the news report say about Alan Robinson and Walter MacDonald?",
+       "options": [
+        "They were both given up for adoption.",
+        "They were born to the same mother.",
+        "They flew 737 airplanes as pilots.",
+        "They were both 60 years of age."
+       ],
+       "optionsZh": [
+        "他们都被送去领养了。",
+        "他们是同一个母亲所生。",
+        "他们作为飞行员驾驶 737 飞机。",
+        "他们都是 60 岁。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They were born to the same mother.（他们是同一个母亲所生。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "Why did one of the male tourists feel sad?",
+       "options": [
+        "One of his friends was caught littering.",
+        "Other tourists refused to join in the cleanup.",
+        "The beautiful beach was spoiled with lots of trash.",
+        "The kilometer-long beach was practically deserted."
+       ],
+       "optionsZh": [
+        "他的一位朋友因乱扔垃圾被抓到。",
+        "其他游客拒绝参加清理活动。",
+        "美丽的海滩被大量垃圾破坏了。",
+        "这片长达一公里的海滩几乎荒无一人。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The beautiful beach was spoiled with lots of trash.（美丽的海滩被大量垃圾破坏了。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "Who put the good deed video on the internet?",
+       "options": [
+        "A passerby.",
+        "A local woman.",
+        "The beach authorities.",
+        "One of the five tourists."
+       ],
+       "optionsZh": [
+        "一位路人。",
+        "一位当地妇女。",
+        "海滩管理部门。",
+        "五位游客中的一位。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：A passerby.（一位路人。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why did one local woman say she was embarrassed?",
+       "options": [
+        "The tourists' good deed was not noticed by the locals.",
+        "Some natives were selling poor-quality food to tourists.",
+        "The number of tourists to the beach is on a steady decline.",
+        "It was tourists not natives who were cleaning up the beach."
+       ],
+       "optionsZh": [
+        "游客的善举没有被当地人注意到。",
+        "一些本地人向游客出售劣质食品。",
+        "前往海滩的游客数量持续下降。",
+        "清理海滩的是游客而不是本地人。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It was tourists not natives who were cleaning up the beach.（清理海滩的是游客而不是本地人。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "Why can't the man go for a run Saturday morning?",
+       "options": [
+        "He has to play football with workmates.",
+        "He has got some books to read.",
+        "He is going to visit a friend.",
+        "He is physically unfit for it."
+       ],
+       "optionsZh": [
+        "他必须和同事踢足球。",
+        "他有一些书要读。",
+        "他要去拜访一位朋友。",
+        "他的身体状况不适合跑步。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He is physically unfit for it.（他的身体状况不适合跑步。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "Why is the woman's whole family going to the zoo next Saturday?",
+       "options": [
+        "To teach kids about animal protection.",
+        "To learn how popular zoos could be.",
+        "To see some rare animals in cages.",
+        "To give her little nephew a treat."
+       ],
+       "optionsZh": [
+        "教孩子们动物保护知识。",
+        "了解动物园能有多受欢迎。",
+        "看一些关在笼子里的稀有动物。",
+        "给她的小侄子一个惊喜。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：To give her little nephew a treat.（给她的小侄子一个惊喜。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What do we learn about Dan from the man's description?",
+       "options": [
+        "He enjoys excellent health.",
+        "He is keen on extreme sports.",
+        "He coaches tennis players every week.",
+        "He spends most of his time in the gym."
+       ],
+       "optionsZh": [
+        "他身体非常健康。",
+        "他热衷于极限运动。",
+        "他每周指导网球运动员。",
+        "他大部分时间都在健身房度过。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He enjoys excellent health.（他身体非常健康。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What has the man been doing since last weekend?",
+       "options": [
+        "Tending to his swollen ankle.",
+        "Concentrating on reading.",
+        "Writing three book reports.",
+        "Planning Christmas celebrations."
+       ],
+       "optionsZh": [
+        "照料他肿胀的脚踝。",
+        "专心阅读。",
+        "写三篇读书报告。",
+        "计划圣诞节庆祝活动。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Concentrating on reading.（专心阅读。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What do we learn about the man's book published recently?",
+       "options": [
+        "It is being debated by hundreds of retirees.",
+        "It is attracting many people's attention.",
+        "It partly records his own experience.",
+        "It argues for postponing retirement."
+       ],
+       "optionsZh": [
+        "数百名退休人员正在对它进行讨论。",
+        "它正在吸引许多人的关注。",
+        "它部分记录了他自己的经历。",
+        "它主张推迟退休。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It is attracting many people's attention.（它正在吸引许多人的关注。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What do the articles the woman read recommend?",
+       "options": [
+        "One should foresee a financial crisis.",
+        "One should trust financial planners, figures.",
+        "One should have one million dollars to retire.",
+        "One should start saving as early as possible."
+       ],
+       "optionsZh": [
+        "人们应该预见到金融危机。",
+        "人们应该相信理财规划师的数据。",
+        "人们应该有一百万美元才能退休。",
+        "人们应该尽早开始储蓄。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：One should have one million dollars to retire.（人们应该有一百万美元才能退休。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the man say about retirement?",
+       "options": [
+        "It doesn't need to be permanent.",
+        "It shouldn't be considered risky.",
+        "It helps to reduce travel expenses.",
+        "It is the way to quit a job one hates."
+       ],
+       "optionsZh": [
+        "它不必是永久性的。",
+        "它不应该被认为有风险。",
+        "它有助于减少旅行开支。",
+        "它是辞去自己讨厌的工作的方式。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It doesn't need to be permanent.（它不必是永久性的。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "How does the man say his proposal about retirement can be carried out?",
+       "options": [
+        "By keeping close contact with one's employers.",
+        "By retiring when one reaches sixty years old.",
+        "By investing half of one's monthly income.",
+        "By following the counsel of financial planners."
+       ],
+       "optionsZh": [
+        "通过与雇主保持密切联系。",
+        "通过在年满六十岁时退休。",
+        "通过投资月收入的一半。",
+        "通过遵循理财规划师的建议。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：By investing half of one's monthly income.（通过投资月收入的一半。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What was the finding of the new research from America about consumers' food choices?",
+       "options": [
+        "They tended to be easily anticipated by those belonging to their own race.",
+        "They tended to be arbitrarily judged by individuals of opposing groups.",
+        "They were readily shared among members of the same social or racial group.",
+        "They were influenced by the presence of someone from an outsider group."
+       ],
+       "optionsZh": [
+        "它们往往容易被属于同一种族的人预测。",
+        "它们往往被对立群体的个体任意评判。",
+        "它们在同一社会或种族群体的成员之间容易共享。",
+        "它们受到来自外部群体的某人在场的影响。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They were influenced by the presence of someone from an outsider group.（它们受到来自外部群体的某人在场的影响。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "When did 31 percent of students in the experiment select the healthier option?",
+       "options": [
+        "When they tried to make a positive impression on the researchers.",
+        "When an unknown student from another university was present.",
+        "When an experimenter from the research team took notice.",
+        "When they were offered both candy and fruit as a snack."
+       ],
+       "optionsZh": [
+        "当他们试图给研究人员留下积极印象时。",
+        "当一名来自另一所大学的陌生学生在场时。",
+        "当研究团队的一名实验人员注意到时。",
+        "当他们被提供糖果和水果作为零食时。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：When an unknown student from another university was present.（当一名来自另一所大学的陌生学生在场时。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "How could a healthy diet be promoted according to the findings of the new research?",
+       "options": [
+        "By advertising its social benefits.",
+        "By teaching consumers diet strategies.",
+        "By supporting struggling consumers.",
+        "By maintaining its positive image."
+       ],
+       "optionsZh": [
+        "通过宣传其社会益处。",
+        "通过向消费者传授饮食策略。",
+        "通过支持处境艰难的消费者。",
+        "通过维持其正面形象。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：By advertising its social benefits.（通过宣传其社会益处。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the recent study led by Patricia Pendry aim to examine?",
+       "options": [
+        "The academic and learning issues struggling students encounter.",
+        "The risk students face due to a history of mental health problems.",
+        "The effect of interacting with therapy dogs on students under pressure.",
+        "The work universities are doing to help students succeed academically"
+       ],
+       "optionsZh": [
+        "处境困难的学生遇到的学业和学习问题。",
+        "学生因心理健康问题史而面临的风险。",
+        "与治疗犬互动对压力下学生的影响。",
+        "大学为帮助学生在学业上取得成功所做的工作。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The effect of interacting with therapy dogs on students under pressure.（与治疗犬互动对压力下学生的影响。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What did the new study measure in the participants?",
+       "options": [
+        "Their communicative skills.",
+        "Their executive functioning.",
+        "Their academic networking.",
+        "Their leadership capacities."
+       ],
+       "optionsZh": [
+        "他们的沟通技能。",
+        "他们的执行功能。",
+        "他们的学术人际网络。",
+        "他们的领导能力。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Their executive functioning.（他们的执行功能。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does Patricia Pendry think traditional stress management programs may do?",
+       "options": [
+        "Rid students of their anxiety.",
+        "Add to some students' stress.",
+        "Contribute little to typical students' success.",
+        "Help students with mental issues pull through."
+       ],
+       "optionsZh": [
+        "消除学生的焦虑。",
+        "增加一些学生的压力。",
+        "对普通学生的成功贡献甚微。",
+        "帮助有心理问题的学生渡过难关。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Add to some students' stress.（增加一些学生的压力。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do entrepreneurs have to do when taking risks according to the passage?",
+       "options": [
+        "Work hard and plan carefully.",
+        "Attempt to succeed at any cost.",
+        "Aim high and expect great results.",
+        "Remain optimistic even in difficulty."
+       ],
+       "optionsZh": [
+        "努力工作并仔细计划。",
+        "不惜任何代价争取成功。",
+        "目标远大并期待卓越成果。",
+        "即使在困难中也保持乐观。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Work hard and plan carefully.（努力工作并仔细计划。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What does the passage say is key to business growth?",
+       "options": [
+        "Regarding failure as something inevitable.",
+        "Trying out innovative marketing strategies.",
+        "Venturing into sectors never explored before.",
+        "Being willing to experiment with novel ideas."
+       ],
+       "optionsZh": [
+        "将失败视为不可避免的事情。",
+        "尝试创新的营销策略。",
+        "冒险进入从未探索过的领域。",
+        "愿意尝试新颖的想法。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Being willing to experiment with novel ideas.（愿意尝试新颖的想法。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What are we advised to do when we fail?",
+       "options": [
+        "Expect future success so as to move forward.",
+        "Learn from our failure and forge ahead.",
+        "Distinguish between good and bad risks.",
+        "Examine our strategies and find out weaknesses."
+       ],
+       "optionsZh": [
+        "期待未来成功以便继续前进。",
+        "从失败中学习并勇往直前。",
+        "区分好的风险和坏的风险。",
+        "检查我们的策略并找出弱点。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Learn from our failure and forge ahead.（从失败中学习并勇往直前。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does it mean to risk-taking businesses when most people tend to avoid risk?",
+       "options": [
+        "Fresher offers.",
+        "Safer operation.",
+        "More challenges.",
+        "Less competition."
+       ],
+       "optionsZh": [
+        "更新鲜的机会。",
+        "更安全的运营。",
+        "更多挑战。",
+        "更少竞争。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Less competition.（更少竞争。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose the university newspaper is inviting submissions from the students for its coming edition on a campus event that has impressed them most. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Among all the campus events I have taken part in, a volunteer teaching trip impressed me the most. It was last\nautumn that I joined our university volunteer team and traveled to a small rural primary school.\nI still remember the moment when I walked into that simple classroom and began my first English lesson. The\nchildren sat straight, their eyes shining with curiosity, and they repeated every new word after me as loudly as\nthey could. When the bell rang, instead of running out to play, they crowded around my desk, asking how to\npronounce the words on their notebooks. At that moment, I felt truly needed for the first time, and a warm\nsense of responsibility rose in my heart.\nThis experience taught me that knowledge is not only something for exams, but also a light that can warm and\nguide others. That is exactly why this volunteer trip remains the campus event that touches me most."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Exercising for just 10 minutes a week is linked to a longer life, according to a new study published in The British Journal of Sports Medicine. Several recent studies have found that even low-intensity exercise, done for a short amount of time, can have a meaningful {{1}} on health. Still, the idea that exercising for just 10 minutes a week may be enough to increase your lifespan is novel. It's also somewhat {{2}} , since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of {{3}} exercise each week. The study was based on data from more than 88,000 U.S. adults who {{4}} in the National Health Interview Survey between 1997 and 2008. Contrary to some research that has found an {{5}} limit to the amount of exercise that is healthy, the researchers found that there was {{6}} no limit to the longevity(长寿) benefits of exercise. Even the small group of people who got 10 times the amount of exercise recommended by the federal government had a 46% lower {{7}} of death than the least active group. Still, observational studies like this one cannot prove cause and effect; they can only find {{8}} . The researchers also were not able to {{9}} for certain lifestyle factors that could affect lifespan, including dietary habits and changes in physical activity over time. Despite these {{10}} , the study's results are yet another indication of the power of physical activity, even in small amounts.",
+     "options": [
+      "adjust",
+      "alter",
+      "approximately",
+      "controversial",
+      "coordinates",
+      "impact",
+      "limitations",
+      "moderate",
+      "participated",
+      "patterns",
+      "populated",
+      "risk",
+      "seemingly",
+      "type",
+      "upper"
+     ],
+     "answers": [
+      5,
+      3,
+      7,
+      8,
+      14,
+      12,
+      11,
+      9,
+      0,
+      6
+     ],
+     "blankExplains": [
+      "【定位】Several recent studies have found that even low-intensity exercise, done for a short amount of time, can have a meaningful ____ on health.\n【依据】答案是 impact：填回后与所在句 several、recent、studies、found、even、low-intensity 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It's also somewhat ____ , since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of  … exercise each week.\n【依据】答案是 controversial：填回后与所在句 it's、somewhat、since、federal、physical、activity 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It's also somewhat  … , since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of ____ exercise each week.\n【依据】答案是 moderate：填回后与所在句 it's、somewhat、since、federal、physical、activity 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】adults who ____ in the National Health Interview Survey between 1997 and 2008.\n【依据】答案是 participated：填回后与所在句 adults、who、national、health、interview、survey 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Contrary to some research that has found an ____ limit to the amount of exercise that is healthy, the researchers found that there was  … no limit to the longevity(长寿) benefits of exercise.\n【依据】答案是 upper：填回后与所在句 contrary、research、found、limit、amount、exercise 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Contrary to some research that has found an  … limit to the amount of exercise that is healthy, the researchers found that there was ____ no limit to the longevity(长寿) benefits of exercise.\n【依据】答案是 seemingly：填回后与所在句 contrary、research、found、limit、amount、exercise 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Even the small group of people who got 10 times the amount of exercise recommended by the federal government had a 46% lower ____ of death than the least active group.\n【依据】答案是 risk：填回后与所在句 even、small、group、people、who、got 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Still, observational studies like this one cannot prove cause and effect; they can only find ____ .\n【依据】答案是 patterns：填回后与所在句 still、observational、studies、like、cannot、prove 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The researchers also were not able to ____ for certain lifestyle factors that could affect lifespan, including dietary habits and changes in physical activity over time.\n【依据】答案是 adjust：填回后与所在句 researchers、able、certain、lifestyle、factors、affect 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Despite these ____ , the study's results are yet another indication of the power of physical activity, even in small amounts.\n【依据】答案是 limitations：填回后与所在句 despite、study's、results、yet、another、indication 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Several recent studies have found that even low-intensity exercise, done for a short amount of time, can have a meaningful ____ on health.",
+       "why": "答案是 impact：填回后与所在句 several、recent、studies、found、even、low-intensity 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 impact 这个词性/语义，而不是 adjust）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 impact 这个词性/语义，而不是 alter）。"
+       }
+      },
+      {
+       "locate": "It's also somewhat ____ , since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of  … exercise each week.",
+       "why": "答案是 controversial：填回后与所在句 it's、somewhat、since、federal、physical、activity 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 controversial 这个词性/语义，而不是 coordinates）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 controversial 这个词性/语义，而不是 adjust）。"
+       }
+      },
+      {
+       "locate": "It's also somewhat  … , since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of ____ exercise each week.",
+       "why": "答案是 moderate：填回后与所在句 it's、somewhat、since、federal、physical、activity 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 moderate 这个词性/语义，而不是 adjust）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 moderate 这个词性/语义，而不是 alter）。"
+       }
+      },
+      {
+       "locate": "adults who ____ in the National Health Interview Survey between 1997 and 2008.",
+       "why": "答案是 participated：填回后与所在句 adults、who、national、health、interview、survey 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 participated 这个词性/语义，而不是 patterns）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 participated 这个词性/语义，而不是 populated）。"
+       }
+      },
+      {
+       "locate": "Contrary to some research that has found an ____ limit to the amount of exercise that is healthy, the researchers found that there was  … no limit to the longevity(长寿) benefits of exercise.",
+       "why": "答案是 upper：填回后与所在句 contrary、research、found、limit、amount、exercise 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 upper 这个词性/语义，而不是 adjust）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 upper 这个词性/语义，而不是 alter）。"
+       }
+      },
+      {
+       "locate": "Contrary to some research that has found an  … limit to the amount of exercise that is healthy, the researchers found that there was ____ no limit to the longevity(长寿) benefits of exercise.",
+       "why": "答案是 seemingly：填回后与所在句 contrary、research、found、limit、amount、exercise 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 seemingly 这个词性/语义，而不是 adjust）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 seemingly 这个词性/语义，而不是 alter）。"
+       }
+      },
+      {
+       "locate": "Even the small group of people who got 10 times the amount of exercise recommended by the federal government had a 46% lower ____ of death than the least active group.",
+       "why": "答案是 risk：填回后与所在句 even、small、group、people、who、got 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 risk 这个词性/语义，而不是 adjust）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 risk 这个词性/语义，而不是 alter）。"
+       }
+      },
+      {
+       "locate": "Still, observational studies like this one cannot prove cause and effect; they can only find ____ .",
+       "why": "答案是 patterns：填回后与所在句 still、observational、studies、like、cannot、prove 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 patterns 这个词性/语义，而不是 participated）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 patterns 这个词性/语义，而不是 populated）。"
+       }
+      },
+      {
+       "locate": "The researchers also were not able to ____ for certain lifestyle factors that could affect lifespan, including dietary habits and changes in physical activity over time.",
+       "why": "答案是 adjust：填回后与所在句 researchers、able、certain、lifestyle、factors、affect 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adjust 这个词性/语义，而不是 alter）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adjust 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "Despite these ____ , the study's results are yet another indication of the power of physical activity, even in small amounts.",
+       "why": "答案是 limitations：填回后与所在句 despite、study's、results、yet、another、indication 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 limitations 这个词性/语义，而不是 adjust）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 limitations 这个词性/语义，而不是 alter）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Earlier this year, scientists warned that one in six animal species could go extinct(灭绝的) due to climate change. Could the same thing happen to our crops and other foodstuffs too?"
+      },
+      {
+       "id": "B",
+       "text": "It's clear that farmers in many parts of the world are going to find things harder in the coming decades. Last week, BBC Future explored one scientist's efforts to help crops cope with the increased probability of droughts. By using the genes from resurrection(复活) plants, Jill Farrant of the University of Cape Town is exploring whether she can design crops to survive for much longer periods without water."
+      },
+      {
+       "id": "C",
+       "text": "But if we can't find ways to protect other foods, will they survive climate change? Fortunately, there is some good news on this front. Despite alarmist headlines about \"foods that are going extinct,\" there is no evidence that major food types like beans, chocolate, wine, corn or wheat will cease to exist."
+      },
+      {
+       "id": "D",
+       "text": "But that doesn't mean it's all good news for future food. We will probably have to change where we grow certain crops, as some regions get too hot. The disadvantage, obviously, is that local farmers will suffer under this situation. And some people may struggle to get the same access to certain foods. \"Even if overall food production may be unaffected, food security can still be impacted,\" says Margaret Walsh, a scientist at the US Department of Agriculture's Climate Change Program Office. In other words, even if a certain food is still grown on some corner of the Earth, it doesn't mean that everyone will continue to have the same degree of access as today."
+      },
+      {
+       "id": "E",
+       "text": "Overall, the yields of many foods, from staples to life-enhancing extras such as coffee and chocolate, will likely be impacted by climate change too. How those decreases will be felt will depend on the degree of warming and the crop in question, but in general, \"anything over about 30℃ is very bad for crops,\" says Wolfram Schlenker, an associate professor of international and public affairs at Columbia University. For example, statistical studies that he and a colleague built of corn and soybean(大豆) production in the US show a steep decline after crossing the 30℃ temperature threshold(临界点)."
+      },
+      {
+       "id": "F",
+       "text": "In the US—the world's largest producer of corn and soybeans—farms can move north to some degree, Schlenker says. But eventually, yields will likely suffer because the soil north of Iowa declines in quality—a legacy of glacial(冰川的) expansion. Other studies, including studies of wheat in India and corn in Africa, also found that there is a threshold above which yields sharply decline: crops can adapt and move, but only to a point. \"What's common to all studies is the finding that extreme heat is damaging to crop growth, although exact cutoffs vary by crop,\" Schlenker says. \"If predictions for the end of the century are true, though, I think a lot of agricultural areas in the US will see significant hits.\""
+      },
+      {
+       "id": "G",
+       "text": "Under current conditions, about 4% of the world's croplands experience drought in any given year, but by the end of the century those conditions are forecasted to jump to about 18% per year. Some studies indicate that horticulture crops—generally, everything besides staples—may be impacted most severely, largely because they tend to be confined to a smaller geographic area. Researcher Andrew Jarvis and his colleagues found that 80% of coffee-growing zones in Central America and Brazil could become unsuitable by 2050, for example, while climate change will likely have \"great impacts\" on cocoa(可可粉) production in West Africa. \"High quality chocolate will be less available in the future, and if you want it, you'll have to pay a lot more for it,\" Jarvis says."
+      },
+      {
+       "id": "H",
+       "text": "This means that, for those who can afford it, some foods will simply cost them more in the future. But for poorer people, those same price jumps will likely cause certain foods to go extinct from their diets. \"The more you reduce, the shorter the supply, and the higher the price will jump,\" Schlenker says."
+      },
+      {
+       "id": "I",
+       "text": "Another potential climate change-induced problem is our dependence on commodity crops—wheat, soybeans, corn and rice—which currently provide humanity with 75% of its calories, either directly or indirectly through the animals we raise on those crops. Jarvis and his colleagues also found that, over the past five decades, the world has seen an increasing standardisation of diets; the foods we eat globally today are 36% more similar than they were in 1961. While this can be good news for the world's poorest people who now consume more calories, protein and fat than in the past, homogeneity(同一性) and over-dependence on a handful of staples leave us vulnerable to threats such as drought, disease and pests—all of which are predicted to worsen in many parts of the world as a result of climate change."
+      },
+      {
+       "id": "J",
+       "text": "There are ways we could soften the coming blow to the global food supply, however. Like Farrant's work with resurrection crops, a number of companies, organisations and researchers are aiming to create drought and temperature-resistant crops through genetic engineering and conventional breeding. For now, the jury is still out as to how successful those endeavours will be. \"The people at Monsanto who I've talked to are much more optimistic that they'll be able to engineer heat-tolerant crops,\" Schlenker says. \"On the other hand, scientists at the USDA who I've spoken with are much more cautious.\""
+      },
+      {
+       "id": "K",
+       "text": "Until genetic engineering comes to fruition, other strategies might also help in some places, including applying more fertiliser, implementing better irrigation, using machinery that gets crops out of the field faster or installing storage facilities to delay spoilage. \"Many places could benefit a great deal just by using technologies that already exist,\" Walsh says. \"General farm management can go a long way toward easing changes.\""
+      },
+      {
+       "id": "L",
+       "text": "Finally, diversifying our diet away from heat-sensitive wheat, corn, rice and other crops could also help. \"We've seen profound changes in the last decades in what we eat largely as a result of international trade, and I think that trend toward more diversification will continue,\" M Jarvis says. \"Depending on a greater number of plant species creates a more vigorous and less risky food system—and one that provides a broader range of nutritional requirements.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "One consequence of climate change is that some people may not have adequate access to certain foods."
+      },
+      {
+       "id": "s37",
+       "text": "People around the world are eating foods more similar than what they used to eat."
+      },
+      {
+       "id": "s38",
+       "text": "A recent news report talked about scientific efforts to help crops survive droughts through genetic engineering."
+      },
+      {
+       "id": "s39",
+       "text": "It is predicted that climate change will affect the availability and price of quality chocolate."
+      },
+      {
+       "id": "s40",
+       "text": "People wonder if certain crops and foodstuffs could disappear like some animal species due to climate change."
+      },
+      {
+       "id": "s41",
+       "text": "Although farms in the US can move a bit northward, crop yields may decrease."
+      },
+      {
+       "id": "s42",
+       "text": "One possible solution to the food security problem is diversification of diet."
+      },
+      {
+       "id": "s43",
+       "text": "It remains unsettled whether the global food supply problem can be solved by creating heat-tolerant crops through genetic engineering."
+      },
+      {
+       "id": "s44",
+       "text": "Poor people may have to give up eating certain foods because of their high prices."
+      },
+      {
+       "id": "s45",
+       "text": "A number of existing farming technologies could be used to reduce the negative effect of climate change on food production."
+      }
+     ],
+     "answers": [
+      "D",
+      "I",
+      "B",
+      "G",
+      "A",
+      "F",
+      "L",
+      "J",
+      "H",
+      "K"
+     ],
+     "statementExplains": [
+      "【定位】And some people may struggle to get the same access to certain foods.\n【依据】陈述里的 people、access、certain、foods 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Jarvis and his colleagues also found that, over the past five decades, the world has seen an increasing standardisation of diets; the foods we eat globally today are 36% more similar than they were in 1961.\n【依据】陈述里的 world、foods、similar、eat 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Last week, BBC Future explored one scientist's efforts to help crops cope with the increased probability of droughts.\n【依据】陈述里的 scientific、efforts、help、crops、droughts 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】\"High quality chocolate will be less available in the future, and if you want it, you'll have to pay a lot more for it,\" Jarvis says.\n【依据】陈述里的 availability、quality、chocolate 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】Earlier this year, scientists warned that one in six animal species could go extinct(灭绝的) due to climate change.\n【依据】陈述里的 animal、species、due、climate、change 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】In the US—the world's largest producer of corn and soybeans—farms can move north to some degree, Schlenker says.\n【依据】陈述里的 farms、move、northward 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Finally, diversifying our diet away from heat-sensitive wheat, corn, rice and other crops could also help.\n【依据】陈述里的 diversification、diet 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】Like Farrant's work with resurrection crops, a number of companies, organisations and researchers are aiming to create drought and temperature-resistant crops through genetic engineering and conventional breeding.\n【依据】陈述里的 creating、crops、through、genetic、engineering 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】But for poorer people, those same price jumps will likely cause certain foods to go extinct from their diets.\n【依据】陈述里的 people、certain、foods、prices 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】\"Many places could benefit a great deal just by using technologies that already exist,\" Walsh says.\n【依据】陈述里的 existing、technologies 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "And some people may struggle to get the same access to certain foods.",
+       "why": "陈述里的 people、access、certain、foods 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Jarvis and his colleagues also found that, over the past five decades, the world has seen an increasing standardisation of diets; the foods we eat globally today are 36% more similar than they were in 1961.",
+       "why": "陈述里的 world、foods、similar、eat 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Last week, BBC Future explored one scientist's efforts to help crops cope with the increased probability of droughts.",
+       "why": "陈述里的 scientific、efforts、help、crops、droughts 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"High quality chocolate will be less available in the future, and if you want it, you'll have to pay a lot more for it,\" Jarvis says.",
+       "why": "陈述里的 availability、quality、chocolate 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Earlier this year, scientists warned that one in six animal species could go extinct(灭绝的) due to climate change.",
+       "why": "陈述里的 animal、species、due、climate、change 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In the US—the world's largest producer of corn and soybeans—farms can move north to some degree, Schlenker says.",
+       "why": "陈述里的 farms、move、northward 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Finally, diversifying our diet away from heat-sensitive wheat, corn, rice and other crops could also help.",
+       "why": "陈述里的 diversification、diet 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Like Farrant's work with resurrection crops, a number of companies, organisations and researchers are aiming to create drought and temperature-resistant crops through genetic engineering and conventional breeding.",
+       "why": "陈述里的 creating、crops、through、genetic、engineering 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But for poorer people, those same price jumps will likely cause certain foods to go extinct from their diets.",
+       "why": "陈述里的 people、certain、foods、prices 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Many places could benefit a great deal just by using technologies that already exist,\" Walsh says.",
+       "why": "陈述里的 existing、technologies 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "One of my bad habits is saying \"busy\" when people ask me how I'm doing. Sometimes it's because I actually am busy, but other times it's because that's what I think I'm supposed to say. That's what important people say. That's what people who get promoted say. But working long hours doesn't drive better results. Never taking a vacation won't lead to a promotion. So why are we so proud to talk about how busy we are all the time? In 2016, researchers from Columbia, Harvard, and Georgetown conducted a study to figure it out. They found busy people are perceived to be of high status, and interestingly, these status attributions are heavily influenced by our own beliefs about social mobility. In other words, the more we believe that one has the opportunity for success based on hard work, the more we tend to think that people who skip leisure and work all the time are of higher standing. That's why we feel like we have to appear busy, and there's a real perception that if someone is knee-deep in meetings, emails, and stress, then they're probably a big deal. This culture of busyness is making it hard for employees to find work-life balance. According to a recent study, one in five highly engaged employees is at risk of burnout(精疲力竭). Personally, I'm going to stop saying \"busy\" when people ask me how I am. It sounds self-righteous(自以为是的) and sets the wrong tone. Phrases like \"I have limited access to email\" and \"I'll respond as soon as I get back\" sound like you're being held against your will from working as opposed to making the most of your time off. That's why we recently launched the Out of Office Email Generator, a free tool you can use before your next long weekend or trip. You can share loud and proud that you won't be checking email until you're back. Managers need to think twice about emailing their teams on the weekend and talking about how busy they are. Leaders should take time off themselves and encourage employees to do the same.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What is a reason for the author to be in the habit of saying \"busy\" when asked how he is doing?",
+       "options": [
+        "He just follows successful people's example.",
+        "He is actually proud to be fully occupied.",
+        "He thinks everyone should be devoted to work.",
+        "He believes busyness ensures accomplishments."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】One of my bad habits is saying \"busy\" when people ask me how I'm doing.\n【依据】正确项的核心词 people's 与定位句对得上；其余 just、follows、successful、example 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One of my bad habits is saying \"busy\" when people ask me how I'm doing.",
+        "why": "正确项的核心词 people's 与定位句对得上；其余 just、follows、successful、example 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「fully、occupied」全文未出现。",
+         "C": "无中生有：「thinks、everyone、devoted」全文未出现。",
+         "D": "无中生有：「believes、ensures、accomplishments」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "Why do we tend to think that busy people are of high status?",
+       "options": [
+        "Our status can be attributed to our social mobility.",
+        "We hold the belief that hard work leads to success.",
+        "Our own opportunity for success never comes easily.",
+        "We find few people of high status have time for leisure."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In other words, the more we believe that one has the opportunity for success based on hard work, the more we tend to think that people who skip leisure and work all the time are of higher standing.\n【依据】正确项的核心词 belief、hard、work、success 与定位句对得上；其余 hold、leads 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In other words, the more we believe that one has the opportunity for success based on hard work, the more we tend to think that people who skip leisure and work all the time are of higher standing.",
+        "why": "正确项的核心词 belief、hard、work、success 与定位句对得上；其余 hold、leads 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「attributed」全文未出现。",
+         "C": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「comes、easily」全文未出现；把原文的「opportunity、success」换成了「own、never、comes」，主语或对象被调包。",
+         "D": "偷换主体：「few」全文未出现；把原文的「people、time、leisure」换成了「find、few、high」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do we learn about the culture of busyness from a recent study?",
+       "options": [
+        "It places employees in endless meetings, emails and stress.",
+        "It compels some 20% of employees to appear always busy.",
+        "It distorts many employees' belief of what a satisfying life is.",
+        "It does much harm to many busy employees' well-being."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】According to a recent study, one in five highly engaged employees is at risk of burnout(精疲力竭).\n【依据】正确项的核心词 employees' 与定位句对得上；其余 much、harm、many、busy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "According to a recent study, one in five highly engaged employees is at risk of burnout(精疲力竭).",
+        "why": "正确项的核心词 employees' 与定位句对得上；其余 much、harm、many、busy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「places、endless」全文未出现；把原文的「employees」换成了「places、endless、meetings」，主语或对象被调包。",
+         "B": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「compels、always」全文未出现；把原文的「employees」换成了「compels、appear、always」，主语或对象被调包。",
+         "C": "无中生有：「distorts、many、belief」全文未出现；把原文的「employees'」换成了「distorts、many、belief」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What do such utterances as \"I have limited access to email\" sound like according to the author?",
+       "options": [
+        "One is too busy to check all emails in time.",
+        "One is opposed to the prevailing work culture.",
+        "One is forced by circumstances to stop working.",
+        "One is simply enjoying their time off work."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Phrases like \"I have limited access to email\" and \"I'll respond as soon as I get back\" sound like you're being held against your will from working as opposed to making the most of your time off.\n【依据】正确项的核心词 working 与定位句对得上；其余 forced、circumstances、stop 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Phrases like \"I have limited access to email\" and \"I'll respond as soon as I get back\" sound like you're being held against your will from working as opposed to making the most of your time off.",
+        "why": "正确项的核心词 working 与定位句对得上；其余 forced、circumstances、stop 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「too、check」全文未出现；把原文的「emails、time」换成了「too、busy、check」，主语或对象被调包。",
+         "B": "偷换主体：「prevailing」全文未出现；把原文的「opposed」换成了「prevailing、work、culture」，主语或对象被调包。",
+         "D": "无中生有：「simply、enjoying」全文未出现；把原文的「time、off」换成了「simply、enjoying、work」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "Why did the author and his colleagues launch the Out of Office Email Generator?",
+       "options": [
+        "To enable busy employees to spend less time checking emails.",
+        "To ensure employees as well as employers truly have time off.",
+        "To stop managers from talking about how busy their teams usually are.",
+        "To encourage both employers and employees to answer emails promptly."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】That's why we recently launched the Out of Office Email Generator, a free tool you can use before your next long weekend or trip.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 ensure、employees、well、employers 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "That's why we recently launched the Out of Office Email Generator, a free tool you can use before your next long weekend or trip.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 ensure、employees、well、employers 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「enable、spend、less」全文未出现；把原文的「emails」换成了「enable、busy、employees」，主语或对象被调包。",
+         "C": "因果倒置：「usually」全文未出现。",
+         "D": "无中生有：「both、employers、answer」全文未出现；把原文的「emails」换成了「encourage、both、employers」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 349 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Female employees consistently pay lower airfares than men do for the same flights because they tend to book earlier. We compared the airfare paid by employees in the same position within a company for the same class of travel and used a common statistical technique to account for other factors that might affect differences in airfares. We found that women paid on average $18 less per ticket than their male colleagues. Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average. We wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late. None of these explained away the gender gap, so we applied data collected from surveys that express consumer preferences that play a central role in economic decisions, such as patience and risk avoidance. We found that only the concept of \"negative reciprocity\"—in which an employee who feels unfairly treated engages in negative behaviors, such as spending their company's money less carefully—explains these differences. The surveys showed men tend to exhibit more of these negative behaviors than women. This isn't to say that all men engage in these behaviors—or that booking relatively late is a sign of abnormal behavior. It only means that the gender gap disappears when we plug in the negative reciprocity variable. Prior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale(士气) and culture. Our results show another way these negative behaviors can manifest themselves, like in airline bookings, and add to evidence that women are less likely to engage in them. Companies spend significant sums of money on business travel. While that $18 difference per ticket may seem small, it adds up. Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What did the author's team conclude about the gender difference in airfares from their further investigation?",
+       "options": [
+        "It is largely attributed to women booking earlier than men.",
+        "It is largely explained by women's choosing cheaper flights.",
+        "It is mainly accounted for by male employees' readiness to pay more.",
+        "It is due to the fact that women care more about their company's money."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average.\n【依据】正确项的核心词 largely、women、earlier、men 与定位句对得上；其余 attributed、booking 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average.",
+        "why": "正确项的核心词 largely、women、earlier、men 与定位句对得上；其余 attributed、booking 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「cheaper」全文未出现；把原文的「largely、explained、women's」换成了「choosing、cheaper、flights」，主语或对象被调包。",
+         "C": "无中生有：「mainly、accounted、employees'」全文未出现。",
+         "D": "无中生有：「due、care、about」全文未出现；把原文的「fact、women」换成了「due、care、about」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What did the researchers want to determine by testing a variety of possible explanations?",
+       "options": [
+        "What made male frequent travelers book air tickets late.",
+        "What caused women to plan ahead in booking business trips.",
+        "What motivated women to book cheaper flights.",
+        "What accounted for the gender gap in airfares."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】We wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late.\n【依据】正确项的核心词 what、gender 与定位句对得上；其余 accounted、gap、airfares 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late.",
+        "why": "正确项的核心词 what、gender 与定位句对得上；其余 accounted、gap、airfares 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「made、air、tickets」全文未出现；把原文的「what、male、frequent」换成了「made、air、tickets」，主语或对象被调包。",
+         "B": "无中生有：「caused」全文未出现；把原文的「what、women、plan」换成了「caused」，主语或对象被调包。",
+         "C": "无中生有：「motivated、cheaper」全文未出现；把原文的「what、women、book」换成了「motivated、cheaper、flights」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What happened when the negative reciprocity variable was taken into account?",
+       "options": [
+        "Both men and women were found to engage in negative behaviors.",
+        "Neither men nor women viewed booking late as a bad behavior.",
+        "The gender difference in airfare expenses no longer existed.",
+        "The gender gap tended to narrow to a significant degree."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】It only means that the gender gap disappears when we plug in the negative reciprocity variable.\n【依据】正确项的核心词 gender 与定位句对得上；其余 difference、airfare、expenses、longer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It only means that the gender gap disappears when we plug in the negative reciprocity variable.",
+        "why": "正确项的核心词 gender 与定位句对得上；其余 difference、airfare、expenses、longer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「both」全文未出现；把原文的「negative」换成了「both、men、women」，主语或对象被调包。",
+         "B": "因果倒置：「neither、nor、viewed」全文未出现。",
+         "D": "偷换主体：「narrow、degree」全文未出现；把原文的「gender、gap」换成了「tended、narrow、significant」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What did prior research on negative reciprocity among workers find?",
+       "options": [
+        "It can do more harm to the workplace than to employees.",
+        "It contributes to the male-female divide in the workplace.",
+        "It proves to be counterproductive in a number of ways.",
+        "It can result in increasing labor-management conflicts."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Prior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale(士气) and culture.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 proves、counterproductive、number、ways 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Prior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale(士气) and culture.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 proves、counterproductive、number、ways 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「harm」全文未出现；把原文的「workplace、employees」换成了「harm」，主语或对象被调包。",
+         "B": "无中生有：「contributes、male-female、divide」全文未出现；把原文的「workplace」换成了「contributes、male-female、divide」，主语或对象被调包。",
+         "D": "无中生有：「increasing、labor-management、conflicts」全文未出现；把原文的「result」换成了「increasing、labor-management、conflicts」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author emphasize about their analysis in the last paragraph?",
+       "options": [
+        "It can help companies increase their savings significantly.",
+        "It can duly contribute to companies' business performance.",
+        "It can translate women's booking practice into men's behavior.",
+        "It can enhance large multinational companies' competitiveness."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers.\n【依据】正确项的核心词 companies、savings 与定位句对得上；其余 help、increase、significantly 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers.",
+        "why": "正确项的核心词 companies、savings 与定位句对得上；其余 help、increase、significantly 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「duly、contribute」全文未出现；把原文的「companies'」换成了「duly、contribute、business」，主语或对象被调包。",
+         "C": "无中生有：「practice、men's」全文未出现；把原文的「translate、women's、booking」换成了「practice、men's、behavior」，主语或对象被调包。",
+         "D": "无中生有：「enhance、competitiveness」全文未出现；把原文的「large、multinational、companies'」换成了「enhance、competitiveness」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 345 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "中国政府十分重视人民的健康饮食。通过大力提倡健康饮食，人们对合理营养增进健康的重要性有了更加深刻的认识。\"吃得安全、吃得营养、吃得健康\"是人民对美好生活的基本需要，是提升人民幸福感的必然要求，也为食品产业的发展提供了新机遇。目前，各级政府都在采取多种举措确保人民饮食健康，推进健康中国的建设。",
+     "reference": "The Chinese government attaches great importance to people's healthy diet. Through the vigorous promotion of a healthy diet, people have come to better understand the importance of balanced nutrition in improving health Eating safely, nutritiously and healthily is a basic need of the people for a better life, an inevitable requirement for enhancing their sense of happiness, and also offers new opportunities for the development of the food industry. At present, governments at all levels are taking various measures to ensure people's dietary health and promote the building of a Healthy China.",
+     "keyPoints": [
+      "The Chinese government attaches great importance to people's healthy diet.",
+      "Through the vigorous promotion of a healthy diet, people have come to better understand the importance of balanced nutrition in improving health Eating safely, nutritiously and healthily is a basic need of the people for a better life, an inevitable requirement for enhancing their sense of happiness, and also offers new opportunities for the development of the food industry.",
+      "At present, governments at all levels are taking various measures to ensure people's dietary health and promote the building of a Healthy China."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

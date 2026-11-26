@@ -1,0 +1,1182 @@
+{
+ "id": "cet4-2021-12-2",
+ "levelId": "cet4",
+ "title": "四级 2021 年 12 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年12月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2021-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2021-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "一名22岁的中国女性因持续咳嗽而震惊地得知"
+      },
+      {
+       "idx": 2,
+       "zh": "这名来自山东省的未透露姓名的女性"
+      },
+      {
+       "idx": 3,
+       "zh": "最终,这名女性在青岛市的一家医院进行了全身扫描"
+      },
+      {
+       "idx": 4,
+       "zh": "然而，这架飞机在开始丢失部分贵重货物后"
+      },
+      {
+       "idx": 5,
+       "zh": "报道称，一些金条散落在距离机场15英里远的地方"
+      },
+      {
+       "idx": 6,
+       "zh": "警方已经封锁了跑道，并表示尚不清楚这是一起事故还是抢劫未遂"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 那您需要直接在我们网站上更新您的银行卡信息"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 我已经登录了,我试试看"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 我会在系统里给您做个备注"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 非常感谢。"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 好的。那你会考虑墨西哥菜吗?哦不"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What was the woman's problem?",
+       "options": [
+        "She was pierced by a chicken bone.",
+        "She was coughing all the time.",
+        "She suffered from lung cancer.",
+        "She suffered from shock."
+       ],
+       "optionsZh": [
+        "她被鸡骨头刺伤了。",
+        "她一直在咳嗽。",
+        "她患有肺癌。",
+        "她受到了惊吓。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She was coughing all the time.（她一直在咳嗽。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "How was the woman's problem eventually solved?",
+       "options": [
+        "By eating chicken soup daily.",
+        "Through regular exercising.",
+        "Through a surgical operation.",
+        "By using traditional Chinese medicine."
+       ],
+       "optionsZh": [
+        "通过每天喝鸡汤。",
+        "通过定期锻炼。",
+        "通过外科手术。",
+        "通过使用中药。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Through a surgical operation.（通过外科手术。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the news report say about the white sheep Prickles?",
+       "options": [
+        "It was born 13 years ago.",
+        "It was Alice Gray's lovely pet.",
+        "It got injured in a big bushfire.",
+        "It ran away into a nearby forest."
+       ],
+       "optionsZh": [
+        "它出生于13年前。",
+        "它是Alice Gray心爱的宠物。",
+        "它在一场大型丛林火灾中受伤。",
+        "它跑进了附近的森林。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It ran away into a nearby forest.（它跑进了附近的森林。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What did the family do after the bushfires?",
+       "options": [
+        "They rebuilt the fencing around their farm.",
+        "They spent seven years replanting their farm.",
+        "They claimed damages for their heavy losses.",
+        "They installed a camera to monitor sheep activity."
+       ],
+       "optionsZh": [
+        "他们重建了农场周围的围栏。",
+        "他们花了七年时间重新种植农场。",
+        "他们为重大损失索赔。",
+        "他们安装了摄像头来监控羊的活动。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They rebuilt the fencing around their farm.（他们重建了农场周围的围栏。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What is the news report mainly about?",
+       "options": [
+        "The disappearance of some gold and diamonds.",
+        "The transfer of tons of precious metal by air.",
+        "The crash of a Russian cargo airplane.",
+        "The loss of gold from an airplane."
+       ],
+       "optionsZh": [
+        "一些黄金和钻石的失踪。",
+        "数吨贵重金属的空运。",
+        "一架俄罗斯货机的坠毁。",
+        "飞机上黄金的丢失。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The loss of gold from an airplane.（飞机上黄金的丢失。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What did the aircraft do when the incident happened?",
+       "options": [
+        "It made an emergency landing.",
+        "It informed the local police at once.",
+        "It contacted the goldmine company.",
+        "It had a crew member fix the problem."
+       ],
+       "optionsZh": [
+        "它进行了紧急降落。",
+        "它立即通知了当地警方。",
+        "它联系了金矿公司。",
+        "它让一名机组人员修理了问题。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It made an emergency landing.（它进行了紧急降落。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the news report say about the technical engineers who worked on the plane before take-off?",
+       "options": [
+        "They will cooperate with the police.",
+        "They had checked the plane carefully.",
+        "They will be questioned by the police.",
+        "They took some gold bars and diamonds."
+       ],
+       "optionsZh": [
+        "他们将配合警方工作。",
+        "他们曾仔细检查过飞机。",
+        "他们将接受警方问询。",
+        "他们拿走了一些金条和钻石。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They will be questioned by the police.（他们将接受警方问询。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "Why does the man have his conversation with the woman recorded?",
+       "options": [
+        "For the company's records.",
+        "For future training purposes.",
+        "To follow the company's rule.",
+        "To ensure information security."
+       ],
+       "optionsZh": [
+        "为了公司的记录。",
+        "为了将来的培训目的。",
+        "为了遵守公司的规定。",
+        "为了确保信息安全。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：For future training purposes.（为了将来的培训目的。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What is the woman's purpose of calling the furniture company?",
+       "options": [
+        "To check her customer reference number.",
+        "To inquire about the price of office chairs.",
+        "To get her money back for the returned chair.",
+        "To make complaints about its customer service."
+       ],
+       "optionsZh": [
+        "核查她的客户参考编号。",
+        "询问办公椅的价格。",
+        "为退回的椅子拿回她的钱。",
+        "对其客户服务进行投诉。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To get her money back for the returned chair.（为退回的椅子拿回她的钱。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the woman say about her bank card?",
+       "options": [
+        "She had to update its information.",
+        "She forgot where she had left it.",
+        "She lost it about three days ago.",
+        "She was issued a new card."
+       ],
+       "optionsZh": [
+        "她不得不更新其信息。",
+        "她忘记把它落在哪里了。",
+        "她大约三天前丢失了它。",
+        "她获发了一张新卡。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She was issued a new card.（她获发了一张新卡。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the man advise the woman to do?",
+       "options": [
+        "Reconsider her options for payment methods.",
+        "Make a specific note on the company's system.",
+        "Update her bank card details on the company's website.",
+        "Upload her personal information to the company's website."
+       ],
+       "optionsZh": [
+        "重新考虑她的支付方式选项。",
+        "在公司的系统上做一个具体备注。",
+        "在公司的网站上更新她的银行卡详细信息。",
+        "将她的个人信息上传到公司的网站。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Update her bank card details on the company's website.（在公司的网站上更新她的银行卡详细信息。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "Why isn't the man going to cook?",
+       "options": [
+        "He is feeling exhausted.",
+        "He is tired of cooking.",
+        "He has to work late.",
+        "He wants to try Asian foods."
+       ],
+       "optionsZh": [
+        "他感到筋疲力尽。",
+        "他厌倦了做饭。",
+        "他必须工作到很晚。",
+        "他想尝试亚洲食物。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He is feeling exhausted.（他感到筋疲力尽。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the man say he'll do on his phone?",
+       "options": [
+        "Book a table.",
+        "Order a delivery.",
+        "Download a menu.",
+        "Locate a restaurant."
+       ],
+       "optionsZh": [
+        "预订餐位。",
+        "订外卖。",
+        "下载菜单。",
+        "定位一家餐厅。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Order a delivery.（订外卖。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the woman think of Indian food?",
+       "options": [
+        "It is not tasty.",
+        "It is not healthy.",
+        "It is too oily.",
+        "It is too spicy."
+       ],
+       "optionsZh": [
+        "不好吃。",
+        "不健康。",
+        "太油腻。",
+        "太辣。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is too spicy.（太辣。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the man think of the woman?",
+       "options": [
+        "She is too concerned about money.",
+        "She is too weight-conscious.",
+        "She is too picky about food.",
+        "She is too eager to please."
+       ],
+       "optionsZh": [
+        "她太在意钱。",
+        "她太注重体重。",
+        "她对食物太挑剔。",
+        "她太急于取悦别人。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：She is too picky about food.（她对食物太挑剔。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What do we learn from the new study by the University of Lincoln?",
+       "options": [
+        "Owners' personalities affect their cats' behaviour and wellbeing.",
+        "Parents' personalities can affect the personalities of their children.",
+        "Parents and cat owners alike experience high levels of anxiety.",
+        "More and more people are treating pet cats like their children."
+       ],
+       "optionsZh": [
+        "主人的性格会影响他们的猫的行为和健康状况。",
+        "父母的性格会影响他们孩子的性格。",
+        "父母和养猫者都经历高度焦虑。",
+        "越来越多的人像对待孩子一样对待宠物猫。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Owners' personalities affect their cats' behaviour and wellbeing.（主人的性格会影响他们的猫的行为和健康状况。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the passage say most pet owners want to do?",
+       "options": [
+        "Give their pets behavioural training.",
+        "Provide their pets with the best care.",
+        "Know their pets' feelings and desires.",
+        "Interact with their pets in novel ways."
+       ],
+       "optionsZh": [
+        "给他们的宠物进行行为训练。",
+        "为他们的宠物提供最好的照顾。",
+        "了解他们宠物的感受和愿望。",
+        "以新颖的方式与他们的宠物互动。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Provide their pets with the best care.（为他们的宠物提供最好的照顾。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What does the passage say is still needed to understand the effects of owners' personalities on their pets?",
+       "options": [
+        "More convincing explanation.",
+        "More extensive sampling.",
+        "Collection of more data.",
+        "Further investigation."
+       ],
+       "optionsZh": [
+        "更有说服力的解释。",
+        "更广泛的取样。",
+        "收集更多数据。",
+        "进一步调查。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Further investigation.（进一步调查。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What did the new review of studies claim?",
+       "options": [
+        "People should do more running than mere walking.",
+        "Running is the best exercise for extending one's life.",
+        "People should exercise at least 60 minutes every day.",
+        "Running is the easiest form of exercise for most people."
+       ],
+       "optionsZh": [
+        "人们应该多跑步而不是仅仅走路。",
+        "跑步是延长寿命的最佳运动。",
+        "人们每天至少应该运动60分钟。",
+        "跑步是对大多数人来说最容易的运动形式。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Running is the best exercise for extending one's life.（跑步是延长寿命的最佳运动。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What is one effect that running has on people according to recent research?",
+       "options": [
+        "Improving their brain function.",
+        "Regulating their breathing rate.",
+        "Slowing down their ageing process.",
+        "Accelerating their blood circulation."
+       ],
+       "optionsZh": [
+        "改善大脑功能。",
+        "调节呼吸频率。",
+        "减缓衰老过程。",
+        "加速血液循环。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Improving their brain function.（改善大脑功能。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What did another study find about the participants after they had a 30-minute jog?",
+       "options": [
+        "They found it easy to control their emotions.",
+        "They struggled to handle negative emotions.",
+        "They were more eager to enjoy a movie.",
+        "They were less affected by sad movies."
+       ],
+       "optionsZh": [
+        "他们发现控制情绪变得容易了。",
+        "他们难以处理负面情绪。",
+        "他们更渴望欣赏电影。",
+        "他们受悲伤电影的影响更小。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They were less affected by sad movies.（他们受悲伤电影的影响更小。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do we learn about the speaker?",
+       "options": [
+        "He is a tour guide.",
+        "He is a famous architect.",
+        "He is a local entrepreneur.",
+        "He is the owner of the Hill House."
+       ],
+       "optionsZh": [
+        "他是一名导游。",
+        "他是一位著名建筑师。",
+        "他是一位本地企业家。",
+        "他是Hill House的主人。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He is a tour guide.（他是一名导游。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What did the architect do before beginning his design?",
+       "options": [
+        "He studied the blueprints of other famous buildings.",
+        "He inquired about his client's family background.",
+        "He observed his client's life and habits.",
+        "He took a tour of his client's old home."
+       ],
+       "optionsZh": [
+        "他研究了其他著名建筑的蓝图。",
+        "他询问了客户的家庭背景。",
+        "他观察了客户的生活和习惯。",
+        "他参观了客户的旧居。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He observed his client's life and habits.（他观察了客户的生活和习惯。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What did the architect's client mainly want?",
+       "options": [
+        "A house made of timber and brick.",
+        "A house with a lot of free space.",
+        "A house of the current fashion.",
+        "A house of a unique design."
+       ],
+       "optionsZh": [
+        "一座木材和砖砌的房子。",
+        "一座有大量自由空间的房子。",
+        "一座符合当前时尚的房子。",
+        "一座独特设计的房子。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：A house of a unique design.（一座独特设计的房子。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What do we learn about the pieces of furniture in the children's bedrooms?",
+       "options": [
+        "They are well preserved and in pretty good shape.",
+        "They are copies built to the architect's designs.",
+        "They were designed by another architect.",
+        "They were badly damaged but restored."
+       ],
+       "optionsZh": [
+        "它们保存完好,状况相当不错。",
+        "它们是按照建筑师的设计建造的复制品。",
+        "它们由另一位建筑师设计。",
+        "它们曾严重损坏但已修复。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They are copies built to the architect's designs.（它们是按照建筑师的设计建造的复制品。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose your university student union is planning to hold a speech contest. You are now to write a proposal for organizing the contest. The proposal may include the topic, aim , procedure and selection of contestants. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "A Proposal for a Speech Contest On behalf of the Student Union, I am writing to propose that our university\nhold a campus speech contest next month, and the details are outlined below for your approval.\nThe contest will focus on the theme \"My Chinese Dream.\" Our aim is to sharpen students' public-speaking\nskills, build their confidence, and enrich campus cultural life.\nAs for the procedure, we will first post a notice to call for entries. Then a preliminary round will be held\nin each college. Finally, twelve finalists will deliver their speeches on stage, scored by a panel of teachers\nand students.\nThe selection of contestants will be fair and open: applicants must submit a written draft, and those with clear\nideas and fluent expression will be shortlisted through a short interview. We sincerely hope you will approve\nthis proposal, and any suggestions would be warmly welcomed. The Student Union"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "It is commonly believed that the great English dramatist and poet William Shakespeare was born in Stratford-on-Avon on April 23, 1564. But it is impossible to know the {{1}} day on which he was born. Church records show he was baptized(施洗礼) on April 26, and three days was a customary amount of time to wait before baptizing a newly born baby. Shakespeare's date of death is {{2}} known, however: it was April 23, 1616. He was 52 and had retired to Stratford three years before. Although few plays have been performed or analyzed as extensively as the 38 plays Shakespeare wrote, there are few surviving details about his life. This {{3}} of biographical information is due primarily to his social {{4}} ; he was not a noble, but the son of a leather trader. Shakespeare {{5}} attended the grammar school in Stratford, where he would have studied Latin and read {{6}} literature. He did not go to university and at age 18 married Anne Hathaway, who was eight years his {{7}} . They had four children, including the twins, Hamnet and Judith. Nothing is known of the period between the birth of the twins and Shakespeare's {{8}} as a dramatist in London in the early 1590s. In a million words written over 20 years, he {{9}} the full range of human emotions and conflicts with a {{10}} that remains sharp today. As his great contemporary the poet and dramatist Ben Jonson said, \"He was not of an age, but for all time.\"",
+     "options": [
+      "captured",
+      "classical",
+      "conclusively",
+      "emergence",
+      "exact",
+      "generated",
+      "particular",
+      "position",
+      "precision",
+      "probably",
+      "quality",
+      "scarcity",
+      "senior",
+      "separated",
+      "systematically"
+     ],
+     "answers": [
+      4,
+      2,
+      11,
+      7,
+      9,
+      1,
+      12,
+      3,
+      0,
+      8
+     ],
+     "blankExplains": [
+      "【定位】But it is impossible to know the ____ day on which he was born.\n【依据】答案是 exact：填回后与所在句 impossible、know、day、which、born 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Shakespeare's date of death is ____ known, however: it was April 23, 1616.\n【依据】答案是 conclusively：填回后与所在句 shakespeare's、date、death、known、however、april 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This ____ of biographical information is due primarily to his social  … ; he was not a noble, but the son of a leather trader.\n【依据】答案是 scarcity：填回后与所在句 biographical、information、due、primarily、social、noble 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This  … of biographical information is due primarily to his social ____ ; he was not a noble, but the son of a leather trader.\n【依据】答案是 position：填回后与所在句 biographical、information、due、primarily、social、noble 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Shakespeare ____ attended the grammar school in Stratford, where he would have studied Latin and read  … literature.\n【依据】答案是 probably：填回后与所在句 shakespeare、attended、grammar、school、stratford、where 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Shakespeare  … attended the grammar school in Stratford, where he would have studied Latin and read ____ literature.\n【依据】答案是 classical：填回后与所在句 shakespeare、attended、grammar、school、stratford、where 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】He did not go to university and at age 18 married Anne Hathaway, who was eight years his ____ .\n【依据】答案是 senior：填回后与所在句 university、age、married、anne、hathaway、who 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Nothing is known of the period between the birth of the twins and Shakespeare's ____ as a dramatist in London in the early 1590s.\n【依据】答案是 emergence：填回后与所在句 nothing、known、period、between、birth、twins 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In a million words written over 20 years, he ____ the full range of human emotions and conflicts with a  … that remains sharp today.\n【依据】答案是 captured：填回后与所在句 million、words、written、over、years、full 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In a million words written over 20 years, he  … the full range of human emotions and conflicts with a ____ that remains sharp today.\n【依据】答案是 precision：填回后与所在句 million、words、written、over、years、full 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "But it is impossible to know the ____ day on which he was born.",
+       "why": "答案是 exact：填回后与所在句 impossible、know、day、which、born 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exact 这个词性/语义，而不是 emergence）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exact 这个词性/语义，而不是 captured）。"
+       }
+      },
+      {
+       "locate": "Shakespeare's date of death is ____ known, however: it was April 23, 1616.",
+       "why": "答案是 conclusively：填回后与所在句 shakespeare's、date、death、known、however、april 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 conclusively 这个词性/语义，而不是 captured）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 conclusively 这个词性/语义，而不是 classical）。"
+       }
+      },
+      {
+       "locate": "This ____ of biographical information is due primarily to his social  … ; he was not a noble, but the son of a leather trader.",
+       "why": "答案是 scarcity：填回后与所在句 biographical、information、due、primarily、social、noble 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 scarcity 这个词性/语义，而不是 senior）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 scarcity 这个词性/语义，而不是 separated）。"
+       }
+      },
+      {
+       "locate": "This  … of biographical information is due primarily to his social ____ ; he was not a noble, but the son of a leather trader.",
+       "why": "答案是 position：填回后与所在句 biographical、information、due、primarily、social、noble 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 position 这个词性/语义，而不是 particular）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 position 这个词性/语义，而不是 precision）。"
+       }
+      },
+      {
+       "locate": "Shakespeare ____ attended the grammar school in Stratford, where he would have studied Latin and read  … literature.",
+       "why": "答案是 probably：填回后与所在句 shakespeare、attended、grammar、school、stratford、where 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 probably 这个词性/语义，而不是 precision）。",
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 probably 这个词性/语义，而不是 particular）。"
+       }
+      },
+      {
+       "locate": "Shakespeare  … attended the grammar school in Stratford, where he would have studied Latin and read ____ literature.",
+       "why": "答案是 classical：填回后与所在句 shakespeare、attended、grammar、school、stratford、where 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 classical 这个词性/语义，而不是 captured）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 classical 这个词性/语义，而不是 conclusively）。"
+       }
+      },
+      {
+       "locate": "He did not go to university and at age 18 married Anne Hathaway, who was eight years his ____ .",
+       "why": "答案是 senior：填回后与所在句 university、age、married、anne、hathaway、who 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 senior 这个词性/语义，而不是 separated）。",
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 senior 这个词性/语义，而不是 scarcity）。"
+       }
+      },
+      {
+       "locate": "Nothing is known of the period between the birth of the twins and Shakespeare's ____ as a dramatist in London in the early 1590s.",
+       "why": "答案是 emergence：填回后与所在句 nothing、known、period、between、birth、twins 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 emergence 这个词性/语义，而不是 exact）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 emergence 这个词性/语义，而不是 captured）。"
+       }
+      },
+      {
+       "locate": "In a million words written over 20 years, he ____ the full range of human emotions and conflicts with a  … that remains sharp today.",
+       "why": "答案是 captured：填回后与所在句 million、words、written、over、years、full 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 captured 这个词性/语义，而不是 classical）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 captured 这个词性/语义，而不是 conclusively）。"
+       }
+      },
+      {
+       "locate": "In a million words written over 20 years, he  … the full range of human emotions and conflicts with a ____ that remains sharp today.",
+       "why": "答案是 precision：填回后与所在句 million、words、written、over、years、full 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 precision 这个词性/语义，而不是 probably）。",
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 precision 这个词性/语义，而不是 particular）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Humans are creatures of habit. We love to establish a routine and stick with it. Then we often put ourselves on auto-pilot. Routines can be incredibly useful in helping you get things done. However, too much of a routine can also make you incredibly boring. Nevertheless, many people live lives that are boringly predictable, or live a life where everything is outlined or planned."
+      },
+      {
+       "id": "B",
+       "text": "To tell the truth, interesting people are more popular among their friends. If you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull. But that doesn't mean your life has ended and you can't do anything to change it. If you find yourself searching for something to say beyond small talk, try these tactics to find more interesting approaches to conversation."
+      },
+      {
+       "id": "C",
+       "text": "Recently, I was at a gathering of colleagues when someone turned to me and asked, \"So, what's new with you?\" Ordinarily, I think I'm a good conversationalist. After all, it's literally my job to talk to people and tell their stories or share their advice. And that's not exactly an unexpected question. Still, the only \"new-to-me\" topics that came to mind were my daughter's basketball tournament(锦标赛) and my feelings about that morning's political headlines—neither amusing nor appropriate topics at that moment."
+      },
+      {
+       "id": "D",
+       "text": "Oh, no, I thought. Have I become boring? But sharing our experiences in an authentic way to connect with other people is what makes us interesting, says associate professor Michael Pirson. The hesitation I felt in not sharing the ordinary things that were happening in my life, and the wild mental search for something more interesting, may have backfired and made me seem less interesting."
+      },
+      {
+       "id": "E",
+       "text": "\"If someone is making up some conversation that might be interesting, it's probably not going to land well,\" says Pirson, whose expertise includes trust and well-being, mindfulness, and humanistic management. \"It's going to feel like a made-up conversation that people don't necessarily want to tune in to.\""
+      },
+      {
+       "id": "F",
+       "text": "The most interesting people aren't those who've gone on some Eat, Pray, Love journey to find themselves. Instead, Pirson says, they're those who examine the ordinary. \"Often, the 'boring things' may not be boring at all. Maybe they are actually little miracles,\" he says. Share your observations about the world around you—interesting stories you heard or things you noticed—and you may be surprised by the universal connection they inspire."
+      },
+      {
+       "id": "G",
+       "text": "This is essentially how Jessica Hagy starts her day. The author of How to Be Interesting: An Instruction Manual, Hagy spends a lot of time thinking about what's interesting to her. People who are interesting are persistently curious, she says."
+      },
+      {
+       "id": "H",
+       "text": "Think about the everyday things around you and ask questions about them. What is that roadside monument I see on my way to work every day? Who built that interesting building in my city? What nearby attractions haven't I visited? Why do people do things that way? Use what you find to ask more questions and learn more about the world around you. \"Having that sort of curiosity is almost like a protective gear from getting into boredom,\" she says. And when you find things that are truly interesting to you, share them."
+      },
+      {
+       "id": "I",
+       "text": "Television veteran Audrey Morrissey, executive producer of NBC's The Voice, is always looking for what will make a person or story interesting to viewers: It's usually a matter of individuality. \"Having a strong point of view, signature style, or being a super-enthusiast in a particular field makes someone interesting,\" she says. That means embracing what is truly interesting or unique about yourself. \"Many people are 'not boring' in the way that they can carry a conversation or can be good at a social gathering, etc. To be interesting means that you have lived life, taken risks, traveled, sought out experience to learn for yourself and share with others,\" she says."
+      },
+      {
+       "id": "J",
+       "text": "Of course, it's possible to be a fountain of knowledge and a boring person, says public relations consultant Andrea Pass. Paying attention to the listener is an important part of having a conversation that's interesting to both parties. Talking on and on about what's interesting to you isn't going to make you an interesting person, she says."
+      },
+      {
+       "id": "K",
+       "text": "\"If the listener is not paying attention, it's your sign to shorten the story or change direction. Make sure to bring the audience into the conversation so that it is not one-sided,\" Pass says. Be a better listener yourself, and give others opportunities to participate in the conversation by inviting them with questions or requests to share their own experiences or thoughts. (e.g., \"Now, tell me about your favorite book,\" or \"Have you ever been to that attraction?\") Questions are a powerful tool, especially when they encourage others to disclose information about themselves. A 2012 study from the University of California, Santa Barbara, found that roughly 40% of the time we are talking, we're disclosing subjective information about our experience. And when we're doing so, our brains are more engaged. So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves."
+      },
+      {
+       "id": "L",
+       "text": "Being relatable is also essential, Morrissey says. \"The best entertainment and storytelling comes from people who are relatable-those who don't shy away from opening up but freely share who they are and what they care about. These are the people viewers most relate to and find interesting. Being authentic, honest, and vulnerable is always interesting.\""
+      },
+      {
+       "id": "M",
+       "text": "I have now come to realize that being boring, in actuality, is not only about who you are as a person, but also how you present yourself. No matter what, make sure you are having fun in life. Because when you are enjoying, people around you will begin to enjoy as well. Show some interest in them and they will definitely show some in you. If you are a very reserved person, this could be a little difficult at first. But with a little effort, you can definitely improve."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Pirson claims that some ordinary things may often prove to be miraculously interesting."
+      },
+      {
+       "id": "s37",
+       "text": "To make a conversation interesting, it is important that you listen to the other party attentively."
+      },
+      {
+       "id": "s38",
+       "text": "A person who is unable to stimulate others' curiosity or make their life enjoyable may appear somewhat boring."
+      },
+      {
+       "id": "s39",
+       "text": "Interesting people usually possess certain unique qualities, according to a TV program producer."
+      },
+      {
+       "id": "s40",
+       "text": "Be interested in others and they are sure to be interested in you."
+      },
+      {
+       "id": "s41",
+       "text": "The author considers himself usually good at conducting conversations."
+      },
+      {
+       "id": "s42",
+       "text": "Interesting people are always full of curiosity."
+      },
+      {
+       "id": "s43",
+       "text": "Falling into a routine can turn a person into an utter bore."
+      },
+      {
+       "id": "s44",
+       "text": "One strategy to be a good conversationalist is to motivate your partner to tell their own stories."
+      },
+      {
+       "id": "s45",
+       "text": "Interesting as it might appear, a made-up conversation will probably turn out to be dull."
+      }
+     ],
+     "answers": [
+      "F",
+      "J",
+      "B",
+      "I",
+      "M",
+      "C",
+      "G",
+      "A",
+      "K",
+      "E"
+     ],
+     "statementExplains": [
+      "【定位】Instead, Pirson says, they're those who examine the ordinary.\n【依据】陈述里的 pirson、ordinary 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Paying attention to the listener is an important part of having a conversation that's interesting to both parties.\n【依据】陈述里的 conversation、interesting、important、listen、attentively 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】If you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull.\n【依据】陈述里的 curiosity 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Television veteran Audrey Morrissey, executive producer of NBC's The Voice, is always looking for what will make a person or story interesting to viewers: It's usually a matter of individuality.\n【依据】陈述里的 interesting、usually、producer 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Show some interest in them and they will definitely show some in you.\n【依据】陈述里的 interested、interested 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】Recently, I was at a gathering of colleagues when someone turned to me and asked, \"So, what's new with you?\" Ordinarily, I think I'm a good conversationalist.\n【依据】陈述里的 good、conversations 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】People who are interesting are persistently curious, she says.\n【依据】陈述里的 interesting、people、curiosity 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】We love to establish a routine and stick with it.\n【依据】陈述里的 routine 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves.\n【依据】陈述里的 strategy、conversationalist、partner 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】\"If someone is making up some conversation that might be interesting, it's probably not going to land well,\" says Pirson, whose expertise includes trust and well-being, mindfulness, and humanistic management.\n【依据】陈述里的 interesting、conversation、probably 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Instead, Pirson says, they're those who examine the ordinary.",
+       "why": "陈述里的 pirson、ordinary 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Paying attention to the listener is an important part of having a conversation that's interesting to both parties.",
+       "why": "陈述里的 conversation、interesting、important、listen、attentively 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull.",
+       "why": "陈述里的 curiosity 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Television veteran Audrey Morrissey, executive producer of NBC's The Voice, is always looking for what will make a person or story interesting to viewers: It's usually a matter of individuality.",
+       "why": "陈述里的 interesting、usually、producer 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Show some interest in them and they will definitely show some in you.",
+       "why": "陈述里的 interested、interested 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Recently, I was at a gathering of colleagues when someone turned to me and asked, \"So, what's new with you?\" Ordinarily, I think I'm a good conversationalist.",
+       "why": "陈述里的 good、conversations 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "People who are interesting are persistently curious, she says.",
+       "why": "陈述里的 interesting、people、curiosity 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "We love to establish a routine and stick with it.",
+       "why": "陈述里的 routine 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves.",
+       "why": "陈述里的 strategy、conversationalist、partner 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"If someone is making up some conversation that might be interesting, it's probably not going to land well,\" says Pirson, whose expertise includes trust and well-being, mindfulness, and humanistic management.",
+       "why": "陈述里的 interesting、conversation、probably 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "With obesity now affecting 29% of the population in England, and expected to rise to 35% by 2030, should we now recognise it as a disease? Obesity, in which excess body fat has accumulated to such an extent that health may be adversely affected, meets the dictionary definition of disease, argues Professor John Wilding. He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it. Recognising obesity as a chronic disease with severe complications rather than a lifestyle choice \"should help reduce the stigma(耻辱) and discrimination experienced by many people with obesity,\" he adds. Professor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, pointing out that other common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition. He suggests that most people with obesity will eventually develop complications. \"But unless we accept that obesity is a disease, we are not going to be able to tackle it,\" he concludes. But Dr. Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end. If labelling obesity as a disease was harmless then it wouldn't really matter, he writes. But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic(内在的) motivation that is such an important enabler of change.\" What's more, making obesity a disease \"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical(制药的) industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\" he warns.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does Professor John Wilding argue about obesity?",
+       "options": [
+        "Its impact on society is expected to rise.",
+        "It is now too widespread to be neglected.",
+        "It should be regarded as a genetic disease.",
+        "Its dictionary definition should be updated."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Obesity, in which excess body fat has accumulated to such an extent that health may be adversely affected, meets the dictionary definition of disease, argues Professor John Wilding.\n【依据】正确项的核心词 disease 与定位句对得上；其余 regarded、genetic 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Obesity, in which excess body fat has accumulated to such an extent that health may be adversely affected, meets the dictionary definition of disease, argues Professor John Wilding.",
+        "why": "正确项的核心词 disease 与定位句对得上；其余 regarded、genetic 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「impact」全文未出现。",
+         "B": "因果倒置：「too、neglected」全文未出现。",
+         "D": "无中生有：「updated」全文未出现；把原文的「dictionary、definition」换成了「updated」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What is the popular view of obesity?",
+       "options": [
+        "It is difficult to define.",
+        "It is a modern disease.",
+        "It has much to do with one's genes.",
+        "It results from a lack of self-control."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】\"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it.\n【依据】正确项的核心词 self-control 与定位句对得上；其余 results、lack 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it.",
+        "why": "正确项的核心词 self-control 与定位句对得上；其余 results、lack 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「difficult、define」全文未出现。",
+         "B": "因果倒置：「modern」全文未出现。",
+         "C": "无中生有：「much、one's」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "Why are some people opposed to labelling obesity as a disease?",
+       "options": [
+        "Obese people would not feel responsible to take any action.",
+        "Obese people would not be able to afford the medical costs.",
+        "Obese people would be overwhelmed with anxiety.",
+        "Obese people would be discriminated against."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Professor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, pointing out that other common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition.\n【依据】正确项的核心词 people、responsible、take、action 与定位句对得上；其余 obese、feel 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Professor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, pointing out that other common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition.",
+        "why": "正确项的核心词 people、responsible、take、action 与定位句对得上；其余 obese、feel 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「obese、afford、medical」全文未出现；把原文的「people」换成了「obese、able、afford」，主语或对象被调包。",
+         "C": "无中生有：「obese、anxiety」全文未出现；把原文的「people、overwhelmed」换成了「obese、anxiety」，主语或对象被调包。",
+         "D": "无中生有：「obese、discriminated、against」全文未出现；把原文的「people」换成了「obese、discriminated、against」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does Dr. Richard Pile think of the dictionary definition of disease?",
+       "options": [
+        "It is of no use in understanding obesity.",
+        "It is too inclusive and thus lacks clarity.",
+        "It helps little to solve patients' problems.",
+        "It matters little to the debate over obesity."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 too、inclusive、thus、lacks 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 too、inclusive、thus、lacks 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「use、understanding」全文未出现。",
+         "C": "无中生有：「helps、little、solve」全文未出现。",
+         "D": "无中生有：「matters、little、debate」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What is Dr. Richard Pile's concern about classifying obesity as a disease?",
+       "options": [
+        "It may affect obese people's quality of life.",
+        "It may accelerate the spread of obesity.",
+        "It may cause a shortage of doctors.",
+        "It may do little good to patients."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 little、good、patients 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 little、good、patients 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「affect、obese、people's」全文未出现。",
+         "B": "无中生有：「accelerate、spread」全文未出现。",
+         "C": "无中生有：「cause、shortage、doctors」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 344 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. Research has found that having access to diverse teachers is beneficial for children. For the youngest learners, it means they are more likely to get exposed to different varieties of play and communication. It also helps them develop healthy ideas around gender. \"In our world and our society, we have very specific stereotypes(模式化形象) of gender roles,\" said Mindi Reich-Shapiro, an assistant professor in the teacher education department of the Borough of Manhattan Community College, and one of the authors of a recent study. \"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers. Some also reported that there were parents surprised or concerned that their child had a male teacher. And they had been advised by colleagues or other staff not to hug children. Reich-Shapiro and fellow researchers made several recommendations to increase male representation in the field. Low pay has long been acknowledged as a major issue in the early childhood field. Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term. The report suggests paying all early childhood educators the way elementary school teachers are paid. Cities and programs should establish support groups for male early childhood educators and provide mentoring and professional development advice for male educators and their program leaders. The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn from the first paragraph about early childhood education in the U.S.?",
+       "options": [
+        "It helps raise children's awareness of gender roles.",
+        "It exposes children to different ways of interaction.",
+        "It is negatively impacted by a lack of male teachers.",
+        "It clearly aims to form children's identity through play."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】\"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers.\n【依据】正确项的核心词 male、teachers 与定位句对得上；其余 negatively、impacted、lack 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers.",
+        "why": "正确项的核心词 male、teachers 与定位句对得上；其余 negatively、impacted、lack 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「raise、awareness」全文未出现；把原文的「children's」换成了「helps、raise、awareness」，主语或对象被调包。",
+         "B": "无中生有：「exposes、ways、interaction」全文未出现；把原文的「children」换成了「exposes、different、ways」，主语或对象被调包。",
+         "D": "偷换主体：「clearly、aims、form」全文未出现；把原文的「children's」换成了「clearly、aims、form」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does Mindi Reich-Shapiro emphasize in her comment on childhood education?",
+       "options": [
+        "The importance of broadening children's horizons.",
+        "The responsibilities of fathers for children's growth.",
+        "The urgency of creating teacher education programs.",
+        "The role of teachers in motivating children to learn."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】\"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers.\n【依据】正确项的核心词 importance、children's 与定位句对得上；其余 broadening、horizons 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers.",
+        "why": "正确项的核心词 importance、children's 与定位句对得上；其余 broadening、horizons 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「responsibilities、growth」全文未出现；把原文的「children's」换成了「responsibilities、fathers、growth」，主语或对象被调包。",
+         "C": "无中生有：「urgency、creating」全文未出现；把原文的「teacher、education」换成了「urgency、creating、programs」，主语或对象被调包。",
+         "D": "无中生有：「role、learn」全文未出现；把原文的「teachers、children」换成了「role、motivating、learn」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do we learn about male teachers from their responses in the study?",
+       "options": [
+        "Some of them find it awkward when hugging children.",
+        "They feel pressured to keep up with female colleagues.",
+        "They find it hard to meet the expectations of kids' parents.",
+        "Many of them feel prejudiced against socially and culturally."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】\"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers.\n【依据】正确项的核心词 many、socially、culturally 与定位句对得上；其余 feel、prejudiced、against 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers.",
+        "why": "正确项的核心词 many、socially、culturally 与定位句对得上；其余 feel、prejudiced、against 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「find、awkward、when」全文未出现；把原文的「children」换成了「find、awkward、when」，主语或对象被调包。",
+         "B": "无中生有：「feel、pressured、keep」全文未出现；把原文的「colleagues」换成了「feel、pressured、keep」，主语或对象被调包。",
+         "C": "无中生有：「find、hard、meet」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What is needed for men to commit to early childhood education?",
+       "options": [
+        "Higher pay.",
+        "Job security.",
+        "Social recognition.",
+        "Better working conditions."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 higher、pay 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 higher、pay 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「job、security」全文未出现。",
+         "C": "因果倒置：「recognition」全文未出现。",
+         "D": "无中生有：「better、working、conditions」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What do the authors of the study recommend to bridge the gender gap in early childhood education?",
+       "options": [
+        "Recruiting young men who have a passion for educating young children.",
+        "Taking measures to attract prospective male teachers to work in the field.",
+        "Persuading prospective fathers to consider a change in their career.",
+        "Providing male teachers with more opportunities for advancement."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.\n【依据】正确项的核心词 work、field 与定位句对得上；其余 taking、measures、attract、prospective 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.",
+        "why": "正确项的核心词 work、field 与定位句对得上；其余 taking、measures、attract、prospective 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「passion」全文未出现；把原文的「recruiting、young、men」换成了「passion」，主语或对象被调包。",
+         "C": "无中生有：「persuading、prospective」全文未出现；把原文的「fathers、consider、change」换成了「persuading、prospective」，主语或对象被调包。",
+         "D": "偷换主体：「advancement」全文未出现；把原文的「providing、opportunities」换成了「male、teachers、advancement」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 345 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "坎儿井是新疆干旱地区的一种水利系统，由地下渠道将水井连接而成。该系统将春夏季节渗入地下的大量雨水及积雪融水收集起来，通过山体的自然坡度引到地面，用于灌溉农田和满足人们的日常用水需求。坎儿井减少了水在地面的蒸发对地表破坏很小，因而有效地保护了自然资源与生态环境。坎儿井体现了我国人民与自然和谐共存的智慧，是对人类文明的一大贡献。",
+     "reference": "Karez is a water conservancy system in the arid areas of Xinjiang, formed by underground channels that connect a series of wells. The system collects large amounts of rainwater and meltwater that seep into the ground in spring and summer, and channels them to the surface through the natural slope of the mountains to irrigate farmland and meet people's daily water needs. Karez reduces the evaporation of water from the ground and causes little damage to the surface, and thus effectively protects natural resources and the ecological environment. Karez embodies the wisdom of the Chinese people in living in harmony with nature, and is a great contribution to human civilization.",
+     "keyPoints": [
+      "Karez is a water conservancy system in the arid areas of Xinjiang, formed by underground channels that connect a series of wells.",
+      "The system collects large amounts of rainwater and meltwater that seep into the ground in spring and summer, and channels them to the surface through the natural slope of the mountains to irrigate farmland and meet people's daily water needs.",
+      "Karez reduces the evaporation of water from the ground and causes little damage to the surface, and thus effectively protects natural resources and the ecological environment.",
+      "Karez embodies the wisdom of the Chinese people in living in harmony with nature, and is a great contribution to human civilization."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,610 @@
+{
+ "id": "cet6-2023-12-3",
+ "levelId": "cet6",
+ "title": "六级 2023 年 12 月 第 3 套",
+ "minutes": 130,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2023年12月英语六级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2023-12-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “With their valuable skills and experience, elderly people can continue to make significant contributions to society.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Modern U.S. cities were designed to make exercise unnecessary. Cars and elevators once symbolized urban areas as machines for more efficient living. Now it is clear that these improvements provide great benefits but also {{1}} health costs. Recent studies show that urban {{2}} encourages more driving and is associated with heavier weight. This {{3}} suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is {{4}} that urban planners bear this in mind. Unfortunately, urban planning still centers in large part on solving the problems of the past. Of course cities still need to {{5}} standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through {{6}} residential areas. But it's also important to create healthier cities—and the discussion is already underway. More and more city planners are paying increasing attention to encouraging physical activity by making it easier and safer for people to recreate, walk, bike and take public transportation. Many studies of {{7}} show that people live the longest in environments where physical activity is part of everyday life. Providing more walkable spaces, better protected bike lanes and more {{8}} spaces are important steps. But even smaller changes can be effective. Cities can close off streets on weekends to encourage communities to get out and walk. They also can provide more seating in public places, so that less-fit residents can rest during their journeys. Using public spaces in cities as places where people can exercise promotes {{9}} , rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that {{10}} less wealthy people from joining.",
+     "options": [
+      "correlation",
+      "dense",
+      "deter",
+      "equity",
+      "foster",
+      "imperative",
+      "impose",
+      "irrespective",
+      "longevity",
+      "navigate",
+      "recreational",
+      "rotten",
+      "sprawl",
+      "vibrate",
+      "vicinity"
+     ],
+     "answers": [
+      6,
+      12,
+      0,
+      5,
+      4,
+      1,
+      8,
+      10,
+      3,
+      2
+     ],
+     "blankExplains": [
+      "【定位】Now it is clear that these improvements provide great benefits but also ____ health costs.\n【依据】答案是 impose：填回后与所在句 now、clear、improvements、provide、great、benefits 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Recent studies show that urban ____ encourages more driving and is associated with heavier weight.\n【依据】答案是 sprawl：填回后与所在句 recent、studies、show、urban、encourages、driving 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This ____ suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is  … that urban planners bear this in mind.\n【依据】答案是 correlation：填回后与所在句 suggests、layout、design、cities、hinder、promote 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This  … suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is ____ that urban planners bear this in mind.\n【依据】答案是 imperative：填回后与所在句 suggests、layout、design、cities、hinder、promote 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Of course cities still need to ____ standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through  … residential areas.\n【依据】答案是 foster：填回后与所在句 course、cities、still、need、standard、public 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Of course cities still need to  … standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through ____ residential areas.\n【依据】答案是 dense：填回后与所在句 course、cities、still、need、standard、public 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Many studies of ____ show that people live the longest in environments where physical activity is part of everyday life.\n【依据】答案是 longevity：填回后与所在句 many、studies、show、people、live、longest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Providing more walkable spaces, better protected bike lanes and more ____ spaces are important steps.\n【依据】答案是 recreational：填回后与所在句 providing、walkable、spaces、better、protected、bike 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Using public spaces in cities as places where people can exercise promotes ____ , rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that  … less wealthy people from joining.\n【依据】答案是 equity：填回后与所在句 using、public、spaces、cities、places、where 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Using public spaces in cities as places where people can exercise promotes  … , rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that ____ less wealthy people from joining.\n【依据】答案是 deter：填回后与所在句 using、public、spaces、cities、places、where 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Now it is clear that these improvements provide great benefits but also ____ health costs.",
+       "why": "答案是 impose：填回后与所在句 now、clear、improvements、provide、great、benefits 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "与 impose 拼写相近（共同开头 imp），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 impose 这个词性/语义，而不是 irrespective）。"
+       }
+      },
+      {
+       "locate": "Recent studies show that urban ____ encourages more driving and is associated with heavier weight.",
+       "why": "答案是 sprawl：填回后与所在句 recent、studies、show、urban、encourages、driving 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 sprawl 这个词性/语义，而不是 correlation）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 sprawl 这个词性/语义，而不是 dense）。"
+       }
+      },
+      {
+       "locate": "This ____ suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is  … that urban planners bear this in mind.",
+       "why": "答案是 correlation：填回后与所在句 suggests、layout、design、cities、hinder、promote 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlation 这个词性/语义，而不是 dense）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlation 这个词性/语义，而不是 deter）。"
+       }
+      },
+      {
+       "locate": "This  … suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is ____ that urban planners bear this in mind.",
+       "why": "答案是 imperative：填回后与所在句 suggests、layout、design、cities、hinder、promote 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "与 imperative 拼写相近（共同开头 imp），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 imperative 这个词性/语义，而不是 irrespective）。"
+       }
+      },
+      {
+       "locate": "Of course cities still need to ____ standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through  … residential areas.",
+       "why": "答案是 foster：填回后与所在句 course、cities、still、need、standard、public 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 foster 这个词性/语义，而不是 correlation）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 foster 这个词性/语义，而不是 dense）。"
+       }
+      },
+      {
+       "locate": "Of course cities still need to  … standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through ____ residential areas.",
+       "why": "答案是 dense：填回后与所在句 course、cities、still、need、standard、public 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 dense 这个词性/语义，而不是 deter）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 dense 这个词性/语义，而不是 correlation）。"
+       }
+      },
+      {
+       "locate": "Many studies of ____ show that people live the longest in environments where physical activity is part of everyday life.",
+       "why": "答案是 longevity：填回后与所在句 many、studies、show、people、live、longest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 longevity 这个词性/语义，而不是 correlation）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 longevity 这个词性/语义，而不是 dense）。"
+       }
+      },
+      {
+       "locate": "Providing more walkable spaces, better protected bike lanes and more ____ spaces are important steps.",
+       "why": "答案是 recreational：填回后与所在句 providing、walkable、spaces、better、protected、bike 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recreational 这个词性/语义，而不是 rotten）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recreational 这个词性/语义，而不是 correlation）。"
+       }
+      },
+      {
+       "locate": "Using public spaces in cities as places where people can exercise promotes ____ , rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that  … less wealthy people from joining.",
+       "why": "答案是 equity：填回后与所在句 using、public、spaces、cities、places、where 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 equity 这个词性/语义，而不是 correlation）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 equity 这个词性/语义，而不是 dense）。"
+       }
+      },
+      {
+       "locate": "Using public spaces in cities as places where people can exercise promotes  … , rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that ____ less wealthy people from joining.",
+       "why": "答案是 deter：填回后与所在句 using、public、spaces、cities、places、where 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 deter 这个词性/语义，而不是 dense）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 deter 这个词性/语义，而不是 correlation）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "You may have heard that learning another language is one method for preventing or at least postponing the onset of dementia. Dementia refers to the loss of cognitive abilities, and one of its most common forms is Alzheimer's disease(阿尔茨海默氏病). At this time, the causes of the disease are not well understood, and consequently, there are no proven steps that people can take to prevent it. Nonetheless, some researchers have suggested that learning a foreign language might help delay the onset of dementia."
+      },
+      {
+       "id": "B",
+       "text": "To explore this possibility more deeply, let's look at some of the common misconceptions about dementia and the aging brain. First of all, dementia is not an inevitable part of the normal aging process. Most older adults do not develop Alzheimer's disease or other forms of dementia. It is also important to remember that dementia is not the same thing as normal forgetfulness. At any age, we might experience difficulty finding the exact word we want or have trouble remembering the name of the person we just met. People with dementia have more serious problems, like feeling confused or getting lost in a familiar place. Think of it this way: If you forget where you parked your car at the mall, that's normal; if you forget how to drive a car, that may be a signal that something more serious is going on."
+      },
+      {
+       "id": "C",
+       "text": "The idea that dementia can be prevented is based on the comparison of the brain to a muscle. When people talk about the brain, they sometimes say things like \"It is important to exercise your brain\" or \"To stay mentally fit, you have to give your brain a workout.\" Although these are colorful analogies, in reality the brain is not a muscle. Unlike muscles, the brain is always active and works even during periods of rest and sleep. In addition, although some muscle cells have a lifespan of only a few days, brain cells last a lifetime. Not only that, but it has been shown that new brain cells are being created throughout one's lifespan."
+      },
+      {
+       "id": "D",
+       "text": "While it makes for a colorful analogy, comparing the brain to a muscle is inaccurate and misleading. So, if the brain is not a muscle, can it still be exercised? Once again, researchers don't know for sure. There are now many computer, online, and mobile device applications that claim to be able to \"train your brain,\" and they typically tap into a variety of cognitive abilities. However, research suggests that although this type of training may improve one's abilities at the tasks themselves, they don't seem to improve other abilities. In other words, practicing a letter-detection task will, over time, improve your letter-detection skills, but it will not necessarily enhance your other perceptual abilities."
+      },
+      {
+       "id": "E",
+       "text": "However, there is some reason to believe that learning languages might be different. The best evidence that foreign language learning confers cognitive benefits comes from research with those who are already bilingual(双语的). Bilingualism most commonly occurs when children are exposed to two languages, either in the home (mom speaks Dutch, dad speaks Spanish) or more formally in early schooling. But bilingualism certainly occurs in adulthood as well."
+      },
+      {
+       "id": "F",
+       "text": "Bilingualism and multilingualism are actually more common than you might think. In fact, it has been estimated that there are fewer monolingual speakers in the world than bilinguals and multilinguals. Although in many countries most inhabitants share just one language, other countries have several official languages. Switzerland, for example, has four official languages: German, French, Italian, and Romansh. Throughout large parts of Africa, Arabic, Swahili, French, and English are often known and used by individuals who speak a different, native language in their home than they do in the marketplace. So bilingualism and multilingualism are to be found throughout the world. And with regard to cognitive abilities, the research on those who speak more than one language paints an encouraging picture."
+      },
+      {
+       "id": "G",
+       "text": "For one thing, bilinguals are better at multitasking. One explanation of this superiority is that speakers of two languages are continually inhibiting one of their languages, and this process of inhibition confers general cognitive benefits to other activities. In fact, bilingual individuals outperform their monolingual counterparts on a variety of cognitive tasks, such as following complex instructions, and switching to new instructions. For the sake of completeness, it should be noted that the advantages of being bilingual are not universal across all cognitive domains. Bilingual individuals have been shown to have smaller vocabularies and to take longer in retrieving words from memory when compared to monolinguals. In the long run, however, the cognitive and linguistic advantages of being bilingual far outweigh these two drawbacks."
+      },
+      {
+       "id": "H",
+       "text": "If the benefits of being bilingual spill over to other aspects of cognition, then we would expect to see a lower incidence of Alzheimer's disease in bilinguals than in monolinguals, or at least a later onset of Alzheimer's for bilinguals. In fact, there is evidence to support this claim. The psychologist Ellen Bialystok and her colleagues obtained the histories of 184 individuals who had made use of a memory clinic in Toronto. For those who showed signs of dementia, the monolinguals in the sample had an average age of 71.4 years at time of onset. The bilinguals, in contrast, received their diagnosis at 75.5 years, on average. In a study of this sort, a difference of four years is highly significant, and could not be explained by other systematic differences between the two groups. For example, the monolinguals reported, on average, a year and a half more schooling than their bilingual counterparts, so the effect was clearly not due to formal education."
+      },
+      {
+       "id": "I",
+       "text": "A separate study, conducted in India, found strikingly similar results: bilingual patients developed symptoms of dementia 4.5 years later than monolinguals, even after other potential factors, such as gender and occupation, were controlled for. In addition, researchers have reported other positive effects of bilingualism for cognitive abilities in later life, even when the person acquired the language in adulthood. Crucially, Bialystok suggested that the positive benefits of being bilingual were only found in those who used both languages all the time."
+      },
+      {
+       "id": "J",
+       "text": "But encouraging as these kinds of studies are, they still have not established exactly how or why differences between bilinguals and monolinguals exist. Because these studies looked back at the histories of people who were already bilingual, the results can only say that a difference between the two groups was found, but not why that difference occurred. Further research is needed to determine what caused the differences in age of onset between the two groups."
+      },
+      {
+       "id": "K",
+       "text": "Other studies of successful aging suggest that being connected to one's community and having plenty of social interaction is also important in delaying or even preventing the onset of dementia. Once again, however, the results are far less clear than the popular media might lead you to believe. Older individuals who lead active social lives are, almost by definition, healthier than their counterparts who rarely leave their homes or interact with others. So we can't really say whether being socially active prevents the onset of dementia, or if people who don't have dementia are more likely to be socially active."
+      },
+      {
+       "id": "L",
+       "text": "But even if studying a foreign language is not a magical cure-all, there is one thing it will do: It will make you a better speaker of a foreign language. Doing that confers a whole host of advantages we do know about."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Research indicates that brain training is likely to boost one's ability at specific tasks, but not one's other cognitive abilities."
+      },
+      {
+       "id": "s37",
+       "text": "According to estimates, the number of people who speak two languages or more is greater than those who speak one language only."
+      },
+      {
+       "id": "s38",
+       "text": "For the time being, we do not know what causes people to lose their cognitive abilities, or what we can do to prevent it."
+      },
+      {
+       "id": "s39",
+       "text": "It is hard to determine whether people who are free from dementia tend to have more social activities, or more social activities keep people away from dementia."
+      },
+      {
+       "id": "s40",
+       "text": "There is evidence that learning foreign languages might be beneficial to boosting one's cognitive abilities."
+      },
+      {
+       "id": "s41",
+       "text": "It was suggested that only those who always spoke two languages could benefit from bilingualism."
+      },
+      {
+       "id": "s42",
+       "text": "The brain is different from muscles in that it keeps working even when the body is at rest."
+      },
+      {
+       "id": "s43",
+       "text": "People who speak two languages do better at a number of cognitive tasks than those who speak only one language."
+      },
+      {
+       "id": "s44",
+       "text": "Dementia is different from being merely forgetful and entails more serious trouble."
+      },
+      {
+       "id": "s45",
+       "text": "It is claimed that more monolinguals suffer from Alzheimer's disease than bilinguals."
+      }
+     ],
+     "answers": [
+      "D",
+      "F",
+      "A",
+      "K",
+      "E",
+      "I",
+      "C",
+      "G",
+      "B",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】However, research suggests that although this type of training may improve one's abilities at the tasks themselves, they don't seem to improve other abilities.\n【依据】陈述里的 research、training、one's、ability、tasks、one's 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Throughout large parts of Africa, Arabic, Swahili, French, and English are often known and used by individuals who speak a different, native language in their home than they do in the marketplace.\n【依据】陈述里的 who、speak、languages、who、speak、language 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】At this time, the causes of the disease are not well understood, and consequently, there are no proven steps that people can take to prevent it.\n【依据】陈述里的 time、causes、people、prevent 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】So we can't really say whether being socially active prevents the onset of dementia, or if people who don't have dementia are more likely to be socially active.\n【依据】陈述里的 whether、people、who、dementia、social、activities 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】The best evidence that foreign language learning confers cognitive benefits comes from research with those who are already bilingual(双语的).\n【依据】陈述里的 evidence、learning、foreign、languages、beneficial、cognitive 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Crucially, Bialystok suggested that the positive benefits of being bilingual were only found in those who used both languages all the time.\n【依据】陈述里的 suggested、only、who、languages、benefit、bilingualism 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Unlike muscles, the brain is always active and works even during periods of rest and sleep.\n【依据】陈述里的 brain、muscles、even、rest 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】One explanation of this superiority is that speakers of two languages are continually inhibiting one of their languages, and this process of inhibition confers general cognitive benefits to other activities.\n【依据】陈述里的 speak、two、languages、cognitive、speak、language 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】It is also important to remember that dementia is not the same thing as normal forgetfulness.\n【依据】陈述里的 dementia、forgetful 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】If the benefits of being bilingual spill over to other aspects of cognition, then we would expect to see a lower incidence of Alzheimer's disease in bilinguals than in monolinguals, or at least a later onset of Alzheimer's for bilinguals.\n【依据】陈述里的 monolinguals、alzheimer's、disease、bilinguals 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "However, research suggests that although this type of training may improve one's abilities at the tasks themselves, they don't seem to improve other abilities.",
+       "why": "陈述里的 research、training、one's、ability、tasks、one's 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Throughout large parts of Africa, Arabic, Swahili, French, and English are often known and used by individuals who speak a different, native language in their home than they do in the marketplace.",
+       "why": "陈述里的 who、speak、languages、who、speak、language 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "At this time, the causes of the disease are not well understood, and consequently, there are no proven steps that people can take to prevent it.",
+       "why": "陈述里的 time、causes、people、prevent 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "So we can't really say whether being socially active prevents the onset of dementia, or if people who don't have dementia are more likely to be socially active.",
+       "why": "陈述里的 whether、people、who、dementia、social、activities 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The best evidence that foreign language learning confers cognitive benefits comes from research with those who are already bilingual(双语的).",
+       "why": "陈述里的 evidence、learning、foreign、languages、beneficial、cognitive 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Crucially, Bialystok suggested that the positive benefits of being bilingual were only found in those who used both languages all the time.",
+       "why": "陈述里的 suggested、only、who、languages、benefit、bilingualism 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Unlike muscles, the brain is always active and works even during periods of rest and sleep.",
+       "why": "陈述里的 brain、muscles、even、rest 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "One explanation of this superiority is that speakers of two languages are continually inhibiting one of their languages, and this process of inhibition confers general cognitive benefits to other activities.",
+       "why": "陈述里的 speak、two、languages、cognitive、speak、language 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It is also important to remember that dementia is not the same thing as normal forgetfulness.",
+       "why": "陈述里的 dementia、forgetful 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If the benefits of being bilingual spill over to other aspects of cognition, then we would expect to see a lower incidence of Alzheimer's disease in bilinguals than in monolinguals, or at least a later onset of Alzheimer's for bilinguals.",
+       "why": "陈述里的 monolinguals、alzheimer's、disease、bilinguals 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Research is meant to benefit society by raising public awareness and creating products and innovations that enhance development. For research to serve its full purpose, the results must leave the confines of research laboratories and academic journals. Findings effectively communicated can go a long way to serve the interests of the public. They can help address social injustices or improve treatments offered to patients. Many researchers seem to be content with sharing the results of their studies in academic journals or at conferences. But few journals allow everybody to read the findings. Even articles freely available are usually written in academic language incomprehensible to the average reader. For researchers in the tenure-track system, their main goal is winning tenure, which in part can be achieved by getting a number of papers published in prominent journals. Pressures like this mean community-level outreach is not prioritised. Many researchers lack the writing skills to describe their results to a general audience. They may also worry about whether the public will understand their findings, or about findings being used to influence controversial policies. These concerns cause some researchers to shy away from communicating their findings outside the academic community. Propagating research findings beyond academic publications is particularly crucial for addressing certain social discrepancies. It can help families, communities, healthcare providers, policymakers, government agencies and other stakeholders to understand and respond to crises that plague society. The benefits of sharing findings flow both ways. Engaging with other researchers and the public can lead to unexpected new connections and new ideas that could suggest fruitful new directions for research. To benefit both researchers and the communities, the need to find innovative, accessible ways to share the work cannot be overstated. Institutions and funding organisations should support more researchers to publish in open access journals so that the public doesn't have to pay to read them. Institutions and researchers should invest in partnerships that expand capacity for sharing results more broadly. Furthermore, ethics committees should make it mandatory for researchers to share their results with the public. Every research participant should opt in or out of receiving results, as part of the process of giving informed consent. There could be misunderstanding of the findings presented by the researcher because of technical terms. But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public. Sharing results with the people who are most affected by them makes us better researchers and ensures that our work can be used to improve people's lives. Institutions and collaborators must recognise the value of doing so.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "How can research serve its full purpose according to the author?",
+       "options": [
+        "With researchers being aware of public interests.",
+        "With its findings published in prominent journals.",
+        "With researchers creating products that enhance social development.",
+        "With its findings properly communicated beyond the academic circle."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】For research to serve its full purpose, the results must leave the confines of research laboratories and academic journals.\n【依据】正确项的核心词 academic 与定位句对得上；其余 findings、properly、communicated、beyond 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For research to serve its full purpose, the results must leave the confines of research laboratories and academic journals.",
+        "why": "正确项的核心词 academic 与定位句对得上；其余 findings、properly、communicated、beyond 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「aware」全文未出现；把原文的「researchers」换成了「aware、public、interests」，主语或对象被调包。",
+         "B": "偷换主体：把原文的「journals」换成了「findings、published、prominent」，主语或对象被调包。",
+         "C": "偷换主体：把原文的「researchers」换成了「creating、products、enhance」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "Why do ordinary readers find it difficult to access the results of researchers' studies?",
+       "options": [
+        "They cannot understand the academic language used for reporting these results.",
+        "They feel intimidated by the jargon researchers use to describe their findings.",
+        "They do not attend conferences where these results are freely available.",
+        "They have few chances to locate the journals that publish these findings."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Many researchers seem to be content with sharing the results of their studies in academic journals or at conferences.\n【依据】正确项的核心词 academic、results 与定位句对得上；其余 cannot、understand、language、used 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Many researchers seem to be content with sharing the results of their studies in academic journals or at conferences.",
+        "why": "正确项的核心词 academic、results 与定位句对得上；其余 cannot、understand、language、used 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「feel、intimidated、jargon」全文未出现；把原文的「researchers」换成了「feel、intimidated、jargon」，主语或对象被调包。",
+         "C": "偷换主体：「attend、where」全文未出现；把原文的「conferences、results」换成了「attend、where、freely」，主语或对象被调包。",
+         "D": "偷换主体：「chances、locate」全文未出现；把原文的「journals」换成了「few、chances、locate」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What is one of the reasons some researchers won't prioritise communicating their findings to the public?",
+       "options": [
+        "They can thrive on the papers published.",
+        "Their top consideration is to win tenure",
+        "Their main goal is gaining recognition in their field.",
+        "They have to struggle to reach out to the community."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 top、consideration、win、tenure 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 top、consideration、win、tenure 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「thrive」全文未出现；把原文的「published」换成了「thrive、papers」，主语或对象被调包。",
+         "C": "无中生有：「gaining、recognition、field」全文未出现。",
+         "D": "无中生有：「struggle、reach」全文未出现；把原文的「community」换成了「struggle、reach、out」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "How can sharing findings benefit researchers themselves?",
+       "options": [
+        "By helping them to identify new research directions.",
+        "By enabling them to understand crises plaguing society.",
+        "By enabling them to effectively address social discrepancies.",
+        "By helping them to forge ties with government agencies."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The benefits of sharing findings flow both ways.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 helping、identify、new、research 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The benefits of sharing findings flow both ways.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 helping、identify、new、research 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「enabling、plaguing」全文未出现。",
+         "C": "因果倒置：「enabling」全文未出现。",
+         "D": "无中生有：「helping、forge、ties」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "Why are researchers advised to engage the services of professional writers or communication officers?",
+       "options": [
+        "To satisfy ethics committees' mandatory requirements of researchers.",
+        "To translate their study into languages accessible to readers overseas.",
+        "To make their publications correctly understood by the public.",
+        "To render their findings acceptable by prominent journals."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.\n【依据】正确项的核心词 publications、public 与定位句对得上；其余 make、correctly、understood 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.",
+        "why": "正确项的核心词 publications、public 与定位句对得上；其余 make、correctly、understood 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「satisfy、committees'、requirements」全文未出现；把原文的「researchers」换成了「satisfy、ethics、committees'」，主语或对象被调包。",
+         "B": "无中生有：「readers、overseas」全文未出现；把原文的「translate、study、into」换成了「readers、overseas」，主语或对象被调包。",
+         "D": "因果倒置：「render、acceptable」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Spiders make their presence felt in late August and through early autumn. This is the mating season of some of the most common varieties, when male house spiders come out of hidden corners to look for females, and garden spiders reach adult size and spin their most dazzling webs. Yet while the spider is a familiar fixture of nursery poems or songs and Halloween decorations, its relationship with humans is complicated. Fear of spiders is common and has serious impacts on the lives of sufferers. Its prevalence appears unrelated to any rational assessment of risk. Spiders in the UK are almost all harmless. Farmland species perform valuable ecosystem services, by preying on insects that are our competitors for crops. But they are a constant source of human anxieties—with a cultural association with witches and wickedness dating back to the middle ages. Does this perhaps explain, in part, the lack of data about how spiders are faring in our age of ecological crisis? British butterflies are the most studied group of insects in the world, due to the long tradition of collecting and observing them. But spider conservationists point out that it was only in the 1980s that the classification of house spiders was properly sorted out. And while information about insect populations is gathered by experiments that measure the numbers hitting windscreens or traps, there have been few attempts to count spiders. The huge reductions in the numbers of flying insects can only mean a reduction in spiders' food supply. A recent landmark study identified a 75% fall in insect populations between 1989 and 2016, with pesticide use thought to be to blame along with the destruction of wild areas for development. This means the overall picture for spiders is worrying, as it is for most creatures. But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it impossible for them to migrate. Of around 650 spider species regularly recorded in the UK, the majority thrive in marshes and wasteland. Conservation efforts, often led by determined individuals, have helped some species to recover by reintroducing them to new areas. With rewilding now firmly on the environmental policy agenda, the hope is that in future, spiders will be enabled to migrate by themselves, adapting to climate change by moving along wildlife corridors. It seems unlikely that spiders will ever attract the same level of human enthusiasm as bees, birds or butterflies, in spite of their unique status as nature's spinners. But as they reveal themselves in all their splendour this autumn, it would be a good thing if more animal lovers recognised the ways in which spiders are simply terrific.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn about spiders in the UK since the middle ages?",
+       "options": [
+        "They have been generally misconceived.",
+        "They have adversely impacted crop growth.",
+        "They have been a constant reminder of bad luck.",
+        "They have made their presence felt when spinning webs."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】And while information about insect populations is gathered by experiments that measure the numbers hitting windscreens or traps, there have been few attempts to count spiders.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 generally、misconceived 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "And while information about insect populations is gathered by experiments that measure the numbers hitting windscreens or traps, there have been few attempts to count spiders.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 generally、misconceived 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「adversely、impacted、crop」全文未出现。",
+         "C": "无中生有：「reminder、bad、luck」全文未出现。",
+         "D": "因果倒置：「made、spinning」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What have spiders been associated with in the UK for centuries?",
+       "options": [
+        "Harm.",
+        "Evil.",
+        "Suffering.",
+        "Aggression."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】This is the mating season of some of the most common varieties, when male house spiders come out of hidden corners to look for females, and garden spiders reach adult size and spin their most dazzling webs.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 evil 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This is the mating season of some of the most common varieties, when male house spiders come out of hidden corners to look for females, and garden spiders reach adult size and spin their most dazzling webs.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 evil 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「harm」全文未出现。",
+         "C": "无中生有：「suffering」全文未出现。",
+         "D": "无中生有：「aggression」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What partly accounts for the reduction in spiders' food supply?",
+       "options": [
+        "The long tradition of collecting insects.",
+        "Fast reproduction of their competitors.",
+        "Chemicals used for killing insects.",
+        "The extinction of a lot of wildlife"
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The huge reductions in the numbers of flying insects can only mean a reduction in spiders' food supply.\n【依据】正确项的核心词 insects 与定位句对得上；其余 chemicals、used、killing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The huge reductions in the numbers of flying insects can only mean a reduction in spiders' food supply.",
+        "why": "正确项的核心词 insects 与定位句对得上；其余 chemicals、used、killing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：把原文的「insects」换成了「long、tradition、collecting」，主语或对象被调包。",
+         "B": "无中生有：「fast、reproduction」全文未出现。",
+         "D": "无中生有：「extinction、lot」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the passage say is conservationists' biggest worry?",
+       "options": [
+        "A variety of spiders are threatened due to pollution of marshes and wasteland.",
+        "Certain species of spiders are endangered due to loss of their natural homes.",
+        "An increasing number of spiders are being killed by deadly pesticides.",
+        "More and more spider species are found losing their ability to migrate."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it impossible for them to migrate.\n【依据】正确项的核心词 due、loss 与定位句对得上；其余 certain、species、spiders、endangered 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it impossible for them to migrate.",
+        "why": "正确项的核心词 due、loss 与定位句对得上；其余 certain、species、spiders、endangered 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「pollution」全文未出现；把原文的「variety、threatened、due」换成了「spiders、pollution、marshes」，主语或对象被调包。",
+         "C": "无中生有：「increasing、number、killed」全文未出现。",
+         "D": "无中生有：「found、losing、ability」全文未出现；把原文的「migrate」换成了「spider、species、found」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What wish does the author express close to the end of the passage?",
+       "options": [
+        "More people would recognise spiders' unique status in the ecosystem.",
+        "People would show greater enthusiasm for spiders than for butterflies.",
+        "There would be sufficient corridors for spiders to move along.",
+        "There would be more people appreciating spiders' splendour."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】And while information about insect populations is gathered by experiments that measure the numbers hitting windscreens or traps, there have been few attempts to count spiders.\n【依据】正确项的核心词 there、spiders' 与定位句对得上；其余 people、appreciating、splendour 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "And while information about insect populations is gathered by experiments that measure the numbers hitting windscreens or traps, there have been few attempts to count spiders.",
+        "why": "正确项的核心词 there、spiders' 与定位句对得上；其余 people、appreciating、splendour 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「people、recognise」全文未出现；把原文的「spiders'」换成了「people、recognise、unique」，主语或对象被调包。",
+         "B": "无中生有：「people、show、greater」全文未出现；把原文的「spiders」换成了「people、show、greater」，主语或对象被调包。",
+         "C": "偷换主体：「sufficient、move」全文未出现；把原文的「there、spiders」换成了「sufficient、corridors、move」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 445 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "近年来，中国老龄人口持续增长。中国政府正采取各种措施，推进养老服务体系建设，使老年人晚年生活健康幸福。全国兴建了各类养老服务机构。为了提升养老机构的服务质量，政府颁布了一系列标准，加强对养老机构的监管。许多城市为方便老年人用餐，开设了社区食堂，为他们提供价格实惠的饭菜。行动不便的老年人还能享受上门送餐服务。同时，中国还在积极探索居家和社区养老等其他养老模式，以确保所有老年人老有所养。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

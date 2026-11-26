@@ -1,0 +1,1192 @@
+{
+ "id": "cet6-2025-12-2",
+ "levelId": "cet6",
+ "title": "六级 2025 年 12 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年12月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2025-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2025-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W: 我得说，我太喜欢我们的食堂了！那里真是个很棒的碰面地点！"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 是啊，对学生和老师来说确实都是这样"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 你这是什么意思？我觉得食物还不错啊"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 我觉得食物只能算还行"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 其实我不这么认为"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 嗯，你说得有道理"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 嗯，是的，甜点确实定价过高"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 是啊，那些炒鸡蛋很好吃"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 完全同意，而且那里的环境也特别好"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 确实很不错。"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 那些巨大的玻璃窗让整个地方完全不一样"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What does the woman say about the food at the canteen?",
+       "options": [
+        "It is absurdly expensive.",
+        "It is appropriately priced.",
+        "It brings shame on the university.",
+        "It caters to students and teachers."
+       ],
+       "optionsZh": [
+        "价格高得离谱。",
+        "定价合理。",
+        "给大学丢脸。",
+        "面向学生和教师提供服务。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It caters to students and teachers.（面向学生和教师提供服务。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "How does the woman feel about the canteen's sweet things or fancy delicacies?",
+       "options": [
+        "They never really appeal to her.",
+        "They are never actually good value.",
+        "They are within students' budgets.",
+        "They always come at a high speed."
+       ],
+       "optionsZh": [
+        "它们从来都不太吸引她。",
+        "它们从来都不太物有所值。",
+        "它们在学生的预算范围内。",
+        "它们总是来得很快。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They are never actually good value.（它们从来都不太物有所值。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the man say is one of the best things about the canteen?",
+       "options": [
+        "The food.",
+        "The space.",
+        "The speed.",
+        "The environment."
+       ],
+       "optionsZh": [
+        "食物。",
+        "空间。",
+        "速度。",
+        "环境。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The food.（食物。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What did the canteen undergo a few years ago?",
+       "options": [
+        "A complete refurnishing.",
+        "A ruinous burning down.",
+        "A substantial expansion.",
+        "A massive renovation."
+       ],
+       "optionsZh": [
+        "全面重新装修。",
+        "毁灭性的火灾。",
+        "大规模扩建。",
+        "大规模翻新。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：A substantial expansion.（大规模扩建。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "According to the woman, what view about today's young people is not really justified?",
+       "options": [
+        "They have a poor work ethic.",
+        "They don't get along with managers.",
+        "They are struggling in the workplace.",
+        "They aren't as varied as their predecessors."
+       ],
+       "optionsZh": [
+        "他们的职业道德很差。",
+        "他们与管理者相处不好。",
+        "他们在职场中举步维艰。",
+        "他们不如前辈那样多样化。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They aren't as varied as their predecessors.（他们不如前辈那样多样化。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the man say is important for managers to get along better with young workers?",
+       "options": [
+        "Learning about the way they adhere to their own values.",
+        "Recognizing how they try to strike a work-life balance.",
+        "Knowing how they struggle to connect with managers.",
+        "Understanding the way they seek career advancement."
+       ],
+       "optionsZh": [
+        "了解他们坚持自己价值观的方式。",
+        "认识到他们如何努力实现工作与生活的平衡。",
+        "知道他们如何努力与管理者建立联系。",
+        "理解他们寻求职业发展的方式。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Understanding the way they seek career advancement.（理解他们寻求职业发展的方式。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "How do young people measure their productivity levels according to the man?",
+       "options": [
+        "In terms of the number of hours spent.",
+        "By the amount of work they perform.",
+        "In terms of the work done in 8 hours.",
+        "By the quality of the work they do."
+       ],
+       "optionsZh": [
+        "根据花费的小时数。",
+        "根据他们完成的工作量。",
+        "根据8小时内完成的工作。",
+        "根据他们所做工作的质量。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：In terms of the number of hours spent.（根据花费的小时数。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What companies does the man think would appeal to young workers?",
+       "options": [
+        "Those whose culture facilitates their advancement.",
+        "Those allowing them to do projects of their choice.",
+        "Those whose values align with their own.",
+        "Those refraining from discrediting their perspectives."
+       ],
+       "optionsZh": [
+        "那些其文化有助于他们晋升的公司。",
+        "那些允许他们做自己选择的项目的公司。",
+        "那些其价值观与他们自己的价值观一致的公司。",
+        "那些避免贬低他们观点的公司。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Those allowing them to do projects of their choice.（那些允许他们做自己选择的项目的公司。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does a new study suggest about restaurants including vegetarian sections on their menus?",
+       "options": [
+        "They may unconsciously help customers choose greener dishes.",
+        "They may unintentionally encourage customers to eat meat.",
+        "They raise customers' environmental awareness.",
+        "They enable customers to eat in a healthy way."
+       ],
+       "optionsZh": [
+        "它们可能会无意识地帮助顾客选择更环保的菜品。",
+        "它们可能会无意中鼓励顾客吃肉。",
+        "它们提高了顾客的环保意识。",
+        "它们使顾客能够以健康的方式进食。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They enable customers to eat in a healthy way.（它们使顾客能够以健康的方式进食。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "How was the study carried out on 750 participants?",
+       "options": [
+        "By inviting them to taste different kinds of food.",
+        "By observing the eating behavior of strict vegetarians.",
+        "By comparing participants eating vegetarian food frequently with those doing so rarely.",
+        "By requiring participants to choose a meal as if they were feasting at a family gathering."
+       ],
+       "optionsZh": [
+        "通过邀请他们品尝不同种类的食物。",
+        "通过观察严格素食者的饮食行为。",
+        "通过比较经常食用素食的参与者与很少这样做的参与者。",
+        "通过要求参与者选择一餐,就好像他们正在家庭聚会上用餐一样。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：By comparing participants eating vegetarian food frequently with those doing so rarely.（通过比较经常食用素食的参与者与很少这样做的参与者。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "How do altered menu designs affect frequent eaters of vegetarian food?",
+       "options": [
+        "They are less likely to choose a vegetarian dish.",
+        "They find vegetarian dishes become more appealing.",
+        "They tend to consume larger portions of unhealthy food.",
+        "They are less likely to choose dishes recommended by chefs."
+       ],
+       "optionsZh": [
+        "他们不太可能选择素食菜品。",
+        "他们发现素食菜品变得更有吸引力。",
+        "他们倾向于食用更大份量的不健康食物。",
+        "他们不太可能选择厨师推荐的菜品。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They find vegetarian dishes become more appealing.（他们发现素食菜品变得更有吸引力。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the passage say about Nottingham Trent University and the Chinese Academy of Sciences?",
+       "options": [
+        "They have found a solution to the global problem of air pollution.",
+        "They have managed to freeze polluting particles to around –18 °C.",
+        "They have been seeking a way to prevent pollutants from penetrating indoors.",
+        "They have been cooperating closely on developing a new type of air-conditioner."
+       ],
+       "optionsZh": [
+        "它们找到了解决全球空气污染问题的方案。",
+        "它们成功地将污染颗粒冷冻到零下18摄氏度左右。",
+        "它们一直在寻求防止污染物渗入室内的方法。",
+        "它们一直在密切合作研发一种新型空调。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They have been seeking a way to prevent pollutants from penetrating indoors.（它们一直在寻求防止污染物渗入室内的方法。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What do we learn from the passage about existing technologies to purify indoor air?",
+       "options": [
+        "They can be costly and inefficient.",
+        "They are constantly being perfected.",
+        "They are by-products of health research.",
+        "They can save over 40,000 lives each year."
+       ],
+       "optionsZh": [
+        "它们可能成本高昂且效率低下。",
+        "它们正在不断完善。",
+        "它们是健康研究的副产品。",
+        "它们每年可以挽救超过四万人的生命。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They can be costly and inefficient.（它们可能成本高昂且效率低下。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What do people tend to do when outdoor air quality is poor?",
+       "options": [
+        "They keep their windows closed.",
+        "They spend a lot more time indoors.",
+        "They make more use of air-conditioners.",
+        "They try various ways to purify indoor air."
+       ],
+       "optionsZh": [
+        "他们关闭窗户。",
+        "他们在室内待的时间更长。",
+        "他们更多地使用空调。",
+        "他们尝试各种方法净化室内空气。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They make more use of air-conditioners.（他们更多地使用空调。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What did Professor Gang Pan of the Chinese Academy of Sciences say about their study?",
+       "options": [
+        "It shows the importance of eliminating indoor pollution.",
+        "It may change the way of future environmental research.",
+        "It demonstrates the fruitful cooperation between UK and Chinese scientists.",
+        "It may make household appliances serve an additional air cleaner function."
+       ],
+       "optionsZh": [
+        "它显示了消除室内污染的重要性。",
+        "它可能改变未来环境研究的方式。",
+        "它展示了中英科学家之间富有成效的合作。",
+        "它可能使家用电器发挥额外的空气净化功能。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It shows the importance of eliminating indoor pollution.（它显示了消除室内污染的重要性。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What do we learn about the well-known mirror test?",
+       "options": [
+        "It distinguishes different species of animals.",
+        "It reflects distinct traits in animal behavior.",
+        "It demonstrates animals' ability to recognize themselves.",
+        "It gauges the level of intelligence of various animal species."
+       ],
+       "optionsZh": [
+        "它可以区分不同的动物物种。",
+        "它反映了动物行为的不同特征。",
+        "它展示了动物识别自身的能力。",
+        "它衡量各种动物物种的智力水平。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It reflects distinct traits in animal behavior.（它反映了动物行为的不同特征。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the study by the speaker's team show about the fish they experimented with?",
+       "options": [
+        "It meets few of the behavioral criteria set in the mirror test.",
+        "It behaves similarly to animals capable of self-recognition.",
+        "It removes marks from itself to show self-awareness.",
+        "It matches children over 18 months in intelligence."
+       ],
+       "optionsZh": [
+        "它仅符合镜像测试中设定的少数几项行为标准。",
+        "它的行为与能够自我识别的动物相似。",
+        "它通过清除自身的标记来表现自我意识。",
+        "它的智力相当于超过18个月的儿童。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It matches children over 18 months in intelligence.（它的智力相当于超过18个月的儿童。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What does the speaker say about the results of their research?",
+       "options": [
+        "They have conclusively established the criteria of animal intelligence.",
+        "They have advanced the concept of self-awareness to a higher level.",
+        "They incorporate more perspectives than one.",
+        "They raise more questions than answers."
+       ],
+       "optionsZh": [
+        "他们已经确凿地确立了评判动物智力的标准。",
+        "他们将自我意识这一概念提升到了更高的层次。",
+        "他们包含了不止一种观点。",
+        "它们引发的问题多于给出的答案。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They incorporate more perspectives than one.（他们包含了不止一种观点。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What finding from the new study might come as a huge surprise?",
+       "options": [
+        "Small children are even more keen on screens than their elders.",
+        "Both parents and children preferred to read electronic books.",
+        "Parents differed from children in reading behavior.",
+        "Children reading electronic books learned more."
+       ],
+       "optionsZh": [
+        "小孩子甚至比他们的长辈更热衷于屏幕。",
+        "父母和孩子都更喜欢阅读电子书。",
+        "父母的阅读行为与孩子不同。",
+        "阅读电子书的孩子学到的东西更多。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Both parents and children preferred to read electronic books.（父母和孩子都更喜欢阅读电子书。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What do we learn about previous studies of young children reading electronic books?",
+       "options": [
+        "They came to conflicting conclusions.",
+        "They were based on small samples.",
+        "They yielded unanticipated findings.",
+        "They were focused on younger kids."
+       ],
+       "optionsZh": [
+        "它们得出了相互矛盾的结论。",
+        "它们以小规模样本为基础。",
+        "它们得出了出乎意料的结果。",
+        "它们关注的是年龄更小的孩子。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They were focused on younger kids.（它们关注的是年龄更小的孩子。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What extra features should be included in electronic books to bolster children's learning?",
+       "options": [
+        "Those that prove simple enough for them to comprehend.",
+        "Those that produce both audio and visual effects on them.",
+        "Those that draw their attention to the educational content.",
+        "Those that contribute to their increased interest in reading."
+       ],
+       "optionsZh": [
+        "那些足够简单、便于他们理解的功能。",
+        "那些能同时对他们产生听觉和视觉效果的功能。",
+        "那些能将他们的注意力吸引到教育内容上的功能。",
+        "那些有助于提高他们阅读兴趣的功能。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Those that contribute to their increased interest in reading.（那些有助于提高他们阅读兴趣的功能。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What should we do with the unfavorable decisions we've made?",
+       "options": [
+        "Regret having wasted much time in making them.",
+        "Think how different we could have made them.",
+        "Keep ourselves from regretting them.",
+        "Live with them for the time being."
+       ],
+       "optionsZh": [
+        "后悔在作出这些决定时浪费了很多时间。",
+        "想想我们本可以把这些决定变得多么不同。",
+        "不要让自己后悔这些决定。",
+        "暂时接受这些决定。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Regret having wasted much time in making them.（后悔在作出这些决定时浪费了很多时间。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What does the speaker say about every single decision we've ever made?",
+       "options": [
+        "It has made us the person we are now.",
+        "It has been made with a lot of thinking.",
+        "It stems from our valuable knowledge.",
+        "It benefits us greatly one way or another."
+       ],
+       "optionsZh": [
+        "它造就了如今的我们。",
+        "它是在经过深思熟虑后作出的。",
+        "它源于我们宝贵的知识。",
+        "无论以何种方式，它都对我们大有裨益。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It stems from our valuable knowledge.（它源于我们宝贵的知识。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What is life full of according to the speaker?",
+       "options": [
+        "Challenging things to do.",
+        "Beautiful things to share.",
+        "Choices to make.",
+        "Lessons to learn."
+       ],
+       "optionsZh": [
+        "需要去做的具有挑战性的事情。",
+        "值得分享的美好事物。",
+        "需要作出的选择。",
+        "需要吸取的教训。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Choices to make.（需要作出的选择。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What is said to be of real importance when we make poor decisions in life?",
+       "options": [
+        "Foreseeing the possibility for regret later.",
+        "Making proper use of the lessons learned.",
+        "Perfecting the decision-making strategies.",
+        "Seeing them as obstacles to moving forward."
+       ],
+       "optionsZh": [
+        "预见日后可能产生的悔意。",
+        "恰当地利用所吸取的教训。",
+        "完善决策策略。",
+        "把它们视为继续前进的障碍。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Foreseeing the possibility for regret later.（预见日后可能产生的悔意。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"It is believed that teachers can exert a profound influence on their students' academic pursuit and personal development.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "We humans love to believe we are special, but science and technology have repeatedly proved this conviction wrong. People {{1}} thought that humans were the only animals to use tools, to form teams or to propagate culture, but science has shown that other animals do each of these things. Meanwhile, technology has quashed(使无效), one by one, claims that {{2}} tasks require a human brain. The first adding machine was invented in 1623. This past year, a computer-generated work won an art contest. I believe the moment when computers meet and {{3}} human intelligence is on the horizon. How will human intelligence and creativity be valued when machines become smarter and more creative than the brightest people? There will likely be a spectrum. In some {{4}} , people still value humans doing things, even if a computer can do it better. It's been a quarter of a century since a computer beat world champion Garry Kasparov, but human chess hasn't gone away. In other fields, human skill will seem costly and {{5}} . Take illustration for example: most readers don't care whether the graphic {{6}} a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps {{7}} . And, of course, this question isn't black or white. Many fields will be a {{8}} , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where much of the work is accomplished by robots, but some humans must be there to {{9}} the machines. If history is any guide, it's almost certain that advances in AI will cause more jobs to {{10}} , that creative workers with human-only skills will become richer but fewer in number, and that those who own creative technology will become the new ultra-rich.",
+     "options": [
+      "accompanying",
+      "cognitive",
+      "domains",
+      "entertaining",
+      "evoking",
+      "hybrid",
+      "impetus",
+      "intuitive",
+      "once",
+      "oversee",
+      "redundant",
+      "stances",
+      "surpass",
+      "tentatively",
+      "vanish"
+     ],
+     "answers": [
+      8,
+      1,
+      12,
+      2,
+      10,
+      0,
+      3,
+      5,
+      9,
+      14
+     ],
+     "blankExplains": [
+      "【定位】People ____ thought that humans were the only animals to use tools, to form teams or to propagate culture, but science has shown that other animals do each of these things.\n【依据】答案是 once：填回后与所在句 people、thought、humans、only、animals、use 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Meanwhile, technology has quashed(使无效), one by one, claims that ____ tasks require a human brain.\n【依据】答案是 cognitive：填回后与所在句 meanwhile、technology、quashed、claims、tasks、require 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】I believe the moment when computers meet and ____ human intelligence is on the horizon.\n【依据】答案是 surpass：填回后与所在句 believe、moment、when、computers、meet、human 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In some ____ , people still value humans doing things, even if a computer can do it better.\n【依据】答案是 domains：填回后与所在句 people、still、value、humans、doing、things 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In other fields, human skill will seem costly and ____ .\n【依据】答案是 redundant：填回后与所在句 other、fields、human、skill、seem、costly 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Take illustration for example: most readers don't care whether the graphic ____ a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps  … .\n【依据】答案是 accompanying：填回后与所在句 take、illustration、example、readers、don't、care 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Take illustration for example: most readers don't care whether the graphic  … a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps ____ .\n【依据】答案是 entertaining：填回后与所在句 take、illustration、example、readers、don't、care 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Many fields will be a ____ , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where much of the work is accomplished by robots, but some humans must be there to  … the machines.\n【依据】答案是 hybrid：填回后与所在句 many、fields、where、humans、find、lucky 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Many fields will be a  … , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where much of the work is accomplished by robots, but some humans must be there to ____ the machines.\n【依据】答案是 oversee：填回后与所在句 many、fields、where、humans、find、lucky 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If history is any guide, it's almost certain that advances in AI will cause more jobs to ____ , that creative workers with human-only skills will become richer but fewer in number, and that those who own creative technology will become the new ultra-rich.\n【依据】答案是 vanish：填回后与所在句 history、guide、it's、almost、certain、advances 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "People ____ thought that humans were the only animals to use tools, to form teams or to propagate culture, but science has shown that other animals do each of these things.",
+       "why": "答案是 once：填回后与所在句 people、thought、humans、only、animals、use 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 once 这个词性/语义，而不是 oversee）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 once 这个词性/语义，而不是 accompanying）。"
+       }
+      },
+      {
+       "locate": "Meanwhile, technology has quashed(使无效), one by one, claims that ____ tasks require a human brain.",
+       "why": "答案是 cognitive：填回后与所在句 meanwhile、technology、quashed、claims、tasks、require 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cognitive 这个词性/语义，而不是 accompanying）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cognitive 这个词性/语义，而不是 domains）。"
+       }
+      },
+      {
+       "locate": "I believe the moment when computers meet and ____ human intelligence is on the horizon.",
+       "why": "答案是 surpass：填回后与所在句 believe、moment、when、computers、meet、human 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 surpass 这个词性/语义，而不是 stances）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 surpass 这个词性/语义，而不是 accompanying）。"
+       }
+      },
+      {
+       "locate": "In some ____ , people still value humans doing things, even if a computer can do it better.",
+       "why": "答案是 domains：填回后与所在句 people、still、value、humans、doing、things 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 domains 这个词性/语义，而不是 accompanying）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 domains 这个词性/语义，而不是 cognitive）。"
+       }
+      },
+      {
+       "locate": "In other fields, human skill will seem costly and ____ .",
+       "why": "答案是 redundant：填回后与所在句 other、fields、human、skill、seem、costly 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 redundant 这个词性/语义，而不是 accompanying）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 redundant 这个词性/语义，而不是 cognitive）。"
+       }
+      },
+      {
+       "locate": "Take illustration for example: most readers don't care whether the graphic ____ a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps  … .",
+       "why": "答案是 accompanying：填回后与所在句 take、illustration、example、readers、don't、care 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 accompanying 这个词性/语义，而不是 cognitive）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 accompanying 这个词性/语义，而不是 domains）。"
+       }
+      },
+      {
+       "locate": "Take illustration for example: most readers don't care whether the graphic  … a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps ____ .",
+       "why": "答案是 entertaining：填回后与所在句 take、illustration、example、readers、don't、care 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 entertaining 这个词性/语义，而不是 evoking）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 entertaining 这个词性/语义，而不是 accompanying）。"
+       }
+      },
+      {
+       "locate": "Many fields will be a ____ , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where much of the work is accomplished by robots, but some humans must be there to  … the machines.",
+       "why": "答案是 hybrid：填回后与所在句 many、fields、where、humans、find、lucky 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 hybrid 这个词性/语义，而不是 accompanying）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 hybrid 这个词性/语义，而不是 cognitive）。"
+       }
+      },
+      {
+       "locate": "Many fields will be a  … , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where much of the work is accomplished by robots, but some humans must be there to ____ the machines.",
+       "why": "答案是 oversee：填回后与所在句 many、fields、where、humans、find、lucky 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 oversee 这个词性/语义，而不是 once）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 oversee 这个词性/语义，而不是 accompanying）。"
+       }
+      },
+      {
+       "locate": "If history is any guide, it's almost certain that advances in AI will cause more jobs to ____ , that creative workers with human-only skills will become richer but fewer in number, and that those who own creative technology will become the new ultra-rich.",
+       "why": "答案是 vanish：填回后与所在句 history、guide、it's、almost、certain、advances 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vanish 这个词性/语义，而不是 accompanying）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vanish 这个词性/语义，而不是 cognitive）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Projects, relationships, and jobs don't always work out as planned — and it's not always clear when to give up. We've all repeatedly heard the saying that \"quitters never win\", but sometimes the best decision is to cut our losses."
+      },
+      {
+       "id": "B",
+       "text": "Think about that relationship you held on to even after it had run its course or the job you stayed in despite your boss making you miserable. Many of us try to hold onto the last ray of hope, thinking we can make it work, whatever \"it\" is. And while perseverance is generally an excellent quality, it may also incline you to over-invest in something that is no longer a good idea."
+      },
+      {
+       "id": "C",
+       "text": "As an executive coach, I work with numerous passionate and hard-working leaders who don't want to \"quit\". But the smartest leaders learn to discern the difference between quitting too soon and holding onto something that they shouldn't."
+      },
+      {
+       "id": "D",
+       "text": "We are all susceptible to the sunk-cost delusion, an unconscious bias that leads us to persist in an endeavor we have already invested time, effort, or money into — even when abandoning it would be more beneficial. We realize that we can't get back the resources we've given, so we persevere — investing in a project that should be halted, staying in a relationship that should be over, or finishing a book we no longer enjoy and should put down, because we're already halfway through it. If quitting is \"not your thing\", you may be especially susceptible to this bias."
+      },
+      {
+       "id": "E",
+       "text": "The sunk-cost delusion causes us to overly worry about what we'll lose if we move on and not think enough about the costs of not moving on. To offset this bias, deliberately refocus your thinking on the gains so you can more objectively weigh the alternatives. Ask yourself: What might I gain by cutting my losses now? Will you be happier or have time for another (better) opportunity? Then ask yourself: What will it cost me to soldier on? For example, is it possible that you'll be throwing more good money after what you've already lost? Or that you won't have the energy to capitalize on other promising possibilities?"
+      },
+      {
+       "id": "F",
+       "text": "The illusion of control can also interfere with our best judgment, leading us to overestimate our ability to control events and attain a positive outcome. This bias gives us a sense of agency and can promote mental health. However, the bias can also result in escalating commitment to a losing course of action. Especially when combined with an \"I'm not a quitter\" mentality, feeling like we have more control over an event or person than we do puts us at risk of doubling down when we should pull out."
+      },
+      {
+       "id": "G",
+       "text": "To counteract this bias, consider your situation and make a simple two-column list of what's in your control and what's not. Think rigorously. While you may be able to influence other people and various circumstances, you can't force them to change or go your way."
+      },
+      {
+       "id": "H",
+       "text": "Getting clear on what you can control and what you can't is essential to making a quality decision about whether to call it quits or persevere. With a written list in hand, you can ensure you focus on what you can control and better assess whether your continued efforts are worth the expense. Expending effort and emotion on things you can't control can be both draining and disempowering."
+      },
+      {
+       "id": "I",
+       "text": "Research indicates that people link their self-identity and social status to their commitments. And because we identify with our commitments, withdrawing from one can feel like a threat to our identity or status."
+      },
+      {
+       "id": "J",
+       "text": "Take my client Ryan, a leader at a technology company. Ryan had invested two years and a lot of effort in a design project that wasn't delivering the needed outcomes, but the thought of abandoning it after all she had put in was hard to bear. As Ryan and I explored whether she should cancel the initiative she'd been leading or continue to persevere, she stated, \"The thing is, I'm not a quitter.\" This singular, fixed sense of self was clouding her judgment and limiting her choices for action."
+      },
+      {
+       "id": "K",
+       "text": "Our self-concept and identity are mental concepts that influence our behavior. If you strongly identify as not being a quitter, you can end up staying stuck in a course of action due to your narrow and rigid self-concept. To overcome this kind of internal obstacle, recall your other positive traits and personality characteristics. Ask yourself: What additional strengths do I have (or aspire to have) that would be helpful to employ here? For example, when I asked Ryan what other positive qualities from her personality she needed to leverage for decision making, she replied, \"Discernment and bravery.\""
+      },
+      {
+       "id": "L",
+       "text": "Now, examine your situation through the lens of each of these facets of yourself. What does the discerning part of you say? The brave part? Considering your decision through these different characteristics will enable you to see that you have more choices. It's also helpful to seek external sources of information, rather than relying solely on your thinking and instincts. But it's important to think through whose opinions you solicit."
+      },
+      {
+       "id": "M",
+       "text": "Ideally, seek out people who are less invested in your decision than you are. If you're considering whether to shut down your entrepreneurial venture, for instance, reach out to other founders as opposed to just your business partner. Similarly, if you're looking for love advice, ask someone removed from the ups and downs of your relationship instead of relying only on your best friend. In all cases, I recommend describing your situation and following up with a question like: \"How would you manage this situation?\""
+      },
+      {
+       "id": "N",
+       "text": "Alternately, you could also seek out hard data that illuminates your real chance of success in whatever endeavor you are contemplating. Sticking with the example of the entrepreneurial venture, numbers are your best friend. Use them to remove yourself from the love you have for this idea and consider your burn rate relative to growth plan, industry growth rates, and other factors that predict start-up success. External sources of information can help you see angles and possibilities you might not have considered."
+      },
+      {
+       "id": "O",
+       "text": "When something that seemed so promising at the start doesn't turn out the way we imagined, we can become overly self-critical. Nobody likes to feel that they've made a poor decision, especially if making intelligent decisions is a quality you hold in high esteem. The most effective strategy here is to give yourself a break. Practicing self-compassion increases your resilience(韧性), emotional intelligence, compassion toward others, and can boost your performance as well as help you develop a growth mindset."
+      },
+      {
+       "id": "P",
+       "text": "Instead of deliberating and criticizing yourself, focus instead on what you can learn from this situation. For example, Ryan recognized she had developed various new skills and leadership capabilities from leading the design project. And despite ultimately deciding to drop it, she was still happy she had tried and grateful for what the experience taught her."
+      },
+      {
+       "id": "Q",
+       "text": "Undeniably, perseverance can help us succeed. But for your well-being, it's important to learn how to distinguish quitting too soon and clinging to a losing course of action. While letting go can be difficult, it will free up your time, energy, and mental space to imagine new possibilities and pursue new opportunities."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Feeling like they have more control over something or someone than they do, people get more committed to their pursuit when they should give up."
+      },
+      {
+       "id": "s37",
+       "text": "If you regard yourself as one who never quits, you may end up trapped in your course of action."
+      },
+      {
+       "id": "s38",
+       "text": "One of the author's clients found it hard to give up a design project, in which she had put in a lot of time and effort."
+      },
+      {
+       "id": "s39",
+       "text": "The author suggests that one should direct their thoughts to the gains of quitting timely so as to move on."
+      },
+      {
+       "id": "s40",
+       "text": "When making a decision, you'd better ask for opinions of those who have less stake in your decision."
+      },
+      {
+       "id": "s41",
+       "text": "For people associating their identity with their commitments, quitting can feel like their identity is threatened."
+      },
+      {
+       "id": "s42",
+       "text": "People who regard highly the quality of making wise decisions do not feel good when they make a bad one."
+      },
+      {
+       "id": "s43",
+       "text": "The wisest leaders learn to distinguish between giving up too soon and sticking with something irrationally."
+      },
+      {
+       "id": "s44",
+       "text": "When people are thinking of an endeavor, they should dig out reliable data that tells them how likely they are to succeed."
+      },
+      {
+       "id": "s45",
+       "text": "Having a clear view of what's in your control and what's not is vital to making a good decision regarding whether to give up or stick it out."
+      }
+     ],
+     "answers": [
+      "F",
+      "K",
+      "J",
+      "E",
+      "M",
+      "I",
+      "O",
+      "C",
+      "N",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】Especially when combined with an \"I'm not a quitter\" mentality, feeling like we have more control over an event or person than we do puts us at risk of doubling down when we should pull out.\n【依据】陈述里的 feeling、like、control、over、when 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】If you strongly identify as not being a quitter, you can end up staying stuck in a course of action due to your narrow and rigid self-concept.\n【依据】陈述里的 end、course、action 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Ryan had invested two years and a lot of effort in a design project that wasn't delivering the needed outcomes, but the thought of abandoning it after all she had put in was hard to bear.\n【依据】陈述里的 hard、design、project、put、lot、effort 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】The sunk-cost delusion causes us to overly worry about what we'll lose if we move on and not think enough about the costs of not moving on.\n【依据】陈述里的 move 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Ideally, seek out people who are less invested in your decision than you are.\n【依据】陈述里的 decision、who、less、decision 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】And because we identify with our commitments, withdrawing from one can feel like a threat to our identity or status.\n【依据】陈述里的 identity、commitments、feel、like、identity、threatened 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Nobody likes to feel that they've made a poor decision, especially if making intelligent decisions is a quality you hold in high esteem.\n【依据】陈述里的 quality、making、decisions、feel 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+      "【定位】But the smartest leaders learn to discern the difference between quitting too soon and holding onto something that they shouldn't.\n【依据】陈述里的 leaders、learn、between、too、soon、something 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Alternately, you could also seek out hard data that illuminates your real chance of success in whatever endeavor you are contemplating.\n【依据】陈述里的 endeavor、out、data、succeed 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+      "【定位】Getting clear on what you can control and what you can't is essential to making a quality decision about whether to call it quits or persevere.\n【依据】陈述里的 clear、control、making、decision、whether 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：17 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Especially when combined with an \"I'm not a quitter\" mentality, feeling like we have more control over an event or person than we do puts us at risk of doubling down when we should pull out.",
+       "why": "陈述里的 feeling、like、control、over、when 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If you strongly identify as not being a quitter, you can end up staying stuck in a course of action due to your narrow and rigid self-concept.",
+       "why": "陈述里的 end、course、action 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Ryan had invested two years and a lot of effort in a design project that wasn't delivering the needed outcomes, but the thought of abandoning it after all she had put in was hard to bear.",
+       "why": "陈述里的 hard、design、project、put、lot、effort 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The sunk-cost delusion causes us to overly worry about what we'll lose if we move on and not think enough about the costs of not moving on.",
+       "why": "陈述里的 move 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Ideally, seek out people who are less invested in your decision than you are.",
+       "why": "陈述里的 decision、who、less、decision 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And because we identify with our commitments, withdrawing from one can feel like a threat to our identity or status.",
+       "why": "陈述里的 identity、commitments、feel、like、identity、threatened 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Nobody likes to feel that they've made a poor decision, especially if making intelligent decisions is a quality you hold in high esteem.",
+       "why": "陈述里的 quality、making、decisions、feel 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But the smartest leaders learn to discern the difference between quitting too soon and holding onto something that they shouldn't.",
+       "why": "陈述里的 leaders、learn、between、too、soon、something 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Alternately, you could also seek out hard data that illuminates your real chance of success in whatever endeavor you are contemplating.",
+       "why": "陈述里的 endeavor、out、data、succeed 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Getting clear on what you can control and what you can't is essential to making a quality decision about whether to call it quits or persevere.",
+       "why": "陈述里的 clear、control、making、decision、whether 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "As interdependent beings we cannot thrive independent of others. We like to work with people who are like-minded, with whom we share a common interest, or who also believe in a cause we are serious about. This is evident in how we have organized ourselves into various collective groups such as nations, regions, communities, organizations, and families. Does the group you belong to have a strong collective consciousness or shared beliefs? Is there interdependence among its members? Do you consider this group a significant part of your existence? If your answers are affirmative, then you are experiencing a micro version of solidarity. What is solidarity? Its simplest definition in the dictionary is: \"… a unifying opinion, feeling, purpose or interest among a group of people.\" In this increasingly diverse society we live in, solidarity takes on a complex and multifaceted character as it forms bonds of interdependence among unique individuals living in a fast-changing environment and working within a complex division of labor. One facet of solidarity fits well with the principles of communitarianism(社群主义). In this setting, individuals give up their own interests to serve the common good. However, its strict adherence to social cohesiveness and exclusiveness restricts expression and practice of individual differences and preferences. Consequently, individuality and autonomy are sacrificed to maintain the unity of the group. Solidarity is also viewed as a reaction to the extreme emphasis on individualism and freedom of choice. It goes against the liberal idea of unrestricted individuals who see society as a hindrance to their freedom to make choices and to act according to what is good for them regardless of how these will affect others. But despite its many facets, social theorists have viewed solidarity as a key factor in bringing about order and progress in society. They believe that for human society to survive as it becomes more diverse, more new bonds need to be formed based on the differences. In the light of this, they regard a genuine solidarity as more than just shallow relationships based on common interests. Solidarity is not just a product of strategic calculations of how much it will benefit the self. It is not an exclusive class founded on the you-and-me-against-the-world principle. Rather, it is inclusive and is not forced. Acting out of solidarity means supporting and standing up for each other — in recognition that one's fate is in the fate of the other. It is a bond characterized by cooperative practices and strengthened by the concern for the well-being of others or the common good. It fights for the protection of human dignity and listens to and acts on the cries of the most vulnerable.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author say about human beings?",
+       "options": [
+        "They cannot prosper without cooperating with each other.",
+        "They share a common interest and believe in a just cause.",
+        "They think and behave alike in different social groups.",
+        "They cannot gain independence without fighting for it."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】As interdependent beings we cannot thrive independent of others.\n【依据】正确项的核心词 cannot、other 与定位句对得上；其余 prosper、without、cooperating、each 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As interdependent beings we cannot thrive independent of others.",
+        "why": "正确项的核心词 cannot、other 与定位句对得上；其余 prosper、without、cooperating、each 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：把原文的「interest」换成了「share、common、believe」，主语或对象被调包。",
+         "C": "无中生有：「think、behave、alike」全文未出现。",
+         "D": "无中生有：「gain、without、fighting」全文未出现；把原文的「cannot、independence」换成了「gain、without、fighting」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we learn about solidarity in an increasingly diverse society?",
+       "options": [
+        "It gives rise to a complicated division of labor.",
+        "It involves many aspects with great complexity.",
+        "It brings individuals together as environment changes.",
+        "It embraces the characteristics of different individuals."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Its simplest definition in the dictionary is: \"… a unifying opinion, feeling, purpose or interest among a group of people.\" In this increasingly diverse society we live in, solidarity takes on a complex and multifaceted character as it forms bonds of interdependence among unique individuals living in a fast-changing environment and working within a complex division of labor.\n【依据】正确项的核心词 complexity 与定位句对得上；其余 involves、many、aspects、great 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Its simplest definition in the dictionary is: \"… a unifying opinion, feeling, purpose or interest among a group of people.\" In this increasingly diverse society we live in, solidarity takes on a complex and multifaceted character as it forms bonds of interdependence among unique individuals living in a fast-changing environment and working within a complex division of labor.",
+        "why": "正确项的核心词 complexity 与定位句对得上；其余 involves、many、aspects、great 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「gives、rise」全文未出现；把原文的「complicated、division、labor」换成了「gives、rise」，主语或对象被调包。",
+         "C": "无中生有：「brings、together、changes」全文未出现；把原文的「individuals、environment」换成了「brings、together、changes」，主语或对象被调包。",
+         "D": "无中生有：「embraces、different」全文未出现；把原文的「characteristics、individuals」换成了「embraces、different」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What would we witness in the setting of communitarianism?",
+       "options": [
+        "Ruling of social norms and ridding of individuality.",
+        "Emphasis on the adherence to individual differences.",
+        "Sacrifice of personal interests for the common good.",
+        "Elimination of individualism and personal choices."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In this setting, individuals give up their own interests to serve the common good.\n【依据】正确项的核心词 interests、common、good 与定位句对得上；其余 sacrifice、personal 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In this setting, individuals give up their own interests to serve the common good.",
+        "why": "正确项的核心词 interests、common、good 与定位句对得上；其余 sacrifice、personal 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「ruling、norms、ridding」全文未出现；把原文的「individuality」换成了「ruling、social、norms」，主语或对象被调包。",
+         "B": "偷换主体：把原文的「individual」换成了「emphasis、adherence、differences」，主语或对象被调包。",
+         "D": "无中生有：「elimination、personal」全文未出现；把原文的「individualism」换成了「elimination、personal、choices」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does solidarity entail according to the passage?",
+       "options": [
+        "A limit to personal differences.",
+        "An opposition to individualism.",
+        "A hindrance to social advancement.",
+        "An inevitable end to liberal pursuits."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】It goes against the liberal idea of unrestricted individuals who see society as a hindrance to their freedom to make choices and to act according to what is good for them regardless of how these will affect others.\n【依据】正确项的核心词 individualism 与定位句对得上；其余 opposition 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It goes against the liberal idea of unrestricted individuals who see society as a hindrance to their freedom to make choices and to act according to what is good for them regardless of how these will affect others.",
+        "why": "正确项的核心词 individualism 与定位句对得上；其余 opposition 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「limit、personal」全文未出现。",
+         "C": "偷换主体：「advancement」全文未出现；把原文的「hindrance」换成了「social、advancement」，主语或对象被调包。",
+         "D": "无中生有：「inevitable、end、pursuits」全文未出现；把原文的「liberal」换成了「inevitable、end、pursuits」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What do social theorists think of solidarity?",
+       "options": [
+        "It is especially relevant to the most vulnerable.",
+        "It is most effective in protecting human dignity.",
+        "It is essential to progress and order in society.",
+        "It is indispensable to avoiding shallow relationships."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】But despite its many facets, social theorists have viewed solidarity as a key factor in bringing about order and progress in society.\n【依据】正确项的核心词 progress、order、society 与定位句对得上；其余 essential 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But despite its many facets, social theorists have viewed solidarity as a key factor in bringing about order and progress in society.",
+        "why": "正确项的核心词 progress、order、society 与定位句对得上；其余 essential 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「especially、relevant」全文未出现。",
+         "B": "因果倒置：「effective、protecting」全文未出现。",
+         "D": "因果倒置：「indispensable、avoiding」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 441 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "People who repeatedly give unwanted advice can be well-meaning and genuinely want to help. Others might do this out of a sense of self-worth around the ability to influence others. One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency. Under the guise(外表) of unselfishness, people may be driven to give you unwanted advice because it makes them feel powerful or in control. They may not be fully aware of this drive, however. These people may also display a problematic degree of emotional vulnerability, becoming upset very quickly, and taking a long time to calm down. It is possible that their emotions were only validated in childhood when they were at their loudest, encouraging them to adopt responses to discomfort that are excessive in most situations. When someone is giving advice in order to make themselves feel more powerful, there is underlying anxiety to their behavior that recipients of the advice tend to notice. It can be tempting in this situation to react harshly to the advice giver and to accuse them of being manipulative, but this approach might produce an undesired result. If the act of giving advice is contributing actively to someone's feelings of self-worth, an outright(直率的) rejection may be perceived as a threat, activating their fight-or-flight response, possibly causing them to double down on their validation-seeking behavior, or leading to a larger conflict. The key is to validate without over-identifying. You can let them know that you have heard them and appreciate where they are coming from without taking on the potentially damaging narrative that you could not have gotten by without their help. You had better say something like, \"Thanks for the idea. I have my own plan for handling this, but I really appreciate your perspective and will take it into consideration. Can I let you know when I need help in the future?\" If you have trouble setting boundaries tactfully, prioritize working on your own ability to self-regulate. As uncomfortable as it may be to continuously receive, if you can respond with compassion, the situation will likely defuse much faster. Though it is usually not the intended outcome of giving unsolicited advice, many who receive it often feel stressed, offended, or simply annoyed by unwanted suggestions. Setting a boundary in this regard, if you feel you need one, is perfectly reasonable and something that can bring you increased emotional safety. It is best to set boundaries in a way that takes into account the individual's underlying reasons for doing what they are doing to avoid unnecessary conflict and more stress.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What is the finding of one study about people who keep giving unsolicited advice?",
+       "options": [
+        "They turn out to be well-meaning.",
+        "They are genuinely kind-hearted.",
+        "They are capable of influencing others.",
+        "They are inclined to crave for power."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency.\n【依据】正确项的核心词 power 与定位句对得上；其余 inclined、crave 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency.",
+        "why": "正确项的核心词 power 与定位句对得上；其余 inclined、crave 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「turn」全文未出现。",
+         "B": "因果倒置：「kind-hearted」全文未出现。",
+         "C": "无中生有：「capable、influencing」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is the problem with people who are driven to give you unsolicited advice?",
+       "options": [
+        "They may be quick to upset others.",
+        "They may be emotionally vulnerable.",
+        "They want their voice to be the loudest.",
+        "They respond to discomfort excessively."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】These people may also display a problematic degree of emotional vulnerability, becoming upset very quickly, and taking a long time to calm down.\n【依据】正确项的核心词 emotionally、vulnerable 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "These people may also display a problematic degree of emotional vulnerability, becoming upset very quickly, and taking a long time to calm down.",
+        "why": "正确项的核心词 emotionally、vulnerable 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：把原文的「quick、upset」换成了「others」，主语或对象被调包。",
+         "C": "因果倒置：「voice」全文未出现。",
+         "D": "因果倒置：「excessively」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What is the advice receiver tempted to do when noticing the advice giver's underlying anxiety?",
+       "options": [
+        "Reveal the undesired result of their approach.",
+        "Refuse their advice in an undisguised manner.",
+        "Bring their real motives to the surface.",
+        "Accuse them of trying to control others."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】When someone is giving advice in order to make themselves feel more powerful, there is underlying anxiety to their behavior that recipients of the advice tend to notice.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 accuse、trying、control、others 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When someone is giving advice in order to make themselves feel more powerful, there is underlying anxiety to their behavior that recipients of the advice tend to notice.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 accuse、trying、control、others 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「reveal」全文未出现。",
+         "B": "无中生有：「refuse、undisguised、manner」全文未出现；把原文的「advice」换成了「refuse、undisguised、manner」，主语或对象被调包。",
+         "C": "无中生有：「real、motives、surface」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "How is the advice giver likely to react to the rejection of their advice?",
+       "options": [
+        "They may regard it as a threat.",
+        "They may modify their behavior.",
+        "They get ready for a larger conflict.",
+        "They begin to doubt their self-worth."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】If the act of giving advice is contributing actively to someone's feelings of self-worth, an outright(直率的) rejection may be perceived as a threat, activating their fight-or-flight response, possibly causing them to double down on their validation-seeking behavior, or leading to a larger conflict.\n【依据】正确项的核心词 threat 与定位句对得上；其余 regard 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If the act of giving advice is contributing actively to someone's feelings of self-worth, an outright(直率的) rejection may be perceived as a threat, activating their fight-or-flight response, possibly causing them to double down on their validation-seeking behavior, or leading to a larger conflict.",
+        "why": "正确项的核心词 threat 与定位句对得上；其余 regard 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「modify」全文未出现；把原文的「behavior」换成了「modify」，主语或对象被调包。",
+         "C": "无中生有：「get、ready」全文未出现；把原文的「larger、conflict」换成了「get、ready」，主语或对象被调包。",
+         "D": "无中生有：「begin、doubt」全文未出现；把原文的「self-worth」换成了「begin、doubt」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What should the advice receiver do to avoid unnecessary conflict?",
+       "options": [
+        "Concede the advice is perfectly reasonable.",
+        "Give their reasons for not taking the advice.",
+        "Understand why the advice giver offers the advice.",
+        "Explain their chosen way of handling the situation."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】It is best to set boundaries in a way that takes into account the individual's underlying reasons for doing what they are doing to avoid unnecessary conflict and more stress.\n【依据】正确项的核心词 understand 与定位句对得上；其余 why、advice、giver、offers 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It is best to set boundaries in a way that takes into account the individual's underlying reasons for doing what they are doing to avoid unnecessary conflict and more stress.",
+        "why": "正确项的核心词 understand 与定位句对得上；其余 why、advice、giver、offers 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「concede」全文未出现；把原文的「reasonable」换成了「concede、advice、perfectly」，主语或对象被调包。",
+         "B": "偷换主体：把原文的「reasons」换成了「give、taking、advice」，主语或对象被调包。",
+         "D": "偷换主体：「explain、chosen」全文未出现；把原文的「way」换成了「explain、chosen、handling」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 440 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "中华民族崇尚自强自立的精神，这一精神深植于中国文化之中，是民族生存与发展的重要支撑。改革开放以来，中国在自强自立的征程上，持续加大科研投入，在信息技术、人工智能、航天工程等领域不断取得新突破。网络覆盖全国，远程医疗发展迅速，电子支付的使用全球领先，嫦娥探月工程展现了航天领域引人注目的发展。自强自主精神成为推动国家现代化进程的强大动力，激励着中国人民为实现民族复兴的中国梦不断奋进。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

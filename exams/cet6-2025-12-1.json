@@ -1,0 +1,1192 @@
+{
+ "id": "cet6-2025-12-1",
+ "levelId": "cet6",
+ "title": "六级 2025 年 12 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年12月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2025-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2025-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W: 今天的特别嘉宾是布莱克威尔勋爵"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 我很荣幸。"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 我们的听众一定会非常想了解外交部门的职业生涯"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 恐怕除了我们都在新闻中看到的内容之外"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 哦，我明白了。"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 不过请放心，我们驻那里的领事馆中的专家特使会密切关注事态发展"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 那么，一个人要怎样才能从事外交事务呢？"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 可以选择的道路有很多"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 您认为从事这份工作需要哪些关键技能？"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 需要的技能很多"
+      },
+      {
+       "idx": 11,
+       "zh": "M：我还没说完。等我们完成后把它提交上去"
+      },
+      {
+       "idx": 13,
+       "zh": "段的牢骚，且女方在 the board, too, is virtually unanimous in its support 反而说董事会几乎一致支持；把这话安到女方说 toug"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn about the man from the conversation?",
+       "options": [
+        "He has distinguished himself in foreign service.",
+        "He is his country's ambassador to Winopia.",
+        "He is currently an electrical engineer.",
+        "He craves attention from the media."
+       ],
+       "optionsZh": [
+        "他在外交服务领域表现出色。",
+        "他是他的国家驻Winopia的大使。",
+        "他目前是一名电气工程师。",
+        "他渴望得到媒体的关注。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He has distinguished himself in foreign service.（他在外交服务领域表现出色。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the man say the government of Winopia is probably undergoing?",
+       "options": [
+        "A government reshuffle.",
+        "A fundamental reform.",
+        "Some sort of political reorientation.",
+        "Some sort of crisis of legitimacy."
+       ],
+       "optionsZh": [
+        "政府改组。",
+        "根本性改革。",
+        "某种政治重新定向。",
+        "某种合法性危机。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Some sort of crisis of legitimacy.（某种合法性危机。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "According to the man, how does one get a career in foreign relations?",
+       "options": [
+        "All diplomats have more or less similar stories to tell.",
+        "It is a prerequisite to get some practice in diplomacy.",
+        "Different people can take different paths.",
+        "It is a must to first obtain a law degree."
+       ],
+       "optionsZh": [
+        "所有外交官都有或多或少相似的故事可讲。",
+        "获得一些外交实践经验是先决条件。",
+        "不同的人可以走不同的道路。",
+        "首先必须获得法律学位。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Different people can take different paths.（不同的人可以走不同的道路。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What do the speakers mainly discuss by the end of the conversation?",
+       "options": [
+        "Key skills required of a diplomat.",
+        "The making of an expert diplomat.",
+        "Diplomatic discourse and rhetoric.",
+        "Contributions by diplomatic envoys."
+       ],
+       "optionsZh": [
+        "外交官所需的关键技能。",
+        "如何成为一名专业外交官。",
+        "外交话语和修辞。",
+        "外交使节的贡献。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Key skills required of a diplomat.（外交官所需的关键技能。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "Why does the man suggest they call it a day?",
+       "options": [
+        "They have got their work done.",
+        "They both look tired",
+        "They can meet again tomorrow anyway.",
+        "They are both anxious to go home."
+       ],
+       "optionsZh": [
+        "他们已经完成了工作。",
+        "他们两人看起来都很累。",
+        "反正他们明天还能再见面。",
+        "他们都急着想回家。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They both look tired（他们两人看起来都很累。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the woman say is a little tough?",
+       "options": [
+        "The board members' insufficient support.",
+        "Two months devoted to the same contract.",
+        "Working two months without any progress.",
+        "The man's long concentration on the project."
+       ],
+       "optionsZh": [
+        "董事会成员的支持不足。",
+        "两个月都投入在同一份合同上。",
+        "工作两个月却没有任何进展。",
+        "男士长时间专注于这个项目。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Two months devoted to the same contract.（两个月都投入在同一份合同上。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the man say the woman must be in thinking they'll finish by next week?",
+       "options": [
+        "Unprofessional.",
+        "Inspirational.",
+        "Exceptional.",
+        "Delusional."
+       ],
+       "optionsZh": [
+        "不专业的。",
+        "鼓舞人心的。",
+        "杰出的。",
+        "妄想的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Delusional.（妄想的。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What does the entire managerial hierarchy want to see according to the woman?",
+       "options": [
+        "Fewer rectifications of the contract.",
+        "More support from the board members.",
+        "The early implementation of the project.",
+        "The alignment of all sections of the contract."
+       ],
+       "optionsZh": [
+        "减少对合同的修改。",
+        "得到董事会成员更多的支持。",
+        "项目的提前实施。",
+        "合同所有部分的一致。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The early implementation of the project.（项目的提前实施。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "When can it be hard to know whom to believe?",
+       "options": [
+        "When two employees propose contrary solutions to their dispute.",
+        "When two employees are directed by their respective manager.",
+        "When two people behave in an apparently clashing manner.",
+        "When two people tell different stories of the same event."
+       ],
+       "optionsZh": [
+        "当两名员工针对他们的争议提出相反的解决方案时。",
+        "当两名员工分别由各自的经理指导时。",
+        "当两个人的行为方式明显相互冲突时。",
+        "当两个人对同一事件讲述不同的故事时。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：When two people tell different stories of the same event.（当两个人对同一事件讲述不同的故事时。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the speaker definitely recall about the dispute mentioned as an example?",
+       "options": [
+        "How it got resolved.",
+        "How it happened.",
+        "What it was about.",
+        "When it was settled."
+       ],
+       "optionsZh": [
+        "它是如何得到解决的。",
+        "它是如何发生的。",
+        "它是关于什么的。",
+        "它是何时解决的。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：How it got resolved.（它是如何得到解决的。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What did the speaker and his counterpart do when the two employees gave different accounts of the same event?",
+       "options": [
+        "They intervened promptly lest their dispute escalate.",
+        "They tried to ascertain the actual facts of the matter.",
+        "They assumed the best about them and moved on.",
+        "They persuaded them to put their conflict aside."
+       ],
+       "optionsZh": [
+        "他们迅速介入,以免争议升级。",
+        "他们试图查明事情的实际真相。",
+        "他们对他们做了最好的假设并继续前行。",
+        "他们说服他们将冲突放在一边。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They assumed the best about them and moved on.（他们对他们做了最好的假设并继续前行。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What do an increasing number of Americans do according to the passage?",
+       "options": [
+        "Dine out daily.",
+        "Budget sensibly.",
+        "Enjoy cooking.",
+        "Shop at groceries."
+       ],
+       "optionsZh": [
+        "每天外出就餐。",
+        "理性预算。",
+        "享受烹饪。",
+        "在杂货店购物。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Dine out daily.（每天外出就餐。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does Eddie Yoon think cooking is akin to?",
+       "options": [
+        "Shopping.",
+        "Sewing.",
+        "Entertaining oneself.",
+        "Fashion designing."
+       ],
+       "optionsZh": [
+        "购物。",
+        "缝纫。",
+        "自我娱乐。",
+        "时装设计。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Sewing.（缝纫。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What will Americans be able to do by making their own lunch?",
+       "options": [
+        "Satisfy their taste.",
+        "Cut down expenses.",
+        "Eat more healthily.",
+        "Cultivate new hobbies."
+       ],
+       "optionsZh": [
+        "满足他们的口味。",
+        "减少开支。",
+        "吃得更健康。",
+        "培养新爱好。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Cut down expenses.（减少开支。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the passage say signifies a host of challenges for America's grocery industry?",
+       "options": [
+        "People's intense focus on convenience.",
+        "People's deteriorating family finances.",
+        "People's strong aversion to junk foods.",
+        "People's increasing dislike of cooking."
+       ],
+       "optionsZh": [
+        "人们对便利性的强烈关注。",
+        "人们不断恶化的家庭财务状况。",
+        "人们对垃圾食品的强烈厌恶。",
+        "人们对烹饪日益增长的厌恶。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：People's increasing dislike of cooking.（人们对烹饪日益增长的厌恶。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What is the number-one reason a bag ends up lost according to this talk?",
+       "options": [
+        "Its owner's flight is delayed because of bad weather.",
+        "Airlines cannot find its owner without an ID tag on it.",
+        "Airline staff have not correctly coded its destination tag.",
+        "Its owner has forgot to pick it up from the baggage claim."
+       ],
+       "optionsZh": [
+        "其主人的航班因恶劣天气而延误。",
+        "航空公司因行李箱上没有身份标签而无法找到其主人。",
+        "航空公司工作人员没有正确编码其目的地标签。",
+        "其主人忘记从行李提取处取走它。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Airlines cannot find its owner without an ID tag on it.（航空公司因行李箱上没有身份标签而无法找到其主人。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What may happen to your baggage even when there are sophisticated automated systems?",
+       "options": [
+        "Its tag may get torn off on the conveyor belt.",
+        "Its tag may get stuck in the sorting machine.",
+        "It may be sent to a wrong destination.",
+        "It may be picked up by someone else."
+       ],
+       "optionsZh": [
+        "其标签可能在传送带上被撕掉。",
+        "其标签可能卡在分拣机里。",
+        "它可能被送到错误的目的地。",
+        "它可能被其他人取走。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Its tag may get torn off on the conveyor belt.（其标签可能在传送带上被撕掉。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What does the speaker advise us to do at the end of the talk?",
+       "options": [
+        "Purchase irretrievably lost things at auction.",
+        "Contact the airport staff to find our missing bag.",
+        "Get the airline agent's phone number before boarding.",
+        "Avoid packing valuable items in our checked baggage."
+       ],
+       "optionsZh": [
+        "在拍卖会上购买无法找回的丢失物品。",
+        "联系机场工作人员寻找我们丢失的行李。",
+        "登机前获取航空公司代理人的电话号码。",
+        "避免在托运行李中打包贵重物品。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Avoid packing valuable items in our checked baggage.（避免在托运行李中打包贵重物品。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about using one's smartphone during a face-to-face conversation?",
+       "options": [
+        "It can be behaviorally hazardous.",
+        "It can be especially disappointing.",
+        "It can be socially harmful.",
+        "It can be really embarrassing."
+       ],
+       "optionsZh": [
+        "这在行为上可能是有害的。",
+        "这可能特别令人失望。",
+        "这在社交上可能是有害的。",
+        "这可能真的很令人尴尬。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It can be socially harmful.（这在社交上可能是有害的。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "How did the participants in the new study respond regarding phone use during social interactions?",
+       "options": [
+        "They considered it inevitable.",
+        "They held a negative view towards it.",
+        "They were concerned with its effects.",
+        "They saw it as a sign of social evolution."
+       ],
+       "optionsZh": [
+        "他们认为这是不可避免的。",
+        "他们对此持负面看法。",
+        "他们担心其影响。",
+        "他们将其视为社会进化的标志。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They held a negative view towards it.（他们对此持负面看法。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does the speaker say can result from the common behavior of using phones during face-to-face conversations?",
+       "options": [
+        "Elaborate forms of social contact.",
+        "Ill effects on one's sense of pride.",
+        "Poor relationships with others.",
+        "Vicious cycles of detachment."
+       ],
+       "optionsZh": [
+        "复杂形式的社交接触。",
+        "对个人自尊感的不良影响。",
+        "与他人的不良关系。",
+        "疏离的恶性循环。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Vicious cycles of detachment.（疏离的恶性循环。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the speaker say travelers commonly complain about?",
+       "options": [
+        "The ill treatment they get as tourists.",
+        "The nonprofessional business they see.",
+        "The impersonal accommodations.",
+        "The many adventures on their way."
+       ],
+       "optionsZh": [
+        "他们作为游客受到的不良待遇。",
+        "他们看到的不专业的商业行为。",
+        "缺乏人情味的住宿条件。",
+        "旅途中的诸多冒险经历。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The impersonal accommodations.（缺乏人情味的住宿条件。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What is said about Bed and Breakfast arrangements?",
+       "options": [
+        "They have been the classic way to visit Europe.",
+        "They attract tourists with location and decoration.",
+        "They have long been competing with chain hotels.",
+        "They are in fact a completely new idea in America."
+       ],
+       "optionsZh": [
+        "它们一直是游览欧洲的经典方式。",
+        "它们以地理位置和装饰吸引游客。",
+        "它们长期以来一直在与连锁酒店竞争。",
+        "它们实际上在美国是一个全新的概念。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They have been the classic way to visit Europe.（它们一直是游览欧洲的经典方式。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What is the first thing you have to consider if you want to start a B&B business?",
+       "options": [
+        "Your financial status.",
+        "Your family's consent.",
+        "Your property.",
+        "Your personality."
+       ],
+       "optionsZh": [
+        "你的财务状况。",
+        "你家人的同意。",
+        "你的房产。",
+        "你的个性。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Your property.（你的房产。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the speaker say potential B&B hosts must be realistic about?",
+       "options": [
+        "Costs for starting the business.",
+        "The number of guests to receive.",
+        "The facilities to provide.",
+        "Opportunities for income."
+       ],
+       "optionsZh": [
+        "创业的成本。",
+        "接待客人的数量。",
+        "提供的设施。",
+        "收入机会。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Opportunities for income.（收入机会。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"While striving for the Chinese Dream, young people enjoy more opportunities to realize their self-worth.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "By now, it is generally accepted that regular exercise comes with an assortment of health benefits for people who maintain the habit over time. But is it {{1}} too late to start? New research looked at people who increased their exercise levels after their 40s beyond levels they had when they were younger and those individuals showed declines in their risk of early {{2}} which were similar to those of people who exercised consistently throughout their lives. This was a {{3}} of 32% to 35% compared to people who did not exercise. Those who began exercising in middle age also saw reductions in their incidence of {{4}} diseases, such as heart disease and cancer, which were similar to the steady exercisers. So why bother exercising consistently throughout your life? The authors of the study {{5}} that some might interpret the study's findings to mean that they can delay starting an exercise program but this would be a mistake. There are other benefits, both mental and physical, to staying consistently active that we should not {{6}} . These real health benefits include better {{7}} functioning and lowered risk of gaining weight. The latter is {{8}} important given the global obesity epidemic. In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those {{9}} later in life. It is ideal, then, for people to start exercising when they are children or {{10}} , and it is good to maintain an active lifestyle at all times regardless of your age. However, this study does indicate that, if you have not been active, you can still benefit if you start becoming active in your 40s and 50s.",
+     "options": [
+      "adolescents",
+      "arbitrarily",
+      "chronic",
+      "cognitive",
+      "concede",
+      "disregard",
+      "drop",
+      "ever",
+      "maneuver",
+      "mortality",
+      "particularly",
+      "patterns",
+      "refute",
+      "stereotype",
+      "vocal"
+     ],
+     "answers": [
+      7,
+      9,
+      6,
+      2,
+      4,
+      5,
+      3,
+      10,
+      11,
+      0
+     ],
+     "blankExplains": [
+      "【定位】But is it ____ too late to start?\n【依据】答案是 ever：填回后与所在句 too、late、start 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】New research looked at people who increased their exercise levels after their 40s beyond levels they had when they were younger and those individuals showed declines in their risk of early ____ which were similar to those of people who exercised consistently throughout their lives.\n【依据】答案是 mortality：填回后与所在句 new、research、looked、people、who、increased 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This was a ____ of 32% to 35% compared to people who did not exercise.\n【依据】答案是 drop：填回后与所在句 compared、people、who、exercise 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Those who began exercising in middle age also saw reductions in their incidence of ____ diseases, such as heart disease and cancer, which were similar to the steady exercisers.\n【依据】答案是 chronic：填回后与所在句 who、began、exercising、middle、age、saw 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The authors of the study ____ that some might interpret the study's findings to mean that they can delay starting an exercise program but this would be a mistake.\n【依据】答案是 concede：填回后与所在句 authors、study、interpret、study's、findings、mean 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】There are other benefits, both mental and physical, to staying consistently active that we should not ____ .\n【依据】答案是 disregard：填回后与所在句 there、other、benefits、both、mental、physical 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】These real health benefits include better ____ functioning and lowered risk of gaining weight.\n【依据】答案是 cognitive：填回后与所在句 real、health、benefits、include、better、functioning 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The latter is ____ important given the global obesity epidemic.\n【依据】答案是 particularly：填回后与所在句 latter、important、given、global、obesity、epidemic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those ____ later in life.\n【依据】答案是 patterns：填回后与所在句 addition、experts、assert、starting、younger、better 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It is ideal, then, for people to start exercising when they are children or ____ , and it is good to maintain an active lifestyle at all times regardless of your age.\n【依据】答案是 adolescents：填回后与所在句 ideal、people、start、exercising、when、children 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "But is it ____ too late to start?",
+       "why": "答案是 ever：填回后与所在句 too、late、start 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ever 这个词性/语义，而不是 adolescents）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ever 这个词性/语义，而不是 arbitrarily）。"
+       }
+      },
+      {
+       "locate": "New research looked at people who increased their exercise levels after their 40s beyond levels they had when they were younger and those individuals showed declines in their risk of early ____ which were similar to those of people who exercised consistently throughout their lives.",
+       "why": "答案是 mortality：填回后与所在句 new、research、looked、people、who、increased 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 mortality 这个词性/语义，而不是 maneuver）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 mortality 这个词性/语义，而不是 adolescents）。"
+       }
+      },
+      {
+       "locate": "This was a ____ of 32% to 35% compared to people who did not exercise.",
+       "why": "答案是 drop：填回后与所在句 compared、people、who、exercise 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 drop 这个词性/语义，而不是 disregard）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 drop 这个词性/语义，而不是 adolescents）。"
+       }
+      },
+      {
+       "locate": "Those who began exercising in middle age also saw reductions in their incidence of ____ diseases, such as heart disease and cancer, which were similar to the steady exercisers.",
+       "why": "答案是 chronic：填回后与所在句 who、began、exercising、middle、age、saw 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chronic 这个词性/语义，而不是 cognitive）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chronic 这个词性/语义，而不是 concede）。"
+       }
+      },
+      {
+       "locate": "The authors of the study ____ that some might interpret the study's findings to mean that they can delay starting an exercise program but this would be a mistake.",
+       "why": "答案是 concede：填回后与所在句 authors、study、interpret、study's、findings、mean 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 concede 这个词性/语义，而不是 cognitive）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 concede 这个词性/语义，而不是 chronic）。"
+       }
+      },
+      {
+       "locate": "There are other benefits, both mental and physical, to staying consistently active that we should not ____ .",
+       "why": "答案是 disregard：填回后与所在句 there、other、benefits、both、mental、physical 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 disregard 这个词性/语义，而不是 drop）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 disregard 这个词性/语义，而不是 adolescents）。"
+       }
+      },
+      {
+       "locate": "These real health benefits include better ____ functioning and lowered risk of gaining weight.",
+       "why": "答案是 cognitive：填回后与所在句 real、health、benefits、include、better、functioning 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cognitive 这个词性/语义，而不是 concede）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cognitive 这个词性/语义，而不是 chronic）。"
+       }
+      },
+      {
+       "locate": "The latter is ____ important given the global obesity epidemic.",
+       "why": "答案是 particularly：填回后与所在句 latter、important、given、global、obesity、epidemic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 particularly 这个词性/语义，而不是 patterns）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 particularly 这个词性/语义，而不是 adolescents）。"
+       }
+      },
+      {
+       "locate": "In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those ____ later in life.",
+       "why": "答案是 patterns：填回后与所在句 addition、experts、assert、starting、younger、better 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 patterns 这个词性/语义，而不是 particularly）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 patterns 这个词性/语义，而不是 adolescents）。"
+       }
+      },
+      {
+       "locate": "It is ideal, then, for people to start exercising when they are children or ____ , and it is good to maintain an active lifestyle at all times regardless of your age.",
+       "why": "答案是 adolescents：填回后与所在句 ideal、people、start、exercising、when、children 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adolescents 这个词性/语义，而不是 arbitrarily）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adolescents 这个词性/语义，而不是 chronic）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Like most chefs, Flippy is not afraid of hard work. Since last summer, that has meant 11 am until 7 pm shifts at Caliburger in Pasadena, California, as well as short assignments at Chick-N-Tots at Dodger Stadium in Los Angeles. These are long hours of repetitive work, where the boss demands absolute consistency. But you won't hear Flippy complain or say anything, in fact. For Flippy is a robot — a cloud-connected mechanical arm with 3D thermal scanners for eyes — that can flip burgers or fry 80 baskets of food an hour, monitor that food and even clean up afterwards."
+      },
+      {
+       "id": "B",
+       "text": "Flippy was created by Miso Robotics, part of the Cali Group, which is described by its CEO, John Miller, as: \"A technology company that happens to sell cheeseburgers.\" Cali creates new machines that it road-tests in its Caliburger restaurants across the world, into which Flippy will be deployed this year. And Flippy is not alone. Also in California, Bear Robotics has developed a self-guiding robot, Penny, which has so far served 40,000 diners."
+      },
+      {
+       "id": "C",
+       "text": "Ten years ago, robot-chefs and waiters were pure science fiction. Today, they are a reality, and at prices that make them a plausible investment. From May, Penny will be shipped on a subscription basis that offers \"an immediate return\", says Bear Robotics' chief operating officer, Juan Higueros. Flippy will cost a reported $60,000 to $100,000. Fully automated burger restaurants managed with minimal human oversight — where customers order at screens, pay electronically, and eat food cooked and delivered by robots — are now a possibility."
+      },
+      {
+       "id": "D",
+       "text": "The technology exists; it just needs knitting together cost-effectively and in a way diners buy into. In an industry keen to slash labor costs and increase profits, further automation seems inevitable. After an eight-month test at Kang Nam Tofu House in California, Bear Robotics credited Penny with driving a 28% increase in sales. Meanwhile, in US trials, the self-ordering screens that McDonald's is currently installing at its 1,300 UK restaurants yielded a reported 30% rise in order values."
+      },
+      {
+       "id": "E",
+       "text": "Personalisation is seen as key to the appeal of this technology, alongside its ability to reliably push so-called \"upsells\" (meal deals, extras, larger drinks) to customers. Soon when you log into a restaurant app, it will be able to use your data and purchasing history to recommend dishes to you — factoring in everything from the weather to, if you are ordering at a screen that can read your face, your mood."
+      },
+      {
+       "id": "F",
+       "text": "\"Right now people compromise on choice. We're presented with a one-size-fits-all menu. Ultimately, technology can allow us to make personal choices. You love spicy food and chicken? Here's the dish people like you mostly order,\" says Tom Weaver, CEO at the hospitality tech company Flyt. He talks enthusiastically about the Helsinki pop-up Take-In, a full-service restaurant where diners ordered dishes in from various delivery services. \"For the first time in a few hundred years, digital is allowing us to create new versions of restaurants.\""
+      },
+      {
+       "id": "G",
+       "text": "If high-street fast food is automation-ready, its impact on high-end restaurants is likely to be subtler and slower. \"It'll probably be a very long time before we see a five-star robot-chef,\" says Noel Sharkey, professor of AI and robotics at the University of Sheffield. \"Apart from the AI creativity gap, great cooking involves a subtle understanding of ingredients and delicate cooking that would be enormously challenging for robots. Placing fragile foods on plates would be incredibly slow.\""
+      },
+      {
+       "id": "H",
+       "text": "Currently, robots have limited functionality. A human needs to load Penny with plates that diners lift off themselves. At the robot-powered US pizza-delivery company Zume, the more difficult jobs, such as topping pizzas, are still done by humans. But Moley, which will launch soon, offers an idea of the sophistication to come. Modelled on the movements of a MasterChef contest winner, Tim Anderson, its robotic arms are fixed over a stove and programmed to prepare dishes from raw ingredients. It is designed for domestic use, but a commercial version is planned that opens up the possibility of restaurant kitchens automating even highly technically challenging tasks."
+      },
+      {
+       "id": "I",
+       "text": "For now, the kitchen technology that QSR Automations supplies to Mitchells & Butlers' pubs or KFC is less glamorous. Rather than having a chef shouting out diners' orders, the QSR system automatically distributes those orders across screens. The kitchen screens then tell chefs when to start cooking each dish, so that your plate of fish, chips and peas comes together at the right time."
+      },
+      {
+       "id": "J",
+       "text": "The restaurant industry is currently suffering a severe shortage of skilled chefs — a deficit of 11,000, according to the skills agency People 1st. \"Automation systems designed to make the process more idiot-proof are trying to bridge that gap,\" says Stefan Chomka, the editor of Restaurant magazine."
+      },
+      {
+       "id": "K",
+       "text": "In terms of simplifying or enhancing the customer experience, online restaurant booking has been the easily-won success of the internet age. Automated at-table ordering and payment is seen as the next landmark. Until then, early adopters, such as the Manchester bar owner Andy Smith, who uses the Ordoo app at his venue 33 Oldham Street, may well experience growing but \"lower than expected\" acceptance."
+      },
+      {
+       "id": "L",
+       "text": "Embarrassing failures in restaurant tech frequently hit the headlines. The TGI Fridays drone(无人机) that injured a Brooklyn Daily photographer; US burger chain Shake Shack having to retreat from plans for entirely cashless ordering sites. But, says Chomka, such technology could miss the mark if it only offers \"solutions to problems that don't really exist\". \"Payments being automatic\" could be useful, he adds. But, in an expensive restaurant, \"how quick do you need dinner to be?\""
+      },
+      {
+       "id": "M",
+       "text": "That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to jobs. \"Unite is concerned that without safeguards, any benefits will bypass workers in low-paying jobs, such as waiters,\" says the union's London regional officer, Dave Turnbull. \"We're urging Members of Parliament to ensure automation does not just benefit a wealthy few like previous industrial revolutions.\""
+      },
+      {
+       "id": "N",
+       "text": "The industry principle is that automation will allow it to redeploy staff more effectively. Jobs will change, if not immediately decrease in number. \"Self-order screens mean more demand for people front-of-house. Last year, we recruited 1,000 new managers,\" says McDonald's COO, Jason Clark. Caliburger has a programme to retrain staff as robot engineers or \"chef techs\"."
+      },
+      {
+       "id": "O",
+       "text": "But ultimately the chance to reduce overheads(管理费用) by employing fewer people or at lower rates will be what attracts big brands to technology. Invariably, over the next 10 years, jobs will go in conventional bricks-built restaurants, not least because automation will boost their rapidly growing rival: delivery. Companies such as Domino and Just Eat have both experimented with robot and drone delivery, which is already legal in Reykjavik, Iceland. \"Robot food deliveries are the future,\" says Noel Sharkey. \"Small, 4 mph ground robots are safe and will work 24 hours a day.\""
+      },
+      {
+       "id": "P",
+       "text": "Combined with machine learning of anticipated order volumes and the minute-by-minute cooking data generated by systems such as QSR, that robot fleet could deliver almost instantly. \"Restaurants will prepare food ahead of orders coming in,\" predicts Just Eat's director of engineering, Daniel Richardson. \"I'll be able to say 'Let's have pizza' to my family, my intelligent assistant will hear and 10 minutes later the food will be at my door.\" No one is putting an exact date on it yet. But in the dining room and on your doorstep, the robots are coming."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "It is now possible to fully automate a burger restaurant with little human supervision."
+      },
+      {
+       "id": "s37",
+       "text": "At a robot-powered US company, complicated tasks still have to be performed by humans."
+      },
+      {
+       "id": "s38",
+       "text": "More automation appears to be a certainty in industries eager to cut labor costs and raise profits."
+      },
+      {
+       "id": "s39",
+       "text": "There are often front-page reports of failures in technological innovation of the restaurant industry."
+      },
+      {
+       "id": "s40",
+       "text": "Robot-chef Flippy does not fear laborious work, nor does it make any complaints."
+      },
+      {
+       "id": "s41",
+       "text": "Digital technology makes it possible for businesses to innovate restaurant models."
+      },
+      {
+       "id": "s42",
+       "text": "Fondness for human warmth in catering to customers will give hope to employees who are afraid of losing jobs to robots."
+      },
+      {
+       "id": "s43",
+       "text": "There is an acute shortage of experienced chefs in the catering industry and automated cooking is expected to fill the gap."
+      },
+      {
+       "id": "s44",
+       "text": "Over the coming decade, many jobs in traditional restaurants will disappear due to robot delivery."
+      },
+      {
+       "id": "s45",
+       "text": "According to an expert in AI and robotics, it may be quite some time before a master robot-chef appears."
+      }
+     ],
+     "answers": [
+      "C",
+      "H",
+      "D",
+      "L",
+      "A",
+      "F",
+      "M",
+      "J",
+      "O",
+      "G"
+     ],
+     "statementExplains": [
+      "【定位】Fully automated burger restaurants managed with minimal human oversight — where customers order at screens, pay electronically, and eat food cooked and delivered by robots — are now a possibility.\n【依据】陈述里的 now、possible、fully、automate、burger、restaurant 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】At the robot-powered US pizza-delivery company Zume, the more difficult jobs, such as topping pizzas, are still done by humans.\n【依据】陈述里的 robot-powered、company、still、humans 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】In an industry keen to slash labor costs and increase profits, further automation seems inevitable.\n【依据】陈述里的 automation、industries、labor、costs、profits 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Embarrassing failures in restaurant tech frequently hit the headlines.\n【依据】陈述里的 failures、restaurant 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】Like most chefs, Flippy is not afraid of hard work.\n【依据】陈述里的 flippy、work 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】\"For the first time in a few hundred years, digital is allowing us to create new versions of restaurants.\"\n【依据】陈述里的 digital、restaurant 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to jobs.\n【依据】陈述里的 human、who、jobs 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】The restaurant industry is currently suffering a severe shortage of skilled chefs — a deficit of 11,000, according to the skills agency People 1st.\n【依据】陈述里的 shortage、chefs、industry 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Invariably, over the next 10 years, jobs will go in conventional bricks-built restaurants, not least because automation will boost their rapidly growing rival: delivery.\n【依据】陈述里的 over、jobs、restaurants、delivery 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+      "【定位】\"It'll probably be a very long time before we see a five-star robot-chef,\" says Noel Sharkey, professor of AI and robotics at the University of Sheffield.\n【依据】陈述里的 robotics、time、before、robot-chef 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。"
+     ],
+     "explain": "长篇阅读匹配：16 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Fully automated burger restaurants managed with minimal human oversight — where customers order at screens, pay electronically, and eat food cooked and delivered by robots — are now a possibility.",
+       "why": "陈述里的 now、possible、fully、automate、burger、restaurant 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "At the robot-powered US pizza-delivery company Zume, the more difficult jobs, such as topping pizzas, are still done by humans.",
+       "why": "陈述里的 robot-powered、company、still、humans 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In an industry keen to slash labor costs and increase profits, further automation seems inevitable.",
+       "why": "陈述里的 automation、industries、labor、costs、profits 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Embarrassing failures in restaurant tech frequently hit the headlines.",
+       "why": "陈述里的 failures、restaurant 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Like most chefs, Flippy is not afraid of hard work.",
+       "why": "陈述里的 flippy、work 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"For the first time in a few hundred years, digital is allowing us to create new versions of restaurants.\"",
+       "why": "陈述里的 digital、restaurant 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to jobs.",
+       "why": "陈述里的 human、who、jobs 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The restaurant industry is currently suffering a severe shortage of skilled chefs — a deficit of 11,000, according to the skills agency People 1st.",
+       "why": "陈述里的 shortage、chefs、industry 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Invariably, over the next 10 years, jobs will go in conventional bricks-built restaurants, not least because automation will boost their rapidly growing rival: delivery.",
+       "why": "陈述里的 over、jobs、restaurants、delivery 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"It'll probably be a very long time before we see a five-star robot-chef,\" says Noel Sharkey, professor of AI and robotics at the University of Sheffield.",
+       "why": "陈述里的 robotics、time、before、robot-chef 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Many see friendships as a comfort blanket: a shoulder to cry on, a reliable soul to confide in. However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process. The chaos and never-ending turmoil that accompanies everyday life is an aggressive obstacle in the pursuit of stable friendships. As students, we use this excuse to shrug off losing people who we once thought to be loved ones. Instead of viewing our lives as a race, where everyone is on their own path to some form of success, we must relearn to value the connections we make along the track. We must reevaluate the harm of radical, individual freedom. Radical individualism elevates the freedom of the individual over the collective. It argues, for instance, that universal healthcare, an example of collectivism, threatened the dream of many Americans. Many of us have fallen victim to an individualistic culture. Society tends to celebrate personal achievement and commend it based on the assumption that winning or succeeding is a consequence of working harder than the next person. As a society, we idolize the concept of \"losing friends on the road to success\". I remember hearing in high school, \"Don't worry about losing friendships, just focus on study and getting into college. That's all that will matter in the long run,\" a sentiment that is not unique to my experience. It's preached in many success stories, and it's embedded in the way we see growth. Motivational speakers will push their audience to be complacent to the inevitable end of losing friends. Spend too much time with friends? You're losing time better utilized on your achievements. Invest time in your relationships? Invest time in your work instead. This constant need to succeed has blinded us from seeing through the whirlwind of change that accompanies our everyday lives. We are expected to tangibly succeed, earn awards, get higher positions, earn better grades. In order to succeed, we lose friends, and that has sadly become normalized. We cannot be complacent with losing friendships because they are our anchors. Yes, pursue success. Challenge yourself. Push limits. But contrary to all the self-proclaimed success experts, doing it alone does not make you more successful or any better than someone who achieved it with the help of others. Put effort into fostering healthy relationships, and maintaining them through your busy schedule that seems like it leaves no time for anyone else. Although we may be living in a society that treasures the independent pursuit of achievement, having people to support and love you on the way is far more important than any end result.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What often happens when people are eager to pursue individual success?",
+       "options": [
+        "They lack a shoulder to cry on.",
+        "They have no soul to confide in.",
+        "They cannot find reliable friends.",
+        "They ignore their ties with friends."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process.\n【依据】正确项的核心词 friends 与定位句对得上；其余 ignore、ties 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process.",
+        "why": "正确项的核心词 friends 与定位句对得上；其余 ignore、ties 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「lack」全文未出现。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "偷换主体：「find」全文未出现；把原文的「friends」换成了「cannot、find、reliable」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author advise people to do in their pursuit of radical individualism?",
+       "options": [
+        "Reexamine its detrimental effects.",
+        "Shrug off the loss of their loved ones.",
+        "Avoid the chaos and turmoil involved.",
+        "Remove aggressive obstacles in the way."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Although we may be living in a society that treasures the independent pursuit of achievement, having people to support and love you on the way is far more important than any end result.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 reexamine、detrimental、effects 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Although we may be living in a society that treasures the independent pursuit of achievement, having people to support and love you on the way is far more important than any end result.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 reexamine、detrimental、effects 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「loss」全文未出现。",
+         "C": "因果倒置：「avoid、involved」全文未出现。",
+         "D": "无中生有：「remove、obstacles」全文未出现；把原文的「way」换成了「remove、aggressive、obstacles」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What is American society's assumption of personal achievement?",
+       "options": [
+        "It is to be duly celebrated and highly commended.",
+        "It is a sure way to fulfill a person's dream.",
+        "It revolves around an individualistic culture.",
+        "It reflects a person's exceptional endeavor."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Society tends to celebrate personal achievement and commend it based on the assumption that winning or succeeding is a consequence of working harder than the next person.\n【依据】正确项的核心词 person's 与定位句对得上；其余 reflects、exceptional、endeavor 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Society tends to celebrate personal achievement and commend it based on the assumption that winning or succeeding is a consequence of working harder than the next person.",
+        "why": "正确项的核心词 person's 与定位句对得上；其余 reflects、exceptional、endeavor 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「duly、highly」全文未出现；把原文的「celebrated、commended」换成了「duly、highly」，主语或对象被调包。",
+         "B": "偷换主体：「sure、fulfill」全文未出现；把原文的「person's」换成了「sure、way、fulfill」，主语或对象被调包。",
+         "C": "因果倒置：「revolves、around」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What is preached in many success stories?",
+       "options": [
+        "Attaching importance to academic gains on the road to success.",
+        "Investing one's time in work instead of connecting with friends.",
+        "Trying to strengthen friendships in one's pursuit of personal success.",
+        "Excelling in academic performance to get into a prestigious college."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】It's preached in many success stories, and it's embedded in the way we see growth.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 investing、one's、time、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It's preached in many success stories, and it's embedded in the way we see growth.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 investing、one's、time、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「attaching、importance、academic」全文未出现；把原文的「success」换成了「attaching、importance、academic」，主语或对象被调包。",
+         "C": "偷换主体：「trying、strengthen、one's」全文未出现；把原文的「success」换成了「trying、strengthen、friendships」，主语或对象被调包。",
+         "D": "因果倒置：「excelling、academic、performance」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What can we infer from the passage regarding the pursuit of success?",
+       "options": [
+        "No one can succeed without pushing limits.",
+        "No one can afford to neglect close friends.",
+        "Collectivism is superior to individualism.",
+        "Success experts often lead people to ruin."
+       ],
+       "answer": 1,
+       "kind": "inference",
+       "explain": "【定位】However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process.\n【依据】正确项的核心词 friends 与定位句对得上；其余 afford、neglect、close 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process.",
+        "why": "正确项的核心词 friends 与定位句对得上；其余 afford、neglect、close 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「without、pushing、limits」全文未出现；把原文的「succeed」换成了「without、pushing、limits」，主语或对象被调包。",
+         "C": "偷换主体：「superior」全文未出现；把原文的「individualism」换成了「collectivism、superior」，主语或对象被调包。",
+         "D": "偷换主体：「lead、ruin」全文未出现；把原文的「success、often」换成了「experts、lead、people」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr. said, \"I believe that unarmed truth and unconditional love will have the final word in reality.\" More than five decades later, our society is still struggling to separate truth from fantasy, fact from fiction. From disputes over the climate change to debates about how slavery is taught, America is at a crossroads. And the battle for equity is at the heart of these vital conversations. Study after study shows that inequity has had appalling consequences. A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes $90 – $113 billion\" if equity issues related to higher education had been adequately addressed over the past two decades. This statistic represents a flood of issues we've failed to confront as a nation. It also highlights one truth: We're missing out on valuable opportunities to bridge the differences that divide us. However, by honoring King's legacy, we can get our country back on the path toward true equity. Students — and adults for that matter — simply cannot understand the conflicts we have today without understanding what caused them in the first place. That means we have a responsibility to help them make connections between US history and current events. It also means giving them the tools they need to address inequity and bias in their own lives. Adherence to these principles, along with a commitment to truthful dialogue, can help every student better appreciate how far we've come and more clearly see the roads we have yet to travel. With more truthful analysis of the need for more qualified, diverse educators, we can improve our recruiting, training, and retention strategies for schools across the country. Unfortunately, our deeply rooted divisions are delaying these advancements. A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\". But reports of increased polarization shouldn't persuade us to look away from one another. Instead, they should compel us to address our shared issues head-on. We are not, as some would suggest, living in a \"post-racial society\". We simply cannot afford to keep our heads buried in the sand when it comes to racial inequity. Unless we get honest about intolerance, bias, and how these social diseases impact the ways we treat one another, injustice will continue to haunt us. But our children and our grandchildren deserve better. On this Martin Luther King Day and beyond, let's commit to working together to disrupt the status quo. Let's continue to build a better, more inclusive nation; and in the words of Martin Luther King Jr., \"A society at peace with itself, a society that can live with its conscience.\"",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author think about today's America?",
+       "options": [
+        "It is struggling to transform fiction into reality.",
+        "It has been the focus of many vital conversations.",
+        "It still has a long way to go before equity can be truly realized.",
+        "It has got to a point where people disagree on nearly every issue."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Students — and adults for that matter — simply cannot understand the conflicts we have today without understanding what caused them in the first place.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 still、long、way、before 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Students — and adults for that matter — simply cannot understand the conflicts we have today without understanding what caused them in the first place.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 still、long、way、before 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「transform、into」全文未出现。",
+         "B": "因果倒置：「focus、many」全文未出现。",
+         "D": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「got、point、where」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What do we learn from the passage about black students in the past 20 years?",
+       "options": [
+        "They have been unfairly treated regarding higher education.",
+        "They have been battling hard to address equity issues.",
+        "They have boosted their lifetime incomes by billions of dollars.",
+        "They have come to see the consequences of racial discrimination."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes $90 – $113 billion\" if equity issues related to higher education had been adequately addressed over the past two decades.\n【依据】正确项的核心词 higher、education 与定位句对得上；其余 unfairly、treated、regarding 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes $90 – $113 billion\" if equity issues related to higher education had been adequately addressed over the past two decades.",
+        "why": "正确项的核心词 higher、education 与定位句对得上；其余 unfairly、treated、regarding 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「battling、hard」全文未出现；把原文的「address、equity、issues」换成了「battling、hard」，主语或对象被调包。",
+         "C": "无中生有：「boosted、dollars」全文未出现；把原文的「lifetime、incomes、billions」换成了「boosted、dollars」，主语或对象被调包。",
+         "D": "因果倒置：「discrimination」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "How can Americans bridge the differences that divide them?",
+       "options": [
+        "By dealing with the thorny issues confronting them.",
+        "By seizing every chance to enhance racial harmony.",
+        "By continuing to pursue Martin Luther King Jr.'s cause.",
+        "By striving to identify exceedingly valuable opportunities."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】It also highlights one truth: We're missing out on valuable opportunities to bridge the differences that divide us.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 continuing、pursue、martin、luther 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It also highlights one truth: We're missing out on valuable opportunities to bridge the differences that divide us.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 continuing、pursue、martin、luther 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「dealing、thorny、confronting」全文未出现。",
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「seizing、chance、enhance」全文未出现。",
+         "D": "无中生有：「striving、identify、exceedingly」全文未出现；把原文的「valuable、opportunities」换成了「striving、identify、exceedingly」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "How do most Americans view America as a nation according to a recent survey?",
+       "options": [
+        "It is compelled to address its historical social issues.",
+        "It is delaying advancements toward racial equality.",
+        "It has kept itself from polarization.",
+        "It has become increasingly split."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\".\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 become、increasingly、split 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\".",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 become、increasingly、split 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「compelled、historical」全文未出现。",
+         "B": "因果倒置：「equality」全文未出现。",
+         "C": "因果倒置：「kept」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author suggest Americans do?",
+       "options": [
+        "Ensure the well-being of their children and grandchildren.",
+        "Make joint efforts to tackle the nation's equity issues.",
+        "Restrain their intolerance and discrimination.",
+        "Restore social order for a harmonious nation."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\".\n【依据】正确项的核心词 nation's 与定位句对得上；其余 make、joint、efforts、tackle 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\".",
+        "why": "正确项的核心词 nation's 与定位句对得上；其余 make、joint、efforts、tackle 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「ensure、well-being」全文未出现。",
+         "C": "无中生有：「restrain、discrimination」全文未出现。",
+         "D": "无中生有：「restore、order、harmonious」全文未出现；把原文的「nation」换成了「restore、social、order」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "尊老是中华民族的传统美德，深深植根于中国人的思想和行为中，是人们普遍遵守的行为规范和社会准则。在当今的中国，这种美德得到广泛传承。社会各界积极营造敬老助老的社会氛围。为老年人提供便利服务已成为社会共识，例如社区专门开设长者食堂，公共场所配置优先座位。政府还出台了一系列政策，为老年人的权益提供有力保障。尊老是社会和谐与发展的重要基石，有助于培育良好的社会氛围，推动整个社会文明进步。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

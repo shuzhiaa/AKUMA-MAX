@@ -1,0 +1,1179 @@
+{
+ "id": "cet4-2025-12-2",
+ "levelId": "cet4",
+ "title": "四级 2025 年 12 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年12月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2025-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2025-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "美国海关与边境保护局官员发现"
+      },
+      {
+       "idx": 2,
+       "zh": "上个月美国一打大号鸡蛋的平均价格达到4.25美元"
+      },
+      {
+       "idx": 3,
+       "zh": "将鸡蛋带入美国的人面临最高1万美元的罚款"
+      },
+      {
+       "idx": 4,
+       "zh": "美国海关与边境保护局发言人表示:\"通常情况下,这些物品在首次检查时就会申报。然后当事人可以放弃这些鸡蛋而不会产生后果。\""
+      },
+      {
+       "idx": 5,
+       "zh": "即便如此,最近仍有极少数情况是当局在进一步检查时发现了鸡蛋"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 哇。她太幸运了"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 我不确定具体数字"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 我真不敢相信。你真的不是在开玩笑"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 真的,你看我的表情"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 难以置信。那你为什么说\"可怜的Hannah\"?"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 嗯,结果她已经把钱全花光了"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn from the news report about the egg price in the U.S.?",
+       "options": [
+        "It has gone up sharply.",
+        "It has been fluctuating.",
+        "It has risen because of bird flu.",
+        "It has been consumers' concern."
+       ],
+       "optionsZh": [
+        "价格大幅上涨。",
+        "价格一直在波动。",
+        "价格因禽流感而上涨。",
+        "价格一直是消费者关注的问题。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It has gone up sharply.（价格大幅上涨。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the news report say about most people arriving at American borders with eggs?",
+       "options": [
+        "They don't want to abandon their eggs.",
+        "They don't know they will be heavily fined.",
+        "They don't know they are forbidden to bring eggs.",
+        "They don't declare their eggs during the inspection."
+       ],
+       "optionsZh": [
+        "他们不想放弃自己的鸡蛋。",
+        "他们不知道会被处以重罚。",
+        "他们不知道禁止携带鸡蛋。",
+        "他们在检查时没有申报自己的鸡蛋。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They don't know they are forbidden to bring eggs.（他们不知道禁止携带鸡蛋。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What do we learn from the news report about the restaurant Nettie's House?",
+       "options": [
+        "It is no longer critical of younger customers.",
+        "It has banned kids under 10 from dining there.",
+        "It is no longer as noisy and crowded as before.",
+        "It has implemented a decision to expand business."
+       ],
+       "optionsZh": [
+        "它不再对年轻顾客持批评态度。",
+        "它已禁止10岁以下儿童在那里就餐。",
+        "它不再像以前那样嘈杂和拥挤。",
+        "它已实施了一项扩大业务的决定。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It has banned kids under 10 from dining there.（它已禁止10岁以下儿童在那里就餐。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What do supporters say in response to the restaurant's new policy?",
+       "options": [
+        "It is fully aware of frequent customers' feelings.",
+        "It caters to the tastes of different customers.",
+        "It is entitled to adopt any rules it wants.",
+        "It should announce its decisions online."
+       ],
+       "optionsZh": [
+        "它充分了解常客的感受。",
+        "它迎合不同顾客的口味。",
+        "它有权采用任何它想要的规则。",
+        "它应该在网上公布其决定。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It is entitled to adopt any rules it wants.（它有权采用任何它想要的规则。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the report say security officers were searching for?",
+       "options": [
+        "A missing pet.",
+        "A grown-up snake.",
+        "A huge animal skin.",
+        "A snake specialist."
+       ],
+       "optionsZh": [
+        "一只走失的宠物。",
+        "一条成年蛇。",
+        "一张巨大的动物皮。",
+        "一位蛇类专家。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：A grown-up snake.（一条成年蛇。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "Where does the report say the discovery was made?",
+       "options": [
+        "In a government office.",
+        "In a deserted house.",
+        "At a local zoo.",
+        "At a construction site."
+       ],
+       "optionsZh": [
+        "在一个政府办公室。",
+        "在一座废弃的房子里。",
+        "在当地一家动物园。",
+        "在一处建筑工地。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：At a construction site.（在一处建筑工地。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What did the government say would be done if security officers found what they were searching for?",
+       "options": [
+        "Figuring out where it came from.",
+        "Curing it of any possible diseases.",
+        "Protecting its babies against harm.",
+        "Determining how to catch it safely."
+       ],
+       "optionsZh": [
+        "查明它来自哪里。",
+        "治疗它可能患有的疾病。",
+        "保护它的幼崽免受伤害。",
+        "确定如何安全地捕捉它。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Figuring out where it came from.（查明它来自哪里。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "Why does the woman say she swears it?",
+       "options": [
+        "The man doesn't agree Hannah is poor.",
+        "The man doesn't believe what she says.",
+        "The man doesn't think she can be a millionaire.",
+        "The man doesn't consider her to be trustworthy."
+       ],
+       "optionsZh": [
+        "男人不同意Hannah很穷。",
+        "男人不相信她说的话。",
+        "男人不认为她能成为百万富翁。",
+        "男人不认为她值得信任。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The man doesn't believe what she says.（男人不相信她说的话。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What do we learn about Hannah from the conversation?",
+       "options": [
+        "She no longer has any money left.",
+        "She has been betrayed by her family.",
+        "She can no longer hold on to her job.",
+        "She has been robbed of 5 million Euros."
+       ],
+       "optionsZh": [
+        "她已经没有任何钱了。",
+        "她被家人背叛了。",
+        "她不能再保住她的工作了。",
+        "她被抢劫了500万欧元。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She no longer has any money left.（她已经没有任何钱了。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the man think really matters to people?",
+       "options": [
+        "Fortune.",
+        "Family.",
+        "Harmony.",
+        "Happiness."
+       ],
+       "optionsZh": [
+        "财富。",
+        "家庭。",
+        "和睦。",
+        "幸福。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Happiness.（幸福。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does Hannah's husband say he'll do if she sells the new car?",
+       "options": [
+        "Divorce her.",
+        "Leave home.",
+        "Buy her a more expensive model.",
+        "Let the best thing happen to them."
+       ],
+       "optionsZh": [
+        "和她离婚。",
+        "离开家。",
+        "给她买一辆更贵的车。",
+        "让最好的事情发生在他们身上。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Divorce her.（和她离婚。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the man say about Jake?",
+       "options": [
+        "He is not outstanding in Science and Math.",
+        "He does not have a strong academic record.",
+        "He is not yet mature enough to live on his own.",
+        "He does not like Westwood Elementary School."
+       ],
+       "optionsZh": [
+        "他在科学和数学方面不突出。",
+        "他没有优秀的学业成绩。",
+        "他还不够成熟,无法独立生活。",
+        "他不喜欢Westwood小学。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He is not yet mature enough to live on his own.（他还不够成熟,无法独立生活。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "Why does the woman feel uncomfortable about sending Jake to Lakeview School?",
+       "options": [
+        "It is too far away.",
+        "It is newly opened.",
+        "It lacks outdoor sports facilities.",
+        "It has too few first-class teachers."
+       ],
+       "optionsZh": [
+        "太远了。",
+        "刚开办不久。",
+        "缺少户外运动设施。",
+        "一流教师太少。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It is newly opened.（刚开办不久。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the man say about their local school?",
+       "options": [
+        "It has a beautiful campus.",
+        "It is within walking distance.",
+        "It has a wonderful arts program.",
+        "It is helpful to Jake's breathing problems."
+       ],
+       "optionsZh": [
+        "它有美丽的校园。",
+        "步行就能到。",
+        "它有出色的艺术课程。",
+        "它对Jake的呼吸问题有帮助。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It has a wonderful arts program.（它有出色的艺术课程。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the woman suggest at the end of the conversation?",
+       "options": [
+        "Asking Jake which school he himself prefers to enroll in.",
+        "Thinking twice about what is best for Jake's education next year.",
+        "Consulting her mother about which school Jake is to attend.",
+        "Sending Jake to the school near the home of the man's mother."
+       ],
+       "optionsZh": [
+        "询问Jake本人更愿意就读哪所学校。",
+        "再三考虑什么对Jake明年的教育最有利。",
+        "咨询她母亲关于Jake该上哪所学校。",
+        "把Jake送到男士母亲家附近的学校。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Sending Jake to the school near the home of the man's mother.（把Jake送到男士母亲家附近的学校。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the passage say is a major flaw of analytical decision-making?",
+       "options": [
+        "It is time consuming.",
+        "It is unfit for crucial issues.",
+        "It relies too much on solid data.",
+        "It dulls a leader's sense of urgency."
+       ],
+       "optionsZh": [
+        "它耗费时间。",
+        "它不适合关键问题。",
+        "它过于依赖可靠数据。",
+        "它削弱了领导者的紧迫感。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is time consuming.（它耗费时间。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does a leader tend to do when they are committed to analytical decision-making?",
+       "options": [
+        "Depend on digital technology.",
+        "Make assumptions and guesses.",
+        "Ignore others' thoughts and ideas.",
+        "Lay emphasis on thinking flexibly."
+       ],
+       "optionsZh": [
+        "依赖数字技术。",
+        "做出假设和猜测。",
+        "忽视他人的想法和意见。",
+        "强调灵活思考。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Ignore others' thoughts and ideas.（忽视他人的想法和意见。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What is a key strength of analytical decision-making?",
+       "options": [
+        "Maximizing the advantage of available resources.",
+        "Minimizing the possibility of a wrong decision.",
+        "Discovering new potential markets.",
+        "Perfecting promotional strategies."
+       ],
+       "optionsZh": [
+        "最大化可用资源的优势。",
+        "最小化错误决策的可能性。",
+        "发现新的潜在市场。",
+        "完善推广策略。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Minimizing the possibility of a wrong decision.（最小化错误决策的可能性。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What do we learn about Branyas Morera?",
+       "options": [
+        "She is one of the world's best-known pianists.",
+        "She celebrated her 110th birthday this April.",
+        "She moved to the U.S. at a young age.",
+        "She is the world's oldest individual."
+       ],
+       "optionsZh": [
+        "她是世界上最著名的钢琴家之一。",
+        "她在今年四月庆祝了她的110岁生日。",
+        "她在年轻时移居美国。",
+        "她是世界上最年长的个人。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She is the world's oldest individual.（她是世界上最年长的个人。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What is one of Branyas Morera's secrets to living a long life?",
+       "options": [
+        "Being always active on social media.",
+        "Doing regular and vigorous exercise.",
+        "Playing the piano from a young age.",
+        "Following a specific diet every day."
+       ],
+       "optionsZh": [
+        "在社交媒体上始终保持活跃。",
+        "进行规律且高强度的运动。",
+        "从小弹钢琴。",
+        "每天遵循特定的饮食。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Playing the piano from a young age.（从小弹钢琴。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does Branyas Morera think also contributes to a long life?",
+       "options": [
+        "Eating as little as one can possibly manage.",
+        "Having the ability to forget things selectively.",
+        "Figuring out the positive properties of each food item.",
+        "Knowing how to remember major events in one's life."
+       ],
+       "optionsZh": [
+        "尽可能少吃。",
+        "有选择性地忘记事情的能力。",
+        "弄清每种食物的有益特性。",
+        "知道如何记住人生中的重大事件。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Having the ability to forget things selectively.（有选择性地忘记事情的能力。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What is of great importance to students according to the speaker?",
+       "options": [
+        "The ability to learn.",
+        "The first day of school.",
+        "How teachers perceive them.",
+        "Where they sit in the classroom."
+       ],
+       "optionsZh": [
+        "学习能力。",
+        "开学第一天。",
+        "教师如何看待他们。",
+        "他们在教室里坐在哪里。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Where they sit in the classroom.（他们在教室里坐在哪里。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What did one study find about students seated in the middle of the classroom?",
+       "options": [
+        "They often received close attention from the instructors.",
+        "They obtained the highest grade average in their class.",
+        "They actually wanted a clear vision of the blackboard.",
+        "They scored higher than students sitting behind them."
+       ],
+       "optionsZh": [
+        "他们经常受到教师的密切关注。",
+        "他们获得了班级中最高的平均成绩。",
+        "他们实际上想要清楚地看到黑板。",
+        "他们的分数高于坐在他们后面的学生。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They scored higher than students sitting behind them.（他们的分数高于坐在他们后面的学生。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What can eye contact, visibility and more interaction probably bring about?",
+       "options": [
+        "A higher grade average among all students of a class.",
+        "A better connection between instructors and students.",
+        "A stronger support for a student-centered teaching approach.",
+        "A more favorable atmosphere for effective classroom learning."
+       ],
+       "optionsZh": [
+        "一个班级所有学生的平均成绩更高。",
+        "教师与学生之间更好的联系。",
+        "对以学生为中心的教学方法更有力的支持。",
+        "更有利于有效课堂学习的氛围。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：A better connection between instructors and students.（教师与学生之间更好的联系。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What do we learn about extremely shy students sitting in the front row of the classroom?",
+       "options": [
+        "They may experience some unwanted stress.",
+        "They may try hard to show their preparedness.",
+        "They may receive extra attention from the instructor.",
+        "They may feel helpless when called on by the instructor."
+       ],
+       "optionsZh": [
+        "他们可能会经历一些不必要的压力。",
+        "他们可能会努力展示自己的准备情况。",
+        "他们可能会受到教师的额外关注。",
+        "他们在被教师点名时可能会感到无助。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They may experience some unwanted stress.（他们可能会经历一些不必要的压力。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose it is proposed that all university students should be required to learn academic writing. You are now to write a response by stating what you think of the proposal. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "It has recently been proposed that all university students should be required to learn academic writing. In my\nview, this proposal deserves our full support, for such a skill is far more than an optional refinement.\nFor one thing, academic writing trains students to organize ideas logically and cite sources honestly. When I\nwrote my first term paper, I struggled to structure arguments and nearly copied online material by mistake; a\nwriting course would have taught me both clear reasoning and academic integrity. For another, this ability pays\noff well beyond campus. Whether a graduate applies for a research position or drafts a report at work, the\ncapacity to express thoughts precisely on paper often determines success.\nAdmittedly, mastering academic writing takes time and effort. Nevertheless, the long-term rewards clearly\noutweigh the cost. Therefore, I strongly believe universities should make this course compulsory, ideally\nstarting from the first year so that students benefit throughout their studies."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Some music inspires you to move your feet, some inspires you to get out there and change the world. In any case, it's {{1}} to say that music moves people in special ways. If you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which {{2}} to you like a sting in your brain. It turns out that ASMR is pretty special. According to a {{3}} published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's. Alzheimer's {{4}} to put people into layers of confusion, and the study confirms that music can sometimes {{5}} lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while. ASMR is powerful stuff! This phenomenon has been {{6}} several times but rarely studied properly. One of the most famous examples of this is the story of 92-year-old Henry Dryer, who comes out of dementia(痴呆) while listening to songs from his youth. Jeff Anderson, associate professor in Radiology at the University of Utah and {{7}} author on the study, says \"In our society, the diagnoses of dementia are {{8}} resources to the maximum. No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more {{9}} , decrease the cost of care and improve a patient's {{10}} of life.\"",
+     "options": [
+      "actually",
+      "consequently",
+      "contributing",
+      "fair",
+      "feels",
+      "manageable",
+      "mends",
+      "observed",
+      "phase",
+      "plotting",
+      "quality",
+      "recently",
+      "taxing",
+      "tends",
+      "yielded"
+     ],
+     "answers": [
+      3,
+      4,
+      11,
+      13,
+      0,
+      7,
+      2,
+      12,
+      5,
+      10
+     ],
+     "blankExplains": [
+      "【定位】In any case, it's ____ to say that music moves people in special ways.\n【依据】答案是 fair：填回后与所在句 case、it's、say、music、moves、people 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which ____ to you like a sting in your brain.\n【依据】答案是 feels：填回后与所在句 you're、especially、into、piece、music、brain 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】According to a ____ published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's.\n【依据】答案是 recently：填回后与所在句 according、published、study、journal、prevention、alzheimer's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Alzheimer's ____ to put people into layers of confusion, and the study confirms that music can sometimes  … lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while.\n【依据】答案是 tends：填回后与所在句 alzheimer's、put、people、into、layers、confusion 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Alzheimer's  … to put people into layers of confusion, and the study confirms that music can sometimes ____ lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while.\n【依据】答案是 actually：填回后与所在句 alzheimer's、put、people、into、layers、confusion 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This phenomenon has been ____ several times but rarely studied properly.\n【依据】答案是 observed：填回后与所在句 phenomenon、several、times、rarely、studied、properly 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Jeff Anderson, associate professor in Radiology at the University of Utah and ____ author on the study, says \"In our society, the diagnoses of dementia are  … resources to the maximum.\n【依据】答案是 contributing：填回后与所在句 jeff、anderson、associate、professor、radiology、university 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Jeff Anderson, associate professor in Radiology at the University of Utah and  … author on the study, says \"In our society, the diagnoses of dementia are ____ resources to the maximum.\n【依据】答案是 taxing：填回后与所在句 jeff、anderson、associate、professor、radiology、university 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more ____ , decrease the cost of care and improve a patient's  … of life.\"\n【依据】答案是 manageable：填回后与所在句 says、playing、music、cure、alzheimer's、disease 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more  … , decrease the cost of care and improve a patient's ____ of life.\"\n【依据】答案是 quality：填回后与所在句 says、playing、music、cure、alzheimer's、disease 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "In any case, it's ____ to say that music moves people in special ways.",
+       "why": "答案是 fair：填回后与所在句 case、it's、say、music、moves、people 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 fair 这个词性/语义，而不是 feels）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 fair 这个词性/语义，而不是 actually）。"
+       }
+      },
+      {
+       "locate": "If you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which ____ to you like a sting in your brain.",
+       "why": "答案是 feels：填回后与所在句 you're、especially、into、piece、music、brain 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 feels 这个词性/语义，而不是 fair）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 feels 这个词性/语义，而不是 actually）。"
+       }
+      },
+      {
+       "locate": "According to a ____ published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's.",
+       "why": "答案是 recently：填回后与所在句 according、published、study、journal、prevention、alzheimer's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recently 这个词性/语义，而不是 actually）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recently 这个词性/语义，而不是 consequently）。"
+       }
+      },
+      {
+       "locate": "Alzheimer's ____ to put people into layers of confusion, and the study confirms that music can sometimes  … lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while.",
+       "why": "答案是 tends：填回后与所在句 alzheimer's、put、people、into、layers、confusion 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 tends 这个词性/语义，而不是 taxing）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 tends 这个词性/语义，而不是 actually）。"
+       }
+      },
+      {
+       "locate": "Alzheimer's  … to put people into layers of confusion, and the study confirms that music can sometimes ____ lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while.",
+       "why": "答案是 actually：填回后与所在句 alzheimer's、put、people、into、layers、confusion 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 actually 这个词性/语义，而不是 consequently）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 actually 这个词性/语义，而不是 contributing）。"
+       }
+      },
+      {
+       "locate": "This phenomenon has been ____ several times but rarely studied properly.",
+       "why": "答案是 observed：填回后与所在句 phenomenon、several、times、rarely、studied、properly 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 observed 这个词性/语义，而不是 actually）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 observed 这个词性/语义，而不是 consequently）。"
+       }
+      },
+      {
+       "locate": "Jeff Anderson, associate professor in Radiology at the University of Utah and ____ author on the study, says \"In our society, the diagnoses of dementia are  … resources to the maximum.",
+       "why": "答案是 contributing：填回后与所在句 jeff、anderson、associate、professor、radiology、university 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "与 contributing 拼写相近（共同开头 con），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 contributing 这个词性/语义，而不是 actually）。"
+       }
+      },
+      {
+       "locate": "Jeff Anderson, associate professor in Radiology at the University of Utah and  … author on the study, says \"In our society, the diagnoses of dementia are ____ resources to the maximum.",
+       "why": "答案是 taxing：填回后与所在句 jeff、anderson、associate、professor、radiology、university 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 taxing 这个词性/语义，而不是 tends）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 taxing 这个词性/语义，而不是 actually）。"
+       }
+      },
+      {
+       "locate": "No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more ____ , decrease the cost of care and improve a patient's  … of life.\"",
+       "why": "答案是 manageable：填回后与所在句 says、playing、music、cure、alzheimer's、disease 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 manageable 这个词性/语义，而不是 mends）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 manageable 这个词性/语义，而不是 actually）。"
+       }
+      },
+      {
+       "locate": "No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more  … , decrease the cost of care and improve a patient's ____ of life.\"",
+       "why": "答案是 quality：填回后与所在句 says、playing、music、cure、alzheimer's、disease 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 quality 这个词性/语义，而不是 actually）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 quality 这个词性/语义，而不是 consequently）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé. But why not? Businesses are waking up to the skills gamers can bring to the workplace."
+      },
+      {
+       "id": "B",
+       "text": "One start-up is convinced that the skills learned by playing games — hard-won through years of training and battle — can be applied to real-life work situations. And Game Academy reckons its belief is backed up by hard data. Do you enjoy unusual puzzle games like Portal, or tower defence games like Defense Grid? The team has found that IT workers play those more than average. But if you prefer Civilization, Total War, or X-Com, where strategy and resource management are key, then you might have more in common with managers."
+      },
+      {
+       "id": "C",
+       "text": "Game Academy's idea is simple: analyse gamers' habits from their online gaming profile, and offer courses in valuable skills that reflect their aptitudes — skills they can practise and refine in-game. And there is already a growing acceptance that gaming skills are transferable."
+      },
+      {
+       "id": "D",
+       "text": "Even the military is hiring gamers. \"The ability to absorb information, react swiftly and coordinate actions whilst remaining calm under pressure are often attributes of people that are good at gaming,\" according to a Royal Air Force spokesperson. Those skills are part of what the Royal Air Force is looking for \"in a variety of roles\". \"Skills acquired through gaming can be very relevant to certain areas.\""
+      },
+      {
+       "id": "E",
+       "text": "\"There are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning,\" says Ryan Gardner, a regional director with Hays recruitment. But does that really mean your top 100 ranking in Overwatch should go down in your résumé? \"It's about how you either make it relevant to the job you are applying for, or how it makes you more interesting as a potential employee,\" Mr Gardner says."
+      },
+      {
+       "id": "F",
+       "text": "Two years ago, a Glasgow University study made headlines for suggesting gaming could make students more successful. But \"the research hasn't really changed minds, at least not yet,\" says one of the authors of the study, Dr Matthew Barr. He's now writing a book on the topic. \"For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job. But if someone can explain how they've led a team in an online game, for example, they may be able to persuade an employer that this is useful,\" says Dr Barr."
+      },
+      {
+       "id": "G",
+       "text": "Playing games casually is unlikely to help your career prospects. But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills. \"We see gameplay as a resource of talent,\" says co-founder David Barrie. \"Why can't we put in our résumé our gaming victories and achievements?\" he asks. \"If they say they want leadership — why can't I point to my years of leading World of Warcraft raids?\""
+      },
+      {
+       "id": "H",
+       "text": "There are already plenty of gamers out there who know that their hobby has made them who they are. Earlier this year, Matthew Ricci told gaming site Kotaku: \"If you're playing EVE Online you basically already have an MBA.\" Often made fun of in gaming circles as a \"spreadsheet simulator(电子表格模拟)\", the economy of the fictional EVE universe is driven by real market principles. If you want to build a new spaceship, the raw material has to be mined by another player. Manufacturing costs come into effect, and commodities fluctuate in price based on demand and the distance to haul the commodity."
+      },
+      {
+       "id": "I",
+       "text": "Mr Ricci, who had always dreamed of being the boss of his own company, ran an in-game corporation comprising hundreds of players. Eventually, he realised he could transfer his skills to real-life business — instead of doing it for free. He restructured Zentech, once a taxation vehicle for his father's business, and it is now in its fourth year helping international brands enter the Canadian market. EVE teaches skills like creativity, leadership, organisation, and conflict resolution, he maintains. He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\"."
+      },
+      {
+       "id": "J",
+       "text": "Digital entrepreneur and business consultant Mia Bennett says: \"In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\" But there are some links to skills like \"decision-making, the ability to anticipate and future planning,\" she says. \"It also helps with meta-skills — learning how to learn, experimentation, and creative thinking.\""
+      },
+      {
+       "id": "K",
+       "text": "Twelve years into his career, Mark Long, a radiotherapy physicist with the NHS in Surrey, doesn't get as much gaming time as he used to. \"I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon(光子) blasters, but that's not quite the reality.\" Instead, he credits old-school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. Gaming also encouraged a competitive spirit — and that, he believes, translates. \"When creating treatment plans, the aim is to optimise the radiation dose to the tumour and restrict it as much as possible to healthy surrounding tissues and organs,\" he says. It's about \"repeating the process, but each time doing something slightly different to improve the result\". Not unlike achieving a high score or a perfect run. \"Most videogames are essentially puzzles to solve,\" he says. \"And problem-solving is a big part of my job.\""
+      },
+      {
+       "id": "L",
+       "text": "\"Over at Game Academy, Mr Barrie is aware they still have a mountain to climb. The employer community will need the science,\" he says, but confesses he only became a true believer when he started asking players about their biggest in-game achievements. \"The scale and scope of their answers were amazing,\" he says. \"But ask them the same about their work, and they don't know.\" \"The engagement and powerful skills that people get playing a game — why can't work be like that?\" he asks."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Certain gaming skills meet the requirements of the armed forces in Britain."
+      },
+      {
+       "id": "s37",
+       "text": "One veteran player has applied his gaming skills to his real-world business and owes his success partly to a game company."
+      },
+      {
+       "id": "s38",
+       "text": "According to a researcher, bad reputation about games will probably limit a gamer's chances of landing a job."
+      },
+      {
+       "id": "s39",
+       "text": "Businesses are beginning to realise gaming skills are applicable to their employees' work."
+      },
+      {
+       "id": "s40",
+       "text": "A physicist admits gaming has contributed to his computer knowledge and skills of solving problems."
+      },
+      {
+       "id": "s41",
+       "text": "Game Academy proposes to help gamers develop their skills using critical thinking."
+      },
+      {
+       "id": "s42",
+       "text": "One who enjoys playing games that require management skills to win might possess more qualities of a manager."
+      },
+      {
+       "id": "s43",
+       "text": "In more conventional views, gaming is a time-wasting activity pursued by young boys."
+      },
+      {
+       "id": "s44",
+       "text": "It is suggested that gaming skills be included in a résumé if they enhance a job applicant's appeal."
+      },
+      {
+       "id": "s45",
+       "text": "Many gamers know their passion for playing games has shaped their identity."
+      }
+     ],
+     "answers": [
+      "D",
+      "I",
+      "F",
+      "A",
+      "K",
+      "G",
+      "B",
+      "J",
+      "E",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】\"Skills acquired through gaming can be very relevant to certain areas.\"\n【依据】陈述里的 certain、gaming、skills 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\".\n【依据】陈述里的 business、success、game、company 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】\"For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job.\n【依据】陈述里的 reputation、games、gamer's、chances、job 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé.\n【依据】陈述里的 gaming、work 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】\"I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon(光子) blasters, but that's not quite the reality.\" Instead, he credits old-school games like Palace of Magic with exposing him to computers.\n【依据】陈述里的 gaming、computer、skills 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills.\n【依据】陈述里的 game、academy、gamers、develop、skills、critical 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】One start-up is convinced that the skills learned by playing games — hard-won through years of training and battle — can be applied to real-life work situations.\n【依据】陈述里的 playing、games、skills 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Digital entrepreneur and business consultant Mia Bennett says: \"In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\" But there are some links to skills like \"decision-making, the ability to anticipate and future planning,\" she says.\n【依据】陈述里的 gaming、pursued、boys 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】\"There are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning,\" says Ryan Gardner, a regional director with Hays recruitment.\n【依据】陈述里的 skills 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】There are already plenty of gamers out there who know that their hobby has made them who they are.\n【依据】陈述里的 gamers、know 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "\"Skills acquired through gaming can be very relevant to certain areas.\"",
+       "why": "陈述里的 certain、gaming、skills 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\".",
+       "why": "陈述里的 business、success、game、company 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job.",
+       "why": "陈述里的 reputation、games、gamer's、chances、job 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé.",
+       "why": "陈述里的 gaming、work 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon(光子) blasters, but that's not quite the reality.\" Instead, he credits old-school games like Palace of Magic with exposing him to computers.",
+       "why": "陈述里的 gaming、computer、skills 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills.",
+       "why": "陈述里的 game、academy、gamers、develop、skills、critical 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "One start-up is convinced that the skills learned by playing games — hard-won through years of training and battle — can be applied to real-life work situations.",
+       "why": "陈述里的 playing、games、skills 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Digital entrepreneur and business consultant Mia Bennett says: \"In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\" But there are some links to skills like \"decision-making, the ability to anticipate and future planning,\" she says.",
+       "why": "陈述里的 gaming、pursued、boys 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"There are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning,\" says Ryan Gardner, a regional director with Hays recruitment.",
+       "why": "陈述里的 skills 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "There are already plenty of gamers out there who know that their hobby has made them who they are.",
+       "why": "陈述里的 gamers、know 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Junk food is now a staple of many Americans' diets. Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise. But recent studies show a lack of exercise is not to blame for rising obesity rates. Bad diets are. Interventions(干预) to help reduce junk food consumption are especially important for children and teenagers. Prevention is better than cure because obesity is so difficult to treat. Unfortunately, while health education has shown some success among young children, teens have been harder to reach. Now a large-scale study has tried an innovative approach to change teenagers' attitudes towards healthy eating, and the results are promising. The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers. In contrast, the new intervention cleverly exploits teenagers' instinct for rebelliousness and autonomy, and the value they place on social justice. To do this, researchers had students read an article on the food industry. It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy. The article also explained how advertising campaigns specifically target very young and poor people, causing harm for these vulnerable groups. Afterwards, the participants read a fictional survey of teens who wanted to \"fight back against the companies by buying and eating less processed food\" After the intervention, participants associated healthy eating with autonomy and social justice. The teenagers also rated healthy eating as being more appealing. Importantly, there were also some promising effects of the new intervention on actual behavior. A day later the students were offered a choice of snacks and drinks in a seemingly unrelated context. The teens chose healthy snacks and drinks (such as fruit or water) more often over unhealthy options (like biscuits and soda). Apparently associating a healthy diet with teenagers' own values seems to be a promising avenue to prevent obesity.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn about advertising campaigns from the snack food companies?",
+       "options": [
+        "They convey the idea that their products are ok if consumers exercise more.",
+        "They send the message that bad diets are responsible for Americans' obesity.",
+        "They usually feature sports stars to emphasize the benefits of their snack foods.",
+        "They claim that lack of exercise is to blame for the increasing obesity rates."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise.\n【依据】正确项的核心词 products、consumers、exercise 与定位句对得上；其余 convey、idea 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise.",
+        "why": "正确项的核心词 products、consumers、exercise 与定位句对得上；其余 convey、idea 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「bad、responsible」全文未出现；把原文的「send、message」换成了「bad、diets、responsible」，主语或对象被调包。",
+         "C": "无中生有：「usually、emphasize、benefits」全文未出现；把原文的「feature、sports、stars」换成了「usually、emphasize、benefits」，主语或对象被调包。",
+         "D": "偷换主体：「claim、increasing」全文未出现；把原文的「exercise」换成了「claim、lack、blame」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the passage say about health education?",
+       "options": [
+        "It has shed light on teens' instinct for rebellion and autonomy.",
+        "It has placed much more emphasis on cure than on prevention.",
+        "It has contributed little to the campaigns against obesity.",
+        "It has largely failed to turn teens away from junk food."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy.\n【依据】正确项的核心词 junk、food 与定位句对得上；其余 largely、failed、turn、teens 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy.",
+        "why": "正确项的核心词 junk、food 与定位句对得上；其余 largely、failed、turn、teens 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「shed、light、teens'」全文未出现。",
+         "B": "无中生有：「placed、much、emphasis」全文未出现。",
+         "C": "因果倒置：「contributed、little」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What is a major flaw in previous interventions to help reduce junk food consumption?",
+       "options": [
+        "They motivated teens to stay away from junk food only temporarily.",
+        "They focused on the benefits young people would reap in the future.",
+        "They were based on the assumption that motivation was the only key.",
+        "They were incapable of appealing to teens' instinct for rebelliousness."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Interventions(干预) to help reduce junk food consumption are especially important for children and teenagers.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 focused、benefits、young、people 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Interventions(干预) to help reduce junk food consumption are especially important for children and teenagers.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 focused、benefits、young、people 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「motivated、stay、away」全文未出现；把原文的「junk、food」换成了「motivated、teens、stay」，主语或对象被调包。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「based、assumption、only」全文未出现。",
+         "D": "因果倒置：「incapable、teens'」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "In what way is the new intervention innovative?",
+       "options": [
+        "It emphasizes people's sense of social responsibility.",
+        "It cleverly exploits teenagers' personal weaknesses.",
+        "It takes advantage of teenagers' natural inclination.",
+        "It promises immediate rather than future benefits."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In contrast, the new intervention cleverly exploits teenagers' instinct for rebelliousness and autonomy, and the value they place on social justice.\n【依据】正确项的核心词 teenagers' 与定位句对得上；其余 takes、advantage、natural、inclination 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In contrast, the new intervention cleverly exploits teenagers' instinct for rebelliousness and autonomy, and the value they place on social justice.",
+        "why": "正确项的核心词 teenagers' 与定位句对得上；其余 takes、advantage、natural、inclination 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「emphasizes、people's、sense」全文未出现；把原文的「social」换成了「emphasizes、people's、sense」，主语或对象被调包。",
+         "B": "无中生有：「personal、weaknesses」全文未出现；把原文的「cleverly、exploits、teenagers'」换成了「personal、weaknesses」，主语或对象被调包。",
+         "D": "无中生有：「promises、immediate、rather」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What conclusion can be drawn from the new research?",
+       "options": [
+        "A totally different approach could be adopted to combat advertising campaigns for snack food.",
+        "An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle.",
+        "Obesity can be hopefully prevented by building links between teenagers' values and healthy eating.",
+        "An innovative way to beat obesity is to expose food companies' manipulative and deceptive practices."
+       ],
+       "answer": 2,
+       "kind": "inference",
+       "explain": "【定位】The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers.\n【依据】正确项的核心词 teenagers'、healthy 与定位句对得上；其余 obesity、hopefully、prevented、building 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers.",
+        "why": "正确项的核心词 teenagers'、healthy 与定位句对得上；其余 obesity、hopefully、prevented、building 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「totally、different、adopted」全文未出现。",
+         "B": "无中生有：「effective、found、persuade」全文未出现；把原文的「intervention、teenagers、healthier」换成了「effective、found、persuade」，主语或对象被调包。",
+         "D": "因果倒置：「way、beat、expose」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 350 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Adults dream during REM (rapid eye movement) sleep and infants have loads of REM. So, it might be fair to assume that babies have tons of dreams. But scientists believe REM serves a completely different purpose for newborns and infants than dreaming. When babies are in REM, it allows their brain to develop pathways, connections, and eventually, learn languages. Since your baby doesn't dream at this stage of brain development, it's safe to assume babies do not have nightmares, either. Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life. Are you wondering, what do babies dream about? Good question, but the answer is nothing! So, when do babies start dreaming? The general consensus is that they start dreaming around the age of two. Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall. Foulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too. Dreams of very small kids are usually just snapshots(快照), looking much more like a slideshow than a movie, when compared to the dreams of adults. They heavily feature animals and other familiar sights, like images of people eating. According to Foulkes, \"Children's dream life…seems to be similar to their waking imagination and narration.\" Kids ages 5 – 9 begin seeing moving images and characters in action. Dreams now include multiple events strung together, one after the other. They also start developing greater ability to remember dreams. Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes' studies had no recollection of dreaming, a trend that continues through age 9. So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do scientists think of REM?",
+       "options": [
+        "It is a sign of dreaming in adults and infants alike.",
+        "It is essential to human beings' language learning.",
+        "It determines the formation of connections in the brain.",
+        "It performs a different function in babies than in adults."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】But scientists believe REM serves a completely different purpose for newborns and infants than dreaming.\n【依据】正确项的核心词 different 与定位句对得上；其余 performs、function、babies、adults 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But scientists believe REM serves a completely different purpose for newborns and infants than dreaming.",
+        "why": "正确项的核心词 different 与定位句对得上；其余 performs、function、babies、adults 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「sign、alike」全文未出现；把原文的「dreaming、infants」换成了「sign、adults、alike」，主语或对象被调包。",
+         "B": "无中生有：「essential、human、beings'」全文未出现。",
+         "C": "因果倒置：「determines、formation」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What can we infer about nightmares from the passage?",
+       "options": [
+        "They occur often in people with an active imagination.",
+        "They occur in people suffering from emotional stress.",
+        "They vary in different stages of brain development.",
+        "They appear in the sleep of both adults and infants."
+       ],
+       "answer": 1,
+       "kind": "inference",
+       "explain": "【定位】In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 occur、people、suffering、emotional 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 occur、people、suffering、emotional 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「occur、often、active」全文未出现。",
+         "C": "因果倒置：「vary、stages」全文未出现。",
+         "D": "因果倒置：「appear、both」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What is the aim of psychologist David Foulkes' study?",
+       "options": [
+        "To reveal the secrets of children's dreams.",
+        "To see if children start dreaming at age two.",
+        "To solve the mystery of dreaming and brain growth.",
+        "To confirm the general consensus on when kids dream."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day.\n【依据】正确项的核心词 secrets、children's、dreams 与定位句对得上；其余 reveal 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day.",
+        "why": "正确项的核心词 secrets、children's、dreams 与定位句对得上；其余 reveal 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：把原文的「children、dreaming」换成了「see、start、age」，主语或对象被调包。",
+         "C": "无中生有：「solve、mystery、growth」全文未出现；把原文的「dreaming」换成了「solve、mystery、brain」，主语或对象被调包。",
+         "D": "偷换主体：「confirm」全文未出现；把原文的「kids、dream」换成了「confirm、general、consensus」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What are Foulkes' findings about kids' dreams?",
+       "options": [
+        "They feature strange animals.",
+        "They are unsurprising to adults.",
+        "They grow and evolve with age.",
+        "They reflect kids' waking life."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes' studies had no recollection of dreaming, a trend that continues through age 9.\n【依据】正确项的核心词 age 与定位句对得上；其余 grow、evolve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes' studies had no recollection of dreaming, a trend that continues through age 9.",
+        "why": "正确项的核心词 age 与定位句对得上；其余 grow、evolve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「strange」全文未出现。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "因果倒置：「reflect、kids'」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What can we assume about babies who appear upset upon waking?",
+       "options": [
+        "They have been roused against their will.",
+        "They have been disturbed by a nightmare.",
+        "They have trouble recollecting the images of their dreams.",
+        "They have been affected by something other than dreaming."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.\n【依据】正确项的核心词 other 与定位句对得上；其余 affected、something、dreaming 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.",
+        "why": "正确项的核心词 other 与定位句对得上；其余 affected、something、dreaming 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「against」全文未出现。",
+         "B": "无中生有：「disturbed、nightmare」全文未出现。",
+         "C": "因果倒置：「trouble、recollecting」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 343 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "近年来，\"城市漫步\"在中国的年轻人中悄然兴起，已成为一种旅游新潮流。与传统旅游不同，城市漫步不追求在短时间内游览尽可能多的景点。而是随意行走或按照主题路线漫步在城市的大街小巷。漫步者品尝地道小吃，欣赏特色建筑，了解当地生活方式。他们还用相机或手机记录城市的风景和人物。这种旅游方式能让城市漫步者更深入了解城市的历史与文化。",
+     "reference": "In recent years, city walk has quietly emerged among young people in China and has become a new travel trend. Unlike traditional travel, city walk does not seek to visit as many attractions as possible in a short time. Instead, city walkers wander randomly or stroll along themed routes through the streets and alleys of the city. They taste authentic snacks, admire distinctive buildings, and learn about local ways of life They also record the city's scenery and people with cameras or mobile phones. This travel style enables city walkers to gain a deeper understanding of the city's history and culture",
+     "keyPoints": [
+      "In recent years, city walk has quietly emerged among young people in China and has become a new travel trend.",
+      "Unlike traditional travel, city walk does not seek to visit as many attractions as possible in a short time.",
+      "Instead, city walkers wander randomly or stroll along themed routes through the streets and alleys of the city.",
+      "They taste authentic snacks, admire distinctive buildings, and learn about local ways of life They also record the city's scenery and people with cameras or mobile phones.",
+      "This travel style enables city walkers to gain a deeper understanding of the city's history and culture"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

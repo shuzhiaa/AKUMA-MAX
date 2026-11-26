@@ -1,0 +1,1166 @@
+{
+ "id": "cet4-2021-06-1",
+ "levelId": "cet4",
+ "title": "四级 2021 年 06 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年6月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2021-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2021-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "最后是今晚的新闻，一名9岁男孩Joe在课堂上被禁止画画"
+      },
+      {
+       "idx": 2,
+       "zh": "Newcastle一家名为\"Number 4\"的餐厅联系了Joe的老师"
+      },
+      {
+       "idx": 3,
+       "zh": "Joe的爸爸说Joe是一个非常有天赋的小男孩"
+      },
+      {
+       "idx": 4,
+       "zh": "这只狗六岁半,最后被看到时戴着红色项圈"
+      },
+      {
+       "idx": 5,
+       "zh": "Kirsteen说:\"只要他们不是对狗的失踪负有责任,我们会付钱给任何把它带回家的人。"
+      },
+      {
+       "idx": 6,
+       "zh": "警方正在调查此事。"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 也许我们应该让Paul带上他的电脑和音箱"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 好的。行。"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 嗯，如果你信任他的话"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 没错。你完全不用担心"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What did Joe's parents decide to do?",
+       "options": [
+        "Enrol him in a Newcastle football club.",
+        "Send him to an after-school art class.",
+        "Forbid him to draw in his workbook.",
+        "Help him post his drawings online."
+       ],
+       "optionsZh": [
+        "让他加入Newcastle足球俱乐部。",
+        "送他去课后美术班。",
+        "禁止他在作业本上画画。",
+        "帮他把画作发布到网上。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Send him to an after-school art class.（送他去课后美术班。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What did the restaurant \"Number 4\" do?",
+       "options": [
+        "Contacted Joe to decorate its dining-room.",
+        "Hired Joe to paint all the walls of its buildings.",
+        "Renovated its kitchen and all the dining-rooms.",
+        "Asked Joe for permission to use his online drawings."
+       ],
+       "optionsZh": [
+        "联系Joe装饰其餐厅。",
+        "雇用Joe粉刷其建筑物的所有墙壁。",
+        "翻新了其厨房和所有餐厅。",
+        "请求Joe允许使用他在网上的画作。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Contacted Joe to decorate its dining-room.（联系Joe装饰其餐厅。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What is Kirsteen Marshall trying to do?",
+       "options": [
+        "Get her pet dog back.",
+        "Identify the suspect on the security video.",
+        "Beg for help from the police.",
+        "Post pictures of her pet dog on social media."
+       ],
+       "optionsZh": [
+        "找回她的宠物狗。",
+        "辨认监控视频中的嫌疑人。",
+        "向警方求助。",
+        "在社交媒体上发布她宠物狗的照片。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Get her pet dog back.（找回她的宠物狗。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the news report say about Kirsteen Marshall's family?",
+       "options": [
+        "It is suffering a great deal from the incident.",
+        "It is helping the police with the investigation.",
+        "It is bringing the case to the local district court.",
+        "It is offering a big reward to anyone who helps."
+       ],
+       "optionsZh": [
+        "他们正因这一事件遭受巨大痛苦。",
+        "他们正在协助警方调查。",
+        "他们正在把案件提交到当地地方法院。",
+        "他们正在向任何提供帮助的人提供丰厚奖励。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is offering a big reward to anyone who helps.（他们正在向任何提供帮助的人提供丰厚奖励。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does Guy Wilson say his café aims to do?",
+       "options": [
+        "Provide free meals to the local poor.",
+        "Help people connect with each other.",
+        "Help eliminate class difference in his area.",
+        "Provide customers with first-class service."
+       ],
+       "optionsZh": [
+        "为当地穷人提供免费餐食。",
+        "帮助人们彼此建立联系。",
+        "帮助消除他所在地区的阶层差异。",
+        "为顾客提供一流的服务。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Help people connect with each other.（帮助人们彼此建立联系。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the news report say about Eggs & Bread café?",
+       "options": [
+        "It does not supervise its employees.",
+        "It donates regularly to a local charity.",
+        "It does not use volunteers.",
+        "It is open round the clock."
+       ],
+       "optionsZh": [
+        "它不监督其员工。",
+        "它定期向当地慈善机构捐款。",
+        "它不使用志愿者。",
+        "它全天候营业。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It does not use volunteers.（它不使用志愿者。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What happens when people start to know each other according to Guy Wilson?",
+       "options": [
+        "They will realise the importance of communication.",
+        "They will come to the café even more frequently.",
+        "They will care less about their own background.",
+        "They will find they have something in common."
+       ],
+       "optionsZh": [
+        "他们会意识到沟通的重要性。",
+        "他们会更频繁地来到这家咖啡馆。",
+        "他们会不那么在意自己的背景。",
+        "他们会发现彼此有共同之处。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They will find they have something in common.（他们会发现彼此有共同之处。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What are the speakers mainly talking about?",
+       "options": [
+        "A surprise party for Paul's birthday.",
+        "Travel plans for the coming weekend.",
+        "Preparations for Saturday's get-together.",
+        "The new market on the other side of town."
+       ],
+       "optionsZh": [
+        "为Paul的生日举办惊喜派对。",
+        "即将到来的周末的旅行计划。",
+        "周六聚会的准备工作。",
+        "城镇另一边的新市场。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Preparations for Saturday's get-together.（周六聚会的准备工作。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "Why does the woman say it is a good idea to serve foods that guests can help themselves to?",
+       "options": [
+        "It makes the hostess's job a whole lot easier.",
+        "It enables guests to walk around and chat freely.",
+        "It saves considerable time and labor.",
+        "It requires fewer tables and chairs."
+       ],
+       "optionsZh": [
+        "这让女主人的工作轻松了许多。",
+        "这让客人能够四处走动并自由交谈。",
+        "这节省了大量时间和劳动。",
+        "这需要更少的桌椅。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It enables guests to walk around and chat freely.（这让客人能够四处走动并自由交谈。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the woman say about the new supermarket?",
+       "options": [
+        "It offers some big discounts.",
+        "It is quite close to her house.",
+        "It is more spacious and less crowded.",
+        "It sells local wines and soft drinks."
+       ],
+       "optionsZh": [
+        "它提供一些大幅折扣。",
+        "它离她家非常近。",
+        "它更宽敞、不那么拥挤。",
+        "它出售当地的葡萄酒和软饮料。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It offers some big discounts.（它提供一些大幅折扣。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the man suggest they ask Paul to do?",
+       "options": [
+        "Cook a dish for the party.",
+        "Arrive 10 minutes earlier.",
+        "Prepare a few opening remarks.",
+        "Bring his computer and speakers."
+       ],
+       "optionsZh": [
+        "为聚会做一道菜。",
+        "提前10分钟到达。",
+        "准备几句开场白。",
+        "带上他的电脑和扬声器。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Bring his computer and speakers.（带上他的电脑和扬声器。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "Why does the woman want to have a car?",
+       "options": [
+        "For commuting to work.",
+        "For long-distance travel.",
+        "For getting around in Miami.",
+        "For convenience at weekends."
+       ],
+       "optionsZh": [
+        "为了通勤上班。",
+        "为了长途旅行。",
+        "为了在迈阿密四处出行。",
+        "为了周末方便。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：For convenience at weekends.（为了周末方便。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the woman say about German cars?",
+       "options": [
+        "They are reliable.",
+        "They are compact.",
+        "They are spacious.",
+        "They are easy to drive."
+       ],
+       "optionsZh": [
+        "它们很可靠。",
+        "它们很紧凑。",
+        "它们很宽敞。",
+        "它们很容易驾驶。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They are reliable.（它们很可靠。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the man recommend the woman do?",
+       "options": [
+        "Buy a second-hand car.",
+        "Trust her own judgment.",
+        "Seek advice from his friend.",
+        "Look around before deciding."
+       ],
+       "optionsZh": [
+        "买一辆二手车。",
+        "相信她自己的判断。",
+        "向他的朋友寻求建议。",
+        "在决定之前多看看。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Seek advice from his friend.（向他的朋友寻求建议。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What do we learn about the man's friend from the conversation?",
+       "options": [
+        "He sells new cars.",
+        "He can be trusted.",
+        "He is starting a business.",
+        "He is a successful car dealer."
+       ],
+       "optionsZh": [
+        "他销售新车。",
+        "他值得信赖。",
+        "他正在创业。",
+        "他是一位成功的汽车经销商。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He can be trusted.（他值得信赖。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What do we learn about early pigs in North America?",
+       "options": [
+        "Many escaped from farms and became wild.",
+        "They were actually native to North America.",
+        "Many got killed in the wild when searching for food.",
+        "They were hunted by Spanish and Russian explorers."
+       ],
+       "optionsZh": [
+        "许多猪从农场逃脱并变成了野猪。",
+        "它们实际上原产于北美。",
+        "许多猪在野外觅食时被杀死。",
+        "它们被西班牙和俄罗斯探险家猎杀。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Many escaped from farms and became wild.（许多猪从农场逃脱并变成了野猪。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "Why are wild pigs a threat to humans?",
+       "options": [
+        "They often make sudden attacks on people.",
+        "They break up nature's food supply chain.",
+        "They cause much environmental pollution.",
+        "They carry a great many diseases."
+       ],
+       "optionsZh": [
+        "它们经常对人发动突然袭击。",
+        "它们破坏了自然界的食物供应链。",
+        "它们造成了严重的环境污染。",
+        "它们携带大量疾病。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They carry a great many diseases.（它们携带大量疾病。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What does the passage say about the native foxes on the US island?",
+       "options": [
+        "They lived peacefully with wild pigs.",
+        "They ran out of food completely.",
+        "They fell victim to eagles.",
+        "They reproduced quickly."
+       ],
+       "optionsZh": [
+        "它们与野猪和平共处。",
+        "它们的食物完全耗尽了。",
+        "它们成了老鹰的猎物。",
+        "它们繁殖迅速。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They fell victim to eagles.（它们成了老鹰的猎物。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What are a pair of entrepreneurs planning to do?",
+       "options": [
+        "Taste coffee while in outer space.",
+        "Roast coffee beans in outer space.",
+        "Develop a new strain of coffee bean.",
+        "Use a pressurised tank to brew coffee."
+       ],
+       "optionsZh": [
+        "在外太空品尝咖啡。",
+        "在外太空烘焙咖啡豆。",
+        "培育一种新的咖啡豆品种。",
+        "使用加压罐冲泡咖啡。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Roast coffee beans in outer space.（在外太空烘焙咖啡豆。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What does the passage say about coffee beans roasted on Earth?",
+       "options": [
+        "They can easily get burned.",
+        "They float around in the oven.",
+        "They have to be heated to 360℃.",
+        "They receive evenly distributed heat."
+       ],
+       "optionsZh": [
+        "它们很容易被烤焦。",
+        "它们在烤箱中四处漂浮。",
+        "它们必须被加热到360℃。",
+        "它们受到均匀分布的热量。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They can easily get burned.（它们很容易被烤焦。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What did the two Italian companies do in 2015?",
+       "options": [
+        "They charged a high price for their space-roasted coffee beans.",
+        "They set up a branch in Dubai to manufacture coffee roasters.",
+        "They collaborated on building the first space coffee machine.",
+        "They abandoned the attempt to roast coffee beans in space."
+       ],
+       "optionsZh": [
+        "它们为其太空烘焙的咖啡豆定了高价。",
+        "它们在Dubai设立分公司制造咖啡烘焙机。",
+        "它们合作建造了第一台太空咖啡机。",
+        "它们放弃了在太空烘焙咖啡豆的尝试。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They collaborated on building the first space coffee machine.（它们合作建造了第一台太空咖啡机。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "Why do a lot of people come to the village of Takotna every March?",
+       "options": [
+        "It is the best time for sightseeing.",
+        "A race passes through it annually.",
+        "They come to clean the Iditarod Trail.",
+        "It is when the villagers choose a queen."
+       ],
+       "optionsZh": [
+        "这是观光的最佳时间。",
+        "一场比赛每年都会经过这里。",
+        "他们来清理Iditarod Trail。",
+        "这是村民们选举女王的时候。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：A race passes through it annually.（一场比赛每年都会经过这里。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What is the village of Takotna famous for?",
+       "options": [
+        "Its children's baking skills.",
+        "Its unique winter scenery.",
+        "Its tasty fruit pies.",
+        "Its great food variety."
+       ],
+       "optionsZh": [
+        "孩子们的烘焙技艺。",
+        "独特的冬季景色。",
+        "美味的水果派。",
+        "丰富多样的食物。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Its tasty fruit pies.（美味的水果派。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Who comes to help with the event of the year?",
+       "options": [
+        "The contestants.",
+        "The entire village.",
+        "Jan Newton and her friends.",
+        "People from the state of Idaho."
+       ],
+       "optionsZh": [
+        "参赛者们。",
+        "全村的人。",
+        "Jan Newton和她的朋友们。",
+        "来自Idaho州的人们。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The entire village.（全村的人。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the passage say about Jan Newton?",
+       "options": [
+        "She owned a restaurant in Idaho.",
+        "She married her husband in 1972.",
+        "She went to Alaska to compete in a race.",
+        "She helped the village to become famous."
+       ],
+       "optionsZh": [
+        "她在Idaho拥有一家餐厅。",
+        "她在1972年与丈夫结婚。",
+        "她去Alaska参加比赛。",
+        "她帮助这个村庄变得出名。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She helped the village to become famous.（她帮助这个村庄变得出名。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part , you are allowed 30 minutes to write an essay titled“Are people becoming addicted to technology?”.The statement given below is for your reference. You should write at least 120 words but no more than 180 words. Numerous studies claim that addiction to technology is real and it has the same effect on the brain as drug addiction.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Are people becoming addicted to technology? My answer is a definite yes. As numerous studies claim that\naddiction to technology is real, this problem deserves our serious attention.\nSigns of such addiction are everywhere in daily life. Many people check their smartphones the moment they\nwake up and keep scrolling short videos until midnight. While technology is designed to make life easier, an\nincreasing number of us feel anxious once we are separated from our screens. As a result, real conversations,\nsleep and study are all disturbed, which shows that our reliance has quietly turned into dependence.\nIn my view, therefore, people are indeed getting hooked on technology. However, this does not mean we\nshould abandon it. What matters is to use technology in a rational way, setting limits on screen time and\nleaving room for the real world."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Most animals seek shade when temperatures in the Sahara Desert soar to 120 degrees Fahrenheit. But for the Saharan silver ant, {{1}} from their underground nests into the sun's brutal rays to {{2}} for food, this is the perfect time to seek lunch. In 2015 these ants were joined in the desert by scientists from two Belgian universities, who spent a month in the {{3}} heat tracking the ants and digging out their nests. The goal was simple, to discover how the {{4}} adapted to the kind of heat that can {{5}} melt the bottom of shoes. Back in Belgium, the scientists looked at the ants under an electronic microscope and found that their {{6}} , triangular hair reflects light like a prism(棱镜), giving them a metallic reflection and protecting them from the sun's awful heat. When Ph.D. student Quentin Willot {{7}} the hair from an ant with a {{8}} knife and put it under a heat lamp, its temperature jumped. The ants' method of staying cool is {{9}} among animals. Could this reflective type of hair protect people? Willot says companies are interested in {{10}} these ants' method of heat protection for human use, including everything from helping to protect the lives of firefighters to keeping homes cool in summer.",
+     "options": [
+      "adapting",
+      "consciously",
+      "crawling",
+      "crowded",
+      "extreme",
+      "hunt",
+      "literally",
+      "moderate",
+      "remote",
+      "removed",
+      "species",
+      "specimens",
+      "thick",
+      "tiny",
+      "unique"
+     ],
+     "answers": [
+      2,
+      5,
+      4,
+      10,
+      6,
+      12,
+      9,
+      13,
+      14,
+      0
+     ],
+     "blankExplains": [
+      "【定位】But for the Saharan silver ant, ____ from their underground nests into the sun's brutal rays to  … for food, this is the perfect time to seek lunch.\n【依据】答案是 crawling：填回后与所在句 saharan、silver、ant、underground、nests、into 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But for the Saharan silver ant,  … from their underground nests into the sun's brutal rays to ____ for food, this is the perfect time to seek lunch.\n【依据】答案是 hunt：填回后与所在句 saharan、silver、ant、underground、nests、into 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In 2015 these ants were joined in the desert by scientists from two Belgian universities, who spent a month in the ____ heat tracking the ants and digging out their nests.\n【依据】答案是 extreme：填回后与所在句 ants、joined、desert、scientists、two、belgian 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The goal was simple, to discover how the ____ adapted to the kind of heat that can  … melt the bottom of shoes.\n【依据】答案是 species：填回后与所在句 goal、simple、discover、how、adapted、kind 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The goal was simple, to discover how the  … adapted to the kind of heat that can ____ melt the bottom of shoes.\n【依据】答案是 literally：填回后与所在句 goal、simple、discover、how、adapted、kind 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Back in Belgium, the scientists looked at the ants under an electronic microscope and found that their ____ , triangular hair reflects light like a prism(棱镜), giving them a metallic reflection and protecting them from the sun's awful heat.\n【依据】答案是 thick：填回后与所在句 back、belgium、scientists、looked、ants、under 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】student Quentin Willot ____ the hair from an ant with a  … knife and put it under a heat lamp, its temperature jumped.\n【依据】答案是 removed：填回后与所在句 student、quentin、willot、hair、ant、knife 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】student Quentin Willot  … the hair from an ant with a ____ knife and put it under a heat lamp, its temperature jumped.\n【依据】答案是 tiny：填回后与所在句 student、quentin、willot、hair、ant、knife 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The ants' method of staying cool is ____ among animals.\n【依据】答案是 unique：填回后与所在句 ants'、method、staying、cool、among、animals 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Willot says companies are interested in ____ these ants' method of heat protection for human use, including everything from helping to protect the lives of firefighters to keeping homes cool in summer.\n【依据】答案是 adapting：填回后与所在句 willot、says、companies、interested、ants'、method 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "But for the Saharan silver ant, ____ from their underground nests into the sun's brutal rays to  … for food, this is the perfect time to seek lunch.",
+       "why": "答案是 crawling：填回后与所在句 saharan、silver、ant、underground、nests、into 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 crawling 这个词性/语义，而不是 crowded）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 crawling 这个词性/语义，而不是 consciously）。"
+       }
+      },
+      {
+       "locate": "But for the Saharan silver ant,  … from their underground nests into the sun's brutal rays to ____ for food, this is the perfect time to seek lunch.",
+       "why": "答案是 hunt：填回后与所在句 saharan、silver、ant、underground、nests、into 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 hunt 这个词性/语义，而不是 adapting）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 hunt 这个词性/语义，而不是 consciously）。"
+       }
+      },
+      {
+       "locate": "In 2015 these ants were joined in the desert by scientists from two Belgian universities, who spent a month in the ____ heat tracking the ants and digging out their nests.",
+       "why": "答案是 extreme：填回后与所在句 ants、joined、desert、scientists、two、belgian 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 extreme 这个词性/语义，而不是 adapting）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 extreme 这个词性/语义，而不是 consciously）。"
+       }
+      },
+      {
+       "locate": "The goal was simple, to discover how the ____ adapted to the kind of heat that can  … melt the bottom of shoes.",
+       "why": "答案是 species：填回后与所在句 goal、simple、discover、how、adapted、kind 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "与 species 拼写相近（共同开头 speci），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 species 这个词性/语义，而不是 adapting）。"
+       }
+      },
+      {
+       "locate": "The goal was simple, to discover how the  … adapted to the kind of heat that can ____ melt the bottom of shoes.",
+       "why": "答案是 literally：填回后与所在句 goal、simple、discover、how、adapted、kind 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 literally 这个词性/语义，而不是 adapting）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 literally 这个词性/语义，而不是 consciously）。"
+       }
+      },
+      {
+       "locate": "Back in Belgium, the scientists looked at the ants under an electronic microscope and found that their ____ , triangular hair reflects light like a prism(棱镜), giving them a metallic reflection and protecting them from the sun's awful heat.",
+       "why": "答案是 thick：填回后与所在句 back、belgium、scientists、looked、ants、under 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 thick 这个词性/语义，而不是 tiny）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 thick 这个词性/语义，而不是 adapting）。"
+       }
+      },
+      {
+       "locate": "student Quentin Willot ____ the hair from an ant with a  … knife and put it under a heat lamp, its temperature jumped.",
+       "why": "答案是 removed：填回后与所在句 student、quentin、willot、hair、ant、knife 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "与 removed 拼写相近（共同开头 remo），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 removed 这个词性/语义，而不是 adapting）。"
+       }
+      },
+      {
+       "locate": "student Quentin Willot  … the hair from an ant with a ____ knife and put it under a heat lamp, its temperature jumped.",
+       "why": "答案是 tiny：填回后与所在句 student、quentin、willot、hair、ant、knife 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 tiny 这个词性/语义，而不是 thick）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 tiny 这个词性/语义，而不是 adapting）。"
+       }
+      },
+      {
+       "locate": "The ants' method of staying cool is ____ among animals.",
+       "why": "答案是 unique：填回后与所在句 ants'、method、staying、cool、among、animals 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 unique 这个词性/语义，而不是 adapting）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 unique 这个词性/语义，而不是 consciously）。"
+       }
+      },
+      {
+       "locate": "Willot says companies are interested in ____ these ants' method of heat protection for human use, including everything from helping to protect the lives of firefighters to keeping homes cool in summer.",
+       "why": "答案是 adapting：填回后与所在句 willot、says、companies、interested、ants'、method 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adapting 这个词性/语义，而不是 consciously）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adapting 这个词性/语义，而不是 crawling）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "This month, more than 4 million students across the nation will begin high school. Many will do well. But many will not. Consider that nearly two-thirds of students will experience the \"ninth-grade shock,\" which refers to a dramatic drop in a student's academic performance. Some students cope with this shock by avoiding challenges. For instance, they may drop difficult coursework. Others may experience a hopelessness that results in failing their core classes, such as English, science and math."
+      },
+      {
+       "id": "B",
+       "text": "This should matter a great deal to parents, teachers and policymakers. Ultimately it should matter to the students themselves and society at large, because students' experience of transitioning(过渡) to the ninth grade can have long-term consequences not only for the students themselves but for their home communities. We make these observations as research psychologists who have studied how schools and families can help young people thrive."
+      },
+      {
+       "id": "C",
+       "text": "In the new global economy, students who fail to finish the ninth grade with passing grades in college preparatory coursework are very unlikely to graduate on time and go on to get jobs. One study has calculated that the lifetime benefit to the local economy for a single additional student who completes high school is half a million dollars or more. This is based on higher earnings and avoided costs in health care, crime, welfare dependence and other things."
+      },
+      {
+       "id": "D",
+       "text": "The consequences of doing poorly in the ninth grade can impact more than students' ability to find a good job. It can also impact the extent to which they enjoy life. Students lose many of the friends they turned to for support when they move from the eighth to the ninth grade. One study of ninth-grade students found that 50 percent of friendships among ninth graders changed from one month to the next, signaling striking instability in friendships."
+      },
+      {
+       "id": "E",
+       "text": "In addition, studies find the first year of high school typically shows one of the greatest increases in depression of any year over the lifespan. Researchers think that one explanation is that ties to friends are broken while academic demands are rising. Furthermore, most adult cases of clinical depression first emerge in adolescence(青春期). The World Health Organization reports that depression has the greatest burden of disease worldwide, in terms of the total cost of treatment and the loss of productivity."
+      },
+      {
+       "id": "F",
+       "text": "Given all that's riding on having a successful ninth grade experience, it pays to explore what can be done to meet the academic, social and emotional challenges of the transition to high school. So far, our studies have yielded one main insight: Students' beliefs about change—their beliefs about whether people are stuck one way forever, or whether people can change their personalities and abilities—are related to their ability to cope, succeed academically and maintain good mental health. Past research has called these beliefs \"mindsets(思维模式),\" with a \"fixed mindset\" referring to the belief that people cannot change and a \"growth mindset\" referring to the belief that people can change."
+      },
+      {
+       "id": "G",
+       "text": "In one recent study, we examined 360 adolescents' beliefs about the nature of \"smartness\"—that is, their fixed mindsets about intelligence. We then assessed biological stress responses for students whose grades were dropping by examining their stress hormones(荷尔蒙). Students who believed that intelligence is fixed—that you are stuck being \"not smart\" if you struggle in school—showed higher levels of stress hormones when their grades were declining at the beginning of the ninth grade. If students believed that intelligence could improve—that is to say, when they held more of a growth mindset of intelligence—they showed lower levels of stress hormones when their grades were declining. This was an exciting result because it showed that the body's stress responses are not determined solely by one's grades. Instead, declining grades only predicted worse stress hormones among students who believed that worsening grades were a permanent and hopeless state of affairs."
+      },
+      {
+       "id": "H",
+       "text": "We also investigated the social side of the high school transition. In this study, instead of teaching students that their smartness can change, we taught them that their social standing—that is, whether they are bullied or excluded or left out—can change over time. We then looked at high school students' stress responses to daily social difficulties. That is, we taught them a growth mindset about their social lives. In this study, students came into the laboratory and were asked to give a public speech in front of upper-year students. The topic of the speech was what makes one popular in high school. Following this, students had to complete a difficult mental math task in front of the same upper-year students."
+      },
+      {
+       "id": "I",
+       "text": "Experiment results showed that students who were not taught that people can change showed poor stress responses. When these students gave the speech, their blood vessels contracted and their hearts pumped less blood through the body—both responses that the body shows when it is preparing for damage or defeat after a physical threat. Then they gave worse speeches and made more mistakes in math. But when students were taught that people can change, they had better responses to stress, in part because they felt like they had the resources to deal with the demanding situation. Students who got the growth mindset intervention(干预) showed less-contracted blood vessels and their hearts pumped more blood—both of which contributed to more oxygen getting to the brain, and, ultimately, better performance on the speech and mental math tasks."
+      },
+      {
+       "id": "J",
+       "text": "These findings lead to several possibilities that we are investigating further. First, we are working to replicate(复制) these findings in more diverse school communities. We want to know in which types of schools and for which kinds of students these growth mindset ideas help young people adapt to the challenges of high school. We also hope to learn how teachers, parents or school counselors can help students keep their ongoing academic or social difficulties in perspective. We wonder what would happen if schools helped to make beliefs about the potential for change and improvement a larger feature of the overall school culture, especially for students starting the ninth grade."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "The number of people experiencing depression shows a sharp increase in the first year of high school."
+      },
+      {
+       "id": "s37",
+       "text": "According to one study, students' academic performance is not the only decisive factor of their stress responses."
+      },
+      {
+       "id": "s38",
+       "text": "Researchers would like to explore further how parents and schools can help ninth graders by changing their mindset."
+      },
+      {
+       "id": "s39",
+       "text": "According to one study, each high school graduate contributes at least 500,000 dollars to the local economy."
+      },
+      {
+       "id": "s40",
+       "text": "In one study, students were told their social position in school is not unchangeable."
+      },
+      {
+       "id": "s41",
+       "text": "It is reported that depression results in enormous economic losses worldwide."
+      },
+      {
+       "id": "s42",
+       "text": "One study showed that friendships among ninth graders were far from stable."
+      },
+      {
+       "id": "s43",
+       "text": "More than half of students will find their academic performance declining sharply when they enter the ninth grade."
+      },
+      {
+       "id": "s44",
+       "text": "Researchers found through experiments that students could be taught to respond to stress in a more positive way."
+      },
+      {
+       "id": "s45",
+       "text": "It is beneficial to explore ways to cope with the challenges facing students entering high school."
+      }
+     ],
+     "answers": [
+      "E",
+      "G",
+      "J",
+      "C",
+      "H",
+      "E",
+      "D",
+      "A",
+      "I",
+      "F"
+     ],
+     "statementExplains": [
+      "【定位】In addition, studies find the first year of high school typically shows one of the greatest increases in depression of any year over the lifespan.\n【依据】陈述里的 depression、shows、increase、first、year、high 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】We then assessed biological stress responses for students whose grades were dropping by examining their stress hormones(荷尔蒙).\n【依据】陈述里的 students'、stress、responses 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】We also hope to learn how teachers, parents or school counselors can help students keep their ongoing academic or social difficulties in perspective.\n【依据】陈述里的 how、parents、schools、help 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】One study has calculated that the lifetime benefit to the local economy for a single additional student who completes high school is half a million dollars or more.\n【依据】陈述里的 study、high、school、dollars、local、economy 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】In this study, instead of teaching students that their smartness can change, we taught them that their social standing—that is, whether they are bullied or excluded or left out—can change over time.\n【依据】陈述里的 study、students、social 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】The World Health Organization reports that depression has the greatest burden of disease worldwide, in terms of the total cost of treatment and the loss of productivity.\n【依据】陈述里的 reported、depression、worldwide 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】One study of ninth-grade students found that 50 percent of friendships among ninth graders changed from one month to the next, signaling striking instability in friendships.\n【依据】陈述里的 study、friendships、among、ninth、graders 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Consider that nearly two-thirds of students will experience the \"ninth-grade shock,\" which refers to a dramatic drop in a student's academic performance.\n【依据】陈述里的 students、academic、performance、ninth 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Experiment results showed that students who were not taught that people can change showed poor stress responses.\n【依据】陈述里的 experiments、students、taught、respond、stress 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Given all that's riding on having a successful ninth grade experience, it pays to explore what can be done to meet the academic, social and emotional challenges of the transition to high school.\n【依据】陈述里的 explore、challenges、high、school 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。"
+     ],
+     "explain": "长篇阅读匹配：10 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "In addition, studies find the first year of high school typically shows one of the greatest increases in depression of any year over the lifespan.",
+       "why": "陈述里的 depression、shows、increase、first、year、high 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "We then assessed biological stress responses for students whose grades were dropping by examining their stress hormones(荷尔蒙).",
+       "why": "陈述里的 students'、stress、responses 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "We also hope to learn how teachers, parents or school counselors can help students keep their ongoing academic or social difficulties in perspective.",
+       "why": "陈述里的 how、parents、schools、help 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "One study has calculated that the lifetime benefit to the local economy for a single additional student who completes high school is half a million dollars or more.",
+       "why": "陈述里的 study、high、school、dollars、local、economy 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In this study, instead of teaching students that their smartness can change, we taught them that their social standing—that is, whether they are bullied or excluded or left out—can change over time.",
+       "why": "陈述里的 study、students、social 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The World Health Organization reports that depression has the greatest burden of disease worldwide, in terms of the total cost of treatment and the loss of productivity.",
+       "why": "陈述里的 reported、depression、worldwide 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "One study of ninth-grade students found that 50 percent of friendships among ninth graders changed from one month to the next, signaling striking instability in friendships.",
+       "why": "陈述里的 study、friendships、among、ninth、graders 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Consider that nearly two-thirds of students will experience the \"ninth-grade shock,\" which refers to a dramatic drop in a student's academic performance.",
+       "why": "陈述里的 students、academic、performance、ninth 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Experiment results showed that students who were not taught that people can change showed poor stress responses.",
+       "why": "陈述里的 experiments、students、taught、respond、stress 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Given all that's riding on having a successful ninth grade experience, it pays to explore what can be done to meet the academic, social and emotional challenges of the transition to high school.",
+       "why": "陈述里的 explore、challenges、high、school 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Educators and business leaders have more in common than it may seem. Teachers want to prepare students for a successful future. Technology companies have an interest in developing a workforce with the STEM (science, technology, engineering and math) skills needed to grow the company and advance the industry. How can they work together to achieve these goals? Play may be the answer. Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities. This combination is proving to be the best way to prepare today's children to be the makers and builders of tomorrow. That is why technology companies are partnering with educators to bring back good, old-fashioned play. In fact many experts argue that the most important 21st-century skills aren't related to specific technologies or subject matter, but to creativity; skills like imagination, problem-finding and problem-solving, teamwork, optimism, patience and the ability to experiment and take risks. These are skills acquired when kids tinker(鼓捣小玩意). High-tech industries such as NASA's Jet Propulsion Laboratory have found that their best overall problem solvers were master tinkerers in their youth. There are cognitive(认知的) benefits of doing things the way we did as children—building something, tearing it down, then building it up again. Research shows that given 15 minutes of free play, four- and five-year-olds will spend a third of this time engaged in spatial, mathematical, and architectural activities. This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry. If play and building are critical to 21st-century skill development, that's really good news for two reasons: Children are born builders, makers, and creators, so fostering(培养) 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older. Secondly, it doesn't take 21st-century technology to foster 21st-century skills. This is especially important for under-resourced schools and communities. Taking whatever materials are handy and tinkering with them is a simple way to engage those important \"maker\" skills. And anyone, anywhere, can do it.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author say about educators?",
+       "options": [
+        "They seek advice from technology companies to achieve teaching goals.",
+        "They have been successful in preparing the workforce for companies.",
+        "They help students acquire the skills needed for their future success.",
+        "They partner with technology companies to enhance teaching efficiency."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】That is why technology companies are partnering with educators to bring back good, old-fashioned play.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 help、students、acquire、skills 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "That is why technology companies are partnering with educators to bring back good, old-fashioned play.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 help、students、acquire、skills 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「seek、advice、teaching」全文未出现；把原文的「technology、companies」换成了「seek、advice、achieve」，主语或对象被调包。",
+         "B": "偷换主体：「preparing」全文未出现；把原文的「companies」换成了「successful、preparing、workforce」，主语或对象被调包。",
+         "D": "无中生有：「enhance、teaching、efficiency」全文未出现；把原文的「partner、technology、companies」换成了「enhance、teaching、efficiency」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "How can educators better develop students' STEM skills, according to the author?",
+       "options": [
+        "By blending them with traditional, stimulating activities.",
+        "By inviting business leaders to help design curriculums.",
+        "By enhancing students' ability to think in a critical way.",
+        "By showing students the best way to learn is through play."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities.\n【依据】正确项的核心词 traditional、activities 与定位句对得上；其余 blending、stimulating 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities.",
+        "why": "正确项的核心词 traditional、activities 与定位句对得上；其余 blending、stimulating 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「inviting、help、design」全文未出现。",
+         "C": "偷换主体：「students'、think」全文未出现；把原文的「enhancing」换成了「students'、ability、think」，主语或对象被调包。",
+         "D": "因果倒置：「showing、learn、through」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "How do children acquire the skills needed for the 21st century?",
+       "options": [
+        "By engaging in activities involving specific technologies.",
+        "By playing with things to solve problems on their own.",
+        "By familiarizing themselves with high-tech gadgets.",
+        "By mastering basic principles through teamwork."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】If play and building are critical to 21st-century skill development, that's really good news for two reasons: Children are born builders, makers, and creators, so fostering(培养) 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older.\n【依据】正确项的核心词 things 与定位句对得上；其余 playing、solve、problems、own 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If play and building are critical to 21st-century skill development, that's really good news for two reasons: Children are born builders, makers, and creators, so fostering(培养) 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older.",
+        "why": "正确项的核心词 things 与定位句对得上；其余 playing、solve、problems、own 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「engaging、involving」全文未出现。",
+         "C": "无中生有：「familiarizing、themselves、gadgets」全文未出现。",
+         "D": "无中生有：「mastering、basic、through」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What can we do to help children learn the basics of math and geometry?",
+       "options": [
+        "Stimulate their interest as early as possible.",
+        "Spend more time playing games with them.",
+        "Encourage them to make things with hands.",
+        "Allow them to tinker freely with calculators."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 encourage、make、things、hands 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 encourage、make、things、hands 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「stimulate、early、possible」全文未出现。",
+         "B": "因果倒置：「playing、games」全文未出现。",
+         "D": "无中生有：「allow、freely、calculators」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author advise disadvantaged schools and communities to do?",
+       "options": [
+        "Train students to be makers to meet future market demands.",
+        "Develop students' creative skills with the resources available.",
+        "Engage students with challenging tasks to foster their creativity.",
+        "Work together with companies to improve their teaching facilities."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】This is especially important for under-resourced schools and communities.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 develop、students'、creative、skills 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This is especially important for under-resourced schools and communities.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 develop、students'、creative、skills 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「train、meet、market」全文未出现。",
+         "C": "因果倒置：「challenging、tasks」全文未出现。",
+         "D": "因果倒置：「improve、teaching、facilities」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 350 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Being an information technology, or IT, worker is not a job I envy. They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working. They have to tolerate the bad tempers of colleagues frustrated at the number of times they've had to call the help desk for the same issue. They are also the ones who know there are systems that are more powerful, reliable and faster, but their employer simply will not put up the funds to buy them. According to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction. Through no fault of their own, they can suddenly find their productivity deteriorating or quality control non-existent. And there's little they can do about it. The experience of using IT penetrates almost the entire work field. It has become a crucial part of employees' overall work experience. When IT is operating as it should, employee self-confidence swells. Their job satisfaction, too, can surge when well-functioning machines relieve them of dull tasks or repetitive processes. But if there's one thing that triggers widespread employee frustration, it's an IT transformation project gone wrong, where swollen expectations have been popped and a long list of promised efficiencies has been reversed. This occurs when business leaders implement IT initiatives with little consideration of how those changes will impact the end user. Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes. Adequate and timely IT support should also be available to enable users to cope with technological issues at work. More importantly, IT practitioners need to understand what employees experience mentally when they use IT. Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees' work, rather than adjust their work to fit in with the company's IT limitations.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author say about working in IT?",
+       "options": [
+        "It is envied by many.",
+        "It does not appeal to him.",
+        "It is financially rewarding.",
+        "It does not match his abilities."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 appeal、him 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 appeal、him 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「envied、many」全文未出现。",
+         "C": "无中生有：「financially、rewarding」全文未出现。",
+         "D": "无中生有：「match、abilities」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is the finding of a recent survey on employees who have a job reliant on IT support?",
+       "options": [
+        "IT helps boost productivity.",
+        "IT helps improve quality control.",
+        "Many employees are deeply frustrated by IT.",
+        "Most employees rely heavily on IT in their work."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】According to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction.\n【依据】正确项的核心词 employees 与定位句对得上；其余 many、deeply、frustrated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "According to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction.",
+        "why": "正确项的核心词 employees 与定位句对得上；其余 many、deeply、frustrated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「helps、boost」全文未出现。",
+         "B": "因果倒置：「helps、improve」全文未出现。",
+         "D": "无中生有：「rely、heavily」全文未出现；把原文的「employees」换成了「rely、heavily、work」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What is said to happen when IT is functioning properly?",
+       "options": [
+        "There is a big boost in employees' work efficiency.",
+        "Employees become more dependent on machines.",
+        "There are no longer any boring or repetitive tasks.",
+        "Employees become more confident in their work."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】More importantly, IT practitioners need to understand what employees experience mentally when they use IT.\n【依据】正确项的核心词 employees 与定位句对得上；其余 become、confident、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "More importantly, IT practitioners need to understand what employees experience mentally when they use IT.",
+        "why": "正确项的核心词 employees 与定位句对得上；其余 become、confident、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「big、boost、efficiency」全文未出现；把原文的「employees'」换成了「there、big、boost」，主语或对象被调包。",
+         "B": "偷换主体：「dependent」全文未出现；把原文的「employees」换成了「become、dependent、machines」，主语或对象被调包。",
+         "C": "因果倒置：「boring」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What should business leaders do before implementing new IT initiatives?",
+       "options": [
+        "Consider the various expectations of their customers.",
+        "Draw up a list of the efficiencies to be promised.",
+        "Assess the swollen cost of training the employees.",
+        "Think about the possible effects on their employees."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】This occurs when business leaders implement IT initiatives with little consideration of how those changes will impact the end user.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 think、about、possible、effects 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This occurs when business leaders implement IT initiatives with little consideration of how those changes will impact the end user.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 think、about、possible、effects 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「various、customers」全文未出现；把原文的「consider」换成了「various、expectations、customers」，主语或对象被调包。",
+         "B": "因果倒置：「draw」全文未出现。",
+         "C": "无中生有：「assess、cost、training」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "How can a business help improve its employees' experience in using IT?",
+       "options": [
+        "By designing systems that suit their needs.",
+        "By ensuring that their mental health is sound.",
+        "By adjusting their work to suit the IT system.",
+        "By offering them regular in-service training."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 designing、systems、suit、needs 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 designing、systems、suit、needs 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「mental、health、sound」全文未出现；把原文的「ensuring」换成了「mental、health、sound」，主语或对象被调包。",
+         "C": "无中生有：「adjusting、suit、system」全文未出现。",
+         "D": "无中生有：「offering、regular、in-service」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 342 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "铁观音是中国最受欢迎的茶之一原产于福建省安溪县西坪镇如今安溪全县普遍种植，但该县不同地区生产的铁观音又各具风味。铁观音一年四季均可采摘尤以春秋两季采摘的茶叶品质最佳。铁观音的加工非常复杂需要专门的技术和丰富的经验。铁观音含有多种维生素喝起来口感独特。常饮铁观音有助于预防心脏病、降低血压、增强记忆力。",
+     "reference": "Tieguanyin, originating in Xiping Town, Anxi County, Fujian Province, is one of the most popular teas in China, and is now widely cultivated throughout Anxi County, while that produced in different parts of the county has its own distinctive flavor Tieguanyin can be picked all year round, with those picked in spring and autumn being of the highest quality. The processing of Tieguanyin is highly complex, requiring specialized techniques and extensive experience. Tieguanyin contains various vitamins and has a unique taste. Drinking Tieguanyin regularly helps prevent heart disease, lower blood pressure, and improve memory.",
+     "keyPoints": [
+      "Tieguanyin, originating in Xiping Town, Anxi County, Fujian Province, is one of the most popular teas in China, and is now widely cultivated throughout Anxi County, while that produced in different parts of the county has its own distinctive flavor Tieguanyin can be picked all year round, with those picked in spring and autumn being of the highest quality.",
+      "The processing of Tieguanyin is highly complex, requiring specialized techniques and extensive experience.",
+      "Tieguanyin contains various vitamins and has a unique taste.",
+      "Drinking Tieguanyin regularly helps prevent heart disease, lower blood pressure, and improve memory."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

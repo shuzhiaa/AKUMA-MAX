@@ -1,0 +1,1176 @@
+{
+ "id": "cet6-2026-06-1",
+ "levelId": "cet6",
+ "title": "六级 2026 年 06 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2026年6月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2026-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2026-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 欢迎收听《商业纵横》"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 人们常犯的一个错误"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 但我们有些同事的职位比我们低"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 重要的是不要低估你的同事"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 现在我们很多人都认为努力工作会给别人留下好印象"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 没错。我们应该避免为了表现出自己的投入"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 我明白了。所以"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 是的，最好确保自己投入的是高质量的时间"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 那么，在工作中帮助别人呢？你是否应该尽力超越自己的日常职责"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 向那些需要帮助的人提供援助"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 不过，显而易见"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What are the speakers mainly talking about?",
+       "options": [
+        "How to run one's business successfully.",
+        "How to make progress in one's career.",
+        "Why few people can fully display their capabilities.",
+        "Why young people seldom get the expected promotion."
+       ],
+       "optionsZh": [
+        "如何成功经营自己的事业。",
+        "如何在职业生涯中取得进步。",
+        "为什么很少有人能够充分展现自己的能力。",
+        "为什么年轻人很少得到预期的晋升。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：How to make progress in one's career.（如何在职业生涯中取得进步。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the woman say is one mistake people make?",
+       "options": [
+        "To mix and interact with peers within the organization.",
+        "To restrict their connections exclusively to colleagues.",
+        "To limit communication only to their superiors.",
+        "To underestimate their role in the company."
+       ],
+       "optionsZh": [
+        "在组织内与同辈交流互动。",
+        "将自己的交往范围仅限于同事。",
+        "将交流仅限于上级。",
+        "低估自己在公司的作用。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To limit communication only to their superiors.（将交流仅限于上级。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the woman advise people to do in their work?",
+       "options": [
+        "Put in quality time.",
+        "Connect with managers.",
+        "Make greater efforts.",
+        "Demonstrate final results."
+       ],
+       "optionsZh": [
+        "投入高质量的时间。",
+        "与管理人员建立联系。",
+        "付出更大的努力。",
+        "展示最终成果。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Put in quality time.（投入高质量的时间。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "Why does the man say one should not act like a know-it-all?",
+       "options": [
+        "To show their genius.",
+        "To gain due respect.",
+        "To guard against humiliation.",
+        "To avoid appearing arrogant."
+       ],
+       "optionsZh": [
+        "为了展示自己的才智。",
+        "为了赢得应有的尊重。",
+        "为了避免受到羞辱。",
+        "为了避免显得傲慢。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：To avoid appearing arrogant.（为了避免显得傲慢。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the woman say they first need to do?",
+       "options": [
+        "Decide how to divide up the presentation tasks.",
+        "Investigate the available background research.",
+        "Complete the project design together.",
+        "Find a suitable topic for their article."
+       ],
+       "optionsZh": [
+        "决定如何分配演示任务。",
+        "调查现有的背景研究。",
+        "共同完成项目设计。",
+        "为他们的文章寻找一个合适的主题。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Decide how to divide up the presentation tasks.（决定如何分配演示任务。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "Why does the man refuse to handle the background part?",
+       "options": [
+        "He wants to devote his time to other portions.",
+        "He believes the woman is better able to handle it.",
+        "He claims to have done most of the work already.",
+        "He finds the woman more meticulous about details."
+       ],
+       "optionsZh": [
+        "他想把时间投入到其他部分。",
+        "他认为这位女士更有能力处理这部分。",
+        "他声称自己已经完成了大部分工作。",
+        "他认为这位女士对细节更加仔细。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He claims to have done most of the work already.（他声称自己已经完成了大部分工作。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the woman urge the man to stop doing?",
+       "options": [
+        "Questioning.",
+        "Complaining.",
+        "Arguing.",
+        "Worrying."
+       ],
+       "optionsZh": [
+        "提出质疑。",
+        "抱怨。",
+        "争论。",
+        "担心。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Complaining.（抱怨。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "Why does the man suggest he present the conclusion and the woman do the introduction?",
+       "options": [
+        "To avoid sounding monotonous to the listeners.",
+        "To make the division of labor more reasonable.",
+        "To keep himself from being overburdened.",
+        "To bring their capabilities fully into play."
+       ],
+       "optionsZh": [
+        "为了避免让听众觉得单调乏味。",
+        "为了使分工更加合理。",
+        "为了避免自己负担过重。",
+        "为了充分发挥他们各自的能力。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：To avoid sounding monotonous to the listeners.（为了避免让听众觉得单调乏味。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What can makeup do according to new research from the University of Stirling in Scotland?",
+       "options": [
+        "Alter others' perceptions of the wearer.",
+        "Win others' admiration for the wearer.",
+        "Enhance the wearer's confidence.",
+        "Change the wearer's appearance."
+       ],
+       "optionsZh": [
+        "改变他人对化妆者的看法。",
+        "赢得他人对化妆者的赞赏。",
+        "增强化妆者的自信。",
+        "改变化妆者的外貌。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Alter others' perceptions of the wearer.（改变他人对化妆者的看法。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "How did both men and women rate the faces with cosmetics in the new research?",
+       "options": [
+        "As being a greater threat.",
+        "As being of higher prestige.",
+        "As being more dominant.",
+        "As being more attractive."
+       ],
+       "optionsZh": [
+        "认为这些面孔具有更大的威胁性。",
+        "认为这些面孔具有更高的声望。",
+        "认为这些面孔更具支配性。",
+        "认为这些面孔更有吸引力。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：As being more attractive.（认为这些面孔更有吸引力。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "Why does a female candidate need to know the gender of the hiring committee members?",
+       "options": [
+        "It might influence her way of introducing herself.",
+        "It might impact her dressing style for the occasion.",
+        "It might affect her decision on applying cosmetics.",
+        "It might sway her view on the interviewers' questions."
+       ],
+       "optionsZh": [
+        "这可能会影响她介绍自己的方式。",
+        "这可能会影响她为这一场合选择的着装风格。",
+        "这可能会影响她是否使用化妆品的决定。",
+        "这可能会左右她对面试官问题的看法。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It might affect her decision on applying cosmetics.（这可能会影响她是否使用化妆品的决定。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What methods do some advertisements trumpet about changing a habit?",
+       "options": [
+        "Those involving no self-recognition.",
+        "Those forcing us to clench our teeth.",
+        "Those resisting various temptations.",
+        "Those requiring no willpower at all."
+       ],
+       "optionsZh": [
+        "不涉及自我认知的方法。",
+        "迫使我们咬紧牙关的方法。",
+        "抵制各种诱惑的方法。",
+        "完全不需要意志力的方法。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Those requiring no willpower at all.（完全不需要意志力的方法。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the speaker define willpower as?",
+       "options": [
+        "Regulating one's actions for the sake of good health.",
+        "Controlling one's actions with a motivating thought.",
+        "Using practical examples to guide one's behavior.",
+        "Denying oneself any comfort to prevent diseases."
+       ],
+       "optionsZh": [
+        "为了身体健康而调节自己的行为。",
+        "用激励性的想法控制自己的行为。",
+        "用实际案例指导自己的行为。",
+        "拒绝给自己任何舒适享受，以预防疾病。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Controlling one's actions with a motivating thought.（用激励性的想法控制自己的行为。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What may sound amazing enough as regards willpower?",
+       "options": [
+        "It equips us with an expert skill.",
+        "It exerts an enduring force on us.",
+        "It leads to a burning goal.",
+        "It begins with a bright idea."
+       ],
+       "optionsZh": [
+        "它赋予我们一项专业技能。",
+        "它对我们施加持久的力量。",
+        "它促成一个强烈的目标。",
+        "它始于一个绝妙的想法。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It begins with a bright idea.（它始于一个绝妙的想法。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the speaker say may make for effective willpower?",
+       "options": [
+        "Any cherished goal.",
+        "Any positive mindset.",
+        "Any personal instinct.",
+        "Any valued role model."
+       ],
+       "optionsZh": [
+        "任何珍视的目标。",
+        "任何积极的心态。",
+        "任何个人本能。",
+        "任何受重视的榜样。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Any cherished goal.（任何珍视的目标。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say about the federal government's advice on seafood safety?",
+       "options": [
+        "It has long been criticized as unclear.",
+        "It has long been ignored by the public.",
+        "It has caused much panic among women.",
+        "It has resulted in different understandings."
+       ],
+       "optionsZh": [
+        "长期以来一直被批评为表述不清。",
+        "长期以来一直被公众忽视。",
+        "在女性中引发了极大的恐慌。",
+        "导致了不同的理解。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It has long been criticized as unclear.（长期以来一直被批评为表述不清。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What did the Food and Drug Administration do this week?",
+       "options": [
+        "It warned consumers not to eat fish from the Gulf of Mexico.",
+        "It called on expectant mothers to pay attention to food safety.",
+        "It issued an update to the advice on seafood consumption.",
+        "It listed more than sixty species of fish as \"choices to avoid\"."
+       ],
+       "optionsZh": [
+        "警告消费者不要食用来自墨西哥湾的鱼。",
+        "呼吁孕妇关注食品安全。",
+        "发布了关于食用海产品建议的更新内容。",
+        "将六十多种鱼列为“应避免的选择”。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It issued an update to the advice on seafood consumption.（发布了关于食用海产品建议的更新内容。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "According to the speaker, what are people concerned about regarding pregnant women and seafood?",
+       "options": [
+        "The impact of the FDA's analysis.",
+        "Multiple factors including mercury.",
+        "Critics' conclusions.",
+        "The prices of seafood."
+       ],
+       "optionsZh": [
+        "美国食品药品监督管理局分析的影响。",
+        "包括汞在内的多种因素。",
+        "批评者的结论。",
+        "海产品的价格。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Multiple factors including mercury.（包括汞在内的多种因素。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about people not taking any vacation?",
+       "options": [
+        "They will suffer a breakdown soon.",
+        "They will be losing both joy and life.",
+        "They will be putting themselves and family at risk.",
+        "They will make things worse for people around them."
+       ],
+       "optionsZh": [
+        "他们很快就会崩溃。",
+        "他们会同时失去快乐和生活。",
+        "他们会将自己和家人置于危险之中。",
+        "他们会让身边人的处境变得更糟。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They will be losing both joy and life.（他们会同时失去快乐和生活。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What does the 9-year study recommend people do when planning vacations?",
+       "options": [
+        "Spend 14 days for vacation every year.",
+        "Aim for three separate vacations yearly.",
+        "Space out their vacations evenly instead of taking one long vacation.",
+        "Use all their days off for a long summer break to achieve full-on calm."
+       ],
+       "optionsZh": [
+        "每年花14天度假。",
+        "每年争取安排三次彼此分开的假期。",
+        "把假期均匀分散开来，而不是一次休一个长假。",
+        "把所有休假日都用来享受一个漫长的暑假，以获得彻底的放松。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Space out their vacations evenly instead of taking one long vacation.（把假期均匀分散开来，而不是一次休一个长假。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "Why is vacation frequency important according to the speaker?",
+       "options": [
+        "Expecting to have more vacations in a year will boost one's work efficiency.",
+        "Anticipating more vacations would reduce one's feelings of despair at work.",
+        "Taking more than three vacations yearly would prolong one's excitement.",
+        "Planning multiple breaks throughout the year will add to one's happiness."
+       ],
+       "optionsZh": [
+        "期待一年中有更多假期会提高一个人的工作效率。",
+        "期待有更多假期会减轻一个人在工作中的绝望感。",
+        "每年休假超过三次会延长一个人的兴奋感。",
+        "计划在一年中安排多次休息会增加一个人的幸福感。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Planning multiple breaks throughout the year will add to one's happiness.（计划在一年中安排多次休息会增加一个人的幸福感。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What are researchers doing in Sweden?",
+       "options": [
+        "Surveying when drivers are caught in the heat of arguments.",
+        "Designing devices to prevent drivers from being distracted.",
+        "Testing models for monitoring drivers easily getting tired.",
+        "Developing sensor-based systems for autonomous vehicles."
+       ],
+       "optionsZh": [
+        "调查驾驶员陷入激烈争论时的情况。",
+        "设计防止驾驶员分心的设备。",
+        "测试用于监测容易疲劳驾驶员的模型。",
+        "开发用于自动驾驶车辆的基于传感器的系统。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Developing sensor-based systems for autonomous vehicles.（开发用于自动驾驶车辆的基于传感器的系统。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What did the researchers' project aim to do according to Dr. Anna Anund?",
+       "options": [
+        "Make sure the autonomous vehicle operates in the simplest manner.",
+        "Ensure the transition from the driver to the vehicle is safely made.",
+        "Alleviate the driver's pressure as much as possible.",
+        "Record the driver's state as accurately as possible."
+       ],
+       "optionsZh": [
+        "确保自动驾驶车辆以最简便的方式运行。",
+        "确保从驾驶员驾驶过渡到车辆驾驶能够安全完成。",
+        "尽可能减轻驾驶员的压力。",
+        "尽可能准确地记录驾驶员的状态。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Ensure the transition from the driver to the vehicle is safely made.（确保从驾驶员驾驶过渡到车辆驾驶能够安全完成。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What is thought to be responsible for a fifth of road accidents across the European Union?",
+       "options": [
+        "Driver fatigue.",
+        "Dreadful traffic.",
+        "Drunk driving.",
+        "Driving time."
+       ],
+       "optionsZh": [
+        "驾驶员疲劳。",
+        "糟糕的交通状况。",
+        "酒后驾车。",
+        "驾驶时间。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Driver fatigue.（驾驶员疲劳。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "Why do drivers now view self-driving cars as less safe than they used to?",
+       "options": [
+        "There has been a strong debate on the feasibility of Level 3 cars.",
+        "There have been few remarkable advances in auto technology.",
+        "There has been a rise in attention-grabbing accidents recently.",
+        "There have been few feasible ways to shift public sentiment."
+       ],
+       "optionsZh": [
+        "围绕3级自动驾驶汽车的可行性展开了激烈争论。",
+        "汽车技术方面鲜有显著进步。",
+        "近期引人关注的事故有所增加。",
+        "转变公众看法的可行方法很少。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：There has been a rise in attention-grabbing accidents recently.（近期引人关注的事故有所增加。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"With the trend of Urbanization, it is vitally important for city residents to develop a stronger love for Nature.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Two proposals are before the state legislature that look to put some limits on ever-increasing rent prices, which some lawmakers say are contributing to rising homelessness rates. The proposals {{1}} caps on rent increases, preventing landlords in the state from raising rent more than the rate of inflation in most cases. There are exceptions for buildings less than 10 years old, public housing, improvements beyond maintenance, and a hardship {{2}} . In a 2020 study, researchers at the U.S. Government Accountability Office estimated that every $100 in rent increase is {{3}} to a 9% rise in homelessness. Rent increases have an even more detrimental effect on some demographic groups, such as racial minorities. Representative Alex Ramel explained why he thought that this kind of legislation was so important, telling the story of a {{4}} struggling to live in the community. Ramel pointed out the {{5}} effect of double-digit rent increases, saying that he made the decision to introduce the legislation while talking to a young man in Bellingham. \"He's a recent graduate from Western Washington University and just got a new job,\" Ramel said. \"He was leaving our community because his landlord {{6}} him that his rent was going to go up by $600 a month.\" The Rental Housing Association of Washington opposes the legislation. The association {{7}} that the policy won't actually solve the problem of rental prices. Instead, it will punish small landlords and allow wealthy renters easy access to cheap housing. \"The rent control policy has failed everywhere it has been {{8}} in this county. It has not fixed one housing problem {{9}} . It also does not distinguish between rich and poor when {{10}} who gets the benefits of rent control,\" said Chester Baldwin with the Rental Housing Coalition.",
+     "options": [
+      "anywhere",
+      "asserts",
+      "constituent",
+      "correlated",
+      "determining",
+      "devastating",
+      "enacted",
+      "entails",
+      "exemption",
+      "impose",
+      "notified",
+      "notwithstanding",
+      "presume",
+      "rehabilitation",
+      "reproaching"
+     ],
+     "answers": [
+      9,
+      8,
+      3,
+      2,
+      5,
+      10,
+      1,
+      6,
+      0,
+      4
+     ],
+     "blankExplains": [
+      "【定位】The proposals ____ caps on rent increases, preventing landlords in the state from raising rent more than the rate of inflation in most cases.\n【依据】答案是 impose：填回后与所在句 proposals、caps、rent、increases、preventing、landlords 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】There are exceptions for buildings less than 10 years old, public housing, improvements beyond maintenance, and a hardship ____ .\n【依据】答案是 exemption：填回后与所在句 there、exceptions、buildings、less、years、old 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Government Accountability Office estimated that every $100 in rent increase is ____ to a 9% rise in homelessness.\n【依据】答案是 correlated：填回后与所在句 government、accountability、office、estimated、every、rent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Representative Alex Ramel explained why he thought that this kind of legislation was so important, telling the story of a ____ struggling to live in the community.\n【依据】答案是 constituent：填回后与所在句 representative、alex、ramel、explained、why、thought 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Ramel pointed out the ____ effect of double-digit rent increases, saying that he made the decision to introduce the legislation while talking to a young man in Bellingham.\n【依据】答案是 devastating：填回后与所在句 ramel、pointed、out、effect、double-digit、rent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"He was leaving our community because his landlord ____ him that his rent was going to go up by $600 a month.\" The Rental Housing Association of Washington opposes the legislation.\n【依据】答案是 notified：填回后与所在句 leaving、community、because、landlord、him、rent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The association ____ that the policy won't actually solve the problem of rental prices.\n【依据】答案是 asserts：填回后与所在句 association、policy、won't、actually、solve、problem 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"The rent control policy has failed everywhere it has been ____ in this county.\n【依据】答案是 enacted：填回后与所在句 rent、control、policy、failed、everywhere、county 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It has not fixed one housing problem ____ .\n【依据】答案是 anywhere：填回后与所在句 fixed、housing、problem 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It also does not distinguish between rich and poor when ____ who gets the benefits of rent control,\" said Chester Baldwin with the Rental Housing Coalition.\n【依据】答案是 determining：填回后与所在句 distinguish、between、rich、poor、when、who 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "The proposals ____ caps on rent increases, preventing landlords in the state from raising rent more than the rate of inflation in most cases.",
+       "why": "答案是 impose：填回后与所在句 proposals、caps、rent、increases、preventing、landlords 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 impose 这个词性/语义，而不是 anywhere）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 impose 这个词性/语义，而不是 asserts）。"
+       }
+      },
+      {
+       "locate": "There are exceptions for buildings less than 10 years old, public housing, improvements beyond maintenance, and a hardship ____ .",
+       "why": "答案是 exemption：填回后与所在句 there、exceptions、buildings、less、years、old 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exemption 这个词性/语义，而不是 enacted）。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exemption 这个词性/语义，而不是 entails）。"
+       }
+      },
+      {
+       "locate": "Government Accountability Office estimated that every $100 in rent increase is ____ to a 9% rise in homelessness.",
+       "why": "答案是 correlated：填回后与所在句 government、accountability、office、estimated、every、rent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlated 这个词性/语义，而不是 constituent）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlated 这个词性/语义，而不是 anywhere）。"
+       }
+      },
+      {
+       "locate": "Representative Alex Ramel explained why he thought that this kind of legislation was so important, telling the story of a ____ struggling to live in the community.",
+       "why": "答案是 constituent：填回后与所在句 representative、alex、ramel、explained、why、thought 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 constituent 这个词性/语义，而不是 correlated）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 constituent 这个词性/语义，而不是 anywhere）。"
+       }
+      },
+      {
+       "locate": "Ramel pointed out the ____ effect of double-digit rent increases, saying that he made the decision to introduce the legislation while talking to a young man in Bellingham.",
+       "why": "答案是 devastating：填回后与所在句 ramel、pointed、out、effect、double-digit、rent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 devastating 这个词性/语义，而不是 determining）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 devastating 这个词性/语义，而不是 anywhere）。"
+       }
+      },
+      {
+       "locate": "\"He was leaving our community because his landlord ____ him that his rent was going to go up by $600 a month.\" The Rental Housing Association of Washington opposes the legislation.",
+       "why": "答案是 notified：填回后与所在句 leaving、community、because、landlord、him、rent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "与 notified 拼写相近（共同开头 not），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 notified 这个词性/语义，而不是 anywhere）。"
+       }
+      },
+      {
+       "locate": "The association ____ that the policy won't actually solve the problem of rental prices.",
+       "why": "答案是 asserts：填回后与所在句 association、policy、won't、actually、solve、problem 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 asserts 这个词性/语义，而不是 anywhere）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 asserts 这个词性/语义，而不是 constituent）。"
+       }
+      },
+      {
+       "locate": "\"The rent control policy has failed everywhere it has been ____ in this county.",
+       "why": "答案是 enacted：填回后与所在句 rent、control、policy、failed、everywhere、county 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 enacted 这个词性/语义，而不是 entails）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 enacted 这个词性/语义，而不是 exemption）。"
+       }
+      },
+      {
+       "locate": "It has not fixed one housing problem ____ .",
+       "why": "答案是 anywhere：填回后与所在句 fixed、housing、problem 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 anywhere 这个词性/语义，而不是 asserts）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 anywhere 这个词性/语义，而不是 constituent）。"
+       }
+      },
+      {
+       "locate": "It also does not distinguish between rich and poor when ____ who gets the benefits of rent control,\" said Chester Baldwin with the Rental Housing Coalition.",
+       "why": "答案是 determining：填回后与所在句 distinguish、between、rich、poor、when、who 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 determining 这个词性/语义，而不是 devastating）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 determining 这个词性/语义，而不是 anywhere）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "For those \"citizens of the world\", the office can be anything from a beach hut in Brisbane to a Starbucks in Seattle, thanks to the growing prevalence of remote-based work. But roaming the globe from café to café is not without its challenges."
+      },
+      {
+       "id": "B",
+       "text": "When the average traveller lands in a city like Bangkok, Berlin, or Buenos Aires, their first step might be to drop their bags at their hotel and to log on to TripAdvisor to find out the hours of a popular tourist attraction or the best rooftop bar for happy hour."
+      },
+      {
+       "id": "C",
+       "text": "But people like Pieter Levels are not your average traveller. A Dutch website developer, Levels has been living and working nomadically(像游牧民那样) in places like Singapore, Hong Kong, Tokyo and Manila for two years. With just a carry-on backpack, he chooses his location at will, based on a variety of factors—Wi-Fi speed, average temperature, exotic food and cost of living—that have little bearing on the work he actually does."
+      },
+      {
+       "id": "D",
+       "text": "Somewhere in his nomadic journey, Levels noticed that there was a growing need to create an online infrastructure for people like himself. That's when he created #nomads, a membership-based chat system which runs on the team communication platform known as Slack. The channel allows users to ask people in their current city the types of practical questions that a tourist would unlikely need to ask."
+      },
+      {
+       "id": "E",
+       "text": "Members of the geographically dispersed subculture that Levels is a part of call themselves \"digital nomads\". They are borderless, mostly self-employed remote workers who interact with cities in a way that's entirely different from a tourist, but still doesn't quite reach the status of resident. A relatively new phenomenon, there are no hard statistics on the prevalence of digital nomads or location independent workers. But thanks to the growing prevalence of freelance(自由职业的) livelihoods, a global sharing economy and numerous digital tools, the number of people who are able to live this life is growing quickly. And in a rapidly urbanising world, where a major city in Asia increasingly offers the same comforts as one in Europe, many people are reaching the realisation they don't need to stay in one place."
+      },
+      {
+       "id": "F",
+       "text": "So how does a nomad differ from a tourist or resident? In many ways, Levels says, you can think of a digital nomad like a \"short-term independent expat(移居国外的人)\". Unlike a resident expat, they don't work for a large multinational company in an air conditioned office building and they generally enter a country on a tourist visa, simply renewing or moving on when it expires. But unlike a tourist, they don't arrive in a foreign city without any responsibilities. Travel isn't necessarily required for them to do their jobs, but neither is staying in one place."
+      },
+      {
+       "id": "G",
+       "text": "Janet Brent is an independent ebook designer. She says many people she knows assume she travels for work, but in reality her international destinations are largely up to her, and driven by cost. \"Contrary to what some people might think, I don't get paid to travel—I simply choose the lifestyle. Rather than rent in one given city, I choose to travel and do short-term, temporary stays around the world, and my travel decisions are literally based on what makes the most sense financially for me,\" Brent said. \"It's completely different from vacationing—you really sink into the city life and get your feet wet in the communities.\""
+      },
+      {
+       "id": "H",
+       "text": "Bryce Adams is another such nomad. He works as a developer for a South African company WooThemes, which has a workforce that's more than 80% remote-based. Though Adams frequently posts pictures on Instagram of his enviable cooking adventures from Seoul to Bangkok, he says nomad life in foreign cities has its downsides, including finding adequate Wi-Fi for the bandwidth-hungry work his livelihood depends on. Contrary to the perception that he works under a mango tree in a tropical haven, Adams says the reality of this life means that he often ends up staying in more western style places in globalised cities—ones that are sure to have air conditioning and a decent connection—rather than exotic beachfront cafés."
+      },
+      {
+       "id": "I",
+       "text": "\"A fellow nomad posted quite a funny but honest message on Twitter a few days ago that stuck with me: 'It's funny that digital nomads spend 16 hours to fly to the other side of the world to sit in Starbucks,' and it's completely true,\" Adams said. \"When you're a digital nomad, you don't actually have as much freedom as most people think you do. We have deadlines, we all have people relying on us and a mouth (or two) that needs to be fed. It's nice to be able to work anywhere in the world but it's not without its challenges.\""
+      },
+      {
+       "id": "J",
+       "text": "But these challenges can often provide an opportunity for nomads to see a side of a city they may not have if they were staying in a luxury hotel for a long weekend. However inconvenient, a trip to a local doctor, immigration office or laundry—or a conflict with a local Airbnb host (the accommodation style of choice for most nomads)—can be far more culturally instructive than a trip to the national museum. And because nomads often have to stay where the strongest internet connection is, they tend to spend more time in developing cities compared to the average tourist, who often flees to more touristy destinations soon after landing at the airport."
+      },
+      {
+       "id": "K",
+       "text": "The nomad life is, by all accounts, one built out of privilege. You not only need a relatively powerful passport that makes tourist visas easy to attain, but also a knowledge economy job and access to the technology and devices that make remote working possible. But nomads like Adams say that while they are aware of this privilege, they believe living this way elevates what they're able to offer, by giving them a broader perspective on what they're building, writing, or designing and expanding their world view."
+      },
+      {
+       "id": "L",
+       "text": "\"Being able to travel and get around makes it easy to stay inspired,\" he added. \"I truly believe that it makes me a more sensible human being, as I tend to see and appreciate the creative solutions people come up with in other parts of the world, even though many tend to have far more constraints than we have at home.\""
+      },
+      {
+       "id": "M",
+       "text": "So when you're constantly on the road and don't own any property or have a fixed address, which city do you call home? It's no surprise that many nomads are dual citizens or \"third culture kids,\" who have grown up with a notion of identity that's not tied to nationalism or staying in one place. Levels says that the nomad life has not only changed his notions of citizenship, but the people he chooses to spend time with as well. \"Saying you're a 'citizen of the world' is a super cliché, right? But it's becoming quite true,\" Levels said. \"This global awareness has been the reason I started Nomad List and it's affected who my friends are. It's normal to have dinner now and sit with a Korean girl, a British-Singaporean guy, a Mexican girl and a Nigerian guy. As much as that sounds like a politically correct TV advertisement, it's great that that's the time we're in now.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Pieter Levels created a chat system to satisfy the need of digital nomads for information tourists normally don't seek."
+      },
+      {
+       "id": "s37",
+       "text": "It is said that digital nomads do not enjoy as much freedom as most people suppose."
+      },
+      {
+       "id": "s38",
+       "text": "Different from tourists, digital nomads travel to foreign places with work to do."
+      },
+      {
+       "id": "s39",
+       "text": "Digital nomads believe their lifestyle enables them to broaden their vision and do a better job."
+      },
+      {
+       "id": "s40",
+       "text": "The first thing a typical traveller possibly does after arriving at a city is search for information online about its popular tourist attractions."
+      },
+      {
+       "id": "s41",
+       "text": "One digital nomad thinks their life in foreign cities has its disadvantages."
+      },
+      {
+       "id": "s42",
+       "text": "Travelling around helps to keep digital nomads inspired."
+      },
+      {
+       "id": "s43",
+       "text": "The number of self-employed remote workers living a digital nomad's life is fast increasing."
+      },
+      {
+       "id": "s44",
+       "text": "Pieter Levels says his life as a nomad has transformed not only his idea of citizenship, but his choice of companions."
+      },
+      {
+       "id": "s45",
+       "text": "Interactions with local people and institutions provide nomads with far more cultural information than a visit to the national museum."
+      }
+     ],
+     "answers": [
+      "D",
+      "I",
+      "F",
+      "K",
+      "B",
+      "H",
+      "L",
+      "E",
+      "M",
+      "J"
+     ],
+     "statementExplains": [
+      "【定位】Somewhere in his nomadic journey, Levels noticed that there was a growing need to create an online infrastructure for people like himself.\n【依据】陈述里的 levels、created、need、nomads 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】\"When you're a digital nomad, you don't actually have as much freedom as most people think you do.\n【依据】陈述里的 digital、nomads、much、freedom、people 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】So how does a nomad differ from a tourist or resident?\n【依据】陈述里的 different、tourists、nomads 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】But nomads like Adams say that while they are aware of this privilege, they believe living this way elevates what they're able to offer, by giving them a broader perspective on what they're building, writing, or designing and expanding their world view.\n【依据】陈述里的 nomads、believe、broaden 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】When the average traveller lands in a city like Bangkok, Berlin, or Buenos Aires, their first step might be to drop their bags at their hotel and to log on to TripAdvisor to find out the hours of a popular tourist attraction or the best rooftop bar for happy hour.\n【依据】陈述里的 first、traveller、city、popular、tourist、attractions 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Though Adams frequently posts pictures on Instagram of his enviable cooking adventures from Seoul to Bangkok, he says nomad life in foreign cities has its downsides, including finding adequate Wi-Fi for the bandwidth-hungry work his livelihood depends on.\n【依据】陈述里的 nomad、life、foreign、cities 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】\"Being able to travel and get around makes it easy to stay inspired,\" he added.\n【依据】陈述里的 travelling、around、inspired 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】They are borderless, mostly self-employed remote workers who interact with cities in a way that's entirely different from a tourist, but still doesn't quite reach the status of resident.\n【依据】陈述里的 self-employed、remote、workers 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Levels says that the nomad life has not only changed his notions of citizenship, but the people he chooses to spend time with as well.\n【依据】陈述里的 levels、says、life、nomad、only、citizenship 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】However inconvenient, a trip to a local doctor, immigration office or laundry—or a conflict with a local Airbnb host (the accommodation style of choice for most nomads)—can be far more culturally instructive than a trip to the national museum.\n【依据】陈述里的 local、nomads、far、cultural、national、museum 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Somewhere in his nomadic journey, Levels noticed that there was a growing need to create an online infrastructure for people like himself.",
+       "why": "陈述里的 levels、created、need、nomads 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"When you're a digital nomad, you don't actually have as much freedom as most people think you do.",
+       "why": "陈述里的 digital、nomads、much、freedom、people 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "So how does a nomad differ from a tourist or resident?",
+       "why": "陈述里的 different、tourists、nomads 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But nomads like Adams say that while they are aware of this privilege, they believe living this way elevates what they're able to offer, by giving them a broader perspective on what they're building, writing, or designing and expanding their world view.",
+       "why": "陈述里的 nomads、believe、broaden 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "When the average traveller lands in a city like Bangkok, Berlin, or Buenos Aires, their first step might be to drop their bags at their hotel and to log on to TripAdvisor to find out the hours of a popular tourist attraction or the best rooftop bar for happy hour.",
+       "why": "陈述里的 first、traveller、city、popular、tourist、attractions 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Though Adams frequently posts pictures on Instagram of his enviable cooking adventures from Seoul to Bangkok, he says nomad life in foreign cities has its downsides, including finding adequate Wi-Fi for the bandwidth-hungry work his livelihood depends on.",
+       "why": "陈述里的 nomad、life、foreign、cities 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Being able to travel and get around makes it easy to stay inspired,\" he added.",
+       "why": "陈述里的 travelling、around、inspired 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "They are borderless, mostly self-employed remote workers who interact with cities in a way that's entirely different from a tourist, but still doesn't quite reach the status of resident.",
+       "why": "陈述里的 self-employed、remote、workers 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Levels says that the nomad life has not only changed his notions of citizenship, but the people he chooses to spend time with as well.",
+       "why": "陈述里的 levels、says、life、nomad、only、citizenship 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "However inconvenient, a trip to a local doctor, immigration office or laundry—or a conflict with a local Airbnb host (the accommodation style of choice for most nomads)—can be far more culturally instructive than a trip to the national museum.",
+       "why": "陈述里的 local、nomads、far、cultural、national、museum 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Children's use of social media is a problem. That doesn't mean it should be stopped. While younger children should not be on platforms where 13 is the minimum age, it is neither practical nor desirable to imagine a world in which teenagers are prevented from accessing the platforms and messaging systems that the adults around them use to organise their lives. But the pleasure and stimulation that people of all ages find on their screens and smartphones must not blind us to the harm that spending time in this way can cause. The finding that the alarmingly high rate of depression in British teenage girls is closely correlated to time spent on social media is extremely concerning. Research found that two in five girls are on social media for at least three hours a day—with half as many boys engaged to the same extent. More than a third of depressed girls have experienced online harassment. About half of affected girls suffered disrupted sleep, compared with 20% of depressed boys. Although the research does not prove that social media causes depression, the importance of the finding that there is a connection should not be underestimated. Schools have done important work in communicating key messages about the risks of online abuse. But when it comes to broader questions about \"screen time\", many professionals as well as parents are confused and uncertain. The health secretary, Matt Hancock, wants official guidelines on time and age limits. This idea has the virtue of simplicity, though some experts question its effects and call for a greater degree of differentiation, arguing that time online by itself is not a bad thing and it all depends on what you are doing. Also due this year is information commissioner Elizabeth Denham's Age Appropriate Design Code, covering the use of children's personal data. Both initiatives are welcome. But the government is playing catch-up. Statutory regulation of the digital media giants is long overdue. The failure to protect children from data harvesting and targeted advertising thus far is as shocking as the lack of concern shown by the companies themselves with regard to children's psychological health. Of course, social media companies are not the source of all our ills, and can offer a too-easy target for politicians keen to divert attention from inadequately resourced schools and health services. There are other reasons for the rising incidence of depression in young people, with increasing pressure to succeed in education and in life more broadly—to be famous, beautiful, rich—often cited as a source of unhappiness or anxiety which can, if aggravated by other factors and not managed, tip into ill health. Safeguarding means more than the avoidance of physical threat.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author believe regarding social media?",
+       "options": [
+        "To stop children using it is unrealistic and inadvisable.",
+        "It helps both adults and children to organise their lives.",
+        "It poses problems to both parents and children.",
+        "A world without it is really hard to imagine."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Children's use of social media is a problem.\n【依据】正确项的核心词 children 与定位句对得上；其余 stop、using、unrealistic、inadvisable 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Children's use of social media is a problem.",
+        "why": "正确项的核心词 children 与定位句对得上；其余 stop、using、unrealistic、inadvisable 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「helps」全文未出现；把原文的「children」换成了「helps、both、adults」，主语或对象被调包。",
+         "C": "偷换主体：「poses」全文未出现；把原文的「problems、children」换成了「poses、both、parents」，主语或对象被调包。",
+         "D": "无中生有：「without、really、hard」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we learn from the passage about British teenage girls?",
+       "options": [
+        "The more frequently they interact on social media, the more they experience harassment.",
+        "The more time they spend on social media, the more likely they suffer from depression.",
+        "Most of them are engaged on social media for at least three hours a day.",
+        "They spend half as many hours on social media as British teenage boys."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The finding that the alarmingly high rate of depression in British teenage girls is closely correlated to time spent on social media is extremely concerning.\n【依据】正确项的核心词 time、social、media、depression 与定位句对得上；其余 spend、likely、suffer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The finding that the alarmingly high rate of depression in British teenage girls is closely correlated to time spent on social media is extremely concerning.",
+        "why": "正确项的核心词 time、social、media、depression 与定位句对得上；其余 spend、likely、suffer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「frequently、interact、experience」全文未出现；把原文的「social、media」换成了「frequently、interact、experience」，主语或对象被调包。",
+         "C": "偷换主体：把原文的「social、media」换成了「engaged、least、three」，主语或对象被调包。",
+         "D": "偷换主体：「spend」全文未出现；把原文的「social、media、british」换成了「spend、half、many」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What is the author's view on the research finding about British teenage girls?",
+       "options": [
+        "Its implications about online abuse are obvious.",
+        "Its key message calls for immediate attention.",
+        "Its importance should not be undervalued.",
+        "Its uncertainty should not go unnoticed."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Although the research does not prove that social media causes depression, the importance of the finding that there is a connection should not be underestimated.\n【依据】正确项的核心词 importance、undervalued 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Although the research does not prove that social media causes depression, the importance of the finding that there is a connection should not be underestimated.",
+        "why": "正确项的核心词 importance、undervalued 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「implications、obvious」全文未出现。",
+         "B": "无中生有：「message、calls、immediate」全文未出现。",
+         "D": "无中生有：「uncertainty、unnoticed」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What do experts think of health secretary Matt Hancock's idea?",
+       "options": [
+        "Its implementation requires prompt action.",
+        "It is a welcome initiative but is long overdue.",
+        "Its success depends on how it is implemented.",
+        "It is too simplistic to produce the desired effect."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】This idea has the virtue of simplicity, though some experts question its effects and call for a greater degree of differentiation, arguing that time online by itself is not a bad thing and it all depends on what you are doing.\n【依据】正确项的核心词 simplistic、effect 与定位句对得上；其余 too、produce、desired 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This idea has the virtue of simplicity, though some experts question its effects and call for a greater degree of differentiation, arguing that time online by itself is not a bad thing and it all depends on what you are doing.",
+        "why": "正确项的核心词 simplistic、effect 与定位句对得上；其余 too、produce、desired 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「implementation、requires、prompt」全文未出现。",
+         "B": "因果倒置：「initiative」全文未出现。",
+         "C": "无中生有：「success、how、implemented」全文未出现；把原文的「depends」换成了「success、how、implemented」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "Besides social media companies, what factors contribute to young people's psychological health problems?",
+       "options": [
+        "Poorly financed schools and health services.",
+        "Politicians' eagerness to divert public attention.",
+        "Bad statutory regulation of digital media giants.",
+        "Their parents' educational background and life."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Of course, social media companies are not the source of all our ills, and can offer a too-easy target for politicians keen to divert attention from inadequately resourced schools and health services.\n【依据】正确项的核心词 schools、health、services 与定位句对得上；其余 poorly、financed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Of course, social media companies are not the source of all our ills, and can offer a too-easy target for politicians keen to divert attention from inadequately resourced schools and health services.",
+        "why": "正确项的核心词 schools、health、services 与定位句对得上；其余 poorly、financed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「eagerness、public」全文未出现；把原文的「politicians'、divert、attention」换成了「eagerness、public」，主语或对象被调包。",
+         "C": "偷换主体：把原文的「media」换成了「bad、statutory、regulation」，主语或对象被调包。",
+         "D": "无中生有：「parents'、educational、background」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "About a decade ago, the G-20, a forum of the world's biggest economies, agreed to crack down on multinational corporations' abusive use of tax havens. This resulted in a plan that aimed to curb practices that shielded a large chunk of corporate profits from tax authorities. But, instead of reining in the use of tax havens—countries such as the Bahamas and Cayman Islands with very low or no effective tax rates—the problem has only gotten worse. In a new study, we measured the excessive profits reported in tax havens that cannot be explained by ordinary economic activity such as employees, factories and research in that country. Our findings show a striking pattern of artificial shifting of paper profits to tax havens by corporations, which has been relentless since the 1980s. We found that the world's biggest multinational businesses shifted 37% of the profits—$969 billion—they earned in other countries to tax havens in 2019. The figure was less than 2% in the 1970s. The main reasons for the large increase were the growth of the tax avoidance industry in the 1980s and U.S. policies that made it easier to shift profits from high-tax countries to tax havens. We estimate that the amount of corporate taxes lost as a result reached 10% of total corporate revenue in 2019, up from less than 0.1% in the 1970s. In 2019, the total government tax loss globally was $250 billion. U.S. multinational corporations alone accounted for about half of that, followed by the U.K. and Germany. How do policymakers fix this? So far, the world as a whole has been trying to solve this problem by cutting or scrapping corporate taxes in a very gradual way. In the past 40 years, the global effective corporate tax rate has fallen from 23% to 17%. At the same time, governments have relied more heavily on consumption taxes. But the root cause of profit-shifting is the incentives involved, such as generous or lenient corporate tax rates in other countries. If countries could agree on a global minimum corporate tax rate of, say, 20%, the problem of profit-shifting would largely disappear, as tax havens would simply cease to exist. This type of mechanism is exactly what more than 130 countries signed onto in 2021, with implementation of a 15% minimum tax set to begin soon in the EU, U.K., Japan, Indonesia and many other countries. The U.S. has notably not been able to pass this legislation. Our research suggests implementing this type of tax reform is necessary in reversing the shift of ever-greater amounts of corporate profits to tax havens—instead of being taxed by the governments where they operate and create value.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn about the G-20's agreement on curbing the use of tax havens?",
+       "options": [
+        "It has aggravated the problem in non-G-20 countries.",
+        "It has taken a toll on countries such as Cayman Islands.",
+        "It has failed to achieve the expected outcome.",
+        "It has failed to result in any long-term plan."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】About a decade ago, the G-20, a forum of the world's biggest economies, agreed to crack down on multinational corporations' abusive use of tax havens.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 failed、achieve、expected、outcome 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "About a decade ago, the G-20, a forum of the world's biggest economies, agreed to crack down on multinational corporations' abusive use of tax havens.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 failed、achieve、expected、outcome 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「aggravated、non-g-」全文未出现。",
+         "B": "因果倒置：「taken、toll」全文未出现。",
+         "D": "因果倒置：「failed、long-term」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What mainly accounted for the large increase in the world's biggest multinational corporations' shift of profits to tax havens?",
+       "options": [
+        "Fluctuating tax rates globally.",
+        "Lenient policies of the U.S.",
+        "Heavy taxes imposed on them.",
+        "Rapid growth of their business."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】policies that made it easier to shift profits from high-tax countries to tax havens.\n【依据】正确项的核心词 policies 与定位句对得上；其余 lenient 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "policies that made it easier to shift profits from high-tax countries to tax havens.",
+        "why": "正确项的核心词 policies 与定位句对得上；其余 lenient 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「fluctuating」全文未出现；把原文的「tax」换成了「fluctuating、rates、globally」，主语或对象被调包。",
+         "C": "无中生有：「heavy、imposed」全文未出现。",
+         "D": "无中生有：「rapid、business」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What have policymakers been doing to prevent government tax loss?",
+       "options": [
+        "Reducing corporate taxes step by step.",
+        "Scrapping consumption taxes gradually.",
+        "Making joint efforts to levy corporate taxes.",
+        "Adjusting global effective corporate tax rates."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】In 2019, the total government tax loss globally was $250 billion.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 reducing、corporate、taxes、step 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In 2019, the total government tax loss globally was $250 billion.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 reducing、corporate、taxes、step 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「gradually」全文未出现。",
+         "C": "无中生有：「making、joint、efforts」全文未出现。",
+         "D": "偷换主体：「adjusting」全文未出现；把原文的「global、tax」换成了「adjusting、effective、corporate」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the author say would bring tax havens to an end?",
+       "options": [
+        "The alignment of corporate taxes with consumption taxes.",
+        "The implementation of generous tax rates in all countries.",
+        "The agreement on the root cause of global profit-shifting.",
+        "The imposition of a global minimum corporate tax rate."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】If countries could agree on a global minimum corporate tax rate of, say, 20%, the problem of profit-shifting would largely disappear, as tax havens would simply cease to exist.\n【依据】正确项的核心词 global、minimum、corporate、tax、rate 与定位句对得上；其余 imposition 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If countries could agree on a global minimum corporate tax rate of, say, 20%, the problem of profit-shifting would largely disappear, as tax havens would simply cease to exist.",
+        "why": "正确项的核心词 global、minimum、corporate、tax、rate 与定位句对得上；其余 imposition 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「alignment」全文未出现；把原文的「corporate」换成了「alignment、taxes、consumption」，主语或对象被调包。",
+         "B": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；把原文的「tax、countries」换成了「implementation、generous、rates」，主语或对象被调包。",
+         "C": "偷换主体：把原文的「agreement、global、profit-shifting」换成了「root、cause」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What could be expected of the global problem of profit-shifting in the near future?",
+       "options": [
+        "It would be solved with more countries cutting tax rates.",
+        "It would end with governments' awareness of its severity.",
+        "It would cease to exist with worldwide corporate support.",
+        "It would continue because of noncooperation from the U.S."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】If countries could agree on a global minimum corporate tax rate of, say, 20%, the problem of profit-shifting would largely disappear, as tax havens would simply cease to exist.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 continue、because、noncooperation 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If countries could agree on a global minimum corporate tax rate of, say, 20%, the problem of profit-shifting would largely disappear, as tax havens would simply cease to exist.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 continue、because、noncooperation 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「solved」全文未出现；把原文的「countries、tax」换成了「solved、cutting、rates」，主语或对象被调包。",
+         "B": "无中生有：「end、governments'、awareness」全文未出现。",
+         "C": "无中生有：「worldwide、support」全文未出现；把原文的「cease、exist、corporate」换成了「worldwide、support」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 437 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "科技进步使中国的医疗事业得到快速发展。近年来，远程医疗使优质医疗资源惠及更多患者。医学专家可以通过视频为偏远地区患者提供咨询，指导当地医生制定并实施治疗方案。人工智能辅助诊断系统帮助医生识别患者的早期症状，提高诊断准确率。电子健康档案的普及让医生能够快速了解患者病史，避免重复检查。线上医疗咨询平台极大地方便了患者就诊。科技与医疗的深度融合更好地满足了人民的健康需求。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

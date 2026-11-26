@@ -1,0 +1,1178 @@
+{
+ "id": "cet4-2024-12-2",
+ "levelId": "cet4",
+ "title": "四级 2024 年 12 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2024年12月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2024-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2024-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "随着能源成本飙升,美国家庭正怀着恐惧展望这个冬天"
+      },
+      {
+       "idx": 2,
+       "zh": "在严重依赖取暖用油保持家庭温暖的地区"
+      },
+      {
+       "idx": 3,
+       "zh": "在9700多人中，大约85%的人在被要求评价自己的饮食质量时偏离了实际情况"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 不用线上支付了？哦"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 不，它们是安全的"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 哦，冲动消费对我来说也是个问题"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 我试过那个办法"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 那你现在怎么办呢？感觉你用现金也会有同样的问题啊"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 我每周去一次银行"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 但如果你想买东西"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 第一个月我确实又取了两次额外的现金"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "Why are families across the U.S. looking to this winter with fear?",
+       "options": [
+        "They will see a 27% higher price to buy natural gas.",
+        "They will have insufficient heating oil to keep warm.",
+        "They will have a costly bill to pay to heat their homes.",
+        "They will experience the coldest winter in four decades."
+       ],
+       "optionsZh": [
+        "他们购买天然气的价格将上涨27%。",
+        "他们将没有足够的取暖用油来保暖。",
+        "他们将支付高昂的账单来为家里供暖。",
+        "他们将经历四十年来最冷的冬天。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They will have a costly bill to pay to heat their homes.（他们将支付高昂的账单来为家里供暖。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What did the federal government do last month?",
+       "options": [
+        "Provided additional funding to Low Income Home Energy Assistance Program.",
+        "Assured U.S. citizens of an increase in energy supplies by the end of this year.",
+        "Predicted a 10% jump in heating bills for most U.S. households this winter.",
+        "Decided on this year's energy assistance package of $8 billion in total."
+       ],
+       "optionsZh": [
+        "为低收入家庭能源援助计划提供了额外资金。",
+        "向美国公民保证今年年底前能源供应将增加。",
+        "预测今冬大多数美国家庭的取暖费用将上涨10%。",
+        "决定今年总额为80亿美元的能源援助方案。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Provided additional funding to Low Income Home Energy Assistance Program.（为低收入家庭能源援助计划提供了额外资金。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What is the main finding of a new study about many Americans?",
+       "options": [
+        "They care less about their diet now than before.",
+        "They may lack adequate knowledge of healthy food.",
+        "They may hold too optimistic a view about their diet.",
+        "They pay insufficient attention to their choice of food."
+       ],
+       "optionsZh": [
+        "他们现在对饮食的关注程度不如以前。",
+        "他们可能缺乏关于健康食品的充分知识。",
+        "他们可能对自己的饮食持过于乐观的看法。",
+        "他们对食物选择的关注不足。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They may hold too optimistic a view about their diet.（他们可能对自己的饮食持过于乐观的看法。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "Who tended to rate their diet more accurately in the survey?",
+       "options": [
+        "Those who finished 24-hour food questionnaires.",
+        "Those who fully understood the rating scale.",
+        "Those who cared about food quality.",
+        "Those who rated their diet as poor."
+       ],
+       "optionsZh": [
+        "那些完成了24小时食物问卷的人。",
+        "那些完全理解评分量表的人。",
+        "那些关心食品质量的人。",
+        "那些将自己的饮食评为较差的人。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Those who rated their diet as poor.（那些将自己的饮食评为较差的人。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the report say dozens of Indians did last week?",
+       "options": [
+        "They experienced a heartbreaking moment.",
+        "They gathered together to rescue an elephant.",
+        "They heard a noise from the bottom of a well.",
+        "They found an elephant wandering around a well."
+       ],
+       "optionsZh": [
+        "他们经历了一个令人心碎的时刻。",
+        "他们聚集在一起营救一头大象。",
+        "他们听到井底传来噪音。",
+        "他们发现一头大象在井边徘徊。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They gathered together to rescue an elephant.（他们聚集在一起营救一头大象。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "Why did the army officers call the local forest department?",
+       "options": [
+        "To borrow their crane.",
+        "To ask them for help.",
+        "To report the strange noise.",
+        "To get food for the elephant."
+       ],
+       "optionsZh": [
+        "借用他们的起重机。",
+        "向他们寻求帮助。",
+        "报告奇怪的噪音。",
+        "为大象获取食物。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To ask them for help.（向他们寻求帮助。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the news report say happened finally?",
+       "options": [
+        "The elephant was able to return to the jungle.",
+        "The army officers were examined for injuries.",
+        "The army officers were rewarded for their rescue efforts.",
+        "The elephant was given medical treatment for many days."
+       ],
+       "optionsZh": [
+        "大象能够返回丛林。",
+        "军官们接受了伤情检查。",
+        "军官们因救援努力获得了奖励。",
+        "大象接受了多日的医疗治疗。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The elephant was able to return to the jungle.（大象能够返回丛林。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "Why has the man stopped paying online for the last three months?",
+       "options": [
+        "He found it had caused him much inconvenience.",
+        "It led him to spend more money than necessary.",
+        "It was much less secure than paying with cash.",
+        "He wanted to be less dependent on his phone."
+       ],
+       "optionsZh": [
+        "他发现这给他造成了很多不便。",
+        "这导致他花费了超出必要的钱。",
+        "这比用现金支付安全性差得多。",
+        "他想减少对手机的依赖。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It led him to spend more money than necessary.（这导致他花费了超出必要的钱。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What problem does the woman say she may also have?",
+       "options": [
+        "Living beyond her means.",
+        "Lack of budgeting strategies.",
+        "Fashion addiction.",
+        "Impulse purchasing."
+       ],
+       "optionsZh": [
+        "入不敷出。",
+        "缺乏预算策略。",
+        "时尚成瘾。",
+        "冲动购物。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Impulse purchasing.（冲动购物。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the man say he could do at the canteen?",
+       "options": [
+        "Eat healthier food with less money.",
+        "Order food like burgers and chips.",
+        "Avoid getting addicted to junk food",
+        "Pay either in cash or with his phone."
+       ],
+       "optionsZh": [
+        "用更少的钱吃更健康的食物。",
+        "点汉堡和薯条之类的食物。",
+        "避免对垃圾食品上瘾。",
+        "用现金或手机支付。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Eat healthier food with less money.（用更少的钱吃更健康的食物。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What is now just a habit for the man?",
+       "options": [
+        "Making a shopping list.",
+        "Sticking to his budget.",
+        "Withdrawing cash only once a month.",
+        "Thinking twice before buying something."
+       ],
+       "optionsZh": [
+        "列购物清单。",
+        "坚持他的预算。",
+        "每月只取一次现金。",
+        "买东西前三思而后行。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Sticking to his budget.（坚持他的预算。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "Why is the woman opposed to their son joining a sport like soccer?",
+       "options": [
+        "He does not enjoy any ball games.",
+        "He has to prepare for the future.",
+        "He has breathing problems.",
+        "He is not up to anything challenging."
+       ],
+       "optionsZh": [
+        "他不喜欢任何球类运动。",
+        "他必须为未来做准备。",
+        "他有呼吸问题。",
+        "他无法胜任任何有挑战性的事情。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He has breathing problems.（他有呼吸问题。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the man suggest their son try in order to understand team spirit?",
+       "options": [
+        "Soccer.",
+        "Badminton.",
+        "Volleyball.",
+        "Basketball."
+       ],
+       "optionsZh": [
+        "足球。",
+        "羽毛球。",
+        "排球。",
+        "篮球。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Basketball.（篮球。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What is one of the woman's considerations in choosing a sport for her son?",
+       "options": [
+        "The possibilities of joining the school sports team.",
+        "The opportunities of winning some championships.",
+        "The chances of getting an athletic scholarship later on.",
+        "The odds of becoming a professional sportsman someday."
+       ],
+       "optionsZh": [
+        "加入学校运动队的可能性。",
+        "赢得一些冠军的机会。",
+        "日后获得体育奖学金的机会。",
+        "有朝一日成为职业运动员的可能性。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The chances of getting an athletic scholarship later on.（日后获得体育奖学金的机会。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the man say about beach volleyball?",
+       "options": [
+        "It differs entirely from indoor volleyball.",
+        "It appeals to both schoolgirls and schoolboys.",
+        "It is less popular than indoor sports in the country.",
+        "It is completely different from other outdoor games."
+       ],
+       "optionsZh": [
+        "它与室内排球完全不同。",
+        "它对女学生和男学生都有吸引力。",
+        "它在这个国家不如室内运动受欢迎。",
+        "它与其他户外运动完全不同。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It differs entirely from indoor volleyball.（它与室内排球完全不同。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What do we learn from the passage about the lift-off of spacecraft?",
+       "options": [
+        "It usually requires years of preparations.",
+        "It does a lot of harm to the environment.",
+        "It often burns over three hundred tonnes of refined fuel.",
+        "It proves to be the most complicated stage of space missions."
+       ],
+       "optionsZh": [
+        "它通常需要数年的准备。",
+        "它对环境造成很大危害。",
+        "它通常燃烧超过三百吨精炼燃料。",
+        "它被证明是太空任务中最复杂的阶段。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It does a lot of harm to the environment.（它对环境造成很大危害。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What happens traditionally to boosters, fuel tanks and other components in spaceflight?",
+       "options": [
+        "They are burnt up in outer space.",
+        "They are guided back to Earth.",
+        "They are reused up to 100 times.",
+        "They are treated as expendable."
+       ],
+       "optionsZh": [
+        "它们在外太空被烧毁。",
+        "它们被引导返回地球。",
+        "它们被重复使用多达100次。",
+        "它们被视为一次性消耗品。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are treated as expendable.（它们被视为一次性消耗品。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What does the passage say we already have regarding spaceflight?",
+       "options": [
+        "New technologies for bringing back space vehicles for recycling.",
+        "The technology for meeting the needs of commercial space travel.",
+        "Many of the technologies to limit the impact of space travel on Earth.",
+        "The technology for effectively protecting ozone from being destroyed."
+       ],
+       "optionsZh": [
+        "将太空飞行器带回以供回收利用的新技术。",
+        "满足商业太空旅行需求的技术。",
+        "限制太空旅行对地球影响的许多技术。",
+        "有效保护臭氧层免遭破坏的技术。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Many of the technologies to limit the impact of space travel on Earth.（限制太空旅行对地球影响的许多技术。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does research show about reading to a loyal and nonjudgmental companion?",
+       "options": [
+        "It can help unskilled readers feel more secure.",
+        "It can encourage reluctant readers to read aloud.",
+        "It can strengthen children's confidence in others.",
+        "It can boost children's interest in communication."
+       ],
+       "optionsZh": [
+        "它可以帮助阅读能力不足的读者感到更安心。",
+        "它可以鼓励不愿意阅读的读者大声朗读。",
+        "它可以增强儿童对他人的信心。",
+        "它可以提高儿童对交流的兴趣。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It can encourage reluctant readers to read aloud.（它可以鼓励不愿意阅读的读者大声朗读。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "How can parents make pets a fantastic subject for their children's research and learning?",
+       "options": [
+        "By motivating children to find out about their favourite pets.",
+        "By taking children to the library to borrow books on animals.",
+        "By allowing children to surf the internet about pets by themselves.",
+        "By showing children how to acquire knowledge about healthy pets."
+       ],
+       "optionsZh": [
+        "通过激励孩子去了解他们喜爱的宠物。",
+        "通过带孩子去图书馆借阅有关动物的书籍。",
+        "通过允许孩子自己上网查询有关宠物的信息。",
+        "通过向孩子展示如何获取有关健康宠物的知识。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：By motivating children to find out about their favourite pets.（通过激励孩子去了解他们喜爱的宠物。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "How can children still benefit even when their family doesn't have a pet?",
+       "options": [
+        "By learning that raising pets can do much good.",
+        "By watching how healthy pets are brought up.",
+        "By hearing about their peers' passion for pets.",
+        "By visiting friends who have household pets."
+       ],
+       "optionsZh": [
+        "通过了解饲养宠物可以带来很多好处。",
+        "通过观察健康的宠物是如何被养育的。",
+        "通过听说同龄人对宠物的热情。",
+        "通过拜访有家养宠物的朋友。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：By visiting friends who have household pets.（通过拜访有家养宠物的朋友。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What would the new bill in the Ohio legislature require public colleges and universities to do?",
+       "options": [
+        "Send would-be students a packet of information.",
+        "Update regularly all information on their websites.",
+        "Inform prospective students of their yearly enrollment.",
+        "Answer questions raised by applicants and their parents."
+       ],
+       "optionsZh": [
+        "向准学生发送一份信息资料包。",
+        "定期更新其网站上的所有信息。",
+        "告知未来学生其年度招生人数。",
+        "回答申请者及其家长提出的问题。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Send would-be students a packet of information.（向准学生发送一份信息资料包。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What can the state only do according to Adam Mathews?",
+       "options": [
+        "Oversee private institutions directly.",
+        "Follow other states' example.",
+        "Supervise all schools consistently.",
+        "Regulate public institutions by law."
+       ],
+       "optionsZh": [
+        "直接监管私立院校。",
+        "效仿其他州的做法。",
+        "一致地监督所有学校。",
+        "依法监管公立院校。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Regulate public institutions by law.（依法监管公立院校。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What do we learn about Ohio's schools from the passage?",
+       "options": [
+        "They are resourceful.",
+        "They are competitive.",
+        "They provide the best opportunity to realize one's dream.",
+        "They appeal most to students from other states in the U.S."
+       ],
+       "optionsZh": [
+        "它们富有资源。",
+        "它们竞争激烈。",
+        "它们提供实现梦想的最佳机会。",
+        "它们对来自美国其他州的学生最具吸引力。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They are competitive.（它们竞争激烈。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What is the problem with schools providing information on their websites?",
+       "options": [
+        "Some students waste much time surfing the net.",
+        "Students may need to visit too many websites.",
+        "Students have to search for the information.",
+        "Some students may lack adequate access."
+       ],
+       "optionsZh": [
+        "一些学生在网上浏览浪费大量时间。",
+        "学生可能需要访问过多网站。",
+        "学生必须搜索相关信息。",
+        "一些学生可能缺乏足够的访问途径。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Students have to search for the information.（学生必须搜索相关信息。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose the university newspaper is inviting submissions from the students for its coming edition on how to enrich students' knowledge of traditional Chinese culture. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Traditional Chinese culture is a treasure that shapes our national identity, yet many students today know little\nabout it. As a contributor to our university newspaper, I would like to share several practical ways to enrich\nstudents' understanding of this precious heritage.\nTo begin with, our university could offer optional courses and regular lectures on classical literature,\ncalligraphy and traditional festivals, so as to build a solid foundation of knowledge. In addition, hands-on\nactivities are equally important. By organizing cultural experiences such as paper-cutting workshops or tea\nceremonies, students can feel the charm of tradition rather than merely reading about it. Moreover, we can\nmake full use of new media, posting short videos and articles online to spread cultural knowledge in a way that\nappeals to young people.\nIn conclusion, combining formal learning, personal experience and modern technology would help students\nappreciate traditional Chinese culture far more deeply. I sincerely hope these suggestions will benefit us all."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Scientists have known that depriving adult mice of vision can increase the sensitivity of individual neurons(神经元) in the part of the brain devoted to hearing. New research from biologists at the University of Maryland {{1}} that sight deprivation also changes the way brain cells {{2}} with one another, shifting the mice's sensitivity to different frequencies. \"This study {{3}} what we are learning about how manipulating vision can have a {{4}} effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have {{5}} ,\" said Patrick Kanold, senior author of the study. It was once thought that the sensory regions of the brain were not {{6}} after a critical period in childhood. This is why children learn languages much more {{7}} than adults. Kanold's earlier research disproved this idea by showing that depriving adult mice of vision for a short period increased the sensitivity of individual neurons in the auditory cortex(皮质), which is devoted to hearing. Young brains wire themselves according to the sounds they hear frequently, assigning areas of the auditory cortex to {{8}} frequencies based on what they are used to hearing. The researchers found that, in adult mice, a week in the dark also changed the {{9}} of space to different frequencies. \"We don't know why we are seeing these patterns,\" Kanold said. \"We {{10}} that it may have to do with what the mice are paying attention to while they are in the dark.\"",
+     "options": [
+      "adaptable",
+      "closed",
+      "distribution",
+      "interact",
+      "narration",
+      "neutral",
+      "permanently",
+      "prescribes",
+      "readily",
+      "registered",
+      "reinforces",
+      "revealed",
+      "significant",
+      "specific",
+      "speculate"
+     ],
+     "answers": [
+      11,
+      3,
+      10,
+      12,
+      1,
+      0,
+      8,
+      13,
+      2,
+      14
+     ],
+     "blankExplains": [
+      "【定位】New research from biologists at the University of Maryland ____ that sight deprivation also changes the way brain cells  … with one another, shifting the mice's sensitivity to different frequencies.\n【依据】答案是 revealed：填回后与所在句 new、research、biologists、university、maryland、sight 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】New research from biologists at the University of Maryland  … that sight deprivation also changes the way brain cells ____ with one another, shifting the mice's sensitivity to different frequencies.\n【依据】答案是 interact：填回后与所在句 new、research、biologists、university、maryland、sight 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"This study ____ what we are learning about how manipulating vision can have a  … effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have  … ,\" said Patrick Kanold, senior author of the study.\n【依据】答案是 reinforces：填回后与所在句 study、what、learning、about、how、manipulating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"This study  … what we are learning about how manipulating vision can have a ____ effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have  … ,\" said Patrick Kanold, senior author of the study.\n【依据】答案是 significant：填回后与所在句 study、what、learning、about、how、manipulating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"This study  … what we are learning about how manipulating vision can have a  … effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have ____ ,\" said Patrick Kanold, senior author of the study.\n【依据】答案是 closed：填回后与所在句 study、what、learning、about、how、manipulating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It was once thought that the sensory regions of the brain were not ____ after a critical period in childhood.\n【依据】答案是 adaptable：填回后与所在句 once、thought、sensory、regions、brain、after 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This is why children learn languages much more ____ than adults.\n【依据】答案是 readily：填回后与所在句 why、children、learn、languages、much、adults 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Young brains wire themselves according to the sounds they hear frequently, assigning areas of the auditory cortex to ____ frequencies based on what they are used to hearing.\n【依据】答案是 specific：填回后与所在句 young、brains、wire、themselves、according、sounds 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The researchers found that, in adult mice, a week in the dark also changed the ____ of space to different frequencies.\n【依据】答案是 distribution：填回后与所在句 researchers、found、adult、mice、week、dark 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"We ____ that it may have to do with what the mice are paying attention to while they are in the dark.\"\n【依据】答案是 speculate：填回后与所在句 what、mice、paying、attention、while、dark 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "New research from biologists at the University of Maryland ____ that sight deprivation also changes the way brain cells  … with one another, shifting the mice's sensitivity to different frequencies.",
+       "why": "答案是 revealed：填回后与所在句 new、research、biologists、university、maryland、sight 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 revealed 这个词性/语义，而不是 readily）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 revealed 这个词性/语义，而不是 registered）。"
+       }
+      },
+      {
+       "locate": "New research from biologists at the University of Maryland  … that sight deprivation also changes the way brain cells ____ with one another, shifting the mice's sensitivity to different frequencies.",
+       "why": "答案是 interact：填回后与所在句 new、research、biologists、university、maryland、sight 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 interact 这个词性/语义，而不是 adaptable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 interact 这个词性/语义，而不是 closed）。"
+       }
+      },
+      {
+       "locate": "\"This study ____ what we are learning about how manipulating vision can have a  … effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have  … ,\" said Patrick Kanold, senior author of the study.",
+       "why": "答案是 reinforces：填回后与所在句 study、what、learning、about、how、manipulating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reinforces 这个词性/语义，而不是 readily）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reinforces 这个词性/语义，而不是 registered）。"
+       }
+      },
+      {
+       "locate": "\"This study  … what we are learning about how manipulating vision can have a ____ effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have  … ,\" said Patrick Kanold, senior author of the study.",
+       "why": "答案是 significant：填回后与所在句 study、what、learning、about、how、manipulating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 significant 这个词性/语义，而不是 specific）。",
+        "O": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 significant 这个词性/语义，而不是 speculate）。"
+       }
+      },
+      {
+       "locate": "\"This study  … what we are learning about how manipulating vision can have a  … effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have ____ ,\" said Patrick Kanold, senior author of the study.",
+       "why": "答案是 closed：填回后与所在句 study、what、learning、about、how、manipulating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 closed 这个词性/语义，而不是 adaptable）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 closed 这个词性/语义，而不是 distribution）。"
+       }
+      },
+      {
+       "locate": "It was once thought that the sensory regions of the brain were not ____ after a critical period in childhood.",
+       "why": "答案是 adaptable：填回后与所在句 once、thought、sensory、regions、brain、after 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adaptable 这个词性/语义，而不是 closed）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adaptable 这个词性/语义，而不是 distribution）。"
+       }
+      },
+      {
+       "locate": "This is why children learn languages much more ____ than adults.",
+       "why": "答案是 readily：填回后与所在句 why、children、learn、languages、much、adults 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 readily 这个词性/语义，而不是 registered）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 readily 这个词性/语义，而不是 reinforces）。"
+       }
+      },
+      {
+       "locate": "Young brains wire themselves according to the sounds they hear frequently, assigning areas of the auditory cortex to ____ frequencies based on what they are used to hearing.",
+       "why": "答案是 specific：填回后与所在句 young、brains、wire、themselves、according、sounds 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "O": "与 specific 拼写相近（共同开头 spec），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 specific 这个词性/语义，而不是 significant）。"
+       }
+      },
+      {
+       "locate": "The researchers found that, in adult mice, a week in the dark also changed the ____ of space to different frequencies.",
+       "why": "答案是 distribution：填回后与所在句 researchers、found、adult、mice、week、dark 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 distribution 这个词性/语义，而不是 adaptable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 distribution 这个词性/语义，而不是 closed）。"
+       }
+      },
+      {
+       "locate": "\"We ____ that it may have to do with what the mice are paying attention to while they are in the dark.\"",
+       "why": "答案是 speculate：填回后与所在句 what、mice、paying、attention、while、dark 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "与 speculate 拼写相近（共同开头 spec），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 speculate 这个词性/语义，而不是 significant）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "For all the innovation and choice that define the food and drink industries, if you want to make money, you could do a lot worse than fill a bottle with water and sell it. A litre of tap water, the stuff we have cleverly piped into our homes, costs less than half a penny. A litre of bottled water can cost well over a pound, especially for something fancy that has been sucked through a mountain."
+      },
+      {
+       "id": "B",
+       "text": "Yet the bottled water market is livelier than ever. It defies our increasing awareness of the harm plastics do to the environment and a broader, growing sense that something has to change. Sales in the UK were worth a record £558.4 million this past year, an increase of 7%, according to the latest figures from the market analyst Kantar. Separate data from other analysts show that last year the British consumed more than 2.2 billion litres of bottled water, including \"take-home\" and \"on-the-go\" products. That's an annual rise in volume of 8.5%."
+      },
+      {
+       "id": "C",
+       "text": "Environmental campaigners are struggling to understand why nations blessed with clean tap water grow only fonder of the bottle. \"It's very surprising to me,\" says Sam Chetan-Walsh, a political adviser at Greenpeace and campaigner against ocean plastic. \"Public awareness has never been higher, but the message is not quite reaching all the people it needs to.\" Where it is heard, the message is causing concern. Plastic water bottles require oceans of fossil fuels to make and ship. Additionally, single-use plastics of all types are polluting our cities and seas. Numerous documentaries have shown how plastic is ultimately killing wildlife."
+      },
+      {
+       "id": "D",
+       "text": "Moves against various plastics have gathered pace, from shopping bags to straws and plastic-lined coffee cups. Chetan-Walsh argues that bottled water is different because the alternatives are so obvious. \"If a product that is so nakedly unnecessary can exist, then the whole system is failing,\" he says."
+      },
+      {
+       "id": "E",
+       "text": "Hope is not entirely out of reach. The rate of growth has begun to ease (sales were up 7% in the year, compared with 8% the previous year)."
+      },
+      {
+       "id": "F",
+       "text": "But even if large numbers of people are quitting bottled water because of care for the environment, others are taking it up. The introduction of the \"sugar tax\" on juices and soda drinks has pushed more people to bottled water, while health awareness has boosted its desirability. Tap water consumption is growing at roughly the same pace (UK consumers still drink almost three times as much tap water as bottled water)."
+      },
+      {
+       "id": "G",
+       "text": "So the plastic tide only creeps higher. The industry is quick to point out that all its bottles are recyclable. \"But collection rates are, at the most generous estimates, 56%, so the actual recycling rate will be lower than that,\" Chetan-Walsh says. And while bottles may be recyclable, very few are made of recycled plastic. One water bottle company launched recycled half-litre \"eco\" bottles alongside its standard bottles. Another has pledged to use only recycled plastic across its range by 2025. Chetan-Walsh believes in a ban on single-use bottles. Bans do exist in some places. Organisers of a famous music festival announced that water bottles will not be sold this summer. San Francisco has banned them from city property and events. Last year, the UK government set out plans to ban single-use plastic from its estate."
+      },
+      {
+       "id": "H",
+       "text": "Water bottlers, unsurprisingly, don't support bans. But they raise concerns about health rather than profit margins. Last month one chief executive of a water bottling company said that bans would \"result in greater consumption of sugary drinks, adding to all the health dangers of obesity, diabetes and tooth decay\". Kinvara Carey, general manager of an association of the biggest bottled water manufacturers, cites a survey in which people were asked what they would do if bottled water were not available. \"Forty-four per cent would buy another drink, which is not great, 14% would go without and 4.5% said they would find a fountain,\" she says. \"The choice is important.\""
+      },
+      {
+       "id": "I",
+       "text": "What if fountains were more numerous, and tap water more clearly available in cafes, restaurants and elsewhere? Dozens of fountains are being installed in London. There are similar initiatives elsewhere. Before plastic and the marketing that made people think they needed bottled water in the first place, fountains were an urban fixture. Greenpeace, among others, is also pushing for a \"deposit return\" scheme. This would mean tax on bottled water would be refunded to customers who returned the plastic for recycling."
+      },
+      {
+       "id": "J",
+       "text": "Even if bottled water sales are growing slightly more slowly, the industry is racing to adapt to changing concerns and tastes. Flavoured water is booming: sales of the sparkling variety shot up by 20%, according to the latest analyst data. Meanwhile, international water brands, as well as a range of new companies, are selling high-end reusable bottles. And if you must fill them with tap water, why not add flavouring?"
+      },
+      {
+       "id": "K",
+       "text": "As the owner of multiple sugary drink brands and bottled water, PepsiCo is facing challenges on health and environmental fronts. Last year, the company bought SodaStream (a drinks company that sells machines for making tap water bubbly and then consumers add flavours) for $3.2 billion. It also launched a range of fancy bottles that work with tap water and flavour packets. The bottle is reusable. The packets? Not so much, and, yes, they are made of plastic, although the company invites users to post them back for recycling."
+      },
+      {
+       "id": "L",
+       "text": "As is so often the case, clever marketing can beat reason; awareness is rarely enough. \"There is always this kind of slip between concern, intent and changed behaviour,\" says Giles Quick, an analyst of bottled water. \"The best example is five a day, the recommendation to have at least five portions of fruit and vegetables every day. Almost everyone is aware of this, but something like 15% of us achieve it.\" Unless a far-reaching bottle ban does come into force, it will be up to consumers to not only demand change—but to act themselves."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Judging from the slowing rate of sales growth, there is still hope to combat bottled water."
+      },
+      {
+       "id": "s37",
+       "text": "Bottled water manufacturers base their arguments against bans of plastic bottles on health concerns rather than on profits."
+      },
+      {
+       "id": "s38",
+       "text": "Sales of bottled water in Britain hit a record high last year even though people are increasingly aware that plastics are environmentally unfriendly."
+      },
+      {
+       "id": "s39",
+       "text": "It often happens that people can lack reason when faced with skillful marketing."
+      },
+      {
+       "id": "s40",
+       "text": "One city on the west coast of America has banned single-use bottles from its property and events."
+      },
+      {
+       "id": "s41",
+       "text": "Manufacturing and shipping of plastic water bottles consume a tremendous amount of fossil fuels."
+      },
+      {
+       "id": "s42",
+       "text": "One large beverage company has adapted its operations when confronted with challenges from health and environmental advocates."
+      },
+      {
+       "id": "s43",
+       "text": "Bottled water is considerably more expensive than tap water."
+      },
+      {
+       "id": "s44",
+       "text": "Fountains could be seen in cities before bottled water became popular."
+      },
+      {
+       "id": "s45",
+       "text": "More people have taken to bottled water because of their health awareness."
+      }
+     ],
+     "answers": [
+      "E",
+      "H",
+      "B",
+      "L",
+      "G",
+      "C",
+      "K",
+      "A",
+      "I",
+      "F"
+     ],
+     "statementExplains": [
+      "【定位】The rate of growth has begun to ease (sales were up 7% in the year, compared with 8% the previous year).\n【依据】陈述里的 rate、sales、growth 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Last month one chief executive of a water bottling company said that bans would \"result in greater consumption of sugary drinks, adding to all the health dangers of obesity, diabetes and tooth decay\".\n【依据】陈述里的 bottled、water、bans、bottles、health 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】It defies our increasing awareness of the harm plastics do to the environment and a broader, growing sense that something has to change.\n【依据】陈述里的 increasingly、aware、plastics、environmentally 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】As is so often the case, clever marketing can beat reason; awareness is rarely enough.\n【依据】陈述里的 often、reason、marketing 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】San Francisco has banned them from city property and events.\n【依据】陈述里的 city、banned、property、events 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】Plastic water bottles require oceans of fossil fuels to make and ship.\n【依据】陈述里的 plastic、water、bottles、fossil、fuels 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】As the owner of multiple sugary drink brands and bottled water, PepsiCo is facing challenges on health and environmental fronts.\n【依据】陈述里的 challenges、health、environmental 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】For all the innovation and choice that define the food and drink industries, if you want to make money, you could do a lot worse than fill a bottle with water and sell it.\n【依据】陈述里的 bottled、water、water 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Before plastic and the marketing that made people think they needed bottled water in the first place, fountains were an urban fixture.\n【依据】陈述里的 fountains、before、bottled、water 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】The introduction of the \"sugar tax\" on juices and soda drinks has pushed more people to bottled water, while health awareness has boosted its desirability.\n【依据】陈述里的 people、bottled、water、health、awareness 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "The rate of growth has begun to ease (sales were up 7% in the year, compared with 8% the previous year).",
+       "why": "陈述里的 rate、sales、growth 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Last month one chief executive of a water bottling company said that bans would \"result in greater consumption of sugary drinks, adding to all the health dangers of obesity, diabetes and tooth decay\".",
+       "why": "陈述里的 bottled、water、bans、bottles、health 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It defies our increasing awareness of the harm plastics do to the environment and a broader, growing sense that something has to change.",
+       "why": "陈述里的 increasingly、aware、plastics、environmentally 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As is so often the case, clever marketing can beat reason; awareness is rarely enough.",
+       "why": "陈述里的 often、reason、marketing 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "San Francisco has banned them from city property and events.",
+       "why": "陈述里的 city、banned、property、events 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Plastic water bottles require oceans of fossil fuels to make and ship.",
+       "why": "陈述里的 plastic、water、bottles、fossil、fuels 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As the owner of multiple sugary drink brands and bottled water, PepsiCo is facing challenges on health and environmental fronts.",
+       "why": "陈述里的 challenges、health、environmental 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For all the innovation and choice that define the food and drink industries, if you want to make money, you could do a lot worse than fill a bottle with water and sell it.",
+       "why": "陈述里的 bottled、water、water 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Before plastic and the marketing that made people think they needed bottled water in the first place, fountains were an urban fixture.",
+       "why": "陈述里的 fountains、before、bottled、water 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The introduction of the \"sugar tax\" on juices and soda drinks has pushed more people to bottled water, while health awareness has boosted its desirability.",
+       "why": "陈述里的 people、bottled、water、health、awareness 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "As a university student, I've come to realise just how little I know about money. I've come to the brutal realisation that Australia's youth are being done a great disservice by not receiving any consistent financial education. Diving headfirst into the crash course of starting university, I've quickly tried to get myself up to speed with the financial terms of the modern era to help manage my personal finances. I've read some financial education books, done some online learning, and have spoken to my nearest and dearest for their pearls of financial wisdom. There are undoubtedly hundreds of great resources out there for those wishing to improve their financial literacy, but while I was researching, I still kept wishing that I didn't have to play catch-up with the money world. I felt that I was sailing the financial seas with no skills and no life jacket! However, after talking to my friends who felt the same, I quickly realised that it wasn't my ignorance but the lack of financial education in our schooling system that is leaving high schoolers seriously behind in the modern world of money. Let's compare a theoretical financial education subject to the standard compulsory English class. On average, English may not be the most popular subject, but it's consistently on the schedule throughout high school, with all students graduating fluent in English. A financial education subject should do just the same. It shouldn't be just a one-day event but a course integrated throughout the whole of high school that would allow students to gradually expand their financial literacy, and would prevent the need for a 'catch up' phase once we're out on our own after graduation. In the same way that learning a language or new skills takes time, building financial skills requires practice and years to gradually accumulate bits and pieces of knowledge. Giving young people the opportunity to become familiar with the world of money would provide them with a great advantage to enter adulthood with confidence and security so that they are able to manage their own money and look after themselves.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What has the author come to realise since entering university?",
+       "options": [
+        "He needs a crash course on financial terms.",
+        "He is very much lacking in financial literacy.",
+        "It requires consistent education to be financially independent.",
+        "It is unrealistic to give all Australian youth a financial education."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】As a university student, I've come to realise just how little I know about money.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 very、much、lacking、financial 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As a university student, I've come to realise just how little I know about money.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 very、much、lacking、financial 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「needs」全文未出现。",
+         "C": "因果倒置：「financially、independent」全文未出现。",
+         "D": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「unrealistic、give、australian」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "How did the author feel in today's money world?",
+       "options": [
+        "Badly equipped to survive.",
+        "Ignorant of financial literature.",
+        "Barely capable of moving ahead.",
+        "Overwhelmed by the resources online."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】There are undoubtedly hundreds of great resources out there for those wishing to improve their financial literacy, but while I was researching, I still kept wishing that I didn't have to play catch-up with the money world.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 badly、equipped、survive 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "There are undoubtedly hundreds of great resources out there for those wishing to improve their financial literacy, but while I was researching, I still kept wishing that I didn't have to play catch-up with the money world.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 badly、equipped、survive 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「ignorant」全文未出现；把原文的「financial、literature」换成了「ignorant」，主语或对象被调包。",
+         "C": "无中生有：「barely、capable、moving」全文未出现。",
+         "D": "偷换主体：「overwhelmed」全文未出现；把原文的「resources」换成了「overwhelmed、online」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What did the author realise after talking to his friends?",
+       "options": [
+        "They were as keen as he was on financial matters.",
+        "The schooling system was to blame for his trouble.",
+        "High schoolers knew nothing about the modern financial world.",
+        "Financial courses were as unpopular as compulsory English classes."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】However, after talking to my friends who felt the same, I quickly realised that it wasn't my ignorance but the lack of financial education in our schooling system that is leaving high schoolers seriously behind in the modern world of money.\n【依据】正确项的核心词 schooling、system 与定位句对得上；其余 blame、trouble 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, after talking to my friends who felt the same, I quickly realised that it wasn't my ignorance but the lack of financial education in our schooling system that is leaving high schoolers seriously behind in the modern world of money.",
+        "why": "正确项的核心词 schooling、system 与定位句对得上；其余 blame、trouble 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「keen、matters」全文未出现；把原文的「financial」换成了「keen、matters」，主语或对象被调包。",
+         "C": "无中生有：「knew、nothing」全文未出现；把原文的「high、schoolers、modern」换成了「knew、nothing、about」，主语或对象被调包。",
+         "D": "无中生有：「courses、unpopular、classes」全文未出现；把原文的「financial」换成了「courses、unpopular、compulsory」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What is the author's idea of a financial education course?",
+       "options": [
+        "It should foresee students' needs after graduation.",
+        "It should provide students with some basic knowledge.",
+        "It should be taught the same way as English is taught.",
+        "It should be integrated into high school education."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】However, after talking to my friends who felt the same, I quickly realised that it wasn't my ignorance but the lack of financial education in our schooling system that is leaving high schoolers seriously behind in the modern world of money.\n【依据】正确项的核心词 high、school、education 与定位句对得上；其余 integrated、into 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, after talking to my friends who felt the same, I quickly realised that it wasn't my ignorance but the lack of financial education in our schooling system that is leaving high schoolers seriously behind in the modern world of money.",
+        "why": "正确项的核心词 high、school、education 与定位句对得上；其余 integrated、into 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「foresee、students'、needs」全文未出现；把原文的「after」换成了「foresee、students'、needs」，主语或对象被调包。",
+         "B": "因果倒置：「basic」全文未出现。",
+         "C": "偷换主体：「taught、taught」全文未出现；把原文的「same」换成了「taught、way、english」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What would financial literacy do to young people?",
+       "options": [
+        "Allow them to enter adulthood with financial security.",
+        "Enable them to look after themselves without worrying about money.",
+        "Render them confident and secure in terms of money management.",
+        "Help them become familiar with the world of money."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Giving young people the opportunity to become familiar with the world of money would provide them with a great advantage to enter adulthood with confidence and security so that they are able to manage their own money and look after themselves.\n【依据】正确项的核心词 confident、secure、money、management 与定位句对得上；其余 render、terms 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Giving young people the opportunity to become familiar with the world of money would provide them with a great advantage to enter adulthood with confidence and security so that they are able to manage their own money and look after themselves.",
+        "why": "正确项的核心词 confident、secure、money、management 与定位句对得上；其余 render、terms 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：把原文的「enter、adulthood、security」换成了「allow、financial」，主语或对象被调包。",
+         "B": "无中生有：「enable、without、worrying」全文未出现；把原文的「look、after、themselves」换成了「enable、without、worrying」，主语或对象被调包。",
+         "D": "偷换主体：把原文的「become、familiar、world」换成了「help」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 349 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Chocolates save us from many things, especially emotional distress. They comfort us in times of trouble, calming down a racing heart by channelling happy calories inside us. We all have faith in chocolates to delight us in an instant! Recently, chocolate lovers were heartbroken as scientists claimed that they can become extinct by 2050! But hey, we have some happy news for you. Scientists can still help save chocolates from dying out! If you are not aware as to why scientists made the statement about the death of this wonderful thing, let us tell you the facts. Chocolate trees, whose seeds are used to make chocolate, grow in the tropical plant world and require very specific weather conditions to prosper. Now, fifty percent of the world's cocoa(可可) beans come from two countries in West Africa: Côte d'Ivoire and Ghana. Scientists believe that both of these countries will experience a 3.8°F temperature increase by 2050 due to global warming, endangering the cacao(可可树) farms in the rainforests. These farms will then have to be shifted to cooler mountainous areas, which are the natural habitat of wildlife. This will lead to some tough decisions: whether to grow chocolate or save wildlife. Unfortunately, the crisis of global warming has already had a serious negative impact on cacao farms' yields, leading to the prices of chocolates skyrocketing. Scientists, however, are trying to find a long-term and eco-friendly solution to this problem! They are trying to modify the species with a gene-editing technology, which will transform the seedlings into a species that survives even in a drier and warmer climate. According to a report by The Business Insider, in the University of California's new bio-sciences building, tiny green cacao seedlings are lined up in refrigerated greenhouses for a new experiment by using a technology called CRISPR. By manipulating the DNA of plants, this technology is already being used across the world to make plants tougher and cheaper. Similarly, in this unconventional experiment, scientists will make tiny, precise changes to the DNA of the seedlings to make the cocoa crops survive in warmer and drier climates.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do people believe chocolates can do?",
+       "options": [
+        "Cheer them up instantly.",
+        "Create happy calories.",
+        "Conceal emotional distress.",
+        "Relieve them of heart trouble."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】We all have faith in chocolates to delight us in an instant!\n【依据】正确项的核心词 instantly 与定位句对得上；其余 cheer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We all have faith in chocolates to delight us in an instant!",
+        "why": "正确项的核心词 instantly 与定位句对得上；其余 cheer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「create」全文未出现。",
+         "C": "因果倒置：「conceal」全文未出现。",
+         "D": "因果倒置：「relieve」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What was scientists' recent assertion about chocolates?",
+       "options": [
+        "They could become a rare treat in the near future.",
+        "They could calm people down a bit in times of crisis.",
+        "They could prevent people from getting heartbroken.",
+        "They could become unavailable in less than 30 years."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Recently, chocolate lovers were heartbroken as scientists claimed that they can become extinct by 2050!\n【依据】正确项的核心词 become 与定位句对得上；其余 unavailable、less、years 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Recently, chocolate lovers were heartbroken as scientists claimed that they can become extinct by 2050!",
+        "why": "正确项的核心词 become 与定位句对得上；其余 unavailable、less、years 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「rare、treat、near」全文未出现；把原文的「become」换成了「rare、treat、near」，主语或对象被调包。",
+         "B": "因果倒置：「calm、people、bit」全文未出现。",
+         "C": "无中生有：「prevent、people、getting」全文未出现；把原文的「heartbroken」换成了「prevent、people、getting」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What would happen if the cacao farms were shifted to cooler mountainous areas?",
+       "options": [
+        "The natural habitat of wildlife there would be ruined.",
+        "The cacao farmers would have a tough time to adapt.",
+        "The rainforests would be shrinking dramatically.",
+        "The quality of cocoa beans would suffer greatly."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】These farms will then have to be shifted to cooler mountainous areas, which are the natural habitat of wildlife.\n【依据】正确项的核心词 natural、habitat、wildlife 与定位句对得上；其余 there、ruined 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "These farms will then have to be shifted to cooler mountainous areas, which are the natural habitat of wildlife.",
+        "why": "正确项的核心词 natural、habitat、wildlife 与定位句对得上；其余 there、ruined 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「farmers、time、adapt」全文未出现。",
+         "C": "无中生有：「shrinking、dramatically」全文未出现。",
+         "D": "无中生有：「quality、suffer、greatly」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What do we learn about the cacao farms in the crisis of global warming?",
+       "options": [
+        "They try to seek help from gene-editing scientists.",
+        "They decide to move to cooler mountainous areas.",
+        "They have suffered a lot due to a decrease in produce.",
+        "They have benefited by raising prices of cocoa beans."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Unfortunately, the crisis of global warming has already had a serious negative impact on cacao farms' yields, leading to the prices of chocolates skyrocketing.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 suffered、lot、due、decrease 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Unfortunately, the crisis of global warming has already had a serious negative impact on cacao farms' yields, leading to the prices of chocolates skyrocketing.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 suffered、lot、due、decrease 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「try、seek」全文未出现。",
+         "B": "因果倒置：「decide、move」全文未出现。",
+         "D": "偷换主体：「benefited、raising」全文未出现；把原文的「prices」换成了「benefited、raising、cocoa」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What are scientists trying to do in the University of California's new bio-sciences building?",
+       "options": [
+        "Build rows of refrigerated greenhouses for research on cacao seedlings.",
+        "Gene-edit cacao seedlings for them to withstand a drier, warmer climate.",
+        "Produce chocolates with the latest gene-editing technology.",
+        "Transplant the genes of tougher plants to cacao seedlings."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】According to a report by The Business Insider, in the University of California's new bio-sciences building, tiny green cacao seedlings are lined up in refrigerated greenhouses for a new experiment by using a technology called CRISPR.\n【依据】正确项的核心词 cacao、seedlings 与定位句对得上；其余 gene-edit、withstand、drier、warmer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "According to a report by The Business Insider, in the University of California's new bio-sciences building, tiny green cacao seedlings are lined up in refrigerated greenhouses for a new experiment by using a technology called CRISPR.",
+        "why": "正确项的核心词 cacao、seedlings 与定位句对得上；其余 gene-edit、withstand、drier、warmer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「rows、research」全文未出现；把原文的「build、refrigerated、greenhouses」换成了「rows、research」，主语或对象被调包。",
+         "C": "偷换主体：「produce、latest」全文未出现；把原文的「technology」换成了「produce、chocolates、latest」，主语或对象被调包。",
+         "D": "偷换主体：「transplant、genes」全文未出现；把原文的「cacao、seedlings」换成了「transplant、genes、tougher」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 348 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "近年来，中国新能源汽车产业发展迅速。目前，中国新能源汽车年产量已高达近千万辆，占全球市场份额超过60%，出口量不断创出新高。中国政府通过加大资金投入和政策引导，鼓励新能源汽车企业进行技术创新，不断提高产品在市场上的竞争力。中国新能源汽车产业的发展不仅有力推动了国内经济发展，也为全球新能源利用和环境保护做出了积极贡献。",
+     "reference": "In recent years, China's new energy vehicle industry has developed rapidly. At present, China's annual output of new energy vehicles has reached nearly 10 million units, accounting for over 60% of the global market share, while its exports keep hitting new highs. The Chinese government, by increasing funding and providing policy guidance, encourages new energy vehicle enterprises to make technological innovations and continuously enhance the market competitiveness of their products. The development of China's new energy vehicle industry has not only powerfully boosted domestic economic growth, but also made positive contributions to the global use of new energy and environmental protection.",
+     "keyPoints": [
+      "In recent years, China's new energy vehicle industry has developed rapidly.",
+      "At present, China's annual output of new energy vehicles has reached nearly 10 million units, accounting for over 60% of the global market share, while its exports keep hitting new highs.",
+      "The Chinese government, by increasing funding and providing policy guidance, encourages new energy vehicle enterprises to make technological innovations and continuously enhance the market competitiveness of their products.",
+      "The development of China's new energy vehicle industry has not only powerfully boosted domestic economic growth, but also made positive contributions to the global use of new energy and environmental protection."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

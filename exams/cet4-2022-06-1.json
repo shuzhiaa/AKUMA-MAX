@@ -1,0 +1,1189 @@
+{
+ "id": "cet4-2022-06-1",
+ "levelId": "cet4",
+ "title": "四级 2022 年 06 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2022年6月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2022-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2022-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "一项新研究发现，含添加糖的饮料可能有害健康"
+      },
+      {
+       "idx": 2,
+       "zh": "在该研究中，研究人员分析了超过8万名女性和3.7万名男性的信息"
+      },
+      {
+       "idx": 3,
+       "zh": "人们饮用的含添加糖饮料越多"
+      },
+      {
+       "idx": 4,
+       "zh": "这些饮料包括苏打水、能量饮料和运动饮料"
+      },
+      {
+       "idx": 5,
+       "zh": "即使在研究人员考虑了其他可能影响人们健康的因素后"
+      },
+      {
+       "idx": 6,
+       "zh": "科学家们表示，他们的研究结果支持限制含添加糖的饮料"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 嗯，Susan说南非种族很多元"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 南非不是几年前举办过足球世界杯吗？那他们一定很常踢足球吧？"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 我想他们踢足球"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 橄榄球？橄榄球是什么？"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 橄榄球是一项两队对抗的运动"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn about the new study from the news report?",
+       "options": [
+        "It studied the effects of exercise on sleep.",
+        "Its participants came from various walks of life.",
+        "Its findings confirmed those of previous studies.",
+        "It ran for as long as some thirty years."
+       ],
+       "optionsZh": [
+        "它研究了运动对睡眠的影响。",
+        "它的参与者来自各行各业。",
+        "它的研究结果证实了先前研究的结论。",
+        "它持续了长达约三十年的时间。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It ran for as long as some thirty years.（它持续了长达约三十年的时间。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What is the scientists' recommendation?",
+       "options": [
+        "Eating more vegetables instead of meats.",
+        "Drinking water instead of beverages with added sugar.",
+        "Consuming more energy drinks and sports drinks.",
+        "Forming the habit of exercising regularly."
+       ],
+       "optionsZh": [
+        "多吃蔬菜而不是肉类。",
+        "喝水而不是含添加糖的饮料。",
+        "摄入更多能量饮料和运动饮料。",
+        "养成定期锻炼的习惯。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Drinking water instead of beverages with added sugar.（喝水而不是含添加糖的饮料。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What did German police say about a 64-year-old man?",
+       "options": [
+        "He asked them about his lost paintings.",
+        "He knew the owner of two missing paintings.",
+        "He left his paintings at a highway rest stop.",
+        "He found two 17th-century oil paintings."
+       ],
+       "optionsZh": [
+        "他向警方询问他丢失的画作。",
+        "他知道两幅失踪画作的主人。",
+        "他把自己的画作落在了高速公路休息站。",
+        "他发现了两幅17世纪的油画。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He found two 17th-century oil paintings.（他发现了两幅17世纪的油画。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What is the art expert's conclusion about the two framed paintings?",
+       "options": [
+        "They are imitations.",
+        "They are originals.",
+        "They were stolen by an Italian boy.",
+        "They came from the same artist."
+       ],
+       "optionsZh": [
+        "它们是仿制品。",
+        "它们是真品。",
+        "它们被一个意大利男孩偷走了。",
+        "它们出自同一位艺术家之手。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They are originals.（它们是真品。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What did the four-year-old girl attempt to do?",
+       "options": [
+        "Look after her grandfather.",
+        "Leave the remote cold region.",
+        "Save her sick grandmother.",
+        "Flee from the threat of bears."
+       ],
+       "optionsZh": [
+        "照顾她的祖父。",
+        "离开偏远寒冷地区。",
+        "救她生病的祖母。",
+        "逃离熊的威胁。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Save her sick grandmother.（救她生病的祖母。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What do we learn from the news report about the girl's mother?",
+       "options": [
+        "She has to face a criminal charge.",
+        "She was found lying motionless in the snow.",
+        "She searched for her daughter in freezing cold.",
+        "She works in childcare services."
+       ],
+       "optionsZh": [
+        "她不得不面临刑事指控。",
+        "她被发现一动不动地躺在雪地里。",
+        "她在严寒中寻找她的女儿。",
+        "她在儿童看护服务机构工作。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She has to face a criminal charge.（她不得不面临刑事指控。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What happened to the little girl according to the news report?",
+       "options": [
+        "She was found in a forest after three days.",
+        "She lay totally unconscious for three days.",
+        "She suffered from the effects of severe cold.",
+        "She was finally rescued by her relatives."
+       ],
+       "optionsZh": [
+        "她在三天后被发现在森林里。",
+        "她完全失去意识躺了三天。",
+        "她遭受了严寒的影响。",
+        "她最终被她的亲属救出。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：She suffered from the effects of severe cold.（她遭受了严寒的影响。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What does the woman say about her new friend Susan?",
+       "options": [
+        "She shows a real passion for taking photos.",
+        "She has just returned from her hometown.",
+        "She comes from the city of Cape Town.",
+        "She has a truly amazing appearance."
+       ],
+       "optionsZh": [
+        "她对摄影表现出真正的热情。",
+        "她刚从家乡回来。",
+        "她来自开普敦市。",
+        "她有着真正惊人的外表。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：She comes from the city of Cape Town.（她来自开普敦市。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the woman say about Table Mountain?",
+       "options": [
+        "It is as famous as Cape Town.",
+        "It has a flat surface at the top.",
+        "It is green and free from pollution.",
+        "It was named by European settlers."
+       ],
+       "optionsZh": [
+        "它和开普敦一样出名。",
+        "它的顶部有一个平坦的表面。",
+        "它是绿色的且没有污染。",
+        "它是由欧洲殖民者命名的。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It has a flat surface at the top.（它的顶部有一个平坦的表面。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What do we learn from the conversation about the woman's friend Susan?",
+       "options": [
+        "She has British ancestors.",
+        "She is of mixed blood.",
+        "She grew up in India.",
+        "She speaks several languages."
+       ],
+       "optionsZh": [
+        "她有英国血统。",
+        "她是混血儿。",
+        "她在印度长大。",
+        "她会说多种语言。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She has British ancestors.（她有英国血统。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the woman say about rugby in South Africa?",
+       "options": [
+        "It is an extremely violent sport.",
+        "It is becoming a national sport.",
+        "It is originated in New Zealand.",
+        "It is more popular than football."
+       ],
+       "optionsZh": [
+        "它是一项极其暴力的运动。",
+        "它正在成为一项全国性运动。",
+        "它起源于新西兰。",
+        "它比足球更受欢迎。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is more popular than football.（它比足球更受欢迎。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the woman advise the man to do?",
+       "options": [
+        "Prepare a study guide.",
+        "Consult his advisors.",
+        "Go over his notes regularly.",
+        "Take stress-relief sessions."
+       ],
+       "optionsZh": [
+        "准备一份学习指南。",
+        "咨询他的导师。",
+        "定期复习他的笔记。",
+        "参加减压课程。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Prepare a study guide.（准备一份学习指南。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What is the biggest problem the man has with his studies?",
+       "options": [
+        "His worksheets are terribly messy.",
+        "He finds the workload too heavy.",
+        "His study folder is badly disorganized.",
+        "He has difficulty taking notes quickly."
+       ],
+       "optionsZh": [
+        "他的作业纸非常凌乱。",
+        "他觉得学习负担太重。",
+        "他的学习文件夹严重缺乏条理。",
+        "他很难快速记笔记。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：His study folder is badly disorganized.（他的学习文件夹严重缺乏条理。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What kind of learner does the woman say she is?",
+       "options": [
+        "A visual learner.",
+        "An emotional learner.",
+        "An organized learner.",
+        "A logical learner."
+       ],
+       "optionsZh": [
+        "视觉型学习者。",
+        "情感型学习者。",
+        "条理型学习者。",
+        "逻辑型学习者。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：An emotional learner.（情感型学习者。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the woman think the man can do with his notes?",
+       "options": [
+        "Arrange them using color and pictures.",
+        "Restructure them in a logical way.",
+        "Commit them to memory after class.",
+        "Organize them into a well-connected story."
+       ],
+       "optionsZh": [
+        "使用颜色和图片来整理它们。",
+        "以符合逻辑的方式重新组织它们。",
+        "课后把它们记在脑子里。",
+        "把它们组织成一个联系紧密的故事。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Arrange them using color and pictures.（使用颜色和图片来整理它们。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What do we learn from the passage about the golden rule?",
+       "options": [
+        "It is mainly based on a society's religion.",
+        "It is interpreted differently in different times.",
+        "It is a code of conduct based on laws and ethics.",
+        "It is a moral principle to guide people's behavior."
+       ],
+       "optionsZh": [
+        "它主要基于社会的宗教信仰。",
+        "它在不同时代有不同的解释。",
+        "它是基于法律和伦理的行为准则。",
+        "它是指导人们行为的道德原则。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is a moral principle to guide people's behavior.（它是指导人们行为的道德原则。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What is a notable criticism of the golden rule?",
+       "options": [
+        "It may lead to misunderstanding despite good intentions.",
+        "It assumes that human beings are all good-natured.",
+        "It may sometimes produce undesirable outcomes.",
+        "It fails to consider the complexity of human relationships."
+       ],
+       "optionsZh": [
+        "尽管出于好意,它可能导致误解。",
+        "它假设人类都是善良的。",
+        "它有时可能产生不良后果。",
+        "它未能考虑人际关系的复杂性。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It may sometimes produce undesirable outcomes.（它有时可能产生不良后果。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What does the example of someone breaking the law serve to show?",
+       "options": [
+        "The golden rule is often in conflict with certain laws and ethical principles.",
+        "The golden rule must sometimes give way to more important principles.",
+        "Failure to follow the golden rule may lead to violation of laws and ethics.",
+        "Observing the golden rule is the first step to becoming a responsible citizen."
+       ],
+       "optionsZh": [
+        "黄金法则常常与某些法律和伦理原则相冲突。",
+        "黄金法则有时必须让位于更重要的原则。",
+        "未能遵循黄金法则可能导致违反法律和伦理。",
+        "遵守黄金法则是成为负责任公民的第一步。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The golden rule must sometimes give way to more important principles.（黄金法则有时必须让位于更重要的原则。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What do we learn from the current statistics about diversity in large corporations?",
+       "options": [
+        "Many of them find it rather difficult to manage.",
+        "They have not seen as much diversity as desired.",
+        "Many of them have an increasingly diversified staff.",
+        "They have not quite grasped the concept of diversity."
+       ],
+       "optionsZh": [
+        "许多企业发现这相当难以管理。",
+        "它们并未实现预期的多样性水平。",
+        "许多企业的员工日益多元化。",
+        "它们尚未完全理解多样性的概念。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They have not seen as much diversity as desired.（它们并未实现预期的多样性水平。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What is the newly published study focused on?",
+       "options": [
+        "Initiatives to achieve diversity in large corporations.",
+        "Advantages and disadvantages of a diversified team.",
+        "People's attitudes towards diversity at the workplace.",
+        "Innovative ideas and solutions resulting from diversity."
+       ],
+       "optionsZh": [
+        "大型企业实现多样性的举措。",
+        "多元化团队的优势和劣势。",
+        "人们对工作场所多样性的态度。",
+        "多样性带来的创新想法和解决方案。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：People's attitudes towards diversity at the workplace.（人们对工作场所多样性的态度。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do the findings of the new study show?",
+       "options": [
+        "People prefer to work with team members similar to themselves.",
+        "Employers attach great importance to their corporations' diversity.",
+        "Employers differ from employees in their perspectives on diversity.",
+        "Doubts about the practicability of diversity are gradually disappearing."
+       ],
+       "optionsZh": [
+        "人们更愿意与相似的团队成员共事。",
+        "雇主非常重视其企业的多样性。",
+        "雇主与员工对多样性的看法存在差异。",
+        "对多样性实用性的质疑正在逐渐消失。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：People prefer to work with team members similar to themselves.（人们更愿意与相似的团队成员共事。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What is a major key to success in international business according to the passage?",
+       "options": [
+        "Choosing the best time for signing a business contract.",
+        "Changing one's form of communication from time to time.",
+        "Laying equal stress on written and spoken communication.",
+        "Using different forms of communication appropriately."
+       ],
+       "optionsZh": [
+        "选择签订商业合同的最佳时机。",
+        "不时改变自己的沟通形式。",
+        "同等重视书面沟通和口头沟通。",
+        "恰当地使用不同的沟通形式。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Using different forms of communication appropriately.（恰当地使用不同的沟通形式。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What does the passage say about spoken word agreements in some Middle East countries?",
+       "options": [
+        "They are regarded as seriously binding.",
+        "They are seldom honored by business partners.",
+        "They are taken as memos of understanding.",
+        "They are to be confirmed in written form."
+       ],
+       "optionsZh": [
+        "它们被视为具有严肃的约束力。",
+        "它们很少被商业伙伴遵守。",
+        "它们被视为谅解备忘录。",
+        "它们需要以书面形式确认。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They are regarded as seriously binding.（它们被视为具有严肃的约束力。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What do we learn about the Western working culture?",
+       "options": [
+        "It has reached the highest level of evolution.",
+        "It places a high value on written contracts.",
+        "It regards written contracts as unalterable.",
+        "It has seen a decline in verbal agreements."
+       ],
+       "optionsZh": [
+        "它已达到最高的演进水平。",
+        "它高度重视书面合同。",
+        "它将书面合同视为不可更改的。",
+        "它的口头协议已经减少。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It places a high value on written contracts.（它高度重视书面合同。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "How does a Japanese firm tend to view a written contract?",
+       "options": [
+        "Its details cannot be renegotiated.",
+        "It has to be carried out to the letter.",
+        "It strengthens business partnerships.",
+        "Its terms may not be strictly binding."
+       ],
+       "optionsZh": [
+        "其细节不能重新谈判。",
+        "它必须严格执行。",
+        "它加强了商业伙伴关系。",
+        "其条款可能不具有严格的约束力。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Its terms may not be strictly binding.（其条款可能不具有严格的约束力。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose you are going to write a proposal to your school library for improving its service. You are to write about its current problems and possible solutions to these problems. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "I am a sophomore who spends most of my free time studying in our school library. As a frequent user, I am\nwriting to propose several improvements that I believe would enhance its service.\nTwo problems stand out. First, the library closes at nine every evening, which is too early for students who\nprepare for exams late at night; I suggest extending the opening hours to eleven during examination weeks.\nSecond, the reading area is often noisy because there is no separated quiet zone, so it is hard to concentrate. It\nwould be advisable to set aside a silent room and remind readers to keep their voices down.\nI believe these changes are simple yet effective, and they would make the library far more welcoming to every\nstudent. Thank you very much for considering my suggestions, and I sincerely hope they can be adopted soon."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "You might think of your teeth as tools, like built-in knives and forks, but if they are mere tools, why do they feel pain and wouldn't it be better if they could just {{1}} under any condition? In spite of our {{2}} discomfort, it turns out there's a good reason our teeth are so sensitive. Tooth pain is a {{3}} mechanism that ensures when a tooth is being damaged we'll notice and do something about it. If we eat something too hot or too cold, or if the tooth is worn down enough where the tissue {{4}} is exposed, all of those things cause pain, and then the pain causes the person not to use that tooth to try to protect it a little bit more. So it's really a protective mechanism more than anything else. If teeth didn't feel pain, we might {{5}} to use them in situations that damage them, and for humans, damaging {{6}} teeth is a problem because, unlike crocodiles, we can't {{7}} them. Teeth have three layers, only one of which—the innermost layer of the tooth—can hurt, as that layer of the tooth {{8}} both blood vessels and nerves. Pain is the only feeling to which the nerves in that layer respond. Whereas people with tooth sensitivity may complain, for example, of tooth pain {{9}} by heat or cold, the nerves in the inner layer don't sense temperature. Rather, they feel pain, which may be {{10}} with, say, drinking something very cold.",
+     "options": [
+      "adult",
+      "associated",
+      "chew",
+      "contains",
+      "continue",
+      "defense",
+      "dental",
+      "downward",
+      "emotional",
+      "implies",
+      "mammal",
+      "replace",
+      "swallow",
+      "triggered",
+      "underneath"
+     ],
+     "answers": [
+      2,
+      6,
+      5,
+      14,
+      4,
+      0,
+      11,
+      3,
+      13,
+      1
+     ],
+     "blankExplains": [
+      "【定位】You might think of your teeth as tools, like built-in knives and forks, but if they are mere tools, why do they feel pain and wouldn't it be better if they could just ____ under any condition?\n【依据】答案是 chew：填回后与所在句 think、teeth、tools、like、built-in、knives 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In spite of our ____ discomfort, it turns out there's a good reason our teeth are so sensitive.\n【依据】答案是 dental：填回后与所在句 spite、discomfort、turns、out、there's、good 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Tooth pain is a ____ mechanism that ensures when a tooth is being damaged we'll notice and do something about it.\n【依据】答案是 defense：填回后与所在句 tooth、pain、mechanism、ensures、when、tooth 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If we eat something too hot or too cold, or if the tooth is worn down enough where the tissue ____ is exposed, all of those things cause pain, and then the pain causes the person not to use that tooth to try to protect it a little bit more.\n【依据】答案是 underneath：填回后与所在句 eat、something、too、hot、too、cold 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If teeth didn't feel pain, we might ____ to use them in situations that damage them, and for humans, damaging  … teeth is a problem because, unlike crocodiles, we can't  … them.\n【依据】答案是 continue：填回后与所在句 teeth、didn't、feel、pain、use、situations 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If teeth didn't feel pain, we might  … to use them in situations that damage them, and for humans, damaging ____ teeth is a problem because, unlike crocodiles, we can't  … them.\n【依据】答案是 adult：填回后与所在句 teeth、didn't、feel、pain、use、situations 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If teeth didn't feel pain, we might  … to use them in situations that damage them, and for humans, damaging  … teeth is a problem because, unlike crocodiles, we can't ____ them.\n【依据】答案是 replace：填回后与所在句 teeth、didn't、feel、pain、use、situations 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Teeth have three layers, only one of which—the innermost layer of the tooth—can hurt, as that layer of the tooth ____ both blood vessels and nerves.\n【依据】答案是 contains：填回后与所在句 teeth、three、layers、only、which、innermost 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Whereas people with tooth sensitivity may complain, for example, of tooth pain ____ by heat or cold, the nerves in the inner layer don't sense temperature.\n【依据】答案是 triggered：填回后与所在句 whereas、people、tooth、sensitivity、complain、example 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Rather, they feel pain, which may be ____ with, say, drinking something very cold.\n【依据】答案是 associated：填回后与所在句 rather、feel、pain、which、say、drinking 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "You might think of your teeth as tools, like built-in knives and forks, but if they are mere tools, why do they feel pain and wouldn't it be better if they could just ____ under any condition?",
+       "why": "答案是 chew：填回后与所在句 think、teeth、tools、like、built-in、knives 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chew 这个词性/语义，而不是 contains）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chew 这个词性/语义，而不是 continue）。"
+       }
+      },
+      {
+       "locate": "In spite of our ____ discomfort, it turns out there's a good reason our teeth are so sensitive.",
+       "why": "答案是 dental：填回后与所在句 spite、discomfort、turns、out、there's、good 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 dental 这个词性/语义，而不是 defense）。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 dental 这个词性/语义，而不是 downward）。"
+       }
+      },
+      {
+       "locate": "Tooth pain is a ____ mechanism that ensures when a tooth is being damaged we'll notice and do something about it.",
+       "why": "答案是 defense：填回后与所在句 tooth、pain、mechanism、ensures、when、tooth 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 defense 这个词性/语义，而不是 dental）。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 defense 这个词性/语义，而不是 downward）。"
+       }
+      },
+      {
+       "locate": "If we eat something too hot or too cold, or if the tooth is worn down enough where the tissue ____ is exposed, all of those things cause pain, and then the pain causes the person not to use that tooth to try to protect it a little bit more.",
+       "why": "答案是 underneath：填回后与所在句 eat、something、too、hot、too、cold 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 underneath 这个词性/语义，而不是 adult）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 underneath 这个词性/语义，而不是 associated）。"
+       }
+      },
+      {
+       "locate": "If teeth didn't feel pain, we might ____ to use them in situations that damage them, and for humans, damaging  … teeth is a problem because, unlike crocodiles, we can't  … them.",
+       "why": "答案是 continue：填回后与所在句 teeth、didn't、feel、pain、use、situations 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "与 continue 拼写相近（共同开头 cont），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 continue 这个词性/语义，而不是 chew）。"
+       }
+      },
+      {
+       "locate": "If teeth didn't feel pain, we might  … to use them in situations that damage them, and for humans, damaging ____ teeth is a problem because, unlike crocodiles, we can't  … them.",
+       "why": "答案是 adult：填回后与所在句 teeth、didn't、feel、pain、use、situations 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adult 这个词性/语义，而不是 associated）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adult 这个词性/语义，而不是 chew）。"
+       }
+      },
+      {
+       "locate": "If teeth didn't feel pain, we might  … to use them in situations that damage them, and for humans, damaging  … teeth is a problem because, unlike crocodiles, we can't ____ them.",
+       "why": "答案是 replace：填回后与所在句 teeth、didn't、feel、pain、use、situations 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 replace 这个词性/语义，而不是 adult）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 replace 这个词性/语义，而不是 associated）。"
+       }
+      },
+      {
+       "locate": "Teeth have three layers, only one of which—the innermost layer of the tooth—can hurt, as that layer of the tooth ____ both blood vessels and nerves.",
+       "why": "答案是 contains：填回后与所在句 teeth、three、layers、only、which、innermost 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "与 contains 拼写相近（共同开头 cont），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 contains 这个词性/语义，而不是 chew）。"
+       }
+      },
+      {
+       "locate": "Whereas people with tooth sensitivity may complain, for example, of tooth pain ____ by heat or cold, the nerves in the inner layer don't sense temperature.",
+       "why": "答案是 triggered：填回后与所在句 whereas、people、tooth、sensitivity、complain、example 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 triggered 这个词性/语义，而不是 adult）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 triggered 这个词性/语义，而不是 associated）。"
+       }
+      },
+      {
+       "locate": "Rather, they feel pain, which may be ____ with, say, drinking something very cold.",
+       "why": "答案是 associated：填回后与所在句 rather、feel、pain、which、say、drinking 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 associated 这个词性/语义，而不是 adult）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 associated 这个词性/语义，而不是 chew）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "On paper, the job seemed perfect for me: The position was completely in line with my degree, the duties and responsibilities were compatible with my interests, and the office maintained a well-stocked kitchen that would satisfy my every snack desire."
+      },
+      {
+       "id": "B",
+       "text": "Sounds like my dream job, right? There was only one small problem: I simply didn't get along with the company culture. They favored a more rigid, closed-door, corporate atmosphere, while I would have preferred something more collaborative and open. They were complete clock watchers, while I would have liked a more flexible schedule. To put it plainly, we just weren't on the same page."
+      },
+      {
+       "id": "C",
+       "text": "When it comes to looking for a new job, you already know that a big part of the interview process involves the company evaluating whether or not you're a good fit for their open role. But, it's important to keep in mind that the employer isn't the only one who needs to identify a good match—you should be looking for that same exact thing. Company culture can have a big impact on how you feel about your work, so you want to make sure you sign an offer letter with an organization you're truly excited about."
+      },
+      {
+       "id": "D",
+       "text": "However, figuring out what a company is like before you actually work there can be a bit of a challenge. Luckily, there are a few things you can do to determine whether or not a company is a good fit for you—before you ever sign your name on that dotted line."
+      },
+      {
+       "id": "E",
+       "text": "First of all, know what you want. It's hard to make any decisions when you don't really know what you're looking for. So before you can determine whether you and a specific company would be compatible together, it's important to have a solid handle on what exactly you want from your employer. Many of us have an easier time identifying the things that we absolutely don't want. If those are the only things you can think of, don't worry! That's still a good place to start."
+      },
+      {
+       "id": "F",
+       "text": "Start by writing down the things you didn't like about previous employers, as well as the parts you really valued. There's no wrong answer here—so from big things to small details, write them all down on your list. This will help you immediately identify what you're looking for in an organization, as well as the things you're trying to stay far, far away from."
+      },
+      {
+       "id": "G",
+       "text": "Make sure to do your research. Now comes the part when you put on your detective hat and do a little digging. The Internet will be your best friend when you're trying to familiarize yourself with a company's culture before ever walking through their office doors. And where exactly should you look for these culture clues? Start with the most obvious place first: the company's website. Read through their copy and blog. Do they use formal, direct language? Or is it casual, conversational, and maybe even a little humorous? This can be a big indicator of what sort of atmosphere the company is trying to cultivate."
+      },
+      {
+       "id": "H",
+       "text": "Next, turn your attention toward their social media outlets. Are they sharing photos of their team's Thursday afternoon barbeque or Halloween costume contest? Or are their social media accounts strictly reserved for company-related announcements and product launches?"
+      },
+      {
+       "id": "I",
+       "text": "An industry review website like Glassdoor is another spot to check in order to find some insider information about what you can expect about a company. However, remember to take the reviews you read with a grain of salt—many of them are written by scorned(被鄙视的) employees."
+      },
+      {
+       "id": "J",
+       "text": "Finally, you can never fail with personal connections. Send a quick message to a current or previous company employee on LinkedIn or by email and ask if they would be willing to have a quick conversation with you about the organization in general. If you get a yes to your request for a chat, you'll be armed with some pretty powerful and helpful information heading into your interview!"
+      },
+      {
+       "id": "K",
+       "text": "Learn more by asking questions. You know that part at the end of a job interview when the hiring manager asks if you have any questions, and you just stare across the table blankly with your mouth hanging open? That's the perfect opportunity to speak up and get your burning company culture questions answered! So yes, you can definitely ask your interviewer about what it's like to work for that particular organization. Simple questions like, \"What three words would you use to describe the culture here?\" or \"What's your favorite part about working for this company?\" can reveal a lot about what it's really like behind closed doors."
+      },
+      {
+       "id": "L",
+       "text": "Prioritize your values. What does my dream company culture look like? Well, I could come and go as I please, as long as I was getting the work done. My boss would genuinely listen to and value all of my ideas and suggestions. My co-workers would all be friendly with one another, without ever falling into the office gossip trap. The kitchen would have endless options of pizza and cookies. Oh, and they'd give me two months of paid vacation with a very generous salary."
+      },
+      {
+       "id": "M",
+       "text": "What are my chances of finding all of those things with one employer? Slim to none—believe me, I've looked. This is why it's so important to know which aspects of a company's culture you value most. Is it an open communication style or a flexible schedule? Focus on the top spots on your priority list, and ensure a potential employer at least checks those boxes. Unfortunately, this is reality, you can't have everything you want but a few are certainly achievable."
+      },
+      {
+       "id": "N",
+       "text": "When you're hunting for a new job, you already know that the employer is trying to decide whether or not you're a good fit for the position. But you should also look at the process through a similar lens. You may not be the one conducting the actual interview, but you're still trying to determine whether or not the company is a good fit for you."
+      },
+      {
+       "id": "O",
+       "text": "Keep these tips in mind to figure out whether you and a potential employer are a perfect match or just a recipe(方案) for disaster. After all, it's a good thing to know before actually accepting an offer."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Clues about the culture of a company can be found on its website."
+      },
+      {
+       "id": "s37",
+       "text": "It can be difficult to know the real situation in a company until you become part of it."
+      },
+      {
+       "id": "s38",
+       "text": "It is impossible for a job applicant to have every expectation met."
+      },
+      {
+       "id": "s39",
+       "text": "Simply by reading its description, the author found the job offered ideal."
+      },
+      {
+       "id": "s40",
+       "text": "Job applicants are advised to make a written list of their likes and dislikes in their previous employment."
+      },
+      {
+       "id": "s41",
+       "text": "At the end of an interview, a job applicant should seize the opportunity to get answers to their urgent questions."
+      },
+      {
+       "id": "s42",
+       "text": "To begin with, job applicants should be clear what they expect from their future employer."
+      },
+      {
+       "id": "s43",
+       "text": "Job applicants should read with a critical eye what is written about a company on the website."
+      },
+      {
+       "id": "s44",
+       "text": "Job satisfaction has a lot to do with company culture."
+      },
+      {
+       "id": "s45",
+       "text": "A chat with an insider of a company can give job applicants very useful information when they prepare for an interview."
+      }
+     ],
+     "answers": [
+      "G",
+      "D",
+      "M",
+      "A",
+      "F",
+      "K",
+      "E",
+      "I",
+      "C",
+      "J"
+     ],
+     "statementExplains": [
+      "【定位】The Internet will be your best friend when you're trying to familiarize yourself with a company's culture before ever walking through their office doors.\n【依据】陈述里的 culture、company 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】However, figuring out what a company is like before you actually work there can be a bit of a challenge.\n【依据】陈述里的 company 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Unfortunately, this is reality, you can't have everything you want but a few are certainly achievable.\n【依据】陈述里的 every 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】On paper, the job seemed perfect for me: The position was completely in line with my degree, the duties and responsibilities were compatible with my interests, and the office maintained a well-stocked kitchen that would satisfy my every snack desire.\n【依据】陈述里的 job 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Start by writing down the things you didn't like about previous employers, as well as the parts you really valued.\n【依据】陈述里的 previous、employment 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】You know that part at the end of a job interview when the hiring manager asks if you have any questions, and you just stare across the table blankly with your mouth hanging open?\n【依据】陈述里的 end、interview、job、questions 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】So before you can determine whether you and a specific company would be compatible together, it's important to have a solid handle on what exactly you want from your employer.\n【依据】陈述里的 what、employer 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】An industry review website like Glassdoor is another spot to check in order to find some insider information about what you can expect about a company.\n【依据】陈述里的 what、about、company、website 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】When it comes to looking for a new job, you already know that a big part of the interview process involves the company evaluating whether or not you're a good fit for their open role.\n【依据】陈述里的 job、company 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】If you get a yes to your request for a chat, you'll be armed with some pretty powerful and helpful information heading into your interview!\n【依据】陈述里的 chat、information、interview 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。"
+     ],
+     "explain": "长篇阅读匹配：15 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "The Internet will be your best friend when you're trying to familiarize yourself with a company's culture before ever walking through their office doors.",
+       "why": "陈述里的 culture、company 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "However, figuring out what a company is like before you actually work there can be a bit of a challenge.",
+       "why": "陈述里的 company 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Unfortunately, this is reality, you can't have everything you want but a few are certainly achievable.",
+       "why": "陈述里的 every 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "On paper, the job seemed perfect for me: The position was completely in line with my degree, the duties and responsibilities were compatible with my interests, and the office maintained a well-stocked kitchen that would satisfy my every snack desire.",
+       "why": "陈述里的 job 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Start by writing down the things you didn't like about previous employers, as well as the parts you really valued.",
+       "why": "陈述里的 previous、employment 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "You know that part at the end of a job interview when the hiring manager asks if you have any questions, and you just stare across the table blankly with your mouth hanging open?",
+       "why": "陈述里的 end、interview、job、questions 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "So before you can determine whether you and a specific company would be compatible together, it's important to have a solid handle on what exactly you want from your employer.",
+       "why": "陈述里的 what、employer 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "An industry review website like Glassdoor is another spot to check in order to find some insider information about what you can expect about a company.",
+       "why": "陈述里的 what、about、company、website 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "When it comes to looking for a new job, you already know that a big part of the interview process involves the company evaluating whether or not you're a good fit for their open role.",
+       "why": "陈述里的 job、company 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If you get a yes to your request for a chat, you'll be armed with some pretty powerful and helpful information heading into your interview!",
+       "why": "陈述里的 chat、information、interview 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Online classes began to be popularized just a few decades ago. They are advertised as a way for adults to finish their education and students to learn the material at their own pace—it is far more compatible for people with busy schedules. But after being enrolled in an online course last fall semester, I came to realize online classes were merely a means to fulfil course requirements. First of all, students lack the desire to learn, and they simply complete their assignments to receive credit for a passing grade rather than genuinely engage with the course material. As online courses tend to have more than 100 students, most of the assignments are short and simple. They are not designed for students to interact with the material in depth but designed to be graded easily to accommodate such a large number of students. Perhaps the biggest disadvantage of taking an online class is the absence of face-to-face interaction between the teacher and their students. Live sessions are infrequent and are often scheduled during the middle of the day when students have to attend other classes or work. The office hours of the professor may also be during inconvenient times for many students as well. Most interaction with the professor has to be through email which is often impersonal. It is nearly impossible for students to build a relationship with their professor. There is also little interaction amongst students. It can be harder for students to create study groups and form relationships with their peers. Online classes also require either a computer or laptop and a reliable internet connection. Not all students have access to these types of resources, whether it is for financial or other reasons, and some students can be put at a disadvantage. Offering online classes certainly helps students who would otherwise not be able to attend classroom sessions. However, they fail to provide a genuine education with an emphasis on convenience rather than critical thinking. We need restructured online classes in which students can have a learning experience that will actually provide quality education.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author say about students enrolled in online classes?",
+       "options": [
+        "They can access course materials easily.",
+        "They are unmotivated to learn.",
+        "They can learn at their own pace.",
+        "They rarely fulfil the course requirements."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】We need restructured online classes in which students can have a learning experience that will actually provide quality education.\n【依据】正确项的核心词 learn 与定位句对得上；其余 unmotivated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We need restructured online classes in which students can have a learning experience that will actually provide quality education.",
+        "why": "正确项的核心词 learn 与定位句对得上；其余 unmotivated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「materials」全文未出现。",
+         "C": "偷换主体：把原文的「learn」换成了「own、pace」，主语或对象被调包。",
+         "D": "因果倒置：「rarely」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author think of online course assignments?",
+       "options": [
+        "They are made convenient to mark.",
+        "They are meant to facilitate interaction.",
+        "They are based on easily accessible material.",
+        "They are given to accommodate students' needs."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】As online courses tend to have more than 100 students, most of the assignments are short and simple.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 made、convenient、mark 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As online courses tend to have more than 100 students, most of the assignments are short and simple.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 made、convenient、mark 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「meant、facilitate」全文未出现。",
+         "C": "因果倒置：「based、accessible」全文未出现。",
+         "D": "无中生有：「given、needs」全文未出现；把原文的「students'」换成了「given、accommodate、needs」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the author say is one disadvantage of online classes?",
+       "options": [
+        "They are frequently scheduled at irregular times.",
+        "They make professors' offices much less accessible.",
+        "They tend to increase professors' burden of responding to students' emails.",
+        "They provide little chance for students to build relationships with each other"
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Perhaps the biggest disadvantage of taking an online class is the absence of face-to-face interaction between the teacher and their students.\n【依据】正确项的核心词 students 与定位句对得上；其余 provide、little、chance、build 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Perhaps the biggest disadvantage of taking an online class is the absence of face-to-face interaction between the teacher and their students.",
+        "why": "正确项的核心词 students 与定位句对得上；其余 provide、little、chance、build 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「frequently、irregular」全文未出现。",
+         "B": "无中生有：「make、professors'、offices」全文未出现。",
+         "C": "无中生有：「increase、professors'、burden」全文未出现；把原文的「students'」换成了「tend、increase、professors'」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What problem may arise if classes go online?",
+       "options": [
+        "More students may find it easy to be absent from them.",
+        "Teachers will worry about poor internet connections.",
+        "Some students may have difficulty attending them.",
+        "Schools with limited resources will be at a disadvantage."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Offering online classes certainly helps students who would otherwise not be able to attend classroom sessions.\n【依据】正确项的核心词 students、attending 与定位句对得上；其余 difficulty 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Offering online classes certainly helps students who would otherwise not be able to attend classroom sessions.",
+        "why": "正确项的核心词 students、attending 与定位句对得上；其余 difficulty 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「find、easy、absent」全文未出现；把原文的「students」换成了「find、easy、absent」，主语或对象被调包。",
+         "B": "无中生有：「teachers、worry、about」全文未出现。",
+         "D": "因果倒置：「schools、limited」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author think constitutes a key part of genuine education?",
+       "options": [
+        "Acquisition of useful knowledge.",
+        "Training of real-life skills on campus.",
+        "Development of students' personalities.",
+        "Cultivation of analytical thinking ability."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】However, they fail to provide a genuine education with an emphasis on convenience rather than critical thinking.\n【依据】正确项的核心词 thinking 与定位句对得上；其余 cultivation、analytical、ability 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, they fail to provide a genuine education with an emphasis on convenience rather than critical thinking.",
+        "why": "正确项的核心词 thinking 与定位句对得上；其余 cultivation、analytical、ability 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「acquisition、useful、knowledge」全文未出现。",
+         "B": "无中生有：「training、real-life、skills」全文未出现。",
+         "C": "无中生有：「development、students'、personalities」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 346 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "In the age of the internet, there's no such thing as a private debate. But is that bad for science? Some scientists have had concerns. When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public. Recent open debates on scientific research, health, and policy have aroused greater public attention and encouraged more diverse voices. If this trend spurs scientists to agree more quickly about the best solutions to our problems—and at the same time helps the public observe the process of scientific discourse more clearly—then this is good for everyone, including scientists. A recent debate published in The New York Times discussed the question of how quickly medicine should be developed and produced. Issues such as safety of the product and perception of the public were examined and considered. But some experts worried that such public speculation might lead people to believe that disagreement about the details meant a lack of adequate scientific consensus over the safety and efficiency of modern-day medicine. The anxiety seems misplaced. Gone are the days of going to a conference and debating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices. These days, the public can access debates about science regardless of where they take place. For many scientists, public debate is a new frontier and it may feel like a place with few restraints or rules. But rather than avoiding such conversations, let the debates be transparent and vigorous, wherever they are held. If the public is to understand that science is an honorably self-correcting process, the idea that science is a fixed set of facts in a textbook needs to be dismissed. With the validity of science coming under attack, there's a need for scientific debates to be perceived as open and true to life. Let everyone see the noisy, messy deliberations that advance science and lead to decisions that benefit us all.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author think open debate can do?",
+       "options": [
+        "Help the public to better understand science.",
+        "Clear up confusion in the scientific community.",
+        "Settle disputes between universities and government agencies.",
+        "Prevent information from being used incorrectly by the public."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public.\n【依据】正确项的核心词 public、science 与定位句对得上；其余 help、better、understand 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public.",
+        "why": "正确项的核心词 public、science 与定位句对得上；其余 help、better、understand 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「clear」全文未出现；把原文的「confusion、scientific、community」换成了「clear」，主语或对象被调包。",
+         "C": "无中生有：「settle、disputes」全文未出现；把原文的「between、universities、government」换成了「settle、disputes」，主语或对象被调包。",
+         "D": "无中生有：「prevent」全文未出现；把原文的「information、used、incorrectly」换成了「prevent」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "Why did a recent debate published in The New York Times arouse concerns among experts?",
+       "options": [
+        "It might hinder the progress in medical research.",
+        "It might breed public distrust in modern medicine.",
+        "It might add to the difficulty of getting research funds.",
+        "It might prevent medical scientists reaching consensus."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】A recent debate published in The New York Times discussed the question of how quickly medicine should be developed and produced.\n【依据】正确项的核心词 public、medicine 与定位句对得上；其余 breed、distrust、modern 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A recent debate published in The New York Times discussed the question of how quickly medicine should be developed and produced.",
+        "why": "正确项的核心词 public、medicine 与定位句对得上；其余 breed、distrust、modern 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「hinder、progress」全文未出现；把原文的「medical」换成了「hinder、progress、research」，主语或对象被调包。",
+         "C": "无中生有：「add、difficulty、getting」全文未出现。",
+         "D": "偷换主体：「prevent、reaching」全文未出现；把原文的「medical」换成了「prevent、scientists、reaching」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "Why does the author say some experts' anxiety seems misplaced?",
+       "options": [
+        "Debating scientific issues at a conference is now old-fashioned.",
+        "Diverse topics can be debated by both scientists and the public.",
+        "Debates about science are accessible to the public anyway.",
+        "Scientists can voice their opinions whatever way they like."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The anxiety seems misplaced.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 debates、about、science、accessible 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The anxiety seems misplaced.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 debates、about、science、accessible 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「now、old-fashioned」全文未出现。",
+         "B": "因果倒置：「topics、debated、both」全文未出现。",
+         "D": "无中生有：「voice、opinions、whatever」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the author suggest scientists do about public debate?",
+       "options": [
+        "Have more discussions about it.",
+        "Embrace it with open arms.",
+        "Formulate new rules for it.",
+        "Restrain it to a rational degree."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】These days, the public can access debates about science regardless of where they take place.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 embrace、open、arms 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "These days, the public can access debates about science regardless of where they take place.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 embrace、open、arms 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「discussions」全文未出现；把原文的「about」换成了「discussions」，主语或对象被调包。",
+         "C": "因果倒置：「formulate」全文未出现。",
+         "D": "无中生有：「restrain、rational、degree」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author say about science in the last paragraph?",
+       "options": [
+        "It is transmitted through textbooks.",
+        "It is what proves valid and true to life.",
+        "It is a dynamic and self-improving process.",
+        "It is a collection of facts and established rules."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】If this trend spurs scientists to agree more quickly about the best solutions to our problems—and at the same time helps the public observe the process of scientific discourse more clearly—then this is good for everyone, including scientists.\n【依据】正确项的核心词 process 与定位句对得上；其余 dynamic、self-improving 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If this trend spurs scientists to agree more quickly about the best solutions to our problems—and at the same time helps the public observe the process of scientific discourse more clearly—then this is good for everyone, including scientists.",
+        "why": "正确项的核心词 process 与定位句对得上；其余 dynamic、self-improving 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「transmitted、through、textbooks」全文未出现。",
+         "B": "无中生有：「what、proves、valid」全文未出现。",
+         "D": "因果倒置：「collection、established」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 350 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "从前有个农夫嫌他种的禾苗长得慢，就到地里把禾苗一株株地拔高了一点。回家后他对家人说：\"今天可真把我累坏了！但我总算让禾苗一下子长高了。\"他儿子到地里去一看，禾苗都已死光了。现在有些家长急于让孩子成功，往往步那个农夫的后尘，搞得孩子苦不堪言，却不见孩子学业长进。这样的家长是否该对这个问题有所醒悟，让孩子自然成长呢？",
+     "reference": "Once upon a time, a farmer, thinking that the rice seedlings he had planted were growing too slowly, went into the field and pulled them up one by one to make each a little taller. After returning home, he told his family, \"I'm really worn out today, but I have finally made the rice seedlings grow taller all at once!\" When his son went to the field, he found that all the rice seedlings had already withered Nowadays, some parents, eager to see their children succeed, often follow in the farmer's footsteps, causing their children great suffering, yet seeing no progress in their studies. Shouldn't such parents wake up to this problem and let their children grow naturally?",
+     "keyPoints": [
+      "Once upon a time, a farmer, thinking that the rice seedlings he had planted were growing too slowly, went into the field and pulled them up one by one to make each a little taller.",
+      "After returning home, he told his family, \"I'm really worn out today, but I have finally made the rice seedlings grow taller all at once!\" When his son went to the field, he found that all the rice seedlings had already withered Nowadays, some parents, eager to see their children succeed, often follow in the farmer's footsteps, causing their children great suffering, yet seeing no progress in their studies.",
+      "Shouldn't such parents wake up to this problem and let their children grow naturally?"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

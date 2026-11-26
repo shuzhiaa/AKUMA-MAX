@@ -1,0 +1,1180 @@
+{
+ "id": "cet6-2024-12-2",
+ "levelId": "cet6",
+ "title": "六级 2024 年 12 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2024年12月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2024-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2024-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W: 嗨，艾伦。抱歉没能早点给你回电话"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 好吧，直说了吧"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 艾伦，过去三年里"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 我父亲目前的经济状况让我意识到"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 那我上个月和你谈过的那些工作机会呢？你有没有去那些公司了解一下"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 啊，这个嘛……"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 听我说，艾伦，如果你一心想在艺术行业工作"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 现在时间非常宝贵"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 你现在所做的一切将决定你未来的选择"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 我会考虑你说的话"
+      },
+      {
+       "idx": 11,
+       "zh": "M：说真的，这听起来是个很棒的主意"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What did the man want to discuss with the woman?",
+       "options": [
+        "Changing his major.",
+        "His family situation.",
+        "Revising his graduation thesis.",
+        "His passion for Art History."
+       ],
+       "optionsZh": [
+        "更改他的专业。",
+        "他的家庭状况。",
+        "修改他的毕业论文。",
+        "他对艺术史的热情。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Changing his major.（更改他的专业。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "Why does the man want to give up Art History?",
+       "options": [
+        "He doesn't think it legitimate to depend on his father.",
+        "He thinks his financial situation has now changed.",
+        "He doesn't think it will provide him with a living.",
+        "He thinks it nourishes the financially secure only."
+       ],
+       "optionsZh": [
+        "他认为依赖父亲不合理。",
+        "他认为他的经济状况现在已经改变了。",
+        "他认为艺术史无法让他谋生。",
+        "他认为艺术史只能滋养经济富裕的人。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He doesn't think it will provide him with a living.（他认为艺术史无法让他谋生。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the woman advise the man to do?",
+       "options": [
+        "Try his best to socialize and build a network in the art industry.",
+        "Seek financially viable employment opportunities after graduation.",
+        "Investigate all possible ways to become a celebrity in the art world.",
+        "Strike a balance between intellectual pursuits and financial security."
+       ],
+       "optionsZh": [
+        "尽力在艺术行业社交并建立人脉网络。",
+        "毕业后寻找经济上可行的就业机会。",
+        "探究所有可能成为艺术界名人的途径。",
+        "在智识追求与经济保障之间取得平衡。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Try his best to socialize and build a network in the art industry.（尽力在艺术行业社交并建立人脉网络。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the man say he really lacks right now?",
+       "options": [
+        "Money.",
+        "Time.",
+        "Determination.",
+        "Optimism."
+       ],
+       "optionsZh": [
+        "金钱。",
+        "时间。",
+        "决心。",
+        "乐观态度。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Time.（时间。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What are the speakers mainly talking about in the conversation?",
+       "options": [
+        "Their decision on investigating beef consumption.",
+        "Their original ideas about the domestic market.",
+        "Their different approaches to a case study.",
+        "Their end-of-semester business projects."
+       ],
+       "optionsZh": [
+        "他们关于调查牛肉消费的决定。",
+        "他们对国内市场的最初想法。",
+        "他们对案例研究的不同方法。",
+        "他们的学期末商业项目。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Their end-of-semester business projects.（他们的学期末商业项目。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the man say makes perfect sense?",
+       "options": [
+        "Expanding farmland out west.",
+        "Importing most of the beef.",
+        "Raising cattle domestically.",
+        "Continuing to boost economic growth."
+       ],
+       "optionsZh": [
+        "向西部扩张农田。",
+        "进口大部分牛肉。",
+        "在国内饲养牛。",
+        "继续促进经济增长。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Raising cattle domestically.（在国内饲养牛。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why does the man believe he has a vast and continual market?",
+       "options": [
+        "Technical equipment.",
+        "Business consultancy.",
+        "Beef.",
+        "Carwashing."
+       ],
+       "optionsZh": [
+        "技术设备。",
+        "商业咨询。",
+        "牛肉。",
+        "洗车。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Carwashing.（洗车。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "Who would the man's imagined business cater to?",
+       "options": [
+        "Car owners of all walks of life.",
+        "High-end customers in big cities.",
+        "Consumers craving for professional service.",
+        "Well-off dealers seeking a profitable markup."
+       ],
+       "optionsZh": [
+        "各行各业的车主。",
+        "大城市的高端客户。",
+        "渴望专业服务的消费者。",
+        "寻求丰厚利润的富裕经销商。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：High-end customers in big cities.（大城市的高端客户。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What do we learn from a new study about young children?",
+       "options": [
+        "Parents' talking with them during TV time raises their curiosity levels.",
+        "Their daily television exposure cuts parent-child conversation time.",
+        "The more TV they watch the poorer their progress in development.",
+        "Their socioeconomic levels impact their academic achievement."
+       ],
+       "optionsZh": [
+        "父母在看电视期间与他们交谈会提高他们的好奇心水平。",
+        "他们每天接触电视会减少亲子交流时间。",
+        "他们看电视越多,发展进步就越差。",
+        "他们的社会经济水平影响他们的学业成绩。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Parents' talking with them during TV time raises their curiosity levels.（父母在看电视期间与他们交谈会提高他们的好奇心水平。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What did Prachi Shah's study specifically focus on?",
+       "options": [
+        "Kids' enhanced learning.",
+        "Kids' curiosity levels.",
+        "Kids' reading and math.",
+        "Kids' behavioral development."
+       ],
+       "optionsZh": [
+        "儿童的学习提升。",
+        "儿童的好奇心水平。",
+        "儿童的阅读和数学。",
+        "儿童的行为发展。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Kids' curiosity levels.（儿童的好奇心水平。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the passage say about excessive media exposure?",
+       "options": [
+        "It can hinder kids from getting on with their peers.",
+        "It can cut into kids' time on exploratory activities.",
+        "It can arouse kids' interest in how people interact in real life.",
+        "It can widen the gap between kids from different economic statuses."
+       ],
+       "optionsZh": [
+        "它会妨碍儿童与同龄人相处。",
+        "它会占用儿童探索性活动的时间。",
+        "它会激发儿童对现实生活中人们如何互动的兴趣。",
+        "它会扩大不同经济地位儿童之间的差距。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It can cut into kids' time on exploratory activities.（它会占用儿童探索性活动的时间。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What is the dark side of our inborn drive to acquire?",
+       "options": [
+        "Exerting ourselves too hard in order to attain our life's goals.",
+        "Being possessed with a single thought of professional success.",
+        "Trying every means to beat others in terms of personal aspirations.",
+        "Being mindlessly driven to possess more and more material things."
+       ],
+       "optionsZh": [
+        "为了实现人生目标而过度努力。",
+        "被追求职业成功的单一想法所占据。",
+        "想尽一切办法在个人抱负方面击败他人。",
+        "被盲目驱使去占有越来越多的物质。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Being mindlessly driven to possess more and more material things.（被盲目驱使去占有越来越多的物质。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What might happen if we do not harness our inborn drive to acquire?",
+       "options": [
+        "We might isolate ourselves from our fellow beings.",
+        "We might acquire an incorrect sense of well-being.",
+        "We might end up pursuing all the wrong things.",
+        "We might make a mess of our personal lives."
+       ],
+       "optionsZh": [
+        "我们可能会将自己与同胞隔离开来。",
+        "我们可能会获得一种错误的幸福感。",
+        "我们可能最终会追求所有错误的东西。",
+        "我们可能会把个人生活搞得一团糟。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：We might end up pursuing all the wrong things.（我们可能最终会追求所有错误的东西。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the passage say about our intentional aspirational goals?",
+       "options": [
+        "They should be based on solid theoretical concepts.",
+        "They should take personal interests into account.",
+        "They should include goals to help other people.",
+        "They should increase our sense of worthiness."
+       ],
+       "optionsZh": [
+        "它们应该基于坚实的理论概念。",
+        "它们应该考虑个人兴趣。",
+        "它们应该包括帮助他人的目标。",
+        "它们应该增强我们的价值感。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They should include goals to help other people.（它们应该包括帮助他人的目标。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What will you end up doing without pursuing intentional aspirational goals?",
+       "options": [
+        "Drifting through life aimlessly.",
+        "Giving up the chance to fulfill yourself.",
+        "Abandoning all that life has to offer.",
+        "Spoiling your character and integrity."
+       ],
+       "optionsZh": [
+        "漫无目的地度过一生。",
+        "放弃实现自我的机会。",
+        "放弃生活所提供的一切。",
+        "毁坏你的品格和正直。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Drifting through life aimlessly.（漫无目的地度过一生。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker recommend in this talk?",
+       "options": [
+        "Grade-raising ways and means.",
+        "Pressure-alleviating exercise.",
+        "Revision-conducting approaches.",
+        "Brain-boosting food and drink."
+       ],
+       "optionsZh": [
+        "提高成绩的方式和方法。",
+        "缓解压力的锻炼。",
+        "进行复习的方法。",
+        "增强大脑的食物和饮料。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Brain-boosting food and drink.（增强大脑的食物和饮料。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the speaker warn against coffee?",
+       "options": [
+        "Buying it from coffee shops.",
+        "Building up a tolerance of it.",
+        "Drinking it after 2 pm.",
+        "Consuming it with sugar."
+       ],
+       "optionsZh": [
+        "从咖啡店购买咖啡。",
+        "对咖啡产生耐受性。",
+        "下午两点后饮用咖啡。",
+        "与糖一起摄入咖啡。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Drinking it after 2 pm.（下午两点后饮用咖啡。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "How can we get sufficient nutrients according to the speaker?",
+       "options": [
+        "By taking varied vitamin supplements.",
+        "By consuming a rich variety of foods.",
+        "By eating both oranges and frozen berries.",
+        "By getting components packaged in tablets."
+       ],
+       "optionsZh": [
+        "通过服用各种维生素补充剂。",
+        "通过摄入丰富多样的食物。",
+        "通过食用橙子和冷冻浆果。",
+        "通过获取包装在药片中的成分。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：By consuming a rich variety of foods.（通过摄入丰富多样的食物。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What is the worrying trend the late Swedish academic has identified?",
+       "options": [
+        "Many people across advanced economies think the world is going from bad to worse.",
+        "The news focuses on reporting catastrophes that occur across the world.",
+        "A significant part of the world is experiencing another great recession.",
+        "Many people have no idea of those living under miserable conditions."
+       ],
+       "optionsZh": [
+        "发达经济体中的许多人认为世界正在每况愈下。",
+        "新闻侧重于报道世界各地发生的灾难。",
+        "世界上很大一部分地区正在经历另一次大衰退。",
+        "许多人不了解那些生活在悲惨境况下的人。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Many people across advanced economies think the world is going from bad to worse.（发达经济体中的许多人认为世界正在每况愈下。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What does the speaker say about globalization?",
+       "options": [
+        "It has experienced ups and downs like any other historical trend.",
+        "It is hailed as a miracle by both economists and ordinary people.",
+        "It is the only way for all countries to share economic prosperity.",
+        "It has given more and more countries a rare chance to thrive."
+       ],
+       "optionsZh": [
+        "它像任何其他历史趋势一样经历了起伏。",
+        "经济学家和普通人都将其誉为奇迹。",
+        "这是所有国家共享经济繁荣的唯一途径。",
+        "它给越来越多的国家提供了难得的繁荣机会。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It is the only way for all countries to share economic prosperity.（这是所有国家共享经济繁荣的唯一途径。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do we learn about half of the global population?",
+       "options": [
+        "Their fortunes may take a downturn.",
+        "They can be classified as middle class.",
+        "Their living standards have been deteriorating.",
+        "They are experiencing a radical transformation."
+       ],
+       "optionsZh": [
+        "他们的命运可能会走下坡路。",
+        "他们可以归类为中产阶级。",
+        "他们的生活水平一直在恶化。",
+        "他们正在经历一场彻底的转变。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They can be classified as middle class.（他们可以归类为中产阶级。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What question does the speaker try to answer in this talk?",
+       "options": [
+        "Why smells can activate emotional memories.",
+        "How powerful the sense of smell can become.",
+        "How scent particles revive memories forgotten.",
+        "Why the scent of bread has a strong mental impact."
+       ],
+       "optionsZh": [
+        "为什么气味能激活情感记忆。",
+        "嗅觉能变得多么强大。",
+        "气味粒子如何唤醒被遗忘的记忆。",
+        "为什么面包的气味具有强烈的心理影响。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Why smells can activate emotional memories.（为什么气味能激活情感记忆。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What is said to result in an intimate connection between emotions, memories and scents?",
+       "options": [
+        "The brain cells' processing of memories experienced as strongly emotional.",
+        "The activation of the brain's emotion processing area by chemical particles.",
+        "The interaction between chemical particles and the brain cells responsible for smell.",
+        "The sensations of scents going directly to the brain's emotional and memory centers."
+       ],
+       "optionsZh": [
+        "脑细胞对被体验为强烈情感的记忆的处理。",
+        "化学粒子对大脑情感处理区域的激活。",
+        "化学粒子与负责嗅觉的脑细胞之间的相互作用。",
+        "气味的感觉直接进入大脑的情感和记忆中枢。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The sensations of scents going directly to the brain's emotional and memory centers.（气味的感觉直接进入大脑的情感和记忆中枢。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What does the brain use to give meaning to information and find a memory?",
+       "options": [
+        "Imagination.",
+        "Association.",
+        "Experience.",
+        "Context."
+       ],
+       "optionsZh": [
+        "想象。",
+        "联想。",
+        "经验。",
+        "语境。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Context.（语境。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What drawback do memories of scents share with other memories?",
+       "options": [
+        "Inaccuracy and alterability.",
+        "Susceptibility to polar interpretations.",
+        "Being personal and individualistic.",
+        "Being dependent on relevant scenarios."
+       ],
+       "optionsZh": [
+        "不准确性和可改变性。",
+        "易受极端解释的影响。",
+        "具有个人性和个体性。",
+        "依赖于相关情境。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Inaccuracy and alterability.（不准确性和可改变性。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Nowadays, more and more students have realized the importance of self-discipline in their personal growth.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.You should copy the sentence given in quotes at the beginning of your essay.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Ever been talking about something important with someone you care about and found the discussion frustrating instead of fruitful? Negative energy can then cast a {{1}} over your efforts to build a shared understanding. In fact collaborative problem-solving conversations require skills. Strong listening skills are essential. Sprinkling in positivity via appreciation, {{2}} smiles, and warm comments helps. So does the essential ability to keep your emotional tone in the calm zone. If the tone of a dialogue heats up and anger erupts, the dialogue {{3}} from collaborative to adversarial, and progress is likely to come to an immediate {{4}} . In addition, effective dialogue generally has another important characteristic: symmetry. Symmetry in dialogue refers to the balance of how much each partner talks. Are you each getting equal airtime? When one participant does most of the talking, this asymmetry or lack of balance tends to become annoying to one or both of you. The silent partner {{5}} tires of only listening, while the talker can feel {{6}} . Usually, both would prefer more equal give and take. Different rates of speech and levels of voice volume can {{7}} symmetry as well. The faster or louder partner can easily begin taking up more airtime. The slower-talking or softer-voiced one can have trouble getting the floor. Conversations also lose balance when one partner's opinions count more than the other's. One person's input may carry more sway because their style of expression is more {{8}} . One viewpoint may tend to get lost because it is expressed more {{9}} . If either partner fairly consistently {{10}} or evaporates, modifying the pattern will be helpful. The dialogue will feel more productive, and at the same time, the relationship overall is likely to feel more positive.",
+     "options": [
+      "affectionate",
+      "approximately",
+      "elapses",
+      "erode",
+      "flattered",
+      "flips",
+      "halt",
+      "overburdened",
+      "predominates",
+      "propagate",
+      "scenario",
+      "shadow",
+      "tentatively",
+      "typically",
+      "vigorous"
+     ],
+     "answers": [
+      11,
+      0,
+      5,
+      6,
+      13,
+      7,
+      3,
+      14,
+      12,
+      8
+     ],
+     "blankExplains": [
+      "【定位】Negative energy can then cast a ____ over your efforts to build a shared understanding.\n【依据】答案是 shadow：填回后与所在句 negative、energy、cast、over、efforts、build 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Sprinkling in positivity via appreciation, ____ smiles, and warm comments helps.\n【依据】答案是 affectionate：填回后与所在句 sprinkling、positivity、via、appreciation、smiles、warm 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If the tone of a dialogue heats up and anger erupts, the dialogue ____ from collaborative to adversarial, and progress is likely to come to an immediate  … .\n【依据】答案是 flips：填回后与所在句 tone、dialogue、heats、anger、erupts、dialogue 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If the tone of a dialogue heats up and anger erupts, the dialogue  … from collaborative to adversarial, and progress is likely to come to an immediate ____ .\n【依据】答案是 halt：填回后与所在句 tone、dialogue、heats、anger、erupts、dialogue 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The silent partner ____ tires of only listening, while the talker can feel  … .\n【依据】答案是 typically：填回后与所在句 silent、partner、tires、only、listening、while 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The silent partner  … tires of only listening, while the talker can feel ____ .\n【依据】答案是 overburdened：填回后与所在句 silent、partner、tires、only、listening、while 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Different rates of speech and levels of voice volume can ____ symmetry as well.\n【依据】答案是 erode：填回后与所在句 different、rates、speech、levels、voice、volume 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】One person's input may carry more sway because their style of expression is more ____ .\n【依据】答案是 vigorous：填回后与所在句 person's、input、carry、sway、because、style 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】One viewpoint may tend to get lost because it is expressed more ____ .\n【依据】答案是 tentatively：填回后与所在句 viewpoint、tend、get、lost、because、expressed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If either partner fairly consistently ____ or evaporates, modifying the pattern will be helpful.\n【依据】答案是 predominates：填回后与所在句 either、partner、fairly、consistently、evaporates、modifying 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Negative energy can then cast a ____ over your efforts to build a shared understanding.",
+       "why": "答案是 shadow：填回后与所在句 negative、energy、cast、over、efforts、build 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shadow 这个词性/语义，而不是 scenario）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shadow 这个词性/语义，而不是 affectionate）。"
+       }
+      },
+      {
+       "locate": "Sprinkling in positivity via appreciation, ____ smiles, and warm comments helps.",
+       "why": "答案是 affectionate：填回后与所在句 sprinkling、positivity、via、appreciation、smiles、warm 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 affectionate 这个词性/语义，而不是 approximately）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 affectionate 这个词性/语义，而不是 elapses）。"
+       }
+      },
+      {
+       "locate": "If the tone of a dialogue heats up and anger erupts, the dialogue ____ from collaborative to adversarial, and progress is likely to come to an immediate  … .",
+       "why": "答案是 flips：填回后与所在句 tone、dialogue、heats、anger、erupts、dialogue 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 flips 这个词性/语义，而不是 flattered）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 flips 这个词性/语义，而不是 affectionate）。"
+       }
+      },
+      {
+       "locate": "If the tone of a dialogue heats up and anger erupts, the dialogue  … from collaborative to adversarial, and progress is likely to come to an immediate ____ .",
+       "why": "答案是 halt：填回后与所在句 tone、dialogue、heats、anger、erupts、dialogue 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 halt 这个词性/语义，而不是 affectionate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 halt 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "The silent partner ____ tires of only listening, while the talker can feel  … .",
+       "why": "答案是 typically：填回后与所在句 silent、partner、tires、only、listening、while 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 typically 这个词性/语义，而不是 tentatively）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 typically 这个词性/语义，而不是 affectionate）。"
+       }
+      },
+      {
+       "locate": "The silent partner  … tires of only listening, while the talker can feel ____ .",
+       "why": "答案是 overburdened：填回后与所在句 silent、partner、tires、only、listening、while 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 overburdened 这个词性/语义，而不是 affectionate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 overburdened 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "Different rates of speech and levels of voice volume can ____ symmetry as well.",
+       "why": "答案是 erode：填回后与所在句 different、rates、speech、levels、voice、volume 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 erode 这个词性/语义，而不是 elapses）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 erode 这个词性/语义，而不是 affectionate）。"
+       }
+      },
+      {
+       "locate": "One person's input may carry more sway because their style of expression is more ____ .",
+       "why": "答案是 vigorous：填回后与所在句 person's、input、carry、sway、because、style 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vigorous 这个词性/语义，而不是 affectionate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vigorous 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "One viewpoint may tend to get lost because it is expressed more ____ .",
+       "why": "答案是 tentatively：填回后与所在句 viewpoint、tend、get、lost、because、expressed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 tentatively 这个词性/语义，而不是 typically）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 tentatively 这个词性/语义，而不是 affectionate）。"
+       }
+      },
+      {
+       "locate": "If either partner fairly consistently ____ or evaporates, modifying the pattern will be helpful.",
+       "why": "答案是 predominates：填回后与所在句 either、partner、fairly、consistently、evaporates、modifying 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 predominates 这个词性/语义，而不是 propagate）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 predominates 这个词性/语义，而不是 affectionate）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Blue moons, rose moons, supermoons. For some reason all the websites seem to think you really want to know all about these moons. \"Catch This Weekend's AMAZING SUPERMOON,\" one headline will announce. \"The Supermoon Isn't Actually A Big Deal And You're All Ruining Astronomy,\" another will complain."
+      },
+      {
+       "id": "B",
+       "text": "The latest example is the super blood wolf moon eclipse which sounds like the name of an emotional song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. As we'll explain below, there is nothing truly mysterious or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that. We get these super lunar events by smashing together all the qualifiers we've historically used to keep track of full moons throughout the year, and in the age of the internet we can get a little too enthusiastic."
+      },
+      {
+       "id": "C",
+       "text": "Consider this your go-to resource for all moon-gazing news. Here's what you need to know about the latest lunar event."
+      },
+      {
+       "id": "D",
+       "text": "Look, it's okay if you don't know. There are probably loads of folks who walk around pretending they totally know why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not."
+      },
+      {
+       "id": "E",
+       "text": "The moon orbits Earth, and it's tidally locked—that means it always shows us the same face, instead of spinning around like our planet does. That's why you can always see the man on the moon (or the moon rabbit, depending on your cultural preferences) even as it spins around us. But while the moon is big and bright in the sky when it's full, that's only because it's reflecting light from the sun. But the moon is always moving, so it's getting hit with sunlight at different angles. It's invisible to us during the new moon, because our satellite is parked right between us and the sun; the so-called dark side of the moon is lit up like Las Vegas, but the side we can see is in shadow. A full moon happens when the earth is right between the sun and the moon, so sunlight hits the part we can see. And all the other phases are just the transition from one of those extremes to the other."
+      },
+      {
+       "id": "F",
+       "text": "The moon isn't always exactly the same distance from Earth, because its orbit isn't perfectly circular. We call the closest point perigee(近地点), and the most distant point is apogee(远地点). 2018's closest perigee and most distant apogee both happened in January, and the difference was about 30,000 miles."
+      },
+      {
+       "id": "G",
+       "text": "The reason you care about this ordinary change in distance is that it turns a moon super. When a full moon happens close to perigee, it's going to look a bit bigger. Honestly, the difference is not that profound, but if you're in a position to photograph the supermoon next to something that shows the slight increase in scale, it can look pretty cool. January's super blood wolf moon eclipse is super because the date lines up with the closest the moon will get to us during January, but the moon won't actually be at its closest for the year until February's supermoon, which you can expect plenty of undue excitement over."
+      },
+      {
+       "id": "H",
+       "text": "Blood moons only occur during total lunar eclipses (which can happen a few times a year in any given location). When the moon slips through our shadow, we give it a reddish coloring. The moon can also look orange whenever it's rising or setting, or if it hangs low in the horizon all night—the light bouncing off of it has to travel through a thicker atmosphere there, which scatters more blue light away. But you'll probably only see that deep, sinister red during an eclipse."
+      },
+      {
+       "id": "I",
+       "text": "A lot of headlines about moons are just ridiculous (you do not need to be particularly excited about a blue moon, it just looks like a regular full moon), but you should definitely roll out of bed to look at a blood moon if one is going to be visible in your region, even though they're just lunar eclipses and not evidence of bloody battles between the sky gods."
+      },
+      {
+       "id": "J",
+       "text": "In March of 2018, we had our second \"blue moon\" of the year, to much acclaim. And while that's not necessarily special in an oh-gosh-get-out-and-look-at-it way, it's certainly special: a blue moon is a nickname for when two full moons fall in the same calendar month, and we hadn't previously had two in one year since 1999. We won't have it happen again until 2037. Astronomer David Chapman explained that this is merely a peculiarity of our calendar; once we stopped doing things based on the moon and started trying to follow the sun and the seasons, we stopped having one reliable full moon per month. The moon cycle is 29.53 days long on average, so in most months we still end up with a single new moon and a single full one. But every once in a while, one month steals a full moon from another. In 2018 (and in 1999, and again in 2037) both January and March stacked full moons on the first and last nights of the month, leaving February in the dark."
+      },
+      {
+       "id": "K",
+       "text": "Getting two blue moons a year is rare, but we have individual blue moons every few years. Also, fun fact: not actually blue. A moon can indeed take on a moody blue color, but this only happens when particles of just the right size disperse through the sky—and it has nothing to do with the moon's status as \"blue\". Big clouds of ash from volcanic eruptions or fires can do the trick, but it doesn't happen often, and the stars would certainly have to align for two such rare instances to occur at once."
+      },
+      {
+       "id": "L",
+       "text": "You may have heard that the super special second blue moon of 2018 was also a Paschal moon. This is true! That just means it was the first full moon of spring, which is often used to determine the date of Easter Sunday. All of this is just calendar nonsense and we refuse to go into it further."
+      },
+      {
+       "id": "M",
+       "text": "Sometimes you'll see a headline that promises a moon with so many qualifiers it makes your head spin. A super blue blood worm moon, perhaps? Or a super blood wolf moon? Lots of websites will tell you that \"wolf moon\" is the traditional name of the first full moon of the year in \"Native American\" cultures, which is kind of a weird thing to claim given that there are 573 registered Tribal Nations in the US alone today, not to mention historically. The idea that hungry, howling wolves were such a universal constant in January that all of North America with its different cultures, geographies, and languages spontaneously came up with the same nickname is illogical."
+      },
+      {
+       "id": "N",
+       "text": "Many cultures have traditional names for the full moon in a given month or season, so there's quite a list to draw from if you're trying to really juice up a story on a slightly-bigger-than-average view of the moon. But these are all based on human calendars and activities and folklore; you will not go outside and see a pink moon in April, though I wish it were so."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "We cannot see the moon at times when it is positioned right between the earth and the sun."
+      },
+      {
+       "id": "s37",
+       "text": "Volcanic eruptions may cause the moon to assume a moody blue color."
+      },
+      {
+       "id": "s38",
+       "text": "The moon will be closest to the earth when the supermoon occurs in February."
+      },
+      {
+       "id": "s39",
+       "text": "There is nothing unusual about the super blood wolf moon, which will bear no resemblance to a bloody wolf head."
+      },
+      {
+       "id": "s40",
+       "text": "The moon will appear orange when the light reflecting from it travels through an atmosphere thicker than usual."
+      },
+      {
+       "id": "s41",
+       "text": "It is contrary to logic to claim the name of wolf moon originates from the cultures of American Indians."
+      },
+      {
+       "id": "s42",
+       "text": "As the moon's orbit is not a hundred-percent circle, its distance from the earth changes."
+      },
+      {
+       "id": "s43",
+       "text": "A full moon in a given month or season gets a specific name in different cultures."
+      },
+      {
+       "id": "s44",
+       "text": "There are likely lots of people who know absolutely nothing about why the moon appears to change its size regularly but act like they know."
+      },
+      {
+       "id": "s45",
+       "text": "When a full moon appears twice in the same month, it is nicknamed a blue moon."
+      }
+     ],
+     "answers": [
+      "E",
+      "K",
+      "G",
+      "B",
+      "H",
+      "M",
+      "F",
+      "N",
+      "D",
+      "J"
+     ],
+     "statementExplains": [
+      "【定位】A full moon happens when the earth is right between the sun and the moon, so sunlight hits the part we can see.\n【依据】陈述里的 see、moon、when、right、between、earth 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】A moon can indeed take on a moody blue color, but this only happens when particles of just the right size disperse through the sky—and it has nothing to do with the moon's status as \"blue\".\n【依据】陈述里的 moon、moody、blue、color 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】January's super blood wolf moon eclipse is super because the date lines up with the closest the moon will get to us during January, but the moon won't actually be at its closest for the year until February's supermoon, which you can expect plenty of undue excitement over.\n【依据】陈述里的 moon、closest、supermoon、february 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】As we'll explain below, there is nothing truly mysterious or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that.\n【依据】陈述里的 there、nothing、about、blood、wolf、moon 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】The moon can also look orange whenever it's rising or setting, or if it hangs low in the horizon all night—the light bouncing off of it has to travel through a thicker atmosphere there, which scatters more blue light away.\n【依据】陈述里的 moon、orange、light、travels、through、atmosphere 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】Lots of websites will tell you that \"wolf moon\" is the traditional name of the first full moon of the year in \"Native American\" cultures, which is kind of a weird thing to claim given that there are 573 registered Tribal Nations in the US alone today, not to mention historically.\n【依据】陈述里的 claim、name、wolf、moon、cultures、american 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】The moon isn't always exactly the same distance from Earth, because its orbit isn't perfectly circular.\n【依据】陈述里的 orbit、distance、earth 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Many cultures have traditional names for the full moon in a given month or season, so there's quite a list to draw from if you're trying to really juice up a story on a slightly-bigger-than-average view of the moon.\n【依据】陈述里的 full、moon、given、month、season、cultures 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+      "【定位】There are probably loads of folks who walk around pretending they totally know why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not.\n【依据】陈述里的 there、who、know、why、regularly、know 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】And while that's not necessarily special in an oh-gosh-get-out-and-look-at-it way, it's certainly special: a blue moon is a nickname for when two full moons fall in the same calendar month, and we hadn't previously had two in one year since 1999.\n【依据】陈述里的 when、full、moon、same、month、nicknamed 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。"
+     ],
+     "explain": "长篇阅读匹配：14 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "A full moon happens when the earth is right between the sun and the moon, so sunlight hits the part we can see.",
+       "why": "陈述里的 see、moon、when、right、between、earth 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "A moon can indeed take on a moody blue color, but this only happens when particles of just the right size disperse through the sky—and it has nothing to do with the moon's status as \"blue\".",
+       "why": "陈述里的 moon、moody、blue、color 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "January's super blood wolf moon eclipse is super because the date lines up with the closest the moon will get to us during January, but the moon won't actually be at its closest for the year until February's supermoon, which you can expect plenty of undue excitement over.",
+       "why": "陈述里的 moon、closest、supermoon、february 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As we'll explain below, there is nothing truly mysterious or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that.",
+       "why": "陈述里的 there、nothing、about、blood、wolf、moon 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The moon can also look orange whenever it's rising or setting, or if it hangs low in the horizon all night—the light bouncing off of it has to travel through a thicker atmosphere there, which scatters more blue light away.",
+       "why": "陈述里的 moon、orange、light、travels、through、atmosphere 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Lots of websites will tell you that \"wolf moon\" is the traditional name of the first full moon of the year in \"Native American\" cultures, which is kind of a weird thing to claim given that there are 573 registered Tribal Nations in the US alone today, not to mention historically.",
+       "why": "陈述里的 claim、name、wolf、moon、cultures、american 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The moon isn't always exactly the same distance from Earth, because its orbit isn't perfectly circular.",
+       "why": "陈述里的 orbit、distance、earth 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Many cultures have traditional names for the full moon in a given month or season, so there's quite a list to draw from if you're trying to really juice up a story on a slightly-bigger-than-average view of the moon.",
+       "why": "陈述里的 full、moon、given、month、season、cultures 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      },
+      {
+       "locate": "There are probably loads of folks who walk around pretending they totally know why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not.",
+       "why": "陈述里的 there、who、know、why、regularly、know 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And while that's not necessarily special in an oh-gosh-get-out-and-look-at-it way, it's certainly special: a blue moon is a nickname for when two full moons fall in the same calendar month, and we hadn't previously had two in one year since 1999.",
+       "why": "陈述里的 when、full、moon、same、month、nicknamed 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "With population increases and global urbanisation ever accelerating, much attention is focused on the sustainability of our cities and scarce attention is paid to the countryside. Rural life is associated with closely-knit communities, sense of belonging, and a simple, tranquil life. Yet whilst some or all of these elements exist in the countryside, so do conservatism and a lack of employment opportunities. And it is mostly due to the latter that rural communities are suffering. Attracted by the improved economics of urban areas, country-dwellers across the world are moving out, contributing to the excessive crowdedness of densely populated cities, and leaving the countryside in desolation. So how can the countryside ensure its survival among these changes; or should it at all? Due to both the distance between residences and facilities and often intermittent public transport, those living in the countryside are heavier automobile users. Rural dwellers also use more energy maintaining their mostly detached buildings. We may be piled up like boxes in the city, but this brings energy efficiency that the countryside cannot match. Rural energy requirements result in higher carbon emissions per person than in the city, so it is actually irresponsible to endorse such a lifestyle choice. Protecting the countryside is a hot topic. Those who have made their fortunes in the city often buy second homes in the countryside, visiting intermittently for a sample of a supposedly simple life. The side-effect of this is that house prices are pushed up due to increased demand, leaving them unaffordable for local people. A solution has yet to be found for this challenge, for market forces are further forcing residents out of the countryside. For those who believe in rural preservation, this is deplorable. Whilst an idealised view of the countryside is common, the reality is that rural life has continuously evolved. Industrialisation brought an increase in divisions of labour, changing social links between rural people. The internet has introduced once foreign cultures into the countryside. Improved travel connections and affordability have made the world more accessible, creating a \"global village\". Considering these changes, surely an evolving countryside is inevitable. Perhaps the countryside should also prepare itself for massive population increases in the future. With cities across the world growing rapidly, how will the current urban generation respond to the inevitable social changes of mass urbanisation? Will the longing for a simpler life become stronger, fueling a rural renaissance? As the world continues to urbanise, the voices calling for rural preservation may well grow louder. But change is inevitable. We know that the world is going to see new cities emerging from the dust and current cities growing into megacities, but the future of the countryside is less clear.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What has become of the rural areas nowadays?",
+       "options": [
+        "They are becoming somewhat deserted.",
+        "They are being increasingly urbanised.",
+        "They are closely-knit communities.",
+        "They are haunted by conservatism."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Will the longing for a simpler life become stronger, fueling a rural renaissance?\n【依据】正确项的核心词 becoming 与定位句对得上；其余 somewhat、deserted 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Will the longing for a simpler life become stronger, fueling a rural renaissance?",
+        "why": "正确项的核心词 becoming 与定位句对得上；其余 somewhat、deserted 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「increasingly、urbanised」全文未出现。",
+         "C": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "因果倒置：「haunted」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author think of the rural lifestyle?",
+       "options": [
+        "It is unlikely to survive given the on-going changes.",
+        "It is less energy-efficient compared to that in cities.",
+        "It is highly dependent upon heavy automobiles.",
+        "It is a choice more affluent people will endorse."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Rural energy requirements result in higher carbon emissions per person than in the city, so it is actually irresponsible to endorse such a lifestyle choice.\n【依据】正确项的核心词 energy-efficient 与定位句对得上；其余 less、compared、cities 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Rural energy requirements result in higher carbon emissions per person than in the city, so it is actually irresponsible to endorse such a lifestyle choice.",
+        "why": "正确项的核心词 energy-efficient 与定位句对得上；其余 less、compared、cities 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「unlikely、survive、given」全文未出现。",
+         "C": "无中生有：「highly、dependent、upon」全文未出现。",
+         "D": "偷换主体：「affluent」全文未出现；把原文的「choice、endorse」换成了「affluent、people」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the author think of rich urban residents buying a second home in the countryside?",
+       "options": [
+        "It is bound to mar the traditional rural life.",
+        "It adversely impacts rural social stability.",
+        "It hinders rural economies' revitalisation.",
+        "It is detrimental to rural preservation."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】As the world continues to urbanise, the voices calling for rural preservation may well grow louder.\n【依据】正确项的核心词 rural、preservation 与定位句对得上；其余 detrimental 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As the world continues to urbanise, the voices calling for rural preservation may well grow louder.",
+        "why": "正确项的核心词 rural、preservation 与定位句对得上；其余 detrimental 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「bound、mar、traditional」全文未出现；把原文的「rural」换成了「bound、mar、traditional」，主语或对象被调包。",
+         "B": "无中生有：「adversely、impacts、stability」全文未出现；把原文的「rural」换成了「adversely、impacts、social」，主语或对象被调包。",
+         "C": "无中生有：「hinders、economies'、revitalisation」全文未出现；把原文的「rural」换成了「hinders、economies'、revitalisation」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What do we learn about the countryside with industrialisation and technological advances?",
+       "options": [
+        "It is destined to change gradually.",
+        "It will present an idealised way of life.",
+        "It is likely to embrace foreign cultures.",
+        "It will become increasingly diversified."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Industrialisation brought an increase in divisions of labour, changing social links between rural people.\n【依据】正确项的核心词 change 与定位句对得上；其余 destined、gradually 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Industrialisation brought an increase in divisions of labour, changing social links between rural people.",
+        "why": "正确项的核心词 change 与定位句对得上；其余 destined、gradually 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「present、way」全文未出现。",
+         "C": "因果倒置：「likely、embrace」全文未出现。",
+         "D": "偷换主体：「diversified」全文未出现；把原文的「increasingly」换成了「become、diversified」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author think of the future of the countryside compared with cities?",
+       "options": [
+        "It is going to be harder for the locals.",
+        "It is going to resemble that of cities.",
+        "It is less likely to stay static.",
+        "It is less easy to envisage."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】We know that the world is going to see new cities emerging from the dust and current cities growing into megacities, but the future of the countryside is less clear.\n【依据】正确项的核心词 less 与定位句对得上；其余 easy、envisage 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We know that the world is going to see new cities emerging from the dust and current cities growing into megacities, but the future of the countryside is less clear.",
+        "why": "正确项的核心词 less 与定位句对得上；其余 easy、envisage 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「harder、locals」全文未出现；把原文的「going」换成了「harder、locals」，主语或对象被调包。",
+         "B": "无中生有：「resemble」全文未出现；把原文的「going、cities」换成了「resemble」，主语或对象被调包。",
+         "C": "无中生有：「likely、stay、static」全文未出现；把原文的「less」换成了「likely、stay、static」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 450 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Statements, like \"beauty is in the eye of the beholder(观看者)\", are rarely questioned. They've become so embedded in our consciousness that people think it's absurd to think otherwise. It might be useful, however, to at least push back on this assumption because people evaluate environment, situations, and people aesthetically. We may find that we still believe it is correct, but we may also find that there is a lot more to the situation than you suppose. A recent study exploring aesthetic taste was published in Cognition. The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects. The study found that shared taste was most common for faces and natural landscapes, but least common among works of architecture and art. The hypothesis is the commonly pleasing features, like proportion or symmetry, are at work. Preferences for natural scenes might be learned through life experiences. Factors like habitability, safety, and openness might be preferred as people develop. Some of the details of landscapes change, but the basics are more common, e.g., water, open spaces, and signs of care. Art and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have the same level of shared taste. It's possible that the lower amount of agreement in the shared taste of artifacts has to do more with elements of style, rather than \"behavioral consequences\". All of the consequences seem reasonable (or at least possible), but I think there might be an interesting philosophical conclusion that they did not draw. It seems that there is an objective ground to our aesthetic preferences or evaluations. I am not saying this would mean beauty is completely objective, just that there could possibly be general objective principles at work, i.e., beauty is not simply in the eye of the beholder. Nature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world. It's not exactly the same everywhere, but it is common. For example, a sunset is similar enough in different places to warrant almost universal appeal. Possible universal principles of beauty—such as proportion, fittingness, radiance, and others—are general categories, which allow for a wide array of embodiments. When people get involved in making artifacts in architecture or art, they apply these very general concepts in unique ways. But the way they applied the principle may not have universal appeal. This is why it's important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty. And it is always good to question our assumptions.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the passage say about the statement \"beauty is in the eye of the beholder\"?",
+       "options": [
+        "It has hardly ever been disputed.",
+        "It can be interpreted aesthetically.",
+        "Many people have found it absurd.",
+        "People have long been misled by it."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Statements, like \"beauty is in the eye of the beholder(观看者)\", are rarely questioned.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 hardly、ever、disputed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Statements, like \"beauty is in the eye of the beholder(观看者)\", are rarely questioned.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 hardly、ever、disputed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「interpreted」全文未出现。",
+         "C": "因果倒置：「many」全文未出现。",
+         "D": "无中生有：「long、misled」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does a recent study exploring aesthetic taste show?",
+       "options": [
+        "Aesthetic tastes tend to differ from person to person.",
+        "Natural beauty is rarely surpassed by artificial beauty.",
+        "There is less consensus on objects shaped by human craft.",
+        "There is general agreement on what is pleasing to the eye."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】A recent study exploring aesthetic taste was published in Cognition.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 there、less、consensus、objects 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A recent study exploring aesthetic taste was published in Cognition.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 there、less、consensus、objects 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「tend、differ、person」全文未出现；把原文的「aesthetic、tastes」换成了「tend、differ、person」，主语或对象被调包。",
+         "B": "因果倒置：「surpassed、artificial」全文未出现。",
+         "D": "因果倒置：「what」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "Why do people differ in their aesthetic appraisal of artifacts?",
+       "options": [
+        "They come out in a great variety of designs.",
+        "They lead to varying behavioral consequences.",
+        "They take up much less natural space than landscapes.",
+        "They come into people's view less often than natural spaces."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.\n【依据】正确项的核心词 people's、natural 与定位句对得上；其余 come、into、view、less 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.",
+        "why": "正确项的核心词 people's、natural 与定位句对得上；其余 come、into、view、less 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「come、out、great」全文未出现。",
+         "B": "因果倒置：「lead、varying」全文未出现。",
+         "C": "无中生有：「take、less、space」全文未出现；把原文的「much、natural」换成了「take、less、space」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the example of sunset tell about nature?",
+       "options": [
+        "It creates a powerful appeal through its brilliant radiance.",
+        "It displays aesthetic traits in a similar way the world over.",
+        "It embodies beauty with a wide array of aesthetic features.",
+        "It establishes the principles of beauty in a number of ways."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.\n【依据】正确项的核心词 aesthetic 与定位句对得上；其余 displays、traits、similar、way 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.",
+        "why": "正确项的核心词 aesthetic 与定位句对得上；其余 displays、traits、similar、way 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「creates、powerful、brilliant」全文未出现。",
+         "C": "偷换主体：「embodies」全文未出现；把原文的「aesthetic」换成了「embodies、beauty、wide」，主语或对象被调包。",
+         "D": "因果倒置：「establishes、number」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "Why do artifacts not always hold universal appeal?",
+       "options": [
+        "The appreciation of their beauty is not subject to objective standards.",
+        "The universal principle of beauty prevents a wide array of embodiments.",
+        "The way their creators apply the principle of beauty may not be pleasing to everybody.",
+        "Their creators interpret the universal principle of beauty each in their preferred way."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】But the way they applied the principle may not have universal appeal.\n【依据】正确项的核心词 way、principle 与定位句对得上；其余 creators、apply、beauty、pleasing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But the way they applied the principle may not have universal appeal.",
+        "why": "正确项的核心词 way、principle 与定位句对得上；其余 creators、apply、beauty、pleasing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「appreciation、subject、standards」全文未出现。",
+         "B": "偷换主体：「prevents」全文未出现；把原文的「universal、principle」换成了「beauty、prevents、wide」，主语或对象被调包。",
+         "D": "无中生有：「creators、interpret、each」全文未出现；把原文的「universal、principle、way」换成了「creators、interpret、beauty」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 450 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "洋山港是上海航运中心的重要组成部分是中国第一个深水港也是世界上规模最大的深水港之一。经过近年的发展洋山港已实现高度自动化。数字技术和人工智能的使用大大减少了用工成本和碳排放。自主研发的码头管理系统可以在百公里之外对大型设备进行远程操控。洋山港看上去一片繁忙现场却见不到人工操作而且能够小时不间断运作。洋山港将不断发展为把上海建成一个全球航运中心做出更大贡献。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

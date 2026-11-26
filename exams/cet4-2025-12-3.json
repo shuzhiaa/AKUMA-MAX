@@ -1,0 +1,620 @@
+{
+ "id": "cet4-2025-12-3",
+ "levelId": "cet4",
+ "title": "四级 2025 年 12 月 第 3 套",
+ "minutes": 125,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年12月英语四级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2025-12-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose your university is organizing a forum on how students can make the best use of on-campus resources for academic development. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "On-campus resources are a treasure that too many students overlook. In my view, actively making use of these\nfacilities is one of the smartest ways to boost our academic development.\nThere are several practical steps we can take. First, we should visit the library and its online databases\nregularly, since they offer academic papers and books that turn a rough idea into a well-supported argument.\nMoreover, we ought to consult professors during their office hours, because a ten-minute talk often clears up\nconfusion that hours of self-study cannot. In addition, attending academic lectures and joining study groups\nexposes us to fresh perspectives and keeps our motivation high.\nIn short, the campus is full of tools waiting to be used. Only by taking the initiative to utilize them can we truly\ngrow as learners and get the most out of our university years."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Earth Day is an annual celebration that honors the achievements of the environmental movement and raises awareness of the need to protect Earth's natural resources for future generations. Earth Day is celebrated on April 22 in the United States and on either April 22 or the day the spring equinox(春分) occurs throughout the {{1}} of the world. Environmental activism during the 1960s {{2}} Wisconsin Senator Gaylord Nelson to create a {{3}} celebration uniting the environmental movement. With the help of Denis Hayes, a graduate student at Harvard University, Nelson organized the first Earth Day on April 22, 1970, educating participants in the {{4}} of environmental protection. Attended by 20 million people across the United States, the event {{5}} support for legislation such as the Clean Air Act and the Endangered Species Act. In 1990, Hayes organized a global Earth Day, with more than 200 million participants in 140 countries. Earth Day now brings {{6}} citizens and activists from around the world to raise awareness and take action regarding such environmental {{7}} as global warming and renewable energy. Today, the Earth Day Network, which rallies more than 20,000 {{8}} and organizations in 190 countries, supports the Earth Day mission year-round. This mission is founded on the proposition that all people, regardless of race, gender, income, or {{9}} , have a moral right to a healthy, sustainable environment. The Earth Day Network {{10}} this mission through education, public policy, and activism campaigns.",
+     "options": [
+      "concerns",
+      "expansion",
+      "forth",
+      "geography",
+      "importance",
+      "imposed",
+      "inspired",
+      "national",
+      "partners",
+      "potential",
+      "pursues",
+      "rescues",
+      "rest",
+      "strengthened",
+      "together"
+     ],
+     "answers": [
+      12,
+      6,
+      7,
+      4,
+      13,
+      14,
+      0,
+      8,
+      3,
+      10
+     ],
+     "blankExplains": [
+      "【定位】Earth Day is celebrated on April 22 in the United States and on either April 22 or the day the spring equinox(春分) occurs throughout the ____ of the world.\n【依据】答案是 rest：填回后与所在句 earth、day、celebrated、april、united、states 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Environmental activism during the 1960s ____ Wisconsin Senator Gaylord Nelson to create a  … celebration uniting the environmental movement.\n【依据】答案是 inspired：填回后与所在句 environmental、activism、during、wisconsin、senator、gaylord 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Environmental activism during the 1960s  … Wisconsin Senator Gaylord Nelson to create a ____ celebration uniting the environmental movement.\n【依据】答案是 national：填回后与所在句 environmental、activism、during、wisconsin、senator、gaylord 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】With the help of Denis Hayes, a graduate student at Harvard University, Nelson organized the first Earth Day on April 22, 1970, educating participants in the ____ of environmental protection.\n【依据】答案是 importance：填回后与所在句 help、denis、hayes、graduate、student、harvard 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Attended by 20 million people across the United States, the event ____ support for legislation such as the Clean Air Act and the Endangered Species Act.\n【依据】答案是 strengthened：填回后与所在句 attended、million、people、across、united、states 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Earth Day now brings ____ citizens and activists from around the world to raise awareness and take action regarding such environmental  … as global warming and renewable energy.\n【依据】答案是 together：填回后与所在句 earth、day、now、brings、citizens、activists 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Earth Day now brings  … citizens and activists from around the world to raise awareness and take action regarding such environmental ____ as global warming and renewable energy.\n【依据】答案是 concerns：填回后与所在句 earth、day、now、brings、citizens、activists 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Today, the Earth Day Network, which rallies more than 20,000 ____ and organizations in 190 countries, supports the Earth Day mission year-round.\n【依据】答案是 partners：填回后与所在句 today、earth、day、network、which、rallies 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This mission is founded on the proposition that all people, regardless of race, gender, income, or ____ , have a moral right to a healthy, sustainable environment.\n【依据】答案是 geography：填回后与所在句 mission、founded、proposition、people、regardless、race 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The Earth Day Network ____ this mission through education, public policy, and activism campaigns.\n【依据】答案是 pursues：填回后与所在句 earth、day、network、mission、through、education 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Earth Day is celebrated on April 22 in the United States and on either April 22 or the day the spring equinox(春分) occurs throughout the ____ of the world.",
+       "why": "答案是 rest：填回后与所在句 earth、day、celebrated、april、united、states 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "与 rest 拼写相近（共同开头 res），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 rest 这个词性/语义，而不是 concerns）。"
+       }
+      },
+      {
+       "locate": "Environmental activism during the 1960s ____ Wisconsin Senator Gaylord Nelson to create a  … celebration uniting the environmental movement.",
+       "why": "答案是 inspired：填回后与所在句 environmental、activism、during、wisconsin、senator、gaylord 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inspired 这个词性/语义，而不是 importance）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inspired 这个词性/语义，而不是 imposed）。"
+       }
+      },
+      {
+       "locate": "Environmental activism during the 1960s  … Wisconsin Senator Gaylord Nelson to create a ____ celebration uniting the environmental movement.",
+       "why": "答案是 national：填回后与所在句 environmental、activism、during、wisconsin、senator、gaylord 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 national 这个词性/语义，而不是 concerns）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 national 这个词性/语义，而不是 expansion）。"
+       }
+      },
+      {
+       "locate": "With the help of Denis Hayes, a graduate student at Harvard University, Nelson organized the first Earth Day on April 22, 1970, educating participants in the ____ of environmental protection.",
+       "why": "答案是 importance：填回后与所在句 help、denis、hayes、graduate、student、harvard 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "与 importance 拼写相近（共同开头 impo），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 importance 这个词性/语义，而不是 inspired）。"
+       }
+      },
+      {
+       "locate": "Attended by 20 million people across the United States, the event ____ support for legislation such as the Clean Air Act and the Endangered Species Act.",
+       "why": "答案是 strengthened：填回后与所在句 attended、million、people、across、united、states 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 strengthened 这个词性/语义，而不是 concerns）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 strengthened 这个词性/语义，而不是 expansion）。"
+       }
+      },
+      {
+       "locate": "Earth Day now brings ____ citizens and activists from around the world to raise awareness and take action regarding such environmental  … as global warming and renewable energy.",
+       "why": "答案是 together：填回后与所在句 earth、day、now、brings、citizens、activists 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 together 这个词性/语义，而不是 concerns）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 together 这个词性/语义，而不是 expansion）。"
+       }
+      },
+      {
+       "locate": "Earth Day now brings  … citizens and activists from around the world to raise awareness and take action regarding such environmental ____ as global warming and renewable energy.",
+       "why": "答案是 concerns：填回后与所在句 earth、day、now、brings、citizens、activists 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 concerns 这个词性/语义，而不是 expansion）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 concerns 这个词性/语义，而不是 forth）。"
+       }
+      },
+      {
+       "locate": "Today, the Earth Day Network, which rallies more than 20,000 ____ and organizations in 190 countries, supports the Earth Day mission year-round.",
+       "why": "答案是 partners：填回后与所在句 today、earth、day、network、which、rallies 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 partners 这个词性/语义，而不是 potential）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 partners 这个词性/语义，而不是 pursues）。"
+       }
+      },
+      {
+       "locate": "This mission is founded on the proposition that all people, regardless of race, gender, income, or ____ , have a moral right to a healthy, sustainable environment.",
+       "why": "答案是 geography：填回后与所在句 mission、founded、proposition、people、regardless、race 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 geography 这个词性/语义，而不是 concerns）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 geography 这个词性/语义，而不是 expansion）。"
+       }
+      },
+      {
+       "locate": "The Earth Day Network ____ this mission through education, public policy, and activism campaigns.",
+       "why": "答案是 pursues：填回后与所在句 earth、day、network、mission、through、education 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pursues 这个词性/语义，而不是 partners）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pursues 这个词性/语义，而不是 potential）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Ageism and long-term unemployment are most damaging for those in the second half of their careers. Changing careers is hard. Getting back into work after you've been laid off is even harder. Those over 45 make up the bulk of the long-term unemployed, in America and elsewhere. Hiring managers admit they are reluctant to hire those over 40 or 45, arguing they probably won't be a good \"fit,\" their experience won't be relevant to the workplace, and they'll be unable or unwilling to learn new skills."
+      },
+      {
+       "id": "B",
+       "text": "But the one thing that can really make a difference? More education and training. These are the results from a new study by Generation, a nonprofit founded by former McKinsey consultants. They've just published a global survey on midcareer employment, based on surveys of over 5,000 workers and managers in seven countries."
+      },
+      {
+       "id": "C",
+       "text": "\"Older midcareer workers … make up the bulk of the long-term unemployed in many countries,\" Generation's analysts write in their report. Those over 45 comprise over 40% of the long-term unemployed, for example. And if you're out of work past the age of 45, there's nearly a two in three chance you'll be out of work for over a year, they find. \"Midcareer individuals are finding it harder to get jobs,\" they write. \"People age 45+ face persistent and rising pressure in the global job market. They are unemployed for much longer than the average, and their age is indeed one of the greatest barriers to their finding a job.\""
+      },
+      {
+       "id": "D",
+       "text": "A substantial part of this, they report, is \"widespread ageism\" on the part of hiring managers. Although such managers admit that post-45 hires turn out on average to be just as good as or better than younger workers, they still don't want to hire them. \"Hiring managers have a strong perception bias against 45+ job candidates — they believe that members of this age group have poor skills and low adaptability,\" Generation's analysts report."
+      },
+      {
+       "id": "E",
+       "text": "The survey results are remarkable. Hiring managers are three times as likely to rate job applicants age 35 – 44 as a better \"fit\" than those over 45. They rate the post-45 job seekers lower on average on all three measures — even experience — than those ages 18 to 34. This is true even though nearly nine managers in 10 also said their post-45 workers were as good as or better than younger employees in the same jobs."
+      },
+      {
+       "id": "F",
+       "text": "Their biggest fears about hiring those over 45? Managers said they worry that older hires will be reluctant to try new technologies, and will be unable to learn new skills. Besides, the majority of hiring managers are under 45 — and seem reluctant to hire people older than themselves."
+      },
+      {
+       "id": "G",
+       "text": "But here's the good news. Older workers who've actively engaged in more education and training relevant to their jobs turn this pretty much on its head. Three-quarters of hiring managers said they'd be more likely to hire an over-45 who had relevant education, training or credentials(文凭). Among those over 45 who'd successfully switched careers, 74% said training helped them get their new job."
+      },
+      {
+       "id": "H",
+       "text": "\"Midcareer switchers overwhelmingly say that training enabled them to shift to a new career path,\" the analysts write. And when they asked over-45 candidates about their attitudes, they found that \"those who are excited by training are unemployed for less time, receive more job offers, and are more satisfied by the job offers they receive.\""
+      },
+      {
+       "id": "I",
+       "text": "Hiring managers said training was three times more likely to get them to hire applicants over age 45 than, say, government subsidies(补贴). What training are we talking about? Obviously it depends on the job. And, yes, managers are most likely to be impressed by industry qualifications you get in school. These things cost money, and time. But these aren't the only things helpful. Those who had successfully changed careers after 45 told Generation that education and training had been a big help — and that included in-person, on-the-job training, \"informal learning,\" and online courses — with or without certification."
+      },
+      {
+       "id": "J",
+       "text": "If they think we're too old to learn new skills after we're 45, just learning some new skills may have an effect on its own. There's a downside to this. The people least interested in retraining are more likely to come from historically disadvantaged communities, more likely to have low incomes, and are more likely to have the least schooling after getting their high-school diploma or earlier. On average, post-45 job switchers with higher incomes participate in 2.5 training programs each. Those with lower incomes: 0.9 programs on average."
+      },
+      {
+       "id": "K",
+       "text": "Many years ago, I wrote about a study which found that employers are much more likely to hire a college graduate who has some work experience in the industry than a college graduate who took the \"right\" degree. A bank is more likely to hire a literature graduate who spent their summers working in their local bank than a finance or economics graduate who spent their summers surfing or traveling around Italy. They've learned through long experience. The person who worked in the bank is more likely ready, willing and able to be part of the team and do the job from day 1."
+      },
+      {
+       "id": "L",
+       "text": "We can rail against \"ageism\" all we like. It gets us nowhere. And it's easy to forget that employers, like everyone else, are under time pressure and are just trying to solve problems. Any and all \"training,\" including inexpensive and informal training, is going to help resolve their worries about hiring someone over 45. And it has never been easier or cheaper to gain instruction in new skills, thanks to the internet. Online schools like Udemy and Lynda.com offer sweet deals at sign-up. And courses on YouTube are free."
+      },
+      {
+       "id": "M",
+       "text": "Bottom line? Yes, it really can be difficult getting a new job after age 45, let alone changing careers. One of the best things we can do to help ourselves is to go online and learn new, relevant skills. Sadly, the people who most need the help are least likely to take it — which raises a challenge for society as a whole. Not only do we not want to see lives go to waste, but we all benefit if more people are working and fewer are unemployed."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Hiring managers believe unemployed workers over 45 lack good skills and are less adaptable."
+      },
+      {
+       "id": "s37",
+       "text": "Switching to a new career is difficult and getting reemployed after a layoff is even tougher."
+      },
+      {
+       "id": "s38",
+       "text": "People from poor neighborhoods tend to have the least interest in retraining."
+      },
+      {
+       "id": "s39",
+       "text": "Hiring managers who are not yet 45 years old seem unwilling to hire people their senior."
+      },
+      {
+       "id": "s40",
+       "text": "Some analysts find age 45+ jobless workers are most likely to be unemployed for more than a year."
+      },
+      {
+       "id": "s41",
+       "text": "People who had succeeded in career change after 45 told a nonprofit organization they owed a great deal to the education and training they had received."
+      },
+      {
+       "id": "s42",
+       "text": "Older workers who actively pursue more education and training have a good chance of being hired."
+      },
+      {
+       "id": "s43",
+       "text": "A new study finds that more education and training helps midcareer individuals find a new job."
+      },
+      {
+       "id": "s44",
+       "text": "Owing to the internet, it is now more convenient than ever to receive training in new skills."
+      },
+      {
+       "id": "s45",
+       "text": "People over 45 stimulated by training suffer shorter periods of unemployment, get more job offers and have greater satisfaction in them."
+      }
+     ],
+     "answers": [
+      "D",
+      "A",
+      "J",
+      "F",
+      "C",
+      "I",
+      "G",
+      "B",
+      "L",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】\"Hiring managers have a strong perception bias against 45+ job candidates — they believe that members of this age group have poor skills and low adaptability,\" Generation's analysts report.\n【依据】陈述里的 hiring、managers、believe、skills、adaptable 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Getting back into work after you've been laid off is even harder.\n【依据】陈述里的 getting、after、even 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】The people least interested in retraining are more likely to come from historically disadvantaged communities, more likely to have low incomes, and are more likely to have the least schooling after getting their high-school diploma or earlier.\n【依据】陈述里的 people、least、interest、retraining 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Besides, the majority of hiring managers are under 45 — and seem reluctant to hire people older than themselves.\n【依据】陈述里的 hiring、managers、seem、hire、people 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】\"Older midcareer workers … make up the bulk of the long-term unemployed in many countries,\" Generation's analysts write in their report.\n【依据】陈述里的 analysts、workers、unemployed 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Those who had successfully changed careers after 45 told Generation that education and training had been a big help — and that included in-person, on-the-job training, \"informal learning,\" and online courses — with or without certification.\n【依据】陈述里的 who、succeeded、career、change、after、told 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Older workers who've actively engaged in more education and training relevant to their jobs turn this pretty much on its head.\n【依据】陈述里的 older、workers、actively、education、training 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】These are the results from a new study by Generation, a nonprofit founded by former McKinsey consultants.\n【依据】陈述里的 new、study、new 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】And it has never been easier or cheaper to gain instruction in new skills, thanks to the internet.\n【依据】陈述里的 internet、new、skills 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】And when they asked over-45 candidates about their attitudes, they found that \"those who are excited by training are unemployed for less time, receive more job offers, and are more satisfied by the job offers they receive.\"\n【依据】陈述里的 training、unemployment、job、offers、satisfaction 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "\"Hiring managers have a strong perception bias against 45+ job candidates — they believe that members of this age group have poor skills and low adaptability,\" Generation's analysts report.",
+       "why": "陈述里的 hiring、managers、believe、skills、adaptable 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Getting back into work after you've been laid off is even harder.",
+       "why": "陈述里的 getting、after、even 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The people least interested in retraining are more likely to come from historically disadvantaged communities, more likely to have low incomes, and are more likely to have the least schooling after getting their high-school diploma or earlier.",
+       "why": "陈述里的 people、least、interest、retraining 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Besides, the majority of hiring managers are under 45 — and seem reluctant to hire people older than themselves.",
+       "why": "陈述里的 hiring、managers、seem、hire、people 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Older midcareer workers … make up the bulk of the long-term unemployed in many countries,\" Generation's analysts write in their report.",
+       "why": "陈述里的 analysts、workers、unemployed 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Those who had successfully changed careers after 45 told Generation that education and training had been a big help — and that included in-person, on-the-job training, \"informal learning,\" and online courses — with or without certification.",
+       "why": "陈述里的 who、succeeded、career、change、after、told 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Older workers who've actively engaged in more education and training relevant to their jobs turn this pretty much on its head.",
+       "why": "陈述里的 older、workers、actively、education、training 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "These are the results from a new study by Generation, a nonprofit founded by former McKinsey consultants.",
+       "why": "陈述里的 new、study、new 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And it has never been easier or cheaper to gain instruction in new skills, thanks to the internet.",
+       "why": "陈述里的 internet、new、skills 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And when they asked over-45 candidates about their attitudes, they found that \"those who are excited by training are unemployed for less time, receive more job offers, and are more satisfied by the job offers they receive.\"",
+       "why": "陈述里的 training、unemployment、job、offers、satisfaction 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "New York's Eleven Madison Park has become the first vegan(素食主义的) restaurant to be awarded three Michelin stars. The fine dining establishment received its first three-star Michelin rating in 2011 when the menu was famed for its fancy animal-based dishes. However, last year, the restaurant's co-owner and famous chef, Daniel Humm, made the bold decision to remove meat from the menu, citing our unsustainable food system. While cow milk is still served for tea and coffee, the menu is almost 100 percent vegan. At the time, Humm acknowledged the move was risky, admitting that \"it wasn't clear if guests would come\", but called the gamble \"a risk worth taking.\" \"In view of the climate crisis, I didn't want to open the same restaurant,\" Humm told the Financial Times in an interview. \"If we can show the possibilities of eating plant-based food in this setting, it can open a lot of doors\" for others to follow. Now, this impressive new accomplishment validates Eleven Madison Park's decision to take meat off the menu and embrace plant-based foods, with Michelin's 2022 New York guide branding it 'a bold vision of luxury dining'. \"We took the jump to transform Eleven Madison Park into a plant-based fine dining restaurant knowing in our hearts this is what we believed in,\" stated Humm on Instagram. \"Last night, we were honored to be awarded three Michelin stars for the 11th year in a row. I am so grateful to the team members who contributed through its nearly 25-year history. We are also grateful to our guests and partners who believed in our vision and encouraged us to push harder.\" Three Michelin stars is the highest award, given to chefs who are at the peak of their profession. \"Their cooking is elevated to an art form and some of their dishes are destined to become classics,\" reads Michelin's website, in a clear nod to plant-based foods' growing significance in the culinary(烹饪的) world. \"I think luxury companies have a real role to play and a responsibility,\" says Humm. \"The more creative we are, the more beautiful and delicious our future will be.\"",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn about New York's Eleven Madison Park?",
+       "options": [
+        "It is the first vegan restaurant to receive the highest Michelin rating.",
+        "It is the first restaurant in the city to remove meat from its menu.",
+        "It was famed throughout the U.S. for its fancy regional dishes.",
+        "It was established as a three-star Michelin restaurant in 2011."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】New York's Eleven Madison Park has become the first vegan(素食主义的) restaurant to be awarded three Michelin stars.\n【依据】正确项的核心词 first、vegan、restaurant、michelin 与定位句对得上；其余 receive、highest、rating 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "New York's Eleven Madison Park has become the first vegan(素食主义的) restaurant to be awarded three Michelin stars.",
+        "why": "正确项的核心词 first、vegan、restaurant、michelin 与定位句对得上；其余 receive、highest、rating 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「city」全文未出现；把原文的「first、restaurant」换成了「city、remove、meat」，主语或对象被调包。",
+         "C": "因果倒置：「throughout、regional」全文未出现。",
+         "D": "无中生有：「established」全文未出现；把原文的「three-star、michelin、restaurant」换成了「established」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "Why did Daniel Humm decide to remove meat from the menu of his restaurant?",
+       "options": [
+        "To encourage more customers to be vegan.",
+        "To contribute to a sustainable food system.",
+        "To show the appeal of a plant-based menu.",
+        "To strive for the three-star Michelin rating."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】However, last year, the restaurant's co-owner and famous chef, Daniel Humm, made the bold decision to remove meat from the menu, citing our unsustainable food system.\n【依据】正确项的核心词 food、system 与定位句对得上；其余 contribute、sustainable 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, last year, the restaurant's co-owner and famous chef, Daniel Humm, made the bold decision to remove meat from the menu, citing our unsustainable food system.",
+        "why": "正确项的核心词 food、system 与定位句对得上；其余 contribute、sustainable 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「encourage、customers」全文未出现。",
+         "C": "偷换主体：「appeal」全文未出现；把原文的「menu」换成了「show、appeal、plant-based」，主语或对象被调包。",
+         "D": "因果倒置：「strive」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What did Daniel Humm think of his move to a meat-free menu?",
+       "options": [
+        "It was a worthwhile effort even though he was unsure of its success.",
+        "It would set a model for many more restaurants to follow.",
+        "It was a mad gamble few chefs in the fine dining world would risk taking.",
+        "It would prove a right step to take in today's catering business."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】However, last year, the restaurant's co-owner and famous chef, Daniel Humm, made the bold decision to remove meat from the menu, citing our unsustainable food system.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 worthwhile、effort、even、though 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, last year, the restaurant's co-owner and famous chef, Daniel Humm, made the bold decision to remove meat from the menu, citing our unsustainable food system.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 worthwhile、effort、even、though 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「set、model、many」全文未出现；把原文的「restaurants」换成了「set、model、many」，主语或对象被调包。",
+         "C": "因果倒置：「mad、few」全文未出现。",
+         "D": "无中生有：「prove、right、step」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does Michelin's 2022 New York guide say about Eleven Madison Park's decision?",
+       "options": [
+        "It elevates the restaurant's cooking to an art form.",
+        "It proves the validity of ratings awarded by Michelin.",
+        "It shows a daring foresight regarding future fine dining.",
+        "It is an effort to transform the restaurant into a luxury one."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Now, this impressive new accomplishment validates Eleven Madison Park's decision to take meat off the menu and embrace plant-based foods, with Michelin's 2022 New York guide branding it 'a bold vision of luxury dining'.\n【依据】正确项的核心词 dining 与定位句对得上；其余 shows、daring、foresight、regarding 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Now, this impressive new accomplishment validates Eleven Madison Park's decision to take meat off the menu and embrace plant-based foods, with Michelin's 2022 New York guide branding it 'a bold vision of luxury dining'.",
+        "why": "正确项的核心词 dining 与定位句对得上；其余 shows、daring、foresight、regarding 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「elevates」全文未出现。",
+         "B": "无中生有：「proves、ratings」全文未出现；把原文的「validity、michelin」换成了「proves、ratings、awarded」，主语或对象被调包。",
+         "D": "偷换主体：「effort」全文未出现；把原文的「luxury」换成了「effort、transform、restaurant」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the awarding of three Michelin stars to Eleven Madison Park indicate?",
+       "options": [
+        "An optimistic vision of vegan foods becoming mainstream.",
+        "A greater responsibility for the culinary world to undertake.",
+        "A strong incentive for more restaurants to offer healthier foods to their customers.",
+        "An explicit recognition of the rising importance of restaurants serving vegan foods."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】New York's Eleven Madison Park has become the first vegan(素食主义的) restaurant to be awarded three Michelin stars.\n【依据】正确项的核心词 restaurants、vegan 与定位句对得上；其余 explicit、recognition、rising、importance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "New York's Eleven Madison Park has become the first vegan(素食主义的) restaurant to be awarded three Michelin stars.",
+        "why": "正确项的核心词 restaurants、vegan 与定位句对得上；其余 explicit、recognition、rising、importance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「optimistic、mainstream」全文未出现；把原文的「vegan、becoming」换成了「optimistic、vision、foods」，主语或对象被调包。",
+         "B": "因果倒置：「greater、undertake」全文未出现。",
+         "C": "无中生有：「strong、incentive、offer」全文未出现；把原文的「restaurants」换成了「strong、incentive、offer」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 348 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "With genetic testing becoming increasingly popular, many people are left wondering exactly how accurate it is. Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn(先天的) health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon. How accurate DNA tests are relies greatly upon the kind of test being taken, on the specific question you ask, and on how complex the genetics behind a trait(特征) is. For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease-causing trait is present. Ancestry tests claim to reveal our genetic identities. But saying you are 30 percent East Asian or American hardly reflects your real ancestry. What about using DNA tests to discover distant family members? There are tools to compare one's DNA with others' to find distant relatives based on their genetic identification. These kinds of applications are generally accurate. It's relatively easy to tell whether two DNA samples belong to close relatives. With distant relatives, results become hazier. Genetic health tests claim to be able to detect certain hereditary(遗传的) diseases, or other health conditions. While certain rare diseases can be easily identified, most potential health conditions cannot be identified by genetic testing alone. The large majority of our traits and diseases also depend upon non-genetic factors, such as lifestyle, the environment, and many others. Genetic tests for multi-factorial traits are often very tricky to interpret. Height, for example, depends on hundreds of genes, each contributing a little to the outcome, together with a bunch of environmental factors. A test can look at many genes at once, but it's difficult to predict how they will play together. Then you should also account for non-genetic factors that are not written in the DNA. Tests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense. At the moment, the scientific bases for these applications are non-existent or incredibly weak.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the passage say is of importance regarding genetic tests?",
+       "options": [
+        "Knowing their accuracy.",
+        "Evaluating their applicability.",
+        "Utilizing the information they provide.",
+        "Weighing the consequences they have."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn(先天的) health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon.\n【依据】正确项的核心词 accuracy 与定位句对得上；其余 knowing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn(先天的) health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon.",
+        "why": "正确项的核心词 accuracy 与定位句对得上；其余 knowing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「evaluating、applicability」全文未出现。",
+         "C": "偷换主体：「utilizing」全文未出现；把原文的「information」换成了「utilizing、provide」，主语或对象被调包。",
+         "D": "无中生有：「weighing、consequences」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What kind of genetic tests tend to be comparatively reliable?",
+       "options": [
+        "Those complex enough to reveal the genetics behind a trait.",
+        "Those looking for traits responsible for certain diseases.",
+        "Those focusing on the specific questions being asked.",
+        "Those looking for traits determined by a single gene."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease-causing trait is present.\n【依据】正确项的核心词 traits、single、gene 与定位句对得上；其余 looking、determined 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease-causing trait is present.",
+        "why": "正确项的核心词 traits、single、gene 与定位句对得上；其余 looking、determined 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「enough」全文未出现；把原文的「trait」换成了「complex、enough、reveal」，主语或对象被调包。",
+         "B": "无中生有：「looking、responsible」全文未出现；把原文的「traits、diseases」换成了「looking、responsible、certain」，主语或对象被调包。",
+         "C": "无中生有：「focusing、questions、asked」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do we learn about genetic health tests from the passage?",
+       "options": [
+        "They are unable to identify certain hereditary diseases by themselves.",
+        "They are generally unable to separate genetic and non-genetic factors.",
+        "They cannot independently identify the majority of potential diseases.",
+        "They cannot tell apart the impact of lifestyle and that of the environment."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn(先天的) health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 cannot、independently、identify、majority 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn(先天的) health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 cannot、independently、identify、majority 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「unable、identify、themselves」全文未出现。",
+         "B": "偷换主体：「unable、separate」全文未出现；把原文的「genetic」换成了「generally、unable、separate」，主语或对象被调包。",
+         "D": "因果倒置：「apart、impact」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What makes genetic tests for multi-factorial traits tricky to interpret?",
+       "options": [
+        "The challenge in determining the role of each individual gene.",
+        "The difficulty of foretelling how the various genes will interact.",
+        "The difficulty of telling genetic factors from environmental ones.",
+        "The enormous work to identify the hundreds of genes involved."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Genetic tests for multi-factorial traits are often very tricky to interpret.\n【依据】正确项的核心词 interact 与定位句对得上；其余 difficulty、foretelling、how、various 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Genetic tests for multi-factorial traits are often very tricky to interpret.",
+        "why": "正确项的核心词 interact 与定位句对得上；其余 difficulty、foretelling、how、various 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「challenge、determining、role」全文未出现。",
+         "C": "无中生有：「difficulty、telling、ones」全文未出现；把原文的「genetic」换成了「difficulty、telling、factors」，主语或对象被调包。",
+         "D": "无中生有：「enormous、work、identify」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the passage say about DNA tests to predict personality or talents?",
+       "options": [
+        "They are solid scientific bases for application.",
+        "They are helpful in finding a romantic match.",
+        "They do not look promising at the moment.",
+        "They do not make any sense at present."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Tests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 make、sense、present 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Tests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 make、sense、present 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「solid、application」全文未出现。",
+         "B": "无中生有：「helpful、finding」全文未出现；把原文的「romantic、match」换成了「helpful、finding」，主语或对象被调包。",
+         "C": "因果倒置：「promising」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 348 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "中国政府十分重视绿色经济的发展。通过加强森林资源保护、加大污染治理力度等一系列措施，许多地区的生态环境得到了显著改善。绿水青山促进了当地的旅游、健康等产业的发展，创造了可观的经济效益。如今，生态环境与人类社会和谐共存的观念在中国已深入人心。绿色经济的推进不仅能为中国可持续发展做出贡献，也为全球环境保护提供了宝贵经验。",
+     "reference": "The Chinese government attaches great importance to the development of the green economy. Through a series of measures such as strengthening forest resource protection and intensifying pollution control, the ecological environment in many regions has improved remarkably. 3 (lucid waters and lush mountains) Lucid waters and lush mountains have promoted the development of local industries such as tourism and health care, generating considerable economic benefits. Today, the idea that ecology and human society can coexist in harmony has taken deep root in China. The promotion of the green economy not only contributes to China's sustainable development but also provides valuable experience for global environmental protection.",
+     "keyPoints": [
+      "The Chinese government attaches great importance to the development of the green economy.",
+      "Through a series of measures such as strengthening forest resource protection and intensifying pollution control, the ecological environment in many regions has improved remarkably. 3 (lucid waters and lush mountains) Lucid waters and lush mountains have promoted the development of local industries such as tourism and health care, generating considerable economic benefits.",
+      "Today, the idea that ecology and human society can coexist in harmony has taken deep root in China.",
+      "The promotion of the green economy not only contributes to China's sustainable development but also provides valuable experience for global environmental protection."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

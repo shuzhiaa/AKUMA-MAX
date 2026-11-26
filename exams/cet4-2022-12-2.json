@@ -1,0 +1,1167 @@
+{
+ "id": "cet4-2022-12-2",
+ "levelId": "cet4",
+ "title": "四级 2022 年 12 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2022年12月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2022-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2022-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "世界风笛乐队锦标赛将于周六在格拉斯哥举行"
+      },
+      {
+       "idx": 2,
+       "zh": "超过120支世界顶尖风笛乐队将参加锦标赛"
+      },
+      {
+       "idx": 3,
+       "zh": "比赛将于5月18日周六上午10点至晚上7点在格拉斯哥的St"
+      },
+      {
+       "idx": 4,
+       "zh": "格拉斯哥市议会表示,预计该活动将为当地经济带来30万英镑的收益"
+      },
+      {
+       "idx": 5,
+       "zh": "首届世界风笛乐队锦标赛于1947年在爱丁堡举行"
+      },
+      {
+       "idx": 6,
+       "zh": "他告诉The Northern Echo:\"这里并不是一个富裕的地方,所以他们发现那么多现金后立即想到送到警察局,这显示了当地的社区精神。\""
+      },
+      {
+       "idx": 7,
+       "zh": "W: 没错。或者甚至可以简单地把你的生日看作是把大家聚在一起让他们开心的机会"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 你考虑过买电动摩托车吗?"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 我可能考虑了一分钟吧"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 那些流行的共享单车怎么样?你可以注册用一辆"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 嗯,这倒是个可能"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What event will take place in Glasgow?",
+       "options": [
+        "A free car show.",
+        "A yearly concert.",
+        "A sports competition.",
+        "A pipe band contest."
+       ],
+       "optionsZh": [
+        "一场免费车展。",
+        "一场年度音乐会。",
+        "一场体育比赛。",
+        "一场风笛乐队比赛。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：A pipe band contest.（一场风笛乐队比赛。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does Glasgow City Council say the event will do?",
+       "options": [
+        "Improve the image of Glasgow city.",
+        "Enrich the local culture of Glasgow.",
+        "Contribute a lot to the local economy.",
+        "Entertain people in local communities."
+       ],
+       "optionsZh": [
+        "改善格拉斯哥市的形象。",
+        "丰富格拉斯哥的当地文化。",
+        "为当地经济做出很大贡献。",
+        "娱乐当地社区的人们。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Contribute a lot to the local economy.（为当地经济做出很大贡献。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What is scientists' warning in the news report?",
+       "options": [
+        "Surprising rise in global sea levels.",
+        "Dangerous ice melts in Greenland.",
+        "Changing weather patterns in summer.",
+        "Record growth of Greenland's ice sheets."
+       ],
+       "optionsZh": [
+        "全球海平面出人意料地上升。",
+        "格陵兰岛危险的冰层融化。",
+        "夏季天气模式的变化。",
+        "格陵兰岛冰盖创纪录的增长。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Dangerous ice melts in Greenland.（格陵兰岛危险的冰层融化。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What do we learn about this year's ice melting?",
+       "options": [
+        "It began in late May.",
+        "It lasted three months.",
+        "It started a month earlier than usual.",
+        "It ended a month earlier than before."
+       ],
+       "optionsZh": [
+        "它始于五月下旬。",
+        "它持续了三个月。",
+        "它比往常提前一个月开始。",
+        "它比以前提前一个月结束。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It started a month earlier than usual.（它比往常提前一个月开始。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What happened on the streets of Blackhall Colliery?",
+       "options": [
+        "Bundles of £20 notes kept turning up.",
+        "A villager was searching for his lost cash.",
+        "Local policemen came across bundles of £20 notes.",
+        "A bundle containing thousands of pounds got stolen."
+       ],
+       "optionsZh": [
+        "成捆的20英镑纸币不断出现。",
+        "一位村民正在寻找他丢失的现金。",
+        "当地警察偶然发现了成捆的20英镑纸币。",
+        "一捆装有数千英镑的现金被盗。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Bundles of £20 notes kept turning up.（成捆的20英镑纸币不断出现。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What do the local police do with the money if not claimed in two weeks?",
+       "options": [
+        "They give it to charity.",
+        "They return it to the finder.",
+        "They hand it over to the local government.",
+        "They place a notice in The Northern Echo."
+       ],
+       "optionsZh": [
+        "他们将其捐给慈善机构。",
+        "他们将其归还给拾得者。",
+        "他们将其移交给当地政府。",
+        "他们在 The Northern Echo 上刊登启事。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They return it to the finder.（他们将其归还给拾得者。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What did the policeman John Forster say about the villagers?",
+       "options": [
+        "They cooperated well with the police.",
+        "They enjoyed a fairly affluent life.",
+        "They were puzzled by the mystery.",
+        "They had a strong community spirit."
+       ],
+       "optionsZh": [
+        "他们与警方配合良好。",
+        "他们过着相当富裕的生活。",
+        "他们对这个谜团感到困惑。",
+        "他们有很强的社区精神。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They had a strong community spirit.（他们有很强的社区精神。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "How does the man often feel on his birthday?",
+       "options": [
+        "Excited.",
+        "Delighted.",
+        "Indifferent.",
+        "Strange."
+       ],
+       "optionsZh": [
+        "兴奋的。",
+        "高兴的。",
+        "无所谓的。",
+        "奇怪的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Strange.（奇怪的。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the woman say many people tend to do on their birthday?",
+       "options": [
+        "Search for the meaning of their life.",
+        "Look back on their years at school.",
+        "Call on their relatives and friends.",
+        "Talk about future plans with friends."
+       ],
+       "optionsZh": [
+        "寻找他们人生的意义。",
+        "回顾他们在校的岁月。",
+        "拜访他们的亲戚和朋友。",
+        "与朋友谈论未来的计划。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Search for the meaning of their life.（寻找他们人生的意义。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the man say about birthday celebrations?",
+       "options": [
+        "He prefers to have them shown on social media.",
+        "He loves them but does not want to make a fuss.",
+        "He enjoys celebrating others' birthdays rather than his own.",
+        "He looks forward to receiving presents from his close friends."
+       ],
+       "optionsZh": [
+        "他更喜欢把它们展示在社交媒体上。",
+        "他喜欢生日庆祝但不想大张旗鼓。",
+        "他喜欢庆祝别人的生日而不是自己的。",
+        "他期待收到亲密朋友送的礼物。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He enjoys celebrating others' birthdays rather than his own.（他喜欢庆祝别人的生日而不是自己的。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the woman suggest the man do about his birthday celebration at the end of the conversation?",
+       "options": [
+        "Hold it on a modest scale to remove birthday anxieties.",
+        "View it as a chance for people to socialize and have fun.",
+        "Extend invitation to those he trusts most.",
+        "Make it an occasion to collect donations."
+       ],
+       "optionsZh": [
+        "以适度的规模举办以消除生日焦虑。",
+        "把它看作人们社交和娱乐的机会。",
+        "向他最信任的人发出邀请。",
+        "把它作为募集捐款的场合。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：View it as a chance for people to socialize and have fun.（把它看作人们社交和娱乐的机会。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the woman say about her subway ride?",
+       "options": [
+        "It was absolutely exhausting.",
+        "There was a terrible smell.",
+        "There was too long a delay.",
+        "She got off at the wrong station."
+       ],
+       "optionsZh": [
+        "绝对令人精疲力竭。",
+        "有一股难闻的气味。",
+        "延误时间太长了。",
+        "她在错误的站下车了。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It was absolutely exhausting.（绝对令人精疲力竭。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "Why hasn't the woman got her own car?",
+       "options": [
+        "She hasn't saved enough money.",
+        "She is worried about traffic jams.",
+        "She hasn't passed the driving test yet.",
+        "She is used to taking public transport."
+       ],
+       "optionsZh": [
+        "她还没有攒够钱。",
+        "她担心交通堵塞。",
+        "她还没有通过驾驶考试。",
+        "她习惯了乘坐公共交通工具。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She hasn't saved enough money.（她还没有攒够钱。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the woman say about electric motorbikes?",
+       "options": [
+        "They are popular.",
+        "They are dangerous.",
+        "They are a bit expensive for her.",
+        "They are environmentally friendly."
+       ],
+       "optionsZh": [
+        "它们很受欢迎。",
+        "它们很危险。",
+        "对她来说它们有点贵。",
+        "它们环保。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They are dangerous.（它们很危险。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "How was the woman going to get to work?",
+       "options": [
+        "By bus.",
+        "By jogging.",
+        "By renting a bike.",
+        "By sharing a ride."
+       ],
+       "optionsZh": [
+        "乘公交车。",
+        "慢跑。",
+        "租一辆自行车。",
+        "拼车。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：By sharing a ride.（拼车。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What do we learn about Steve Miller?",
+       "options": [
+        "He is a sign language interpreter.",
+        "He is a deaf person working in IT.",
+        "He doesn't like speaking at meetings.",
+        "He doesn't use email or text messages."
+       ],
+       "optionsZh": [
+        "他是一名手语翻译员。",
+        "他是一名在IT行业工作的聋人。",
+        "他不喜欢在会议上发言。",
+        "他不使用电子邮件或短信。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He is a deaf person working in IT.（他是一名在IT行业工作的聋人。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does Miller say is making things better for people like him?",
+       "options": [
+        "Improved communication skills.",
+        "Speech recognition technology.",
+        "Big advances in sign language.",
+        "Transformation in the IT industry."
+       ],
+       "optionsZh": [
+        "沟通技能的提升。",
+        "语音识别技术。",
+        "手语的巨大进步。",
+        "IT行业的变革。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Speech recognition technology.（语音识别技术。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "In what way can Miller benefit from attending meetings via video?",
+       "options": [
+        "He can avoid being mistaken.",
+        "He can take notes on the spot.",
+        "He can understand with ease.",
+        "He can see the speakers' images."
+       ],
+       "optionsZh": [
+        "他可以避免被误解。",
+        "他可以当场做笔记。",
+        "他可以轻松理解。",
+        "他可以看到发言者的影像。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He can understand with ease.（他可以轻松理解。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What do people want upon returning home according to the passage?",
+       "options": [
+        "To find pure white walls shining.",
+        "To enter a house well looked after.",
+        "To get a hug from family members.",
+        "To see cheerful colours all around."
+       ],
+       "optionsZh": [
+        "发现纯白色的墙壁闪闪发光。",
+        "进入一个照料良好的房子。",
+        "得到家人的拥抱。",
+        "看到周围都是令人愉快的色彩。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：To see cheerful colours all around.（看到周围都是令人愉快的色彩。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What does the passage say people should avoid doing in home decoration?",
+       "options": [
+        "Choosing a colour because it is fashionable.",
+        "Painting the interior of their cupboards.",
+        "Doing the painting job all by themselves.",
+        "Designing all window frames the same way."
+       ],
+       "optionsZh": [
+        "因为流行而选择一种颜色。",
+        "粉刷橱柜的内部。",
+        "自己完成所有粉刷工作。",
+        "把所有窗框设计成同样的样式。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Choosing a colour because it is fashionable.（因为流行而选择一种颜色。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What can one do to make a room look bigger?",
+       "options": [
+        "Fit most of the cupboards into walls.",
+        "Hang landscape paintings all around.",
+        "Match the room's ceiling with all the furniture in colour.",
+        "Paint the wooden frameworks and walls the same colour."
+       ],
+       "optionsZh": [
+        "把大部分橱柜嵌入墙内。",
+        "在四周悬挂风景画。",
+        "使房间的天花板与所有家具颜色相配。",
+        "把木制框架和墙壁刷成同一颜色。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Paint the wooden frameworks and walls the same colour.（把木制框架和墙壁刷成同一颜色。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the passage say parents increasingly understand?",
+       "options": [
+        "Children must read at least 3 times a week.",
+        "Reading is a habit every child can develop.",
+        "Reading to their children is important.",
+        "Children should start reading at age 3."
+       ],
+       "optionsZh": [
+        "孩子必须每周至少阅读3次。",
+        "阅读是每个孩子都能养成的习惯。",
+        "给孩子读书很重要。",
+        "孩子应该在3岁开始阅读。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Reading to their children is important.（给孩子读书很重要。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What can predict children's reading skills according to recent research?",
+       "options": [
+        "The number of books they have read by age four.",
+        "The speed of their brain development in infancy.",
+        "The number and quality of books parents read to them in infancy.",
+        "The quality and quantity of time parents spend playing with them."
+       ],
+       "optionsZh": [
+        "他们在四岁前读过的书籍数量。",
+        "他们婴儿期大脑发育的速度。",
+        "父母在婴儿期给他们读的书籍的数量和质量。",
+        "父母与他们玩耍所花费时间的质量和数量。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The number and quality of books parents read to them in infancy.（父母在婴儿期给他们读的书籍的数量和质量。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What kind of books are said to help babies learn more?",
+       "options": [
+        "Books with specifically labeled images.",
+        "Books with pictures of dolls and toys.",
+        "Books describing the lives of animals.",
+        "Books telling very interesting stories."
+       ],
+       "optionsZh": [
+        "带有明确标注图像的书。",
+        "带有玩偶和玩具图片的书。",
+        "描述动物生活的书。",
+        "讲述非常有趣故事的书。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Books with specifically labeled images.（带有明确标注图像的书。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What are parents advised to do at the end of the passage?",
+       "options": [
+        "Read as many books as possible to their children.",
+        "Choose carefully what to read to their children.",
+        "Share experience with other parents.",
+        "Create picture books for their children."
+       ],
+       "optionsZh": [
+        "尽可能多地给孩子读书。",
+        "仔细选择给孩子读什么。",
+        "与其他父母分享经验。",
+        "为孩子创作图画书。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Choose carefully what to read to their children.（仔细选择给孩子读什么。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "In this task, you are to write an essay on the importance o f developing a healthy lifestyle among college students. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "A healthy lifestyle plays a vital role in the life of every college student. As campus life grows busier with\nassignments and screens, I firmly believe that keeping fit, eating well and sleeping regularly is not a trivial\nhabit but the very foundation of a successful university experience.\nFor one thing, a sound body directly boosts learning efficiency. A student who stays up all night rushing a due\ndate and lives on takeout will struggle to concentrate the next morning, while regular exercise and balanced\nmeals keep the mind sharp in class. For another, a healthy routine stabilizes our emotions. Sitting still for\nhours breeds anxiety, whereas a short run often washes away the pressure of exams and eases loneliness far\nfrom home.\nIn conclusion, a healthy lifestyle is not optional but essential for college students. The sooner we build it, the\nmore energy and confidence we will carry into our studies and future lives."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Parenting brings fathers more joy than it does mothers, according to a new study. The research examined three studies {{1}} more than 18,000 participants. Across all three, parenthood was {{2}} with more positive wellbeing outcomes for dads than for mums. So why are fathers happier than mothers? \"Fathers may fare better than mothers in part due to how they spend time with their children,\" said lead author Katherine Nelson-Coffey. In one study, the authors {{3}} that dads were more likely to take \"playing\" as an {{4}} activity both when caring for their kids and spending time with their kids. \"Playing with their children likely offers parents opportunities to experience positive feelings and {{5}} closeness with their children,\" they say. Fathers also did better than men without kids, reporting greater happiness, life satisfaction, and fewer {{6}} symptoms. They also reported greater connectedness and autonomy(自主). For mums, {{7}} , compared to women without children, the results weren't quite as positive. Mums reported greater autonomy, but also \"greater trouble\" and fewer positive {{8}} . Mums reported happier moods while interacting with their kids, compared to other experiences, but not while engaging {{9}} in childcare. \"This difference suggests that how mothers and fathers spend time with their children might have important {{10}} for their wellbeing,\" the authors write. They suspect that mums may be less happy than dads because they're more likely to have higher expectations about parenthood. As such, they're more likely to be \"let down\" by the experience.",
+     "options": [
+      "additional",
+      "associated",
+      "composing",
+      "cultivate",
+      "depressive",
+      "directly",
+      "emotions",
+      "however",
+      "implications",
+      "interfered",
+      "involving",
+      "note",
+      "precisely",
+      "superficial",
+      "therefore"
+     ],
+     "answers": [
+      10,
+      1,
+      11,
+      0,
+      3,
+      4,
+      7,
+      6,
+      5,
+      8
+     ],
+     "blankExplains": [
+      "【定位】The research examined three studies ____ more than 18,000 participants.\n【依据】答案是 involving：填回后与所在句 research、examined、three、studies、participants 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Across all three, parenthood was ____ with more positive wellbeing outcomes for dads than for mums.\n【依据】答案是 associated：填回后与所在句 across、three、parenthood、positive、wellbeing、outcomes 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In one study, the authors ____ that dads were more likely to take \"playing\" as an  … activity both when caring for their kids and spending time with their kids.\n【依据】答案是 note：填回后与所在句 study、authors、dads、likely、take、playing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In one study, the authors  … that dads were more likely to take \"playing\" as an ____ activity both when caring for their kids and spending time with their kids.\n【依据】答案是 additional：填回后与所在句 study、authors、dads、likely、take、playing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"Playing with their children likely offers parents opportunities to experience positive feelings and ____ closeness with their children,\" they say.\n【依据】答案是 cultivate：填回后与所在句 playing、children、likely、offers、parents、opportunities 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Fathers also did better than men without kids, reporting greater happiness, life satisfaction, and fewer ____ symptoms.\n【依据】答案是 depressive：填回后与所在句 fathers、better、men、without、kids、reporting 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】For mums, ____ , compared to women without children, the results weren't quite as positive.\n【依据】答案是 however：填回后与所在句 mums、compared、women、without、children、results 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Mums reported greater autonomy, but also \"greater trouble\" and fewer positive ____ .\n【依据】答案是 emotions：填回后与所在句 mums、reported、greater、autonomy、greater、trouble 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Mums reported happier moods while interacting with their kids, compared to other experiences, but not while engaging ____ in childcare.\n【依据】答案是 directly：填回后与所在句 mums、reported、happier、moods、while、interacting 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"This difference suggests that how mothers and fathers spend time with their children might have important ____ for their wellbeing,\" the authors write.\n【依据】答案是 implications：填回后与所在句 difference、suggests、how、mothers、fathers、spend 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "The research examined three studies ____ more than 18,000 participants.",
+       "why": "答案是 involving：填回后与所在句 research、examined、three、studies、participants 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 involving 这个词性/语义，而不是 interfered）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 involving 这个词性/语义，而不是 implications）。"
+       }
+      },
+      {
+       "locate": "Across all three, parenthood was ____ with more positive wellbeing outcomes for dads than for mums.",
+       "why": "答案是 associated：填回后与所在句 across、three、parenthood、positive、wellbeing、outcomes 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 associated 这个词性/语义，而不是 additional）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 associated 这个词性/语义，而不是 composing）。"
+       }
+      },
+      {
+       "locate": "In one study, the authors ____ that dads were more likely to take \"playing\" as an  … activity both when caring for their kids and spending time with their kids.",
+       "why": "答案是 note：填回后与所在句 study、authors、dads、likely、take、playing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 note 这个词性/语义，而不是 additional）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 note 这个词性/语义，而不是 associated）。"
+       }
+      },
+      {
+       "locate": "In one study, the authors  … that dads were more likely to take \"playing\" as an ____ activity both when caring for their kids and spending time with their kids.",
+       "why": "答案是 additional：填回后与所在句 study、authors、dads、likely、take、playing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 additional 这个词性/语义，而不是 associated）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 additional 这个词性/语义，而不是 composing）。"
+       }
+      },
+      {
+       "locate": "\"Playing with their children likely offers parents opportunities to experience positive feelings and ____ closeness with their children,\" they say.",
+       "why": "答案是 cultivate：填回后与所在句 playing、children、likely、offers、parents、opportunities 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cultivate 这个词性/语义，而不是 composing）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cultivate 这个词性/语义，而不是 additional）。"
+       }
+      },
+      {
+       "locate": "Fathers also did better than men without kids, reporting greater happiness, life satisfaction, and fewer ____ symptoms.",
+       "why": "答案是 depressive：填回后与所在句 fathers、better、men、without、kids、reporting 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 depressive 这个词性/语义，而不是 directly）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 depressive 这个词性/语义，而不是 additional）。"
+       }
+      },
+      {
+       "locate": "For mums, ____ , compared to women without children, the results weren't quite as positive.",
+       "why": "答案是 however：填回后与所在句 mums、compared、women、without、children、results 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 however 这个词性/语义，而不是 additional）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 however 这个词性/语义，而不是 associated）。"
+       }
+      },
+      {
+       "locate": "Mums reported greater autonomy, but also \"greater trouble\" and fewer positive ____ .",
+       "why": "答案是 emotions：填回后与所在句 mums、reported、greater、autonomy、greater、trouble 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 emotions 这个词性/语义，而不是 additional）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 emotions 这个词性/语义，而不是 associated）。"
+       }
+      },
+      {
+       "locate": "Mums reported happier moods while interacting with their kids, compared to other experiences, but not while engaging ____ in childcare.",
+       "why": "答案是 directly：填回后与所在句 mums、reported、happier、moods、while、interacting 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 directly 这个词性/语义，而不是 depressive）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 directly 这个词性/语义，而不是 additional）。"
+       }
+      },
+      {
+       "locate": "\"This difference suggests that how mothers and fathers spend time with their children might have important ____ for their wellbeing,\" the authors write.",
+       "why": "答案是 implications：填回后与所在句 difference、suggests、how、mothers、fathers、spend 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 implications 这个词性/语义，而不是 interfered）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 implications 这个词性/语义，而不是 involving）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Not doing something will always be faster than doing it. This philosophy applies in many areas of life. For example, there is no meeting that goes faster than not having a meeting at all. This is not to say you should never attend another meeting, but the truth is that we say \"yes\" to too many things we don't actually want to do."
+      },
+      {
+       "id": "B",
+       "text": "How often do people ask you to do something and you just reply, \"Sure.\" Three days later, you're overwhelmed by how much is on your to-do list. We become frustrated by our obligations even though we were the ones who said \"yes\" to them in the first place. Even worse, people will occasionally fight to do things that waste time. You don't have to do something just because it exists. It's worth asking if things are necessary. Many of them are not, and a simple \"no\" will be more productive than whatever work the most efficient person can cope with. But if the benefits of saying \"no\" are so obvious, then why do we say \"yes\" so often?"
+      },
+      {
+       "id": "C",
+       "text": "We say \"yes\" to many requests not because we want to do them, but because we don't want to be seen as rude or unhelpful. Often, we have to consider saying \"no\" to someone we will interact with again in the future—our co-worker, our spouse, our family and friends. Saying \"no\" to our superiors at work can be particularly difficult. In these situations, I like the approach recommended in Essentialism by Greg McKeown. He writes, \"Remind your superiors what you would be neglecting if you said 'yes' and force them to deal with the trade-off. For example, if your manager comes to you and asks you to do X, you can respond with 'Yes, I'm happy to make this the priority. Which of these other projects should I deprioritize to pay attention to this new project?'\""
+      },
+      {
+       "id": "D",
+       "text": "Collaborating with others is an important element of life. The thought of straining the relationship outweighs the commitment of our time and energy. For this reason, it can be helpful to be gracious in your response. Do whatever favors you can, and be warm-hearted and direct when you have to say no. But even after we have accounted for these social considerations, many of us still seem to do a poor job of managing the trade-off between yes and no. We find ourselves over-committed to things that don't meaningfully improve or support those around us, and certainly don't improve our own lives."
+      },
+      {
+       "id": "E",
+       "text": "Perhaps one issue is how we think about the meaning of yes and no. The words \"yes\" and \"no\" get so often used in comparison with each other that it feels like they carry equal weight in conversation. In reality, they're not just opposite in meaning, but of entirely different magnitudes in commitment. When you say \"no\", you're only saying \"no\" to one option. When you say \"yes\", you're saying \"no\" to every other option. I like how economist Tim Harford put it, \"Every time we say 'yes' to a request, we're also saying 'no' to anything else we might accomplish with the time?\" Once you're committed to something, you've already decided how that future block of time will be spent. In other words, saying \"no\" saves you time in the future. Saying \"yes\" costs you time in the future. \"No\" is a form of time credit. You retain the ability to spend your future time however you want. \"Yes\" is a form of time debt. You have to pay back your commitment at some point."
+      },
+      {
+       "id": "F",
+       "text": "\"No\" is a decision. \"Yes\" is a responsibility. Saying \"no\" is sometimes seen as a luxury that only those in power can afford. And it's true: turning down opportunities is easier when you can fall back on the safety net provided by power, money, and authority. But it's also true that saying \"no\" is not merely a privilege reserved for the successful. It's also a strategy that can help you become successful. Saying \"no\" is an important skill to develop at any stage of your career because it retains the most important asset in life: your time. As investor Pedro Sorrentino put it, \"If you don't guard your time, people will steal it from you.\" You need to say \"no\" to whatever isn't leading you toward your goals."
+      },
+      {
+       "id": "G",
+       "text": "Nobody embodied this idea better than Steve Jobs, who said, \"People think focus means saying 'yes' to the thing you've got to focus on. But that's not what it means at all. It means saying 'no' to the hundred other good ideas that there are. You have to pick carefully.\" Jobs had another great quote about saying \"no\": \"I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things.\""
+      },
+      {
+       "id": "H",
+       "text": "Over time, as you continue to improve and succeed, your strategy needs to change. The opportunity cost of your time increases as you become more successful. At first, you just eliminate the obvious distractions and explore the rest. As your skills improve and you learn to separate what works from what doesn't, you have to continually increase your threshold for saying \"yes\". You still need to say \"no\" to distractions, but you also need to learn to say \"no\" to opportunities that were previously good uses of time, so you can make space for better uses of time. It's a good problem to have, but it can be a tough skill to master."
+      },
+      {
+       "id": "I",
+       "text": "What is true about health is also true about productivity: an ounce of prevention is worth a pound of cure. More effort is wasted doing things that don't matter than is wasted doing things inefficiently. And if that is the case, elimination is a more useful skill than optimization. I'm reminded of the famous Peter Drucker quote, \"There is nothing so useless as doing efficiently that which should not be done at all.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "People often grant a request just because they want to appear polite and helpful."
+      },
+      {
+       "id": "s37",
+       "text": "It's no easy job learning to say \"no\" to opportunities that were once considered worth grasping."
+      },
+      {
+       "id": "s38",
+       "text": "When you decline a request, you are saving your future time."
+      },
+      {
+       "id": "s39",
+       "text": "People sometimes struggle to do things that are simply a waste of time."
+      },
+      {
+       "id": "s40",
+       "text": "Doing efficiently what is not worth doing is the most useless effort."
+      },
+      {
+       "id": "s41",
+       "text": "It is especially difficult for people to decline to do what their superiors ask them to do."
+      },
+      {
+       "id": "s42",
+       "text": "People agree to do too many things they are in fact unwilling to do."
+      },
+      {
+       "id": "s43",
+       "text": "According to one famous entrepreneur, innovation means refusal to do an enormous number of things."
+      },
+      {
+       "id": "s44",
+       "text": "It is an essential aspect of life to cooperate with other people."
+      },
+      {
+       "id": "s45",
+       "text": "Refusing a request is sometimes seen as a privilege not enjoyed by ordinary people."
+      }
+     ],
+     "answers": [
+      "C",
+      "H",
+      "E",
+      "B",
+      "I",
+      "C",
+      "A",
+      "G",
+      "D",
+      "F"
+     ],
+     "statementExplains": [
+      "【定位】We say \"yes\" to many requests not because we want to do them, but because we don't want to be seen as rude or unhelpful.\n【依据】陈述里的 request、because、want 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】You still need to say \"no\" to distractions, but you also need to learn to say \"no\" to opportunities that were previously good uses of time, so you can make space for better uses of time.\n【依据】陈述里的 learning、say、opportunities 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】I like how economist Tim Harford put it, \"Every time we say 'yes' to a request, we're also saying 'no' to anything else we might accomplish with the time?\" Once you're committed to something, you've already decided how that future block of time will be spent.\n【依据】陈述里的 request、future、time 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Even worse, people will occasionally fight to do things that waste time.\n【依据】陈述里的 people、things、waste、time 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】I'm reminded of the famous Peter Drucker quote, \"There is nothing so useless as doing efficiently that which should not be done at all.\"\n【依据】陈述里的 doing、efficiently、doing、useless 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Saying \"no\" to our superiors at work can be particularly difficult.\n【依据】陈述里的 difficult、superiors 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】This is not to say you should never attend another meeting, but the truth is that we say \"yes\" to too many things we don't actually want to do.\n【依据】陈述里的 too、many、things 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Nobody embodied this idea better than Steve Jobs, who said, \"People think focus means saying 'yes' to the thing you've got to focus on.\n【依据】陈述里的 means、things 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】Collaborating with others is an important element of life.\n【依据】陈述里的 life、other 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Saying \"no\" is sometimes seen as a luxury that only those in power can afford.\n【依据】陈述里的 sometimes、seen 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。"
+     ],
+     "explain": "长篇阅读匹配：9 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "We say \"yes\" to many requests not because we want to do them, but because we don't want to be seen as rude or unhelpful.",
+       "why": "陈述里的 request、because、want 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "You still need to say \"no\" to distractions, but you also need to learn to say \"no\" to opportunities that were previously good uses of time, so you can make space for better uses of time.",
+       "why": "陈述里的 learning、say、opportunities 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "I like how economist Tim Harford put it, \"Every time we say 'yes' to a request, we're also saying 'no' to anything else we might accomplish with the time?\" Once you're committed to something, you've already decided how that future block of time will be spent.",
+       "why": "陈述里的 request、future、time 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Even worse, people will occasionally fight to do things that waste time.",
+       "why": "陈述里的 people、things、waste、time 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "I'm reminded of the famous Peter Drucker quote, \"There is nothing so useless as doing efficiently that which should not be done at all.\"",
+       "why": "陈述里的 doing、efficiently、doing、useless 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Saying \"no\" to our superiors at work can be particularly difficult.",
+       "why": "陈述里的 difficult、superiors 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This is not to say you should never attend another meeting, but the truth is that we say \"yes\" to too many things we don't actually want to do.",
+       "why": "陈述里的 too、many、things 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Nobody embodied this idea better than Steve Jobs, who said, \"People think focus means saying 'yes' to the thing you've got to focus on.",
+       "why": "陈述里的 means、things 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Collaborating with others is an important element of life.",
+       "why": "陈述里的 life、other 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Saying \"no\" is sometimes seen as a luxury that only those in power can afford.",
+       "why": "陈述里的 sometimes、seen 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "We're eating more fish than ever these days. At around 20 kilograms per person global fish consumption is now more than twice what it was in the 1960s. What's really remarkable, though, is where that fish comes from. For the first time in human history, most of our aquatic(水产的) food now comes from farming rather than fishing. People ate around 73 million tonnes of farmed fish—just more than half of the volume of fish that humans consumed—in 2014. That's out of a total fish supply of 167 million tonnes; the remaining 20 million or so tonnes go into things like animal feed and medical products. To keep eating fish at the current rate, we're definitely going to need to keep aquaculture(水产养殖) developing. That's because the volume of fish caught in the wild has leveled off since the 1990s. Back in 1974, only 10% of marine fish stocks had been overfished. Now, more than three-tenths are. Only a tenth of our oceans' fish stocks could sustain heavier fishing than current levels. But while catchings at sea have suffered, fish-farming has been growing at a fast rate. A lot of that is coming from China, which produces 60% of the world's farmed fish. In fact, some 35 countries, including China, now produce more farmed than wild-caught fish. This shift toward aquaculture isn't just good for ensuring salmon(三文鱼) on your plate; it's also crucial to ensuring food security and sustainability. By 2050, the world will need to feed an estimated 9.7 billion people. They'll have to get their protein somewhere. However, raising cattle, pigs, and other land-based animals requires vast sums of grain and water. For example, pound for pound, beef requires 15 times more feed to raise than carp, a freshwater fish farmed all over Asia. That grain—and the water needed to grow it—could be consumed by people instead. However, aquaculture is no silver bullet. In some southeast Asian countries, shrimp farming does disastrous damage to marine ecosystems. Despite these problems, however, shrimp continues to be among the most popular sea foods worldwide.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author say is remarkable about the fish we eat?",
+       "options": [
+        "They reproduce quickly.",
+        "They are mostly farmed.",
+        "They have become as important as grain.",
+        "They have a longer history than humans."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】At around 20 kilograms per person global fish consumption is now more than twice what it was in the 1960s.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 mostly、farmed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "At around 20 kilograms per person global fish consumption is now more than twice what it was in the 1960s.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 mostly、farmed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「reproduce、quickly」全文未出现。",
+         "C": "无中生有：「become、important」全文未出现。",
+         "D": "因果倒置：「longer」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we need to do if we keep consuming fish at the current rate?",
+       "options": [
+        "Increase the fishing volume considerably.",
+        "Develop more advanced fishing technology.",
+        "Enlarge the marine fish stocks effectively.",
+        "Expand the scale of fish-farming continuously."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】To keep eating fish at the current rate, we're definitely going to need to keep aquaculture(水产养殖) developing.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 expand、scale、fish-farming、continuously 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "To keep eating fish at the current rate, we're definitely going to need to keep aquaculture(水产养殖) developing.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 expand、scale、fish-farming、continuously 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「increase、considerably」全文未出现。",
+         "B": "无中生有：「advanced、technology」全文未出现；把原文的「develop」换成了「advanced、fishing、technology」，主语或对象被调包。",
+         "C": "偷换主体：「enlarge、effectively」全文未出现；把原文的「fish」换成了「enlarge、marine、stocks」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the author say about China in terms of aquatic food?",
+       "options": [
+        "It places increasing emphasis on fishing now.",
+        "It boasts of the world's largest fishing stocks.",
+        "It raises more fish than caught from the wild.",
+        "It supplies 60% of the world's fish products."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】For the first time in human history, most of our aquatic(水产的) food now comes from farming rather than fishing.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 raises、fish、caught、wild 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For the first time in human history, most of our aquatic(水产的) food now comes from farming rather than fishing.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 raises、fish、caught、wild 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「places、increasing、emphasis」全文未出现；把原文的「fishing、now」换成了「places、increasing、emphasis」，主语或对象被调包。",
+         "B": "偷换主体：「boasts、largest」全文未出现；把原文的「fishing」换成了「boasts、world's、largest」，主语或对象被调包。",
+         "D": "因果倒置：「supplies」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "Why does the author say aquaculture is so important these days?",
+       "options": [
+        "It is a must for feeding the world's fast-growing population.",
+        "It proves a reliable source of protein for humans and animals",
+        "It is essential to maintaining both mental and physical health.",
+        "It ensures a balanced healthy diet for people the world over."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】This shift toward aquaculture isn't just good for ensuring salmon(三文鱼) on your plate; it's also crucial to ensuring food security and sustainability.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 feeding、world's、fast-growing、population 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This shift toward aquaculture isn't just good for ensuring salmon(三文鱼) on your plate; it's also crucial to ensuring food security and sustainability.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 feeding、world's、fast-growing、population 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「proves、reliable、source」全文未出现。",
+         "C": "无中生有：「essential、maintaining、both」全文未出现。",
+         "D": "偷换主体：「balanced、healthy、diet」全文未出现；把原文的「ensures」换成了「balanced、healthy、diet」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author imply by saying aquaculture is no silver bullet?",
+       "options": [
+        "Shrimp-farming is a risky business.",
+        "Fish-farming will not be sustainable.",
+        "Fish-farming may cause serious problems too.",
+        "Shrimp-farming can become quite expensive."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】However, aquaculture is no silver bullet.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 fish-farming、cause、serious、problems 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, aquaculture is no silver bullet.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 fish-farming、cause、serious、problems 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「shrimp-farming、risky、business」全文未出现。",
+         "B": "因果倒置：「sustainable」全文未出现。",
+         "D": "无中生有：「shrimp-farming、become、quite」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 333 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "In 2020, the Nobel Peace Prize was awarded to the World Food Programme (WFP). Why a Nobel Prize for the WFP, and why now? In 2019, the WFP assisted nearly 100 million people in 88 countries. It is the safety net for those who fall off the edge of existence. It is a response to solving the problem of food instability. Its Nobel Prize reminds us all of the moral hazard in imagining that the poor and vulnerable are somebody else's problem. The WFP has been around since 1961 and has been the global coordinator of nationally based efforts to avoid disasters with food aid. Despite decades of effort to eliminate hunger, the latest estimate is that about 11% of people on the planet (about 820 million people) are suffering daily undernourishment. Progress at reducing undernourishment has stopped despite gains through the 1990s and 2000s. Developed countries sometimes offer food and aid to developing ones, but at a price. One American philosopher stated that addressing the needs of the poor and vulnerable is about more than money—it is mostly about creating conditions under which prosperity and opportunity can thrive. When aid is offered with heavy conditions attached, like loan repayment or food for resources, it often widens the gap between rich and poor and sustains the old world order. This is why the work of the WFP is so vital. The scientific community, however, can provide a helping hand to the WFP. By sharing knowledge of agriculture and climate with peers in countries most vulnerable to poverty and hunger, scientists can help reduce these problems. By making its voice heard, science can lead by example. The ability to overcome food shortages that must be built into some of the poorest countries will not come from loans from wealthy countries, which may have food problems of their own, or world economic institutions. This ability will be built upon self-confident people using open and shared scientific knowledge to pull themselves out of their misery.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the WFP's winning of the Nobel Peace Prize make us realize?",
+       "options": [
+        "More and more people in the world are suffering from starvation.",
+        "All of us can be affected by food instability one way or another.",
+        "It is hazardous to leave millions of people poor and vulnerable.",
+        "It is morally wrong to think helping the poor is not our business."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】In 2020, the Nobel Peace Prize was awarded to the World Food Programme (WFP).\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 morally、wrong、think、helping 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In 2020, the Nobel Peace Prize was awarded to the World Food Programme (WFP).",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 morally、wrong、think、helping 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「starvation」全文未出现；把原文的「world」换成了「people、suffering、starvation」，主语或对象被调包。",
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「affected、way、another」全文未出现；把原文的「food」换成了「affected、instability、way」，主语或对象被调包。",
+         "C": "因果倒置：「hazardous、leave、millions」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What do we learn about the WFP's effort to eliminate hunger?",
+       "options": [
+        "It has ensured a sufficient food supply to millions.",
+        "It is still far from its goal despite the progress made.",
+        "It has done a good job in combating natural disasters.",
+        "It is preventing starvation occurring on a global scale."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Despite decades of effort to eliminate hunger, the latest estimate is that about 11% of people on the planet (about 820 million people) are suffering daily undernourishment.\n【依据】正确项的核心词 despite 与定位句对得上；其余 still、far、goal、progress 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Despite decades of effort to eliminate hunger, the latest estimate is that about 11% of people on the planet (about 820 million people) are suffering daily undernourishment.",
+        "why": "正确项的核心词 despite 与定位句对得上；其余 still、far、goal、progress 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「ensured、sufficient、supply」全文未出现；把原文的「millions」换成了「ensured、sufficient、food」，主语或对象被调包。",
+         "C": "无中生有：「done、good、job」全文未出现。",
+         "D": "无中生有：「preventing、starvation、occurring」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What will happen when food aid is offered at a price?",
+       "options": [
+        "The rich will become richer and the poor poorer.",
+        "More people will be willing to join in the effort.",
+        "More food will be made available to the needy.",
+        "The relief effort will be rendered less sustainable."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】When aid is offered with heavy conditions attached, like loan repayment or food for resources, it often widens the gap between rich and poor and sustains the old world order.\n【依据】正确项的核心词 rich、poor 与定位句对得上；其余 become、richer、poorer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When aid is offered with heavy conditions attached, like loan repayment or food for resources, it often widens the gap between rich and poor and sustains the old world order.",
+        "why": "正确项的核心词 rich、poor 与定位句对得上；其余 become、richer、poorer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「willing、join」全文未出现。",
+         "C": "无中生有：「made、available、needy」全文未出现；把原文的「food」换成了「made、available、needy」，主语或对象被调包。",
+         "D": "无中生有：「relief、rendered、less」全文未出现；把原文的「sustainable」换成了「relief、effort、rendered」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "How can scientists help cope with poverty and hunger?",
+       "options": [
+        "By collaborating closely with world economic institutions.",
+        "By sharing expertise with peers in poverty-stricken nations.",
+        "By setting up more food research programs in developing countries.",
+        "By building self-respect in people suffering from undernutrition."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】By sharing knowledge of agriculture and climate with peers in countries most vulnerable to poverty and hunger, scientists can help reduce these problems.\n【依据】正确项的核心词 sharing、peers、poverty-stricken 与定位句对得上；其余 expertise、nations 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "By sharing knowledge of agriculture and climate with peers in countries most vulnerable to poverty and hunger, scientists can help reduce these problems.",
+        "why": "正确项的核心词 sharing、peers、poverty-stricken 与定位句对得上；其余 expertise、nations 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「collaborating、closely」全文未出现。",
+         "C": "无中生有：「setting、research、programs」全文未出现；把原文的「countries」换成了「setting、food、research」，主语或对象被调包。",
+         "D": "无中生有：「building、self-respect、undernutrition」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What message does the author try to convey at the end of the passage?",
+       "options": [
+        "Wealthy nations should solve their own food problems first.",
+        "Rich countries should be more generous in providing food aid.",
+        "Poor nations should enhance their own ability to solve their food shortages.",
+        "World economic institutions should play a bigger role in fighting hunger."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The ability to overcome food shortages that must be built into some of the poorest countries will not come from loans from wealthy countries, which may have food problems of their own, or world economic institutions.\n【依据】正确项的核心词 own、ability、food、shortages 与定位句对得上；其余 poor、nations、enhance、solve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The ability to overcome food shortages that must be built into some of the poorest countries will not come from loans from wealthy countries, which may have food problems of their own, or world economic institutions.",
+        "why": "正确项的核心词 own、ability、food、shortages 与定位句对得上；其余 poor、nations、enhance、solve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「nations、solve、first」全文未出现；把原文的「wealthy、own、food」换成了「nations、solve、first」，主语或对象被调包。",
+         "B": "偷换主体：「generous、providing」全文未出现；把原文的「countries、food」换成了「rich、generous、providing」，主语或对象被调包。",
+         "D": "无中生有：「play、bigger、role」全文未出现；把原文的「world、economic、institutions」换成了「play、bigger、role」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 326 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "立春在中国农历中表示春天的开始。立春之后，白天变得更长，天气也愈发温暖，万物开始复苏，大地充满生机。人们常说\"一年之计在于春\"，农民在这个时节开始播种，为全年的丰收打下基础。中国人早在三千年前就己开始在立春这一天举行庆祝活动。数百年来，迎春一直是民间的重要习俗。在春暖花开的日子里，人们常常外出游玩，欣赏春天的美景。",
+     "reference": "Lichun (Start of Spring) marks the beginning of spring in the Chinese lunar calendar After Lichun, the days grow longer and the weather becomes warmer; everything comes back to life, and the earth is full of vitality. As people often say, \"The whole year's work depends on a good start in spring.\" At this time of year, farmers start sowing to lay the foundation for a good harvest throughout the whole year. The Chinese have started to hold celebrations on this day as early as 3,000 years ago. For centuries, welcoming spring has been an important folk custom. On warm spring days when flowers are in full bloom, people often go out for outings to enjoy the beautiful scenery of spring.",
+     "keyPoints": [
+      "Lichun (Start of Spring) marks the beginning of spring in the Chinese lunar calendar After Lichun, the days grow longer and the weather becomes warmer; everything comes back to life, and the earth is full of vitality.",
+      "As people often say, \"The whole year's work depends on a good start in spring.\" At this time of year, farmers start sowing to lay the foundation for a good harvest throughout the whole year.",
+      "The Chinese have started to hold celebrations on this day as early as 3,000 years ago.",
+      "For centuries, welcoming spring has been an important folk custom.",
+      "On warm spring days when flowers are in full bloom, people often go out for outings to enjoy the beautiful scenery of spring."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

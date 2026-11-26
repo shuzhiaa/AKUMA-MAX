@@ -1,0 +1,1164 @@
+{
+ "id": "cet6-2021-06-2",
+ "levelId": "cet6",
+ "title": "六级 2021 年 06 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年6月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2021-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2021-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 你觉得新工作怎么样？"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 到目前为止，一切都不错"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 从你描述上一家公司的情况来看"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 是啊。合同一到期"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 我们公司的经理往往比较体谅人"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 这并不奇怪。我现在的公司似乎采用了一套兼顾同理心和直率的反馈政策"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 但这应该建立在相互信任的氛围之上"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 没错。没有信任的氛围"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 是的。毕竟，建设性的反馈正是我们学习和成长的方式"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 完全正确。"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "How does the woman describe her previous company's culture?",
+       "options": [
+        "Weird.",
+        "Efficient.",
+        "Tolerant.",
+        "Toxic."
+       ],
+       "optionsZh": [
+        "古怪的。",
+        "高效的。",
+        "宽容的。",
+        "有毒的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Toxic.（有毒的。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the man say about his company's managers?",
+       "options": [
+        "They are arrogant.",
+        "They are ignorant.",
+        "They are ambitious.",
+        "They are accommodating."
+       ],
+       "optionsZh": [
+        "他们傲慢自大。",
+        "他们无知。",
+        "他们雄心勃勃。",
+        "他们乐于助人。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are accommodating.（他们乐于助人。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the woman say the employees in her new company can do?",
+       "options": [
+        "They can think big.",
+        "They can air their views.",
+        "They can break conventions.",
+        "They can work flexible hours."
+       ],
+       "optionsZh": [
+        "他们能有远大理想。",
+        "他们能表达自己的观点。",
+        "他们能打破常规。",
+        "他们能弹性工作。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They can air their views.（他们能表达自己的观点。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the man say about constructive feedback?",
+       "options": [
+        "It can alter people's mindsets.",
+        "It can lead to new discoveries.",
+        "It enables people to learn and grow.",
+        "It is conducive to critical thinking."
+       ],
+       "optionsZh": [
+        "它能改变人们的思维方式。",
+        "它能带来新发现。",
+        "它使人们能够学习和成长。",
+        "它有助于批判性思维。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It enables people to learn and grow.（它使人们能够学习和成长。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the man say about his holiday?",
+       "options": [
+        "He kept looking for the best place to stay.",
+        "He met many tourists from other countries.",
+        "He had a great time sightseeing and relaxing.",
+        "He managed to visit a different city each day."
+       ],
+       "optionsZh": [
+        "他一直在寻找最好的住处。",
+        "他遇到了许多来自其他国家的游客。",
+        "他在观光和休闲方面度过了美好时光。",
+        "他设法每天都游览一个不同的城市。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He kept looking for the best place to stay.（他一直在寻找最好的住处。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the woman say people tend to do when making decisions?",
+       "options": [
+        "Prioritize what is essential to their best advantage.",
+        "Stretch out the process in search of the optimal.",
+        "Deliberate the consequences that may occur.",
+        "Take all relevant factors into consideration."
+       ],
+       "optionsZh": [
+        "优先考虑对自己最有利的关键事项。",
+        "延长过程以寻求最优选择。",
+        "考虑可能发生的后果。",
+        "将所有相关因素纳入考虑。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Stretch out the process in search of the optimal.（延长过程以寻求最优选择。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What has made decision making increasingly difficult?",
+       "options": [
+        "Time pressure.",
+        "Tight budget.",
+        "Modern technology.",
+        "Fierce competition."
+       ],
+       "optionsZh": [
+        "时间压力。",
+        "预算紧张。",
+        "现代技术。",
+        "激烈竞争。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Modern technology.（现代技术。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "According to the woman, what should people do when making important decisions?",
+       "options": [
+        "Research as many different options as possible.",
+        "Avoid going over the same options repeatedly.",
+        "Focus on what is practical.",
+        "Trust their gut instinct."
+       ],
+       "optionsZh": [
+        "研究尽可能多的不同选项。",
+        "避免反复考虑相同的选项。",
+        "关注实际可行的方面。",
+        "相信自己的直觉。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Avoid going over the same options repeatedly.（避免反复考虑相同的选项。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What did the 2006 research find about homework?",
+       "options": [
+        "It is beneficial to poor as well as rich communities.",
+        "It is conducive to children's future development.",
+        "It is welcome to parents but not to children.",
+        "It is not of much help to younger children."
+       ],
+       "optionsZh": [
+        "它对贫困社区和富裕社区都有益。",
+        "它有助于儿童的未来发展。",
+        "家长欢迎它,但儿童不欢迎。",
+        "它对年龄较小的儿童帮助不大。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is not of much help to younger children.（它对年龄较小的儿童帮助不大。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What do experts think of homework requiring internet access?",
+       "options": [
+        "It may put some students in remote areas at a disadvantage.",
+        "It gives the majority of students ready access to their teachers.",
+        "It effectively improves the learning quality of students in rural areas.",
+        "It can bridge the learning gap between kids of different backgrounds."
+       ],
+       "optionsZh": [
+        "它可能使偏远地区的一些学生处于不利地位。",
+        "它使大多数学生能够随时联系到他们的老师。",
+        "它有效地提高了农村地区学生的学习质量。",
+        "它可以弥合不同背景孩子之间的学习差距。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It may put some students in remote areas at a disadvantage.（它可能使偏远地区的一些学生处于不利地位。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What conclusion could be drawn from the study in Germany?",
+       "options": [
+        "Diligent students tend to do their homework independently.",
+        "The focus of homework should always be on school subjects.",
+        "Doing homework exerts a positive effect on kids' personality development.",
+        "The benefits of doing homework vary widely from individual to individual."
+       ],
+       "optionsZh": [
+        "勤奋的学生倾向于独立完成家庭作业。",
+        "家庭作业的重点应始终放在学校科目上。",
+        "做家庭作业对孩子的性格发展产生积极影响。",
+        "做家庭作业的益处因人而异,差异很大。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Doing homework exerts a positive effect on kids' personality development.（做家庭作业对孩子的性格发展产生积极影响。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What do we learn about Goddard's idea of using rockets for space exploration?",
+       "options": [
+        "It was something he apologized for later.",
+        "It was ridiculed by the New York Times.",
+        "It was a forty-nine-year plan.",
+        "It was considered visionary."
+       ],
+       "optionsZh": [
+        "这是他后来道歉的事情。",
+        "它遭到了《纽约时报》的嘲笑。",
+        "这是一个四十九年的计划。",
+        "它被认为具有远见。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It was ridiculed by the New York Times.（它遭到了《纽约时报》的嘲笑。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the passage say about Goddard's first rocket voyage?",
+       "options": [
+        "It was of great significance to rocket science.",
+        "It was completed in the state of New Mexico.",
+        "It was somehow delayed about 12 minutes.",
+        "It failed due to a sudden change of weather."
+       ],
+       "optionsZh": [
+        "它对火箭科学具有重大意义。",
+        "它是在新墨西哥州完成的。",
+        "它不知何故延迟了大约12分钟。",
+        "它因天气突变而失败。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It was of great significance to rocket science.（它对火箭科学具有重大意义。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "Why did Goddard move to New Mexico?",
+       "options": [
+        "A laboratory and test range was already set up there.",
+        "Its climate was ideal for year-round rocket launching.",
+        "A weather expert invited him to go there for his mission.",
+        "Its remote valleys were appealing to him and his family."
+       ],
+       "optionsZh": [
+        "那里已经建立了一个实验室和测试场。",
+        "那里的气候非常适合全年发射火箭。",
+        "一位气象专家邀请他去那里执行任务。",
+        "那里偏远的山谷对他和他的家人很有吸引力。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Its climate was ideal for year-round rocket launching.（那里的气候非常适合全年发射火箭。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the passage say about Goddard's achievements?",
+       "options": [
+        "He won an award from the US government for his work.",
+        "He gained recognition from rocket scientists worldwide.",
+        "He was granted over 200 patents in rocket technology.",
+        "He boosted the military strength of the United States."
+       ],
+       "optionsZh": [
+        "他因其工作获得了美国政府的奖项。",
+        "他获得了全世界火箭科学家的认可。",
+        "他获得了200多项火箭技术专利。",
+        "他增强了美国的军事实力。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He was granted over 200 patents in rocket technology.（他获得了200多项火箭技术专利。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say about working for a new venture?",
+       "options": [
+        "It requires entrepreneurial experience.",
+        "It is usually financially rewarding.",
+        "It can be quite frustrating.",
+        "It can be rather risky."
+       ],
+       "optionsZh": [
+        "这需要创业经验。",
+        "这通常在经济上是有回报的。",
+        "这可能相当令人沮丧。",
+        "这可能相当有风险。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It can be rather risky.（这可能相当有风险。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What has science demonstrated regarding the positive culture of a new venture?",
+       "options": [
+        "It contributes to rapid business expansion.",
+        "It inspires willingness to make sacrifices.",
+        "It reduces conflict among team members.",
+        "It encourages creation and innovation."
+       ],
+       "optionsZh": [
+        "它有助于快速的业务扩张。",
+        "它激发做出牺牲的意愿。",
+        "它减少团队成员之间的冲突。",
+        "它鼓励创造和创新。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It reduces conflict among team members.（它减少团队成员之间的冲突。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What does the speaker say about entrepreneurs at the initial stage of a new venture?",
+       "options": [
+        "They have unrealistic expectations.",
+        "They often work without any pay.",
+        "Few can find willing investors.",
+        "Many are idealistic dreamers."
+       ],
+       "optionsZh": [
+        "他们有不切实际的期望。",
+        "他们常常无偿工作。",
+        "很少有人能找到愿意投资的人。",
+        "许多人是理想主义的梦想家。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They often work without any pay.（他们常常无偿工作。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What do we learn about the possible reason why women tend to live longer?",
+       "options": [
+        "They have better dietary habits.",
+        "They bear fewer social responsibilities.",
+        "They are born with a stronger ability to socialize.",
+        "They are better able to survive or handle disease."
+       ],
+       "optionsZh": [
+        "她们有更好的饮食习惯。",
+        "她们承担较少的社会责任。",
+        "她们天生具有更强的社交能力。",
+        "她们更能够存活下来或应对疾病。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are better able to survive or handle disease.（她们更能够存活下来或应对疾病。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What is the recent discovery about human cells?",
+       "options": [
+        "They have a limited reproductive ability.",
+        "They depend on adequate sleep to thrive.",
+        "They keep dividing throughout one's life.",
+        "They strengthen with regular exercise."
+       ],
+       "optionsZh": [
+        "它们的繁殖能力有限。",
+        "它们依赖充足的睡眠才能茁壮生长。",
+        "它们在人的一生中持续分裂。",
+        "它们通过定期锻炼而增强。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They have a limited reproductive ability.（它们的繁殖能力有限。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do many public health policy makers believe?",
+       "options": [
+        "The process of ageing can ultimately be brought under control.",
+        "Improved health care for the elderly will contribute to longevity.",
+        "Prevention of heart disease and stroke will increase life expectancy.",
+        "The resolution of age-related diseases will solve the mystery of ageing."
+       ],
+       "optionsZh": [
+        "衰老过程最终能够被控制。",
+        "改善老年人医疗保健将有助于延长寿命。",
+        "预防心脏病和中风将提高预期寿命。",
+        "解决与年龄相关的疾病将解开衰老之谜。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The resolution of age-related diseases will solve the mystery of ageing.（解决与年龄相关的疾病将解开衰老之谜。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "Why are managers often frustrated with their employees?",
+       "options": [
+        "They are reluctant to follow instructions.",
+        "They fail to answer emails promptly.",
+        "They cannot understand directives.",
+        "They do not show due respect."
+       ],
+       "optionsZh": [
+        "他们不愿意遵循指示。",
+        "他们未能及时回复电子邮件。",
+        "他们无法理解指令。",
+        "他们没有表现出应有的尊重。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They are reluctant to follow instructions.（他们不愿意遵循指示。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "Why do employees sometimes disobey procedures intentionally?",
+       "options": [
+        "They have not been trained to follow the rules.",
+        "They are not satisfied with the management.",
+        "They want to avoid unnecessary losses.",
+        "They find their voice go unheeded."
+       ],
+       "optionsZh": [
+        "他们没有接受过遵守规则的培训。",
+        "他们对管理层不满意。",
+        "他们想要避免不必要的损失。",
+        "他们发现自己的声音无人理会。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They want to avoid unnecessary losses.（他们想要避免不必要的损失。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "When are employees more likely to follow instructions, according to the researchers?",
+       "options": [
+        "When they are on good terms with their managers.",
+        "When they find their job goals easily attainable.",
+        "When they find their supervisors helpful.",
+        "When they are financially motivated."
+       ],
+       "optionsZh": [
+        "当他们与管理者关系良好时。",
+        "当他们发现自己的工作目标容易实现时。",
+        "当他们发现主管乐于助人时。",
+        "当他们受到经济激励时。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：When they find their supervisors helpful.（当他们发现主管乐于助人时。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the speaker say about emails?",
+       "options": [
+        "They are a useless tool for managers to change employee behavior.",
+        "They prove to be a good means for managers to give instructions.",
+        "They should be reserved for urgent communication.",
+        "They are seldom used for sharing confidential data."
+       ],
+       "optionsZh": [
+        "它们对于管理者改变员工行为来说是无用的工具。",
+        "事实证明它们是管理者发出指示的好方法。",
+        "它们应该留作紧急沟通使用。",
+        "它们很少用于共享机密数据。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They are a useless tool for managers to change employee behavior.（它们对于管理者改变员工行为来说是无用的工具。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in higher education . You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "I'm always baffled when I walk into a pharmacy and see shelves bursting with various vitamins, extracts and other supplements, all promising to accelerate or promote weight loss. Aisles of marketing genius belie(掩饰) the fact that, {{1}} , weight loss is dictated by the laws of arithmetic. Economist Jessica Irvine wrote a book about how she used math to help her lose more than 18 kilograms. If calories taken in are less than calories {{2}} , weight shall be lost, and so it is with money. Despite the {{3}} of financial products, services and solutions geared towards accumulating wealth, it all begins with the same {{4}} : getting ahead financially requires a reduction of spending, so that income is greater than expenses. I was reminded of this again recently listening to an interview with Nicole Haddow, the author of Smashed Avocado, explaining how she cracked the property market at 31. It was quite a {{5}} , given where she had been two years earlier. Nicole didn't celebrate her 30th birthday as she had {{6}} . She was sobbing at the dinner table with her parents, with whom she had just moved back in. She had no stable income, $12,000 in credit-card debt and no plan, but to her {{7}} , her father, an accountant, told her that her financial {{8}} wasn't as bad as she thought. He said, on her income, with some changes, she would be able to buy an investment unit within two years, which she did. Nicole admitted she was fortunate, as she was able to live with her parents and {{9}} her spending—and life—to get herself on track financially. Creating a gap between her income and spending required a paradigm shift and {{10}} sacrifice and commitment, but by going into financial lockdown, Nicole gained financial independence.",
+     "options": [
+      "abundance",
+      "astonishment",
+      "entailed",
+      "envisaged",
+      "equation",
+      "expended",
+      "feat",
+      "fiscally",
+      "impetus",
+      "overhaul",
+      "permanently",
+      "plight",
+      "prosper",
+      "shatter",
+      "ultimately"
+     ],
+     "answers": [
+      14,
+      5,
+      0,
+      4,
+      6,
+      3,
+      1,
+      11,
+      9,
+      2
+     ],
+     "blankExplains": [
+      "【定位】Aisles of marketing genius belie(掩饰) the fact that, ____ , weight loss is dictated by the laws of arithmetic.\n【依据】答案是 ultimately：填回后与所在句 aisles、marketing、genius、belie、fact、weight 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If calories taken in are less than calories ____ , weight shall be lost, and so it is with money.\n【依据】答案是 expended：填回后与所在句 calories、taken、less、calories、weight、shall 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Despite the ____ of financial products, services and solutions geared towards accumulating wealth, it all begins with the same  … : getting ahead financially requires a reduction of spending, so that income is greater than expenses.\n【依据】答案是 abundance：填回后与所在句 despite、financial、products、services、solutions、geared 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Despite the  … of financial products, services and solutions geared towards accumulating wealth, it all begins with the same ____ : getting ahead financially requires a reduction of spending, so that income is greater than expenses.\n【依据】答案是 equation：填回后与所在句 despite、financial、products、services、solutions、geared 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It was quite a ____ , given where she had been two years earlier.\n【依据】答案是 feat：填回后与所在句 quite、given、where、two、years、earlier 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Nicole didn't celebrate her 30th birthday as she had ____ .\n【依据】答案是 envisaged：填回后与所在句 nicole、didn't、celebrate、birthday 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】She had no stable income, $12,000 in credit-card debt and no plan, but to her ____ , her father, an accountant, told her that her financial  … wasn't as bad as she thought.\n【依据】答案是 astonishment：填回后与所在句 stable、income、credit-card、debt、plan、father 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】She had no stable income, $12,000 in credit-card debt and no plan, but to her  … , her father, an accountant, told her that her financial ____ wasn't as bad as she thought.\n【依据】答案是 plight：填回后与所在句 stable、income、credit-card、debt、plan、father 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Nicole admitted she was fortunate, as she was able to live with her parents and ____ her spending—and life—to get herself on track financially.\n【依据】答案是 overhaul：填回后与所在句 nicole、admitted、fortunate、able、live、parents 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Creating a gap between her income and spending required a paradigm shift and ____ sacrifice and commitment, but by going into financial lockdown, Nicole gained financial independence.\n【依据】答案是 entailed：填回后与所在句 creating、gap、between、income、spending、required 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Aisles of marketing genius belie(掩饰) the fact that, ____ , weight loss is dictated by the laws of arithmetic.",
+       "why": "答案是 ultimately：填回后与所在句 aisles、marketing、genius、belie、fact、weight 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ultimately 这个词性/语义，而不是 abundance）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ultimately 这个词性/语义，而不是 astonishment）。"
+       }
+      },
+      {
+       "locate": "If calories taken in are less than calories ____ , weight shall be lost, and so it is with money.",
+       "why": "答案是 expended：填回后与所在句 calories、taken、less、calories、weight、shall 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 expended 这个词性/语义，而不是 entailed）。",
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 expended 这个词性/语义，而不是 envisaged）。"
+       }
+      },
+      {
+       "locate": "Despite the ____ of financial products, services and solutions geared towards accumulating wealth, it all begins with the same  … : getting ahead financially requires a reduction of spending, so that income is greater than expenses.",
+       "why": "答案是 abundance：填回后与所在句 despite、financial、products、services、solutions、geared 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 abundance 这个词性/语义，而不是 astonishment）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 abundance 这个词性/语义，而不是 entailed）。"
+       }
+      },
+      {
+       "locate": "Despite the  … of financial products, services and solutions geared towards accumulating wealth, it all begins with the same ____ : getting ahead financially requires a reduction of spending, so that income is greater than expenses.",
+       "why": "答案是 equation：填回后与所在句 despite、financial、products、services、solutions、geared 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 equation 这个词性/语义，而不是 entailed）。",
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 equation 这个词性/语义，而不是 envisaged）。"
+       }
+      },
+      {
+       "locate": "It was quite a ____ , given where she had been two years earlier.",
+       "why": "答案是 feat：填回后与所在句 quite、given、where、two、years、earlier 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 feat 这个词性/语义，而不是 fiscally）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 feat 这个词性/语义，而不是 abundance）。"
+       }
+      },
+      {
+       "locate": "Nicole didn't celebrate her 30th birthday as she had ____ .",
+       "why": "答案是 envisaged：填回后与所在句 nicole、didn't、celebrate、birthday 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 envisaged 这个词性/语义，而不是 entailed）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 envisaged 这个词性/语义，而不是 equation）。"
+       }
+      },
+      {
+       "locate": "She had no stable income, $12,000 in credit-card debt and no plan, but to her ____ , her father, an accountant, told her that her financial  … wasn't as bad as she thought.",
+       "why": "答案是 astonishment：填回后与所在句 stable、income、credit-card、debt、plan、father 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 astonishment 这个词性/语义，而不是 abundance）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 astonishment 这个词性/语义，而不是 entailed）。"
+       }
+      },
+      {
+       "locate": "She had no stable income, $12,000 in credit-card debt and no plan, but to her  … , her father, an accountant, told her that her financial ____ wasn't as bad as she thought.",
+       "why": "答案是 plight：填回后与所在句 stable、income、credit-card、debt、plan、father 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 plight 这个词性/语义，而不是 permanently）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 plight 这个词性/语义，而不是 prosper）。"
+       }
+      },
+      {
+       "locate": "Nicole admitted she was fortunate, as she was able to live with her parents and ____ her spending—and life—to get herself on track financially.",
+       "why": "答案是 overhaul：填回后与所在句 nicole、admitted、fortunate、able、live、parents 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 overhaul 这个词性/语义，而不是 abundance）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 overhaul 这个词性/语义，而不是 astonishment）。"
+       }
+      },
+      {
+       "locate": "Creating a gap between her income and spending required a paradigm shift and ____ sacrifice and commitment, but by going into financial lockdown, Nicole gained financial independence.",
+       "why": "答案是 entailed：填回后与所在句 creating、gap、between、income、spending、required 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 entailed 这个词性/语义，而不是 envisaged）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 entailed 这个词性/语义，而不是 equation）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Notre Dame Cathedral in the heart of Paris was within \"15 to 30 minutes\" of complete destruction as firefighters battled to stop flames reaching its bell towers on Monday evening, French authorities have revealed. A greater disaster was averted by members of the Paris fire brigade, who risked their lives to remain inside the burning monument to create a wall of water between the raging fire and the two towers on the west of the building."
+      },
+      {
+       "id": "B",
+       "text": "The revelation of how close France came to losing its most famous cathedral emerged as police investigators questioned workers involved in the restoration of the monument to try to establish the cause of the devastating blaze. Paris prosecutor Remy Heitz said that an initial fire alert was sounded at 6:20 pm on Monday evening but no fire was found. The second alert was sounded at 6:43 pm, and the blaze was discovered on the roof."
+      },
+      {
+       "id": "C",
+       "text": "More than €650 million was raised in a few hours on Tuesday as French business leaders and global corporations announced they would donate to a restoration campaign launched by the president, Emmanuel Macron. But as the emergency services picked through the burnt debris, a row was resurfacing over accusations that the beloved cathedral, immortalised in Victor Hugo's novel, was already crumbling before the fire."
+      },
+      {
+       "id": "D",
+       "text": "The cathedral is owned by the French state and has been at the centre of a years-long dispute over who should finance restoration work of the collapsing staircases, crumbling statues and cracked walls. Jean-Michel Leniaud, the president of the scientific council at the National Heritage Institute, said: \"What happened was bound to happen. The lack of adequate maintenance and daily attention to such a majestic building is the cause of this catastrophe.\" After the blaze was declared completely extinguished, 15 hours after it started, the junior interior minister, Laurent Nunez, said the structure had been saved but remained vulnerable. He praised the actions of the firefighters but admitted the fate of the cathedral had been uncertain. \"They saved the main structure, but it all came down to 15-30 minutes,\" Nunez said."
+      },
+      {
+       "id": "E",
+       "text": "In a surprise televised address on Tuesday evening, Macron said he wanted to see the cathedral rebuilt within five years. \"The fire at Notre Dame reminds us that we will always have challenges to overcome,\" Macron said, \"Notre Dame is our history, our literature, the centre of our life. It is the standard by which we measure our distances. It's so many books, so many paintings. It's the cathedral of every French person, even those who have never visited it. This history is ours and so we will rebuild Notre Dame. It is what the French people expect; it is what our history deserves. It is our deep destiny. We will rebuild Notre Dame so it is even more beautiful than before. I want it done in the next five years. We can do it. After the time of testing comes a time of reflection and then of action.\""
+      },
+      {
+       "id": "F",
+       "text": "The fire, which had started at the base of the 93-metre spire(尖塔) at about 6:40 pm on Monday, spread through the cathedral's roof, made up of hundreds of oak beams, some dating back to the 13th century. These beams, known as la forêt (the forest) because of their density, formed the cross-shaped roof that ran the length of the central part of the cathedral. As hundreds of tourists and Parisians stood and watched the flames leaping from the roof, there was shock and tears as the cathedral spire caught fire, burned and then collapsed into itself."
+      },
+      {
+       "id": "G",
+       "text": "A collection of dramatic videos and photos quickly spread across social media, showing the horrifying destruction, and attracting emotional responses from people all over the world. Indeed, within minutes the fire occupied headlines of every major global newspaper and television network. This is not surprising given Notre Dame Cathedral, meaning \"Our Lady\", is one of the most recognised symbols of the city of Paris attracting millions of tourists every year."
+      },
+      {
+       "id": "H",
+       "text": "While the world looked on, the 500 firefighters at the scene then battled to prevent the flames from reaching the two main towers, where the cathedral bells hang. If the wooden frame of the towers had caught fire, it could have sent the bells—the largest of which, the Emmanuel Bell, weighs 13 tons—crashing down, potentially causing the collapse of both towers. Police and fire services will spend the next 48 hours assessing the \"security and safety\" of the 850-year-old structure. Nunez said: \"We have identified vulnerabilities throughout the structure, all of which still need securing.\" As a result, residents of five buildings around the northern side of the cathedral were being temporarily evacuated, he added. Architects have identified three main holes in the structure, in the locations of the spire, the main hall and the upper rooms to the north of the central aisle. Most of the wooden roof beams have been burned, and parts of the concrete holding up the roof have collapsed."
+      },
+      {
+       "id": "I",
+       "text": "The interior minister, Christophe Castaner, visited the cathedral on Tuesday afternoon to see the extent of the devastation. Ash covered the marble diamond-patterned floor and floated in large pools of grey water from the fire hoses. Behind a heap of blackened oak beams that lay piled up where they had fallen, daylight from vast holes in the cathedral roof lit a golden cross over a statue by Nicolas Coustou, which appeared to have escaped damage. Preliminary inspections also suggested the three ornate(装饰华丽的) stained glass \"rose\" windows appeared to have survived the fire, officials said. However, fire officers have said a complete inventory of the damage will not be possible until the cathedral structure has been deemed safe."
+      },
+      {
+       "id": "J",
+       "text": "The culture minister, Franck Riester, said religious relics saved from the cathedral were being securely held at the Hotel de Ville, and works of art that sustained smoke damage were being taken to the Louvre, the world's largest art museum, where they would be dried out, repaired and stored. Sixteen copper statues that decorated the spire had been removed for restoration only a few days before the fire. Relics at the top of the spire are believed lost as the spire was destroyed. As well as damage from the heat, which firefighters said reached more than 800 ℃, experts also need to assess damage from the vast quantities of water firefighters poured into the cathedral. One casualty of this was The Great Organ constructed in the 1730s, which was said to have escaped the flames but been significantly damaged by water."
+      },
+      {
+       "id": "K",
+       "text": "French political commentators noted the devastating fire had succeeded where Macron had failed in uniting the country. But criticism over the original state of the building is likely to intensify over coming days. Leniaud told La Croix newspaper: \"This is not about looking for people to blame. The responsibility is collective because this is the most loved monument in the country.\" Alexandre Gady, an art historian, agreed. \"We've been saying for years that the budget for maintaining historic monuments is too low,\" Gady said. The Paris prosecutor's office has opened an inquiry into \"involuntary destruction by fire\", indicating they believe the cause of the blaze was accidental rather than criminal."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "The total amount of damage to Notre Dame Cathedral can be assessed only when its structure is considered safe."
+      },
+      {
+       "id": "s37",
+       "text": "Once again people began to argue whether Notre Dame Cathedral was going to collapse even without the fire."
+      },
+      {
+       "id": "s38",
+       "text": "The Notre Dame Cathedral catastrophe was said to have helped unite the French nation."
+      },
+      {
+       "id": "s39",
+       "text": "The roof of Notre Dame Cathedral was built with large numbers of densely laid-out wood beams."
+      },
+      {
+       "id": "s40",
+       "text": "Renovation workers of Notre Dame Cathedral were questioned to find out the cause of the accident."
+      },
+      {
+       "id": "s41",
+       "text": "Had the bell towers' wooden frames burned down, the heavy bells would have crashed down."
+      },
+      {
+       "id": "s42",
+       "text": "The timely action of the firefighters prevented the fire from reaching the Cathedral's bell towers."
+      },
+      {
+       "id": "s43",
+       "text": "Apart from the fire, the water used to extinguish it also caused a lot of damage to Notre Dame Cathedral."
+      },
+      {
+       "id": "s44",
+       "text": "There has been argument over the years as to who should pay for the restoration of Notre Dame Cathedral."
+      },
+      {
+       "id": "s45",
+       "text": "News of the Notre Dame Cathedral catastrophe instantly caught media attention throughout the world."
+      }
+     ],
+     "answers": [
+      "I",
+      "C",
+      "K",
+      "F",
+      "B",
+      "H",
+      "A",
+      "J",
+      "D",
+      "G"
+     ],
+     "statementExplains": [
+      "【定位】However, fire officers have said a complete inventory of the damage will not be possible until the cathedral structure has been deemed safe.\n【依据】陈述里的 damage、cathedral、structure、safe 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】But as the emergency services picked through the burnt debris, a row was resurfacing over accusations that the beloved cathedral, immortalised in Victor Hugo's novel, was already crumbling before the fire.\n【依据】陈述里的 cathedral、fire 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】French political commentators noted the devastating fire had succeeded where Macron had failed in uniting the country.\n【依据】陈述里的 french 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】The fire, which had started at the base of the 93-metre spire(尖塔) at about 6:40 pm on Monday, spread through the cathedral's roof, made up of hundreds of oak beams, some dating back to the 13th century.\n【依据】陈述里的 roof、cathedral、beams 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】The revelation of how close France came to losing its most famous cathedral emerged as police investigators questioned workers involved in the restoration of the monument to try to establish the cause of the devastating blaze.\n【依据】陈述里的 workers、cathedral、questioned、cause 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】If the wooden frame of the towers had caught fire, it could have sent the bells—the largest of which, the Emmanuel Bell, weighs 13 tons—crashing down, potentially causing the collapse of both towers.\n【依据】陈述里的 bell、towers'、wooden、frames、down、bells 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】Notre Dame Cathedral in the heart of Paris was within \"15 to 30 minutes\" of complete destruction as firefighters battled to stop flames reaching its bell towers on Monday evening, French authorities have revealed.\n【依据】陈述里的 firefighters、reaching、cathedral's、bell、towers 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】As well as damage from the heat, which firefighters said reached more than 800 ℃, experts also need to assess damage from the vast quantities of water firefighters poured into the cathedral.\n【依据】陈述里的 water、damage、cathedral 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】The cathedral is owned by the French state and has been at the centre of a years-long dispute over who should finance restoration work of the collapsing staircases, crumbling statues and cracked walls.\n【依据】陈述里的 over、years、who、restoration、cathedral 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】This is not surprising given Notre Dame Cathedral, meaning \"Our Lady\", is one of the most recognised symbols of the city of Paris attracting millions of tourists every year.\n【依据】陈述里的 notre、dame、cathedral 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "However, fire officers have said a complete inventory of the damage will not be possible until the cathedral structure has been deemed safe.",
+       "why": "陈述里的 damage、cathedral、structure、safe 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But as the emergency services picked through the burnt debris, a row was resurfacing over accusations that the beloved cathedral, immortalised in Victor Hugo's novel, was already crumbling before the fire.",
+       "why": "陈述里的 cathedral、fire 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "French political commentators noted the devastating fire had succeeded where Macron had failed in uniting the country.",
+       "why": "陈述里的 french 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The fire, which had started at the base of the 93-metre spire(尖塔) at about 6:40 pm on Monday, spread through the cathedral's roof, made up of hundreds of oak beams, some dating back to the 13th century.",
+       "why": "陈述里的 roof、cathedral、beams 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The revelation of how close France came to losing its most famous cathedral emerged as police investigators questioned workers involved in the restoration of the monument to try to establish the cause of the devastating blaze.",
+       "why": "陈述里的 workers、cathedral、questioned、cause 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If the wooden frame of the towers had caught fire, it could have sent the bells—the largest of which, the Emmanuel Bell, weighs 13 tons—crashing down, potentially causing the collapse of both towers.",
+       "why": "陈述里的 bell、towers'、wooden、frames、down、bells 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Notre Dame Cathedral in the heart of Paris was within \"15 to 30 minutes\" of complete destruction as firefighters battled to stop flames reaching its bell towers on Monday evening, French authorities have revealed.",
+       "why": "陈述里的 firefighters、reaching、cathedral's、bell、towers 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As well as damage from the heat, which firefighters said reached more than 800 ℃, experts also need to assess damage from the vast quantities of water firefighters poured into the cathedral.",
+       "why": "陈述里的 water、damage、cathedral 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The cathedral is owned by the French state and has been at the centre of a years-long dispute over who should finance restoration work of the collapsing staircases, crumbling statues and cracked walls.",
+       "why": "陈述里的 over、years、who、restoration、cathedral 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This is not surprising given Notre Dame Cathedral, meaning \"Our Lady\", is one of the most recognised symbols of the city of Paris attracting millions of tourists every year.",
+       "why": "陈述里的 notre、dame、cathedral 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "We often think of drawing as something that takes inborn talent, but this kind of thinking stems from our misclassification of drawing as, primarily, an art form rather than a tool for learning. Researchers, teachers, and artists are starting to see how drawing can positively impact a wide variety of skills and disciplines. Most of us have spent some time drawing before, but at some point, most of us stop drawing. There are people who don't, obviously, and thank God for that: a world without designers and artists would be a very shabby one indeed. Some argue that so many adults have abandoned drawing because we've miscategorized it and given it a very narrow definition. In his book, Stick Figures: Drawing as a Human Practice, Professor D. B. Dowd argues that we have misfiled the significance of drawing because we see it as a professional skill instead of a personal capacity. We mistakenly think of \"good\" drawings as those which work as recreations of the real world, as realistic illusions. Rather, drawing should be recategorized as a symbolic tool. Human beings have been drawing for 73,000 years. It's part of what it means to be human. We don't have the strength of chimpanzees(大猩猩) because we've given up animal strength to manipulate subtle instruments, like hammers, spears, and—later—pens and pencils. The human hand is an extremely dense network of nerve endings. In many ways, human beings are built to draw. Some researchers argue that doodling(涂画) activates the brain's so-called default circuit—essentially, the areas of the brain responsible for maintaining a baseline level of activity in the absence of other stimuli. Because of this, some believe that doodling during a boring lecture can help students pay attention. In one study, participants were asked to listen to a list of names while either doodling or sitting still. Those who doodled remembered 29 percent more of the names than those who did not. There's also evidence that drawing talent is based on how accurately someone perceives the world. The human visual system tends to misjudge size, shape, color, and angles but artists perceive these qualities more accurately than non-artists. Cultivating drawing talent can become an essential tool to improve people's observational skills in fields where the visual is important. Rather than think of drawing as a talent that some creative people are gifted in, we should consider it as a tool for seeing and understanding the world better—one that just so happens to double as an art form. Both absent-minded doodling and copying from life have been shown to positively affect your memory and visual perception, so complain loudly the next time your school board slashes the art department's budget.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do people generally think about drawing?",
+       "options": [
+        "It is a gift creative people are endowed with.",
+        "It is a skill that is acquired with practice.",
+        "It is an art form that is appreciated by all.",
+        "It is an ability everyone should cultivate."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Rather than think of drawing as a talent that some creative people are gifted in, we should consider it as a tool for seeing and understanding the world better—one that just so happens to double as an art form.\n【依据】正确项的核心词 creative、people 与定位句对得上；其余 gift、endowed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Rather than think of drawing as a talent that some creative people are gifted in, we should consider it as a tool for seeing and understanding the world better—one that just so happens to double as an art form.",
+        "why": "正确项的核心词 creative、people 与定位句对得上；其余 gift、endowed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「acquired」全文未出现。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「appreciated」全文未出现；把原文的「art、form」换成了「appreciated」，主语或对象被调包。",
+         "D": "无中生有：「ability、everyone、cultivate」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we learn about designers and artists?",
+       "options": [
+        "They are declining gradually in number.",
+        "They are keen on changing shabby surroundings.",
+        "They add beauty and charm to the world.",
+        "They spend most of their lives drawing."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】There are people who don't, obviously, and thank God for that: a world without designers and artists would be a very shabby one indeed.\n【依据】正确项的核心词 world 与定位句对得上；其余 add、beauty、charm 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "There are people who don't, obviously, and thank God for that: a world without designers and artists would be a very shabby one indeed.",
+        "why": "正确项的核心词 world 与定位句对得上；其余 add、beauty、charm 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「declining、gradually、number」全文未出现。",
+         "B": "无中生有：「keen、changing、surroundings」全文未出现；把原文的「shabby」换成了「keen、changing、surroundings」，主语或对象被调包。",
+         "D": "无中生有：「spend、lives」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does Professor D. B. Dowd argue in his book?",
+       "options": [
+        "Everybody is born with the capacity to draw.",
+        "Drawing is a skill that requires special training.",
+        "The value of drawing tends to be overestimated.",
+        "Drawing should be redefined as a realistic illusion."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Dowd argues that we have misfiled the significance of drawing because we see it as a professional skill instead of a personal capacity.\n【依据】正确项的核心词 capacity 与定位句对得上；其余 everybody、born、draw 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Dowd argues that we have misfiled the significance of drawing because we see it as a professional skill instead of a personal capacity.",
+        "why": "正确项的核心词 capacity 与定位句对得上；其余 everybody、born、draw 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「requires、special、training」全文未出现；把原文的「drawing、skill」换成了「requires、special、training」，主语或对象被调包。",
+         "C": "无中生有：「value、overestimated」全文未出现；把原文的「drawing」换成了「value、tends、overestimated」，主语或对象被调包。",
+         "D": "无中生有：「redefined、illusion」全文未出现；把原文的「drawing」换成了「redefined、realistic、illusion」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What have some researchers found from one study about doodling?",
+       "options": [
+        "It is a must for maintaining a base level of brain activity.",
+        "It is the most reliable stimulant to activate the brain.",
+        "It can turn something boring into something interesting.",
+        "It helps improve concentration and memory."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Some researchers argue that doodling(涂画) activates the brain's so-called default circuit—essentially, the areas of the brain responsible for maintaining a baseline level of activity in the absence of other stimuli.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 helps、improve、concentration、memory 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Some researchers argue that doodling(涂画) activates the brain's so-called default circuit—essentially, the areas of the brain responsible for maintaining a baseline level of activity in the absence of other stimuli.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 helps、improve、concentration、memory 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「base」全文未出现；把原文的「maintaining、level、brain」换成了「base」，主语或对象被调包。",
+         "B": "无中生有：「reliable」全文未出现；把原文的「stimulant、activate、brain」换成了「reliable」，主语或对象被调包。",
+         "C": "因果倒置：「turn、into、interesting」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What is characteristic of people with drawing talent?",
+       "options": [
+        "Sensitivity to cognitive stimulation.",
+        "Subtlety of representation.",
+        "Accuracy in categorization.",
+        "Precision in visual perception."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Cultivating drawing talent can become an essential tool to improve people's observational skills in fields where the visual is important.\n【依据】正确项的核心词 visual 与定位句对得上；其余 precision、perception 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Cultivating drawing talent can become an essential tool to improve people's observational skills in fields where the visual is important.",
+        "why": "正确项的核心词 visual 与定位句对得上；其余 precision、perception 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「sensitivity、cognitive、stimulation」全文未出现。",
+         "B": "无中生有：「subtlety、representation」全文未出现。",
+         "C": "无中生有：「accuracy、categorization」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "The car has reshaped our cities. It seems to offer autonomy for everyone. There is something almost delightful in the detachment from reality of advertisements showing mass-produced cars marketed as symbols of individuality and of freedom when most of their lives will be spent making short journeys on choked roads. For all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on a modern car are those which work when you're going very slowly: parking sensors, sound systems, and navigation apps which will show a way around upcoming traffic jams. This seems to be one of the few areas where the benefit of sharing personal information comes straight back to the sharer: because these apps know where almost all the users are, and how fast they are moving almost all the time, they can spot traffic congestion(堵塞) very quickly and suggest ways round it. The problem comes when everyone is using a navigation app which tells them to avoid everyone else using the same gadget. Traffic jams often appear where no one has enough information to avoid them. When a lucky few have access to the knowledge, they will benefit greatly. But when everyone has perfect information, traffic jams simply spread onto the side roads that seem to offer a way round them. This new congestion teaches us two things. The first is that the promises of technology will never be realised as fully as we hope; they will be limited by their unforeseen and unintended consequences. Sitting in a more comfortable car in a different traffic jam is pleasant but hardly the liberation that once seemed to be promised. The second is that self-organisation will not get us where we want to go. The efforts of millions of drivers to get ahead do not miraculously produce a situation in which everyone does better than before, but one in which almost everyone does rather worse. Central control and collective organisation can produce smoother and fairer outcomes, though even that much is never guaranteed. Similar limits can be foreseen for the much greater advances promised by self-driving cars. Last week, one operated by the taxi company Uber struck and killed a woman pushing her bicycle across a wide road in Arizona. This was the first recorded death involving a car which was supposed to be fully autonomous. Experts have said that it suggests a \"catastrophic failure\" of technology. Increasingly, even Silicon Valley has to acknowledge the costs of the intoxicating(令人陶醉的) hurry that characterises its culture. What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as it is to benefit us, and that thoughtful regulation is necessary for a better future.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author say about car advertisements?",
+       "options": [
+        "They portray drivers who enjoy speed on the road.",
+        "They present a false picture of the autonomy cars provide.",
+        "They pursue individuality and originality in design concept.",
+        "They overestimate the potential market of autonomous cars."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】For all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on a modern car are those which work when you're going very slowly: parking sensors, sound systems, and navigation apps which will show a way around upcoming traffic jams.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 present、false、picture、autonomy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on a modern car are those which work when you're going very slowly: parking sensors, sound systems, and navigation apps which will show a way around upcoming traffic jams.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 present、false、picture、autonomy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「portray、who、enjoy」全文未出现；把原文的「speed」换成了「portray、drivers、who」，主语或对象被调包。",
+         "C": "无中生有：「pursue、originality、design」全文未出现。",
+         "D": "无中生有：「overestimate、potential、market」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does the author imply about the various gadgets on cars?",
+       "options": [
+        "They can help to alleviate traffic jams.",
+        "Most of them are as effective as advertised.",
+        "Only some can be put to use under current traffic conditions.",
+        "They are constantly upgraded to make driving easier and safer."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】For all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on a modern car are those which work when you're going very slowly: parking sensors, sound systems, and navigation apps which will show a way around upcoming traffic jams.\n【依据】正确项的核心词 traffic 与定位句对得上；其余 only、put、use、under 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on a modern car are those which work when you're going very slowly: parking sensors, sound systems, and navigation apps which will show a way around upcoming traffic jams.",
+        "why": "正确项的核心词 traffic 与定位句对得上；其余 only、put、use、under 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「help、alleviate」全文未出现；把原文的「traffic、jams」换成了「help、alleviate」，主语或对象被调包。",
+         "B": "无中生有：「effective、advertised」全文未出现。",
+         "D": "无中生有：「constantly、upgraded、make」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the author say about the use of navigation apps?",
+       "options": [
+        "It is likely to create traffic jams in other places.",
+        "It helps a great deal in easing traffic congestion.",
+        "It sharply reduces the incidence of traffic accidents.",
+        "It benefits those who are learning to drive."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】For all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on a modern car are those which work when you're going very slowly: parking sensors, sound systems, and navigation apps which will show a way around upcoming traffic jams.\n【依据】正确项的核心词 traffic、jams 与定位句对得上；其余 likely、create、other、places 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on a modern car are those which work when you're going very slowly: parking sensors, sound systems, and navigation apps which will show a way around upcoming traffic jams.",
+        "why": "正确项的核心词 traffic、jams 与定位句对得上；其余 likely、create、other、places 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「helps、great、deal」全文未出现；把原文的「traffic」换成了「helps、great、deal」，主语或对象被调包。",
+         "C": "无中生有：「sharply、reduces、incidence」全文未出现；把原文的「traffic」换成了「sharply、reduces、incidence」，主语或对象被调包。",
+         "D": "无中生有：「benefits、who、learning」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the author say about technology?",
+       "options": [
+        "Its consequences are usually difficult to assess.",
+        "It seldom delivers all the benefits as promised.",
+        "It depends on the required knowledge for application.",
+        "Its benefits are guaranteed by collective wisdom."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as it is to benefit us, and that thoughtful regulation is necessary for a better future.\n【依据】正确项的核心词 benefits 与定位句对得上；其余 seldom、delivers、promised 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as it is to benefit us, and that thoughtful regulation is necessary for a better future.",
+        "why": "正确项的核心词 benefits 与定位句对得上；其余 seldom、delivers、promised 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「usually、difficult、assess」全文未出现。",
+         "C": "无中生有：「depends、required、application」全文未出现。",
+         "D": "偷换主体：「wisdom」全文未出现；把原文的「benefits」换成了「guaranteed、collective、wisdom」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What key message does the author try to convey in the passage?",
+       "options": [
+        "The consequences of technological innovation need not be exaggerated.",
+        "There is always a price to pay to develop technology for a better world.",
+        "Technological innovation should be properly regulated.",
+        "The culture of Silicon Valley ought not to be emulated."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as it is to benefit us, and that thoughtful regulation is necessary for a better future.\n【依据】正确项的核心词 regulated 与定位句对得上；其余 technological、innovation、properly 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as it is to benefit us, and that thoughtful regulation is necessary for a better future.",
+        "why": "正确项的核心词 regulated 与定位句对得上；其余 technological、innovation、properly 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「technological、innovation、need」全文未出现。",
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「always、price、pay」全文未出现；把原文的「better」换成了「there、always、price」，主语或对象被调包。",
+         "D": "因果倒置：「ought、emulated」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 451 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "青海是中国西北部的一个省份，平均海拔米以上，大部分地区为高山和高原。青海省得名于全国最大的咸水湖青海湖。青海湖被誉为\"中国最美的湖泊\"是最受欢迎的旅游景点之一也是摄影师和艺术家的天堂。青海山川壮丽地大物博石油和天然气储量丰富省内许多城市的经济在石油和天然气工业带动下得到了长足发展。青海尤以水资源丰富而闻名是中国三大河流长江、黄河和澜沧江的发源地在中国的水生态中发挥着重要作用。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

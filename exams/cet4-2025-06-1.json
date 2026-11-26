@@ -1,0 +1,1182 @@
+{
+ "id": "cet4-2025-06-1",
+ "levelId": "cet4",
+ "title": "四级 2025 年 06 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年6月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2025-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2025-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "当7岁的Tariq在一根玉米上抹了些黄油时"
+      },
+      {
+       "idx": 2,
+       "zh": "Tariq对他最喜爱的蔬菜表白的热情为他赢得了\"玉米小子\"的称号"
+      },
+      {
+       "idx": 3,
+       "zh": "Jax和Goodman盗窃邮件约四个月"
+      },
+      {
+       "idx": 4,
+       "zh": "Jax和Goodman各自面临邮件盗窃罪最高五年联邦监禁"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 嗯……但我不太确定怎么做"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 嗯，比如说，地铁系统可以装空调"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 啊，是的，你说得完全对"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 哦，那好多了。"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 是啊，更方便。36路公交车从我家直达办公室"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 听起来不错。告诉你"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 嗯，我认识一个很棒的房产中介"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "How did Tariq make corn taste better?",
+       "options": [
+        "By slapping some butter on it.",
+        "By enhancing its nourishment.",
+        "By growing it in South Dakota.",
+        "By cooking it in vegetable oil."
+       ],
+       "optionsZh": [
+        "在玉米上涂一些黄油。",
+        "通过增强其营养价值。",
+        "通过在 South Dakota 种植它。",
+        "通过用植物油烹饪它。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：By slapping some butter on it.（在玉米上涂一些黄油。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "Why were Tariq and his family invited to South Dakota?",
+       "options": [
+        "To introduce their corn to tourists.",
+        "To attend an honorary ceremony.",
+        "To share experience with other corn growers.",
+        "To exhibit their corn at the state's Corn Palace."
+       ],
+       "optionsZh": [
+        "向游客介绍他们的玉米。",
+        "参加一个荣誉典礼。",
+        "与其他玉米种植者分享经验。",
+        "在该州的玉米宫展示他们的玉米。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To attend an honorary ceremony.（参加一个荣誉典礼。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What did Jordan Jax and Tarod Goodman do according to a news release?",
+       "options": [
+        "Stole mail several times.",
+        "Forged postal keys illegally.",
+        "Attacked postmen on multiple occasions.",
+        "Broke a number of postal collection boxes."
+       ],
+       "optionsZh": [
+        "多次盗窃邮件。",
+        "非法伪造邮政钥匙。",
+        "多次袭击邮递员。",
+        "破坏了多个邮政收集箱。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Stole mail several times.（多次盗窃邮件。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What do Jordan Jax and Tarod Goodman face?",
+       "options": [
+        "A sentence for life.",
+        "Loss of all their possessions.",
+        "Twenty-three years' hard labor.",
+        "Up to fifteen years in prison."
+       ],
+       "optionsZh": [
+        "终身监禁。",
+        "失去所有财产。",
+        "二十三年苦役。",
+        "最高十五年监禁。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Up to fifteen years in prison.（最高十五年监禁。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "Why has the clothing industry come under attack?",
+       "options": [
+        "It escapes regulation and misleads consumers.",
+        "It ignores economically feasible recycling options.",
+        "It creates waste and severely impacts the environment.",
+        "It produces clothes affordable only to a tiny minority."
+       ],
+       "optionsZh": [
+        "它逃避监管并误导消费者。",
+        "它忽视经济上可行的回收选择。",
+        "它制造废物并严重影响环境。",
+        "它生产的服装只有极少数人能够负担得起。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It creates waste and severely impacts the environment.（它制造废物并严重影响环境。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "Why did the researchers put forth such policies as production tax?",
+       "options": [
+        "To cut consumers' expenses in buying quality clothes.",
+        "To enable the whole fast-fashion industry to be sustainable.",
+        "To incentivize manufacturers to be more consumer-friendly.",
+        "To urge manufacturers and consumers to reduce waste."
+       ],
+       "optionsZh": [
+        "为了削减消费者购买优质服装的开支。",
+        "为了使整个快时尚行业能够可持续发展。",
+        "为了激励制造商更加关注消费者利益。",
+        "为了敦促制造商和消费者减少废物。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：To urge manufacturers and consumers to reduce waste.（为了敦促制造商和消费者减少废物。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What should be done first to eliminate the harm caused by the clothing industry?",
+       "options": [
+        "Recognizing the impact on consumers.",
+        "Identifying the source of the problem.",
+        "Abandoning the current business model.",
+        "Establishing powerful regulatory bodies."
+       ],
+       "optionsZh": [
+        "认识到对消费者的影响。",
+        "找出问题的根源。",
+        "放弃当前的商业模式。",
+        "建立强有力的监管机构。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Identifying the source of the problem.（找出问题的根源。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "Why is the woman complaining?",
+       "options": [
+        "The city's rush-hour traffic is intolerable.",
+        "She cannot avoid rush-hour traffic.",
+        "The local government is inefficient.",
+        "The city is too big to move around easily."
+       ],
+       "optionsZh": [
+        "这座城市的高峰时段交通令人无法忍受。",
+        "她无法避开高峰时段的交通。",
+        "当地政府效率低下。",
+        "这座城市太大了,出行不便。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The city's rush-hour traffic is intolerable.（这座城市的高峰时段交通令人无法忍受。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the woman suggest doing?",
+       "options": [
+        "Upgrading subway carriages.",
+        "Increasing the number of bus routes.",
+        "Air conditioning the city's subway.",
+        "Learning from other big cities."
+       ],
+       "optionsZh": [
+        "升级地铁车厢。",
+        "增加公交线路数量。",
+        "为城市地铁安装空调。",
+        "向其他大城市学习。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Air conditioning the city's subway.（为城市地铁安装空调。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What do we learn about the man from the conversation?",
+       "options": [
+        "He suffers from rush-hour crowding too.",
+        "He is fortunate to live very near to work.",
+        "He takes a half-hour bus ride to work.",
+        "He is going to move closer to his office."
+       ],
+       "optionsZh": [
+        "他也深受高峰时段拥挤之苦。",
+        "他很幸运住得离工作地点非常近。",
+        "他乘坐半小时公交车上班。",
+        "他打算搬到离办公室更近的地方。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He takes a half-hour bus ride to work.（他乘坐半小时公交车上班。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the woman ask the man to do at the end of the conversation?",
+       "options": [
+        "Recommend to her a good house near his office.",
+        "Send her his housing agent's telephone number.",
+        "Tell her exactly what kind of property to look for.",
+        "Make sure the agent finds something good for her."
+       ],
+       "optionsZh": [
+        "向她推荐他办公室附近的好房子。",
+        "把他的房产中介的电话号码发给她。",
+        "准确告诉她应该寻找什么类型的房产。",
+        "确保中介为她找到好房子。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Send her his housing agent's telephone number.（把他的房产中介的电话号码发给她。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the man say about Johnny?",
+       "options": [
+        "He was remembered for the scar on his cheek.",
+        "He received a heart operation a few days ago.",
+        "He used to wear a sad face in school.",
+        "He had some plastic surgery done."
+       ],
+       "optionsZh": [
+        "他因脸颊上的疤痕而被人记住。",
+        "他几天前接受了心脏手术。",
+        "他在学校时常常一副悲伤的表情。",
+        "他做了一些整形手术。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He had some plastic surgery done.（他做了一些整形手术。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the woman find puzzling?",
+       "options": [
+        "The man's deep sympathy for Johnny.",
+        "The man's use of the expression 'fixed'.",
+        "The man's covering up of what happened.",
+        "The man's good memory of his childhood."
+       ],
+       "optionsZh": [
+        "男士对Johnny的深切同情。",
+        "男士使用\"fixed\"这个表达。",
+        "男士对所发生事情的掩饰。",
+        "男士对童年时光的良好记忆。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The man's use of the expression 'fixed'.（男士使用\"fixed\"这个表达。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What did the man think of Johnny's scar?",
+       "options": [
+        "It gave him a noticeable smartness.",
+        "It made him appear even more manly.",
+        "It seemed to give him a certain uniqueness.",
+        "It seemed to make up for his physical defects."
+       ],
+       "optionsZh": [
+        "它赋予了他明显的精明。",
+        "它使他显得更加阳刚。",
+        "它似乎赋予了他某种独特性。",
+        "它似乎弥补了他的身体缺陷。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It seemed to give him a certain uniqueness.（它似乎赋予了他某种独特性。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "How could we describe the speakers' attitude towards Johnny's girlfriend?",
+       "options": [
+        "Liberal.",
+        "Hostile.",
+        "Indifferent.",
+        "Critical."
+       ],
+       "optionsZh": [
+        "宽容的。",
+        "敌对的。",
+        "漠不关心的。",
+        "批评的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Critical.（批评的。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "How did language come into being according to researchers?",
+       "options": [
+        "Through deliberation.",
+        "Through evolution.",
+        "Through invention.",
+        "Through collaboration."
+       ],
+       "optionsZh": [
+        "通过深思熟虑。",
+        "通过进化。",
+        "通过发明。",
+        "通过协作。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Through evolution.（通过进化。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "How did language start according to the first theory?",
+       "options": [
+        "With people imitating sounds around them.",
+        "With people interacting with animals close by.",
+        "With people showing each other things nearby.",
+        "With people trying to string sounds together."
+       ],
+       "optionsZh": [
+        "人们模仿周围的声音。",
+        "人们与附近的动物互动。",
+        "人们相互展示附近的事物。",
+        "人们试图将声音串联起来。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：With people imitating sounds around them.（人们模仿周围的声音。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "Why did people switch from gesturing to making sounds according to the more recent theory?",
+       "options": [
+        "Making sounds can free one's hands for doing other things.",
+        "Making sounds proves markedly easier than sign languages.",
+        "Making sounds enables one to express their ideas more explicitly.",
+        "Making sounds helps one communicate with people they can't see."
+       ],
+       "optionsZh": [
+        "发出声音可以解放双手去做其他事情。",
+        "发出声音明显比手语更容易。",
+        "发出声音使人能够更明确地表达自己的想法。",
+        "发出声音有助于人们与看不见的人交流。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Making sounds helps one communicate with people they can't see.（发出声音有助于人们与看不见的人交流。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "How would people describe someone who shows off their social status according to new research?",
+       "options": [
+        "Well disciplined.",
+        "Quite confident.",
+        "Somewhat selfish.",
+        "Highly intelligent."
+       ],
+       "optionsZh": [
+        "纪律严明的",
+        "相当自信的",
+        "有些自私的",
+        "高度聪明的"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Somewhat selfish.（有些自私的）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "When were participants more likely to choose someone who signaled their wealth or status?",
+       "options": [
+        "When they wanted to have a competitive team member.",
+        "When they were looking for a cooperative workmate.",
+        "When they found collaboration essential to them.",
+        "When they were seeking someone to help them."
+       ],
+       "optionsZh": [
+        "当他们想要一个有竞争力的团队成员时",
+        "当他们在寻找一个合作的工作伙伴时",
+        "当他们发现合作对自己至关重要时",
+        "当他们在寻找能帮助自己的人时"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：When they wanted to have a competitive team member.（当他们想要一个有竞争力的团队成员时）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What should people do when sharing their wealth and status online?",
+       "options": [
+        "Avoid frightening competitors.",
+        "Make clear their social goal.",
+        "Adopt persuasive strategies.",
+        "Consider the consequences."
+       ],
+       "optionsZh": [
+        "避免吓到竞争对手",
+        "明确自己的社交目标",
+        "采用有说服力的策略",
+        "考虑后果"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Consider the consequences.（考虑后果）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What can we see in the oldest cave paintings?",
+       "options": [
+        "Much evidence of humans capturing animals.",
+        "More images of animals than humans.",
+        "Fewer images of buildings than animals.",
+        "Little proof of human fascination with animals."
+       ],
+       "optionsZh": [
+        "人类捕捉动物的大量证据。",
+        "动物的图像多于人类的图像。",
+        "建筑物的图像少于动物的图像。",
+        "人类对动物着迷的证据很少。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：More images of animals than humans.（动物的图像多于人类的图像。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What do we learn about the first-known collections of animals?",
+       "options": [
+        "They were open to the public.",
+        "They were primarily native.",
+        "They were kept by royalty.",
+        "They were hardly injured."
+       ],
+       "optionsZh": [
+        "它们向公众开放。",
+        "它们主要是本地的。",
+        "它们由皇室饲养。",
+        "它们几乎没有受伤。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They were kept by royalty.（它们由皇室饲养。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What might be the reason the Egyptian Queen created the zoo?",
+       "options": [
+        "To enable the public to watch animals close by.",
+        "To introduce to Egyptians animals from Punt.",
+        "To protect the endangered animals.",
+        "To show off her riches and power."
+       ],
+       "optionsZh": [
+        "使公众能够近距离观看动物。",
+        "向埃及人介绍来自Punt的动物。",
+        "保护濒危动物。",
+        "炫耀她的财富和权力。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：To show off her riches and power.（炫耀她的财富和权力。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What do we learn about King Henry I's collection of animals in England?",
+       "options": [
+        "It was part of the royal estate.",
+        "It was a shelter for wild animals.",
+        "It was the kingdom's best-equipped zoo.",
+        "It was the first public exhibit of animals."
+       ],
+       "optionsZh": [
+        "它是皇家庄园的一部分。",
+        "它是野生动物的庇护所。",
+        "它是王国中设备最齐全的动物园。",
+        "它是第一个公开展出动物的地方。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It was part of the royal estate.（它是皇家庄园的一部分。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose your university is seeking students' opinions on the necessity of making College Chinese a compulsory course. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "The question of whether College Chinese should be a compulsory course has sparked heated discussion on\ncampus. In my view, making it compulsory is both necessary and wise.\nAdmittedly, some students argue that Chinese is their mother tongue and needs no further study. Yet this view\noverlooks two facts. First, a solid command of Chinese sharpens our thinking and expression. Many science\nmajors write reports full of grammatical errors and muddled logic, which weakens their careers. A required\ncourse would help them communicate clearly. What's more, classical Chinese carries our cultural heritage.\nThrough reading poems and essays, students inherit values and a sense of identity that no other subject offers.\nTherefore, I firmly believe College Chinese deserves a place as a compulsory course. It is not a burden but an\ninvestment in both our language ability and our cultural roots."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Psychologists have long been interested in how we construct our identities and the sorts of strategies that we use to present ourselves in society. New findings suggest that the kinds of {{1}} and strategic self-presentation behaviour we see in adults appear at a much younger age than {{2}} known. Research shows that a child's awareness of social standing comes from adults. Like grown-ups, kids want to be {{3}} by those they admire. Interactive experiences may provide opportunities for children to learn about what {{4}} a desirable reputation and the kinds of strategies that are effective for {{5}} a good reputation in their social environment. Five-year-olds aren't just aware of their reputations, they also behave strategically to alter their outward image. They will {{6}} their behaviour in order to appear moral or socially good in the eyes of key observers. While we know that adults use a large variety of attributes to manage and create impressions, we don't yet know whether children {{7}} and use the fact that different attributes are valuable at different times to different {{8}} . It's important for us to further consider where in this process children succeed in controlling their reputation and where they {{9}} . A question to think about is, \"What happens even earlier than age five?\" Children don't just show up to the first day of kindergarten and have the idea of reputation pop {{10}} into existence. The logical question to ask is, \"What happens even earlier?\"",
+     "options": [
+      "accepted",
+      "audiences",
+      "building",
+      "complex",
+      "constitutes",
+      "deputies",
+      "previously",
+      "revolving",
+      "samples",
+      "selected",
+      "solemn",
+      "struggle",
+      "suddenly",
+      "understand",
+      "vary"
+     ],
+     "answers": [
+      3,
+      6,
+      0,
+      4,
+      2,
+      14,
+      13,
+      1,
+      11,
+      12
+     ],
+     "blankExplains": [
+      "【定位】New findings suggest that the kinds of ____ and strategic self-presentation behaviour we see in adults appear at a much younger age than  … known.\n【依据】答案是 complex：填回后与所在句 new、findings、suggest、kinds、strategic、self-presentation 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】New findings suggest that the kinds of  … and strategic self-presentation behaviour we see in adults appear at a much younger age than ____ known.\n【依据】答案是 previously：填回后与所在句 new、findings、suggest、kinds、strategic、self-presentation 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Like grown-ups, kids want to be ____ by those they admire.\n【依据】答案是 accepted：填回后与所在句 like、grown-ups、kids、want、admire 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Interactive experiences may provide opportunities for children to learn about what ____ a desirable reputation and the kinds of strategies that are effective for  … a good reputation in their social environment.\n【依据】答案是 constitutes：填回后与所在句 interactive、experiences、provide、opportunities、children、learn 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Interactive experiences may provide opportunities for children to learn about what  … a desirable reputation and the kinds of strategies that are effective for ____ a good reputation in their social environment.\n【依据】答案是 building：填回后与所在句 interactive、experiences、provide、opportunities、children、learn 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】They will ____ their behaviour in order to appear moral or socially good in the eyes of key observers.\n【依据】答案是 vary：填回后与所在句 behaviour、order、appear、moral、socially、good 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】While we know that adults use a large variety of attributes to manage and create impressions, we don't yet know whether children ____ and use the fact that different attributes are valuable at different times to different  … .\n【依据】答案是 understand：填回后与所在句 while、know、adults、use、large、variety 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】While we know that adults use a large variety of attributes to manage and create impressions, we don't yet know whether children  … and use the fact that different attributes are valuable at different times to different ____ .\n【依据】答案是 audiences：填回后与所在句 while、know、adults、use、large、variety 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It's important for us to further consider where in this process children succeed in controlling their reputation and where they ____ .\n【依据】答案是 struggle：填回后与所在句 it's、important、further、consider、where、process 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】A question to think about is, \"What happens even earlier than age five?\" Children don't just show up to the first day of kindergarten and have the idea of reputation pop ____ into existence.\n【依据】答案是 suddenly：填回后与所在句 question、think、about、what、happens、even 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "New findings suggest that the kinds of ____ and strategic self-presentation behaviour we see in adults appear at a much younger age than  … known.",
+       "why": "答案是 complex：填回后与所在句 new、findings、suggest、kinds、strategic、self-presentation 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 complex 这个词性/语义，而不是 constitutes）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 complex 这个词性/语义，而不是 accepted）。"
+       }
+      },
+      {
+       "locate": "New findings suggest that the kinds of  … and strategic self-presentation behaviour we see in adults appear at a much younger age than ____ known.",
+       "why": "答案是 previously：填回后与所在句 new、findings、suggest、kinds、strategic、self-presentation 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 previously 这个词性/语义，而不是 accepted）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 previously 这个词性/语义，而不是 audiences）。"
+       }
+      },
+      {
+       "locate": "Like grown-ups, kids want to be ____ by those they admire.",
+       "why": "答案是 accepted：填回后与所在句 like、grown-ups、kids、want、admire 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 accepted 这个词性/语义，而不是 audiences）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 accepted 这个词性/语义，而不是 building）。"
+       }
+      },
+      {
+       "locate": "Interactive experiences may provide opportunities for children to learn about what ____ a desirable reputation and the kinds of strategies that are effective for  … a good reputation in their social environment.",
+       "why": "答案是 constitutes：填回后与所在句 interactive、experiences、provide、opportunities、children、learn 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 constitutes 这个词性/语义，而不是 complex）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 constitutes 这个词性/语义，而不是 accepted）。"
+       }
+      },
+      {
+       "locate": "Interactive experiences may provide opportunities for children to learn about what  … a desirable reputation and the kinds of strategies that are effective for ____ a good reputation in their social environment.",
+       "why": "答案是 building：填回后与所在句 interactive、experiences、provide、opportunities、children、learn 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 building 这个词性/语义，而不是 accepted）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 building 这个词性/语义，而不是 audiences）。"
+       }
+      },
+      {
+       "locate": "They will ____ their behaviour in order to appear moral or socially good in the eyes of key observers.",
+       "why": "答案是 vary：填回后与所在句 behaviour、order、appear、moral、socially、good 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vary 这个词性/语义，而不是 accepted）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vary 这个词性/语义，而不是 audiences）。"
+       }
+      },
+      {
+       "locate": "While we know that adults use a large variety of attributes to manage and create impressions, we don't yet know whether children ____ and use the fact that different attributes are valuable at different times to different  … .",
+       "why": "答案是 understand：填回后与所在句 while、know、adults、use、large、variety 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 understand 这个词性/语义，而不是 accepted）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 understand 这个词性/语义，而不是 audiences）。"
+       }
+      },
+      {
+       "locate": "While we know that adults use a large variety of attributes to manage and create impressions, we don't yet know whether children  … and use the fact that different attributes are valuable at different times to different ____ .",
+       "why": "答案是 audiences：填回后与所在句 while、know、adults、use、large、variety 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 audiences 这个词性/语义，而不是 accepted）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 audiences 这个词性/语义，而不是 building）。"
+       }
+      },
+      {
+       "locate": "It's important for us to further consider where in this process children succeed in controlling their reputation and where they ____ .",
+       "why": "答案是 struggle：填回后与所在句 it's、important、further、consider、where、process 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 struggle 这个词性/语义，而不是 samples）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 struggle 这个词性/语义，而不是 selected）。"
+       }
+      },
+      {
+       "locate": "A question to think about is, \"What happens even earlier than age five?\" Children don't just show up to the first day of kindergarten and have the idea of reputation pop ____ into existence.",
+       "why": "答案是 suddenly：填回后与所在句 question、think、about、what、happens、even 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 suddenly 这个词性/语义，而不是 samples）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 suddenly 这个词性/语义，而不是 selected）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Recently, a leading design federation in the UK warned that the UK could face a creative skills shortage, after the latest figures revealed a drop of almost 10 percent in students studying Design and Technology. These figures showed that the number of pupils that sat exams in Design and Technology fell 10 percent from 204,788 to 185,279 last year."
+      },
+      {
+       "id": "B",
+       "text": "Chief executive John Kampfner of the Creative Industries Federation thinks that this drop in figures has worrying implications for the skills pipeline in Britain's hugely successful arts and creative industries. He said, \"We already have skills shortages in many jobs such as animation(动画制作) and special effects.\" He added: \"Engineering, which requires a similar mix of creative and technical skills, also has recruitment problems.\""
+      },
+      {
+       "id": "C",
+       "text": "Many other designers and architects have expressed concern over the future supply of home-grown talent for UK firms, and industry bodies have pointed out that there has been a lack of roots-level support. However, if these designers had visited the Design Museum shop in London earlier this year their fears may have been eased. With £10 to spend, they could have bought a fascinating children's toy called \"Dazzle Racer\". An automotive cylinder(圆柱体), it included a wind-up, elastic(有弹性的)-band-powered mechanism, minimal parts, all 100 percent recycled, and lots of stickers. It was good fun, simple, eye-catching and very original."
+      },
+      {
+       "id": "D",
+       "text": "Well, you'd expect the Design Museum to commission and make some interesting items, but this one was different. Designed by a group of six Year 9 and Year 10 boys from Finchley Catholic High School, the toy was the winning entry in the museum's 2015 Design Ventura competition, which brings the business of design to life for students aged 13 to 16 by challenging them to develop a new creative, sustainable and commercially feasible product for the Design Museum shop and attracts hundreds of entries nationwide."
+      },
+      {
+       "id": "E",
+       "text": "\"We did Design Ventura in my previous school,\" says Liam Hourican, Finchley Catholic High School's design technology curriculum leader. \"Then when I changed schools four years ago, I introduced it here because it helps to develop so many skills.\""
+      },
+      {
+       "id": "F",
+       "text": "The theme for last year's competition was \"Move\", and Hourican began with three groups working in lunch breaks and after school before selecting the group with the most innovative idea. Each participating school may submit just one proposal. \"It's the taking part and doing the work which is important,\" he says. \"And I never dreamt we'd win.\""
+      },
+      {
+       "id": "G",
+       "text": "Catherine Ritman Smith, head of learning at the Design Museum, is expecting around 10,000 participants aged 13 to 16 to take part this year and says that the project—funded by Deutsche Bank as part of its youth engagement programme Born To Be—is the biggest event in the museum's calendar. \"We started Design Ventura with around 800 young people in 2010 and it has grown steadily since,\" she says. \"Teachers like it because the skills are all transferable and it helps to validate the value of design as a subject,\" she explains, telling me that nearly 600 schools have taken part so far."
+      },
+      {
+       "id": "H",
+       "text": "So how does the competition work? A single-word theme is announced in the summer. This year it is \"Change\". Schools work with groups to produce imaginative design ideas for a product in simple materials that could sell for £10 in the Design Museum shop. Participating schools then register by November and eventually submit their design idea. Along the way there is training and support for teachers and tutoring for students from designers. An additional bonus is when the winners see their design on sale in the spring of the following year."
+      },
+      {
+       "id": "I",
+       "text": "Hourican and his pupils have happy memories of spending a whole day at the museum, having been selected as one of 10 shortlisted schools to present their idea to a panel of judges, including designer Jasper Conran. Then they worked with the Kin Design Studio in Shoreditch, met designers at their school and attended a lunch with Deutsche Bank employees. The students helped to make decisions and there were plenty of discussions—they changed the product's name, for example."
+      },
+      {
+       "id": "J",
+       "text": "\"One of the really useful things about this competition,\" says Hourican, \"is that there's a commercial element because the product is going on sale for real and the boys had to learn about budgeting and marketing, as well as designing their game.\" Profits go to charity. \"The winning team chooses where it wants the profits to go,\" says Ritman Smith. \"The Finchley Catholic High School product raised about £1,000 for Great Ormond Street Hospital.\" Winning entries in past years have included a make-your-own cloth kit called Dove Bunting and a threefold, wallet-sized travel game with goals at each end, called Badoiiing."
+      },
+      {
+       "id": "K",
+       "text": "It costs the schools nothing to participate in Design Ventura; the professional designers provide their services for free. Among them are architect Asif Khan, a Design Museum trustee who has worked as designer-in-residence at the museum, helping emerging architects. He has recently been commissioned to design the new Museum of London building in Smithfield."
+      },
+      {
+       "id": "L",
+       "text": "Another is television presenter and interior designer Naomi Cleaver, who is one of the competition's judges. \"I'm very keen to encourage young people,\" she says, observing that design brings together other subjects such as literature, art, history, geography and science. \"Now that design education is limited in the curriculum, I'm all in favour of competitions such as Design Ventura, which helps to bring the standard curriculum to life,\" says Cleaver. \"And the judging day is terrific fun. Some of these students are very imaginative. One group presented their idea in the form of a puppet show and we see some marvelous demonstration models. I'm always impressed by the levels of confidence and the support the students get from their teachers.\""
+      },
+      {
+       "id": "M",
+       "text": "Ritman Smith adds: \"Design technology has become a tricky subject to make a case for, and we've heard of departments closing in some schools. We find that if pupils take part in Design Ventura in Year Nine it can be the trigger which leads them to opt for it at General Certificate of Secondary Education, so we are helping to keep alive something which is crucial to industry and entrepreneurship.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "During the course of preparing for Design Ventura, teachers receive training and support while students get tutoring from designers."
+      },
+      {
+       "id": "s37",
+       "text": "A visit to the Design Museum shop in London can reduce the designers' fears about the future supply of talents educated in Britain."
+      },
+      {
+       "id": "s38",
+       "text": "One of Design Ventura's judges says the competition adds vigour to the standard curriculum in schools."
+      },
+      {
+       "id": "s39",
+       "text": "Enrollment in Design and Technology decreased by nearly ten percent last year in the UK."
+      },
+      {
+       "id": "s40",
+       "text": "Participation of ninth graders in Design Ventura can motivate them to choose design technology as their subject."
+      },
+      {
+       "id": "s41",
+       "text": "Design Ventura is welcomed by teachers because it helps to prove the worth of design as a school subject."
+      },
+      {
+       "id": "s42",
+       "text": "The schools don't have to pay anything to take part in the Design Ventura competition."
+      },
+      {
+       "id": "s43",
+       "text": "Participants in Design Ventura are challenged to create sustainable and marketable products."
+      },
+      {
+       "id": "s44",
+       "text": "Students benefit from Design Ventura because they can learn about budgeting and marketing in addition to game design."
+      },
+      {
+       "id": "s45",
+       "text": "According to an officer of the Creative Industries Federation, there is difficulty now in recruiting engineers in the UK."
+      }
+     ],
+     "answers": [
+      "H",
+      "C",
+      "L",
+      "A",
+      "M",
+      "G",
+      "K",
+      "D",
+      "J",
+      "B"
+     ],
+     "statementExplains": [
+      "【定位】Along the way there is training and support for teachers and tutoring for students from designers.\n【依据】陈述里的 design、teachers、training、support、students、tutoring 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】However, if these designers had visited the Design Museum shop in London earlier this year their fears may have been eased.\n【依据】陈述里的 visit、design、museum、shop、london、designers' 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】\"Now that design education is limited in the curriculum, I'm all in favour of competitions such as Design Ventura, which helps to bring the standard curriculum to life,\" says Cleaver.\n【依据】陈述里的 design、ventura's、says、competition、standard、curriculum 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】These figures showed that the number of pupils that sat exams in Design and Technology fell 10 percent from 204,788 to 185,279 last year.\n【依据】陈述里的 design、technology、percent、last、year 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Ritman Smith adds: \"Design technology has become a tricky subject to make a case for, and we've heard of departments closing in some schools.\n【依据】陈述里的 design、design、technology、subject 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】\"Teachers like it because the skills are all transferable and it helps to validate the value of design as a subject,\" she explains, telling me that nearly 600 schools have taken part so far.\n【依据】陈述里的 design、teachers、because、helps、design、school 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】It costs the schools nothing to participate in Design Ventura; the professional designers provide their services for free.\n【依据】陈述里的 schools、design、ventura 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Designed by a group of six Year 9 and Year 10 boys from Finchley Catholic High School, the toy was the winning entry in the museum's 2015 Design Ventura competition, which brings the business of design to life for students aged 13 to 16 by challenging them to develop a new creative, sustainable and commercially feasible product for the Design Museum shop and attracts hundreds of entries nationwide.\n【依据】陈述里的 design、ventura、challenged、create、sustainable、products 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】\"One of the really useful things about this competition,\" says Hourican, \"is that there's a commercial element because the product is going on sale for real and the boys had to learn about budgeting and marketing, as well as designing their game.\" Profits go to charity.\n【依据】陈述里的 design、because、learn、about、budgeting、marketing 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Chief executive John Kampfner of the Creative Industries Federation thinks that this drop in figures has worrying implications for the skills pipeline in Britain's hugely successful arts and creative industries.\n【依据】陈述里的 creative、industries、federation 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Along the way there is training and support for teachers and tutoring for students from designers.",
+       "why": "陈述里的 design、teachers、training、support、students、tutoring 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "However, if these designers had visited the Design Museum shop in London earlier this year their fears may have been eased.",
+       "why": "陈述里的 visit、design、museum、shop、london、designers' 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Now that design education is limited in the curriculum, I'm all in favour of competitions such as Design Ventura, which helps to bring the standard curriculum to life,\" says Cleaver.",
+       "why": "陈述里的 design、ventura's、says、competition、standard、curriculum 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "These figures showed that the number of pupils that sat exams in Design and Technology fell 10 percent from 204,788 to 185,279 last year.",
+       "why": "陈述里的 design、technology、percent、last、year 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Ritman Smith adds: \"Design technology has become a tricky subject to make a case for, and we've heard of departments closing in some schools.",
+       "why": "陈述里的 design、design、technology、subject 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Teachers like it because the skills are all transferable and it helps to validate the value of design as a subject,\" she explains, telling me that nearly 600 schools have taken part so far.",
+       "why": "陈述里的 design、teachers、because、helps、design、school 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It costs the schools nothing to participate in Design Ventura; the professional designers provide their services for free.",
+       "why": "陈述里的 schools、design、ventura 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Designed by a group of six Year 9 and Year 10 boys from Finchley Catholic High School, the toy was the winning entry in the museum's 2015 Design Ventura competition, which brings the business of design to life for students aged 13 to 16 by challenging them to develop a new creative, sustainable and commercially feasible product for the Design Museum shop and attracts hundreds of entries nationwide.",
+       "why": "陈述里的 design、ventura、challenged、create、sustainable、products 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"One of the really useful things about this competition,\" says Hourican, \"is that there's a commercial element because the product is going on sale for real and the boys had to learn about budgeting and marketing, as well as designing their game.\" Profits go to charity.",
+       "why": "陈述里的 design、because、learn、about、budgeting、marketing 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Chief executive John Kampfner of the Creative Industries Federation thinks that this drop in figures has worrying implications for the skills pipeline in Britain's hugely successful arts and creative industries.",
+       "why": "陈述里的 creative、industries、federation 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "New research suggests that pandas may be at risk of dying out because they are too comfortable. Experts say too much happiness can stop the bears from searching for new mates. Environmentalists have long believed that building roads or homes near the bears may threaten their survival by \"reducing or fragmenting their natural: habitats\", The Times reported. But the new research suggests that a \"modest degree of discomfort and fragmentation\" may actually help preserve panda populations. The research was conducted by scientists from Michigan State University. It concluded that pandas fail to wander off in search of new mates if they find their habitat too comfortable, resulting in a lack of vital genetic diversity. For their study—outlined in a paper in the journal Conservation Biology—the team looked at genetic diversity and spread among a Chinese panda population. The ideal level of perfectly livable habitat was found to be only 80% of an area, with the remainder either too harsh or too affected by human activity. The experts concluded that pandas should ideally \"be happy enough to thrive, but not so content that they don't want to move around and find new mates\". Their conclusions about what The Guardian described as this \"sweet spot\" are in line with the so-called Goldilocks principle: that there can be just the right amount of something. The concept has been applied to a wide range of disciplines, from developmental psychology to economics and engineering. Claudio Sillero, a professor of conservation biology at Oxford University, told the newspaper that the new findings could have implications beyond panda conservation. \"Most large animals that eat meat live in increasingly fragmented landscapes,\" said Sillero, who was not involved in the research. \"It may well be that the messy nature of their relationship with human efforts induces more animals to scatter or travel further, and might result in greater genetic connectivity and enhanced population persistence.\" The most recent count of pandas found that there were more than 1,800 left in the wild, putting them on the list of vulnerable, but not endangered, species.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn from new research about pandas?",
+       "options": [
+        "They are losing habitat due to the building of roads and houses.",
+        "They have stopped seeking new mates for reproduction.",
+        "They may not adapt to the fragmentation of their habitat.",
+        "They may cease to exist as a result of enjoying too good a life."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】New research suggests that pandas may be at risk of dying out because they are too comfortable.\n【依据】正确项的核心词 too 与定位句对得上；其余 cease、exist、result、enjoying 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "New research suggests that pandas may be at risk of dying out because they are too comfortable.",
+        "why": "正确项的核心词 too 与定位句对得上；其余 cease、exist、result、enjoying 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「losing、due、houses」全文未出现。",
+         "B": "无中生有：「stopped、seeking、reproduction」全文未出现；把原文的「new」换成了「stopped、seeking、mates」，主语或对象被调包。",
+         "C": "因果倒置：「adapt」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What can we conclude from the new research by scientists at Michigan State University?",
+       "options": [
+        "Environmentalists' long-time belief regarding panda conservation may be misleading.",
+        "Housing development near pandas' homes may threaten their survival.",
+        "Pandas' natural habitats are becoming less suitable for reproduction.",
+        "The increased panda population is attributed to the fragmentation of their habitat."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The research was conducted by scientists from Michigan State University.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 environmentalists'、long-time、belief、regarding 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The research was conducted by scientists from Michigan State University.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 environmentalists'、long-time、belief、regarding 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「housing、development、pandas'」全文未出现。",
+         "C": "无中生有：「pandas'、becoming、less」全文未出现。",
+         "D": "因果倒置：「increased、attributed」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What is the experts' conclusion regarding pandas?",
+       "options": [
+        "It is urgent to provide an ideal habitat for them to thrive.",
+        "It is very important to preserve their genetic diversity.",
+        "Their chances of finding new mates have a lot to do with their habitat.",
+        "Their environment for survival has been continuously worsening."
+       ],
+       "answer": 2,
+       "kind": "inference",
+       "explain": "【定位】The experts concluded that pandas should ideally \"be happy enough to thrive, but not so content that they don't want to move around and find new mates\".\n【依据】正确项的核心词 new、mates 与定位句对得上；其余 chances、finding、lot、habitat 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The experts concluded that pandas should ideally \"be happy enough to thrive, but not so content that they don't want to move around and find new mates\".",
+        "why": "正确项的核心词 new、mates 与定位句对得上；其余 chances、finding、lot、habitat 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「urgent、provide」全文未出现；把原文的「ideal、thrive」换成了「urgent、provide、habitat」，主语或对象被调包。",
+         "B": "因果倒置：「very、important」全文未出现。",
+         "D": "无中生有：「environment、continuously、worsening」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What can we infer from the passage about the Goldilocks principle?",
+       "options": [
+        "It needs to be confirmed by more studies on pandas.",
+        "It applies to the preservation of pandas too.",
+        "It has implications for future panda research.",
+        "It can be used to locate the right spot for pandas."
+       ],
+       "answer": 1,
+       "kind": "inference",
+       "explain": "【定位】Their conclusions about what The Guardian described as this \"sweet spot\" are in line with the so-called Goldilocks principle: that there can be just the right amount of something.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 applies、preservation、pandas、too 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Their conclusions about what The Guardian described as this \"sweet spot\" are in line with the so-called Goldilocks principle: that there can be just the right amount of something.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 applies、preservation、pandas、too 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「needs、confirmed、studies」全文未出现。",
+         "C": "因果倒置：「future」全文未出现。",
+         "D": "无中生有：「used、locate」全文未出现；把原文的「right、spot」换成了「used、locate、pandas」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What can the new findings do according to Professor Sillero?",
+       "options": [
+        "Help discover new ways for the conservation of pandas.",
+        "Help remove pandas from the list of endangered species.",
+        "Shed light on the conservation of most large meat-eating animals.",
+        "Show the complexity of interactions between humans and animals."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Claudio Sillero, a professor of conservation biology at Oxford University, told the newspaper that the new findings could have implications beyond panda conservation.\n【依据】正确项的核心词 conservation 与定位句对得上；其余 shed、light、large、meat-eating 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Claudio Sillero, a professor of conservation biology at Oxford University, told the newspaper that the new findings could have implications beyond panda conservation.",
+        "why": "正确项的核心词 conservation 与定位句对得上；其余 shed、light、large、meat-eating 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「discover、ways」全文未出现；把原文的「new、conservation、pandas」换成了「help、discover、ways」，主语或对象被调包。",
+         "B": "偷换主体：「remove」全文未出现；把原文的「pandas」换成了「help、remove、list」，主语或对象被调包。",
+         "D": "无中生有：「show、complexity、interactions」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 343 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "With those born with natural talents, it feels as if they excel without really trying. But what about those of us who don't have a natural talent? We've been told all our lives that if you work hard, you too can succeed. But with the release of Angela Duckworth's Grit, we are given a new key to success. \"As much as talent counts, effort counts twice,\" says Duckworth in Grit. She introduces a new concept that talent may be overrated, and if you want real success, what you need is grit, the perfect combination of passion and persistence. Even if you have natural talent, it's nothing without grit. Duckworth says grit is the difference between success and failure. A person who has grit is more likely to succeed than a person who does not. When we think about attaining success—whether it's landing that job or learning that new skill—our thoughts are immediately burdened by all the things we must first learn. If you want that new job, you have to learn the job skills, then the interview skills, then the dress part—and you must be perfect at all of them. Grit is different because it tells us that perfection isn't the goal. Grit lifts the unreasonable expectations off our shoulders. Grit tells us that the door is open wider than we first thought possible. Grit allows us to redefine our goals. Think about it: what's something you've always wanted to do, but gave up because you \"don't have the skills for it\"? What's something you love but aren't good at? The real workings of grit are to have sustainable passion and continue to try. Effort means more than your natural ability. Even if you haven't mastered a skill, grit tells you that you can still succeed if you can transform your passion into action. In a way, Duckworth is giving new hope to people who have shut the doors on their dreams. She is saying it is possible that you can accomplish anything. If at first you fail, then try one more time with grit.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the passage say about people born with natural talents?",
+       "options": [
+        "They seem to outdo others without hard work.",
+        "They appear to know all the secrets to success.",
+        "They feel it only too logical to succeed.",
+        "They are bound to excel effortlessly."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】But what about those of us who don't have a natural talent?\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 seem、outdo、others、without 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But what about those of us who don't have a natural talent?",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 seem、outdo、others、without 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「appear、know、secrets」全文未出现。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「feel、only、logical」全文未出现。",
+         "D": "无中生有：「bound、effortlessly」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does Duckworth say about talent?",
+       "options": [
+        "It is a new concept much too overrated.",
+        "It proves necessary for big achievements.",
+        "It plays a lesser role in one's success.",
+        "It is a guarantee for real success in life."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】But what about those of us who don't have a natural talent?\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 plays、lesser、role、one's 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But what about those of us who don't have a natural talent?",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 plays、lesser、role、one's 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "B": "无中生有：「proves、necessary、big」全文未出现。",
+         "D": "因果倒置：「guarantee、life」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the passage say about people thinking of attaining success?",
+       "options": [
+        "They are puzzled how to present their best to the employer.",
+        "They are burdened by their expectation of perfection.",
+        "They will try hard to land a job that fits their skills best.",
+        "They will find themselves lacking in all the skills they need."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】When we think about attaining success—whether it's landing that job or learning that new skill—our thoughts are immediately burdened by all the things we must first learn.\n【依据】正确项的核心词 burdened 与定位句对得上；其余 expectation、perfection 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When we think about attaining success—whether it's landing that job or learning that new skill—our thoughts are immediately burdened by all the things we must first learn.",
+        "why": "正确项的核心词 burdened 与定位句对得上；其余 expectation、perfection 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「puzzled、how、present」全文未出现。",
+         "C": "无中生有：「land、fits、best」全文未出现；把原文的「job、skills」换成了「try、hard、land」，主语或对象被调包。",
+         "D": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「find、themselves、lacking」全文未出现；把原文的「skills」换成了「find、themselves、lacking」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "How does the author think grit can be helpful to us?",
+       "options": [
+        "It allows us to know what we are good at.",
+        "It opens our eyes to new opportunities.",
+        "It focuses our attention on what we do.",
+        "It lets us reconsider the goals to achieve."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Grit allows us to redefine our goals.\n【依据】正确项的核心词 goals 与定位句对得上；其余 lets、reconsider、achieve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Grit allows us to redefine our goals.",
+        "why": "正确项的核心词 goals 与定位句对得上；其余 lets、reconsider、achieve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「know」全文未出现；把原文的「allows」换成了「know、what、good」，主语或对象被调包。",
+         "B": "无中生有：「opens、eyes、opportunities」全文未出现。",
+         "C": "无中生有：「focuses、attention」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What message does Duckworth try to convey in her book Grit?",
+       "options": [
+        "We should perfect ourselves to ensure success.",
+        "We should stay persistent even in face of failures.",
+        "We can never master a skill without constant practice.",
+        "We can never expect to reach our goals without passion."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】She introduces a new concept that talent may be overrated, and if you want real success, what you need is grit, the perfect combination of passion and persistence.\n【依据】正确项的核心词 persistent 与定位句对得上；其余 stay、even、face、failures 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "She introduces a new concept that talent may be overrated, and if you want real success, what you need is grit, the perfect combination of passion and persistence.",
+        "why": "正确项的核心词 persistent 与定位句对得上；其余 stay、even、face、failures 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「ourselves、ensure」全文未出现；把原文的「perfect、success」换成了「ourselves、ensure」，主语或对象被调包。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「never、master、constant」全文未出现。",
+         "D": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「never、expect、reach」全文未出现；把原文的「passion」换成了「never、expect、reach」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 348 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "被誉为\"杂交水稻(hybrid rice)之父\"的袁隆平和他的科研团队克服重重困难,研发出了一种超级杂交水稻。这项技术获得了举世公认的巨大成功。通过这项技术的应用,水稻抗旱抗病能力更强,能适应不同的气候和土壤条件,产量可提高20-30%。超级杂交水稻营养丰富,口感更佳。目前,这项技术已经在许多国家得到广泛应用,为全球粮食安全做出了重大贡献。",
+     "reference": "Yuan Longping, known as the father of hybrid rice, and his research team, overcoming numerous difficulties, developed a super hybrid rice. This technology has achieved great success recognized worldwide. With the application of this technology, the rice has stronger resistance to drought and disease and can adapt to different climates and soil conditions, and its yield can increase by 20 to 30 percent. Super hybrid rice is rich in nutrition and tastes better Currently, this technology has been widely applied in many countries, making great contributions to global food security",
+     "keyPoints": [
+      "Yuan Longping, known as the father of hybrid rice, and his research team, overcoming numerous difficulties, developed a super hybrid rice.",
+      "This technology has achieved great success recognized worldwide.",
+      "With the application of this technology, the rice has stronger resistance to drought and disease and can adapt to different climates and soil conditions, and its yield can increase by 20 to 30 percent.",
+      "Super hybrid rice is rich in nutrition and tastes better Currently, this technology has been widely applied in many countries, making great contributions to global food security"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

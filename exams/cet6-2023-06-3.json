@@ -1,0 +1,618 @@
+{
+ "id": "cet6-2023-06-3",
+ "levelId": "cet6",
+ "title": "六级 2023 年 06 月 第 3 套",
+ "minutes": 130,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2023年6月英语六级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2023-06-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"It is widely accepted that an important goal of education is to help students learn how to learn.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "You might not know yourself as well as you think. According to a new study, people are {{1}} accurate judges of only some of their behaviors. While most previous studies on how well people know themselves have been done on long-term personality traits, this new study {{2}} how well people understand how they are acting from one moment to the next. Researchers asked participants to wear audio recorders that automatically {{3}} every 9.5 minutes between 7 a.m. and 2 a.m. to record 30 seconds of audio. These participants were then emailed surveys four times a day asking them to {{4}} how outgoing, agreeable, or conscientious they were during a particular hour of the day. The study used data from 248 participants, all of whom answered questions about their behavior for two {{5}} weeks and wore the audio device for one of those weeks. Six laboratory assistants rated each participant's audio clips to see how their observations compared with people's {{6}} of themselves. The six assistants were generally in agreement with one another about how the people they were observing acted. Further, participants' ratings of their own behaviors agreed with observers' for how outgoing and how conscientious they were being. But the agreement between participants and outside observers was much smaller for agreeableness. Some of this {{7}} could be because the observers used only audio clips, and thus could not read {{8}} like body language, but there are {{9}} other explanations, as people should be able to hear when a participant is being kind versus being rude. The weak agreement between how participants thought they were acting and what observers heard could be because people would rather {{10}} rude behavior.",
+     "options": [
+      "activated",
+      "articulates",
+      "assessment",
+      "consecutive",
+      "cues",
+      "deny",
+      "discrepancy",
+      "probably",
+      "probes",
+      "random",
+      "recall",
+      "relatively",
+      "saturated",
+      "symptoms",
+      "terminate"
+     ],
+     "answers": [
+      11,
+      8,
+      0,
+      10,
+      3,
+      2,
+      6,
+      4,
+      7,
+      5
+     ],
+     "blankExplains": [
+      "【定位】According to a new study, people are ____ accurate judges of only some of their behaviors.\n【依据】答案是 relatively：填回后与所在句 according、new、study、people、accurate、judges 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】While most previous studies on how well people know themselves have been done on long-term personality traits, this new study ____ how well people understand how they are acting from one moment to the next.\n【依据】答案是 probes：填回后与所在句 while、previous、studies、how、well、people 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Researchers asked participants to wear audio recorders that automatically ____ every 9.5 minutes between 7 a.m.\n【依据】答案是 activated：填回后与所在句 researchers、asked、participants、wear、audio、recorders 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】These participants were then emailed surveys four times a day asking them to ____ how outgoing, agreeable, or conscientious they were during a particular hour of the day.\n【依据】答案是 recall：填回后与所在句 participants、emailed、surveys、four、times、day 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The study used data from 248 participants, all of whom answered questions about their behavior for two ____ weeks and wore the audio device for one of those weeks.\n【依据】答案是 consecutive：填回后与所在句 study、used、data、participants、whom、answered 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Six laboratory assistants rated each participant's audio clips to see how their observations compared with people's ____ of themselves.\n【依据】答案是 assessment：填回后与所在句 six、laboratory、assistants、rated、each、participant's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Some of this ____ could be because the observers used only audio clips, and thus could not read  … like body language, but there are  … other explanations, as people should be able to hear when a participant is being kind versus being rude.\n【依据】答案是 discrepancy：填回后与所在句 because、observers、used、only、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Some of this  … could be because the observers used only audio clips, and thus could not read ____ like body language, but there are  … other explanations, as people should be able to hear when a participant is being kind versus being rude.\n【依据】答案是 cues：填回后与所在句 because、observers、used、only、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Some of this  … could be because the observers used only audio clips, and thus could not read  … like body language, but there are ____ other explanations, as people should be able to hear when a participant is being kind versus being rude.\n【依据】答案是 probably：填回后与所在句 because、observers、used、only、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The weak agreement between how participants thought they were acting and what observers heard could be because people would rather ____ rude behavior.\n【依据】答案是 deny：填回后与所在句 weak、agreement、between、how、participants、thought 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "According to a new study, people are ____ accurate judges of only some of their behaviors.",
+       "why": "答案是 relatively：填回后与所在句 according、new、study、people、accurate、judges 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 relatively 这个词性/语义，而不是 recall）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 relatively 这个词性/语义，而不是 random）。"
+       }
+      },
+      {
+       "locate": "While most previous studies on how well people know themselves have been done on long-term personality traits, this new study ____ how well people understand how they are acting from one moment to the next.",
+       "why": "答案是 probes：填回后与所在句 while、previous、studies、how、well、people 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "与 probes 拼写相近（共同开头 prob），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 probes 这个词性/语义，而不是 activated）。"
+       }
+      },
+      {
+       "locate": "Researchers asked participants to wear audio recorders that automatically ____ every 9.5 minutes between 7 a.m.",
+       "why": "答案是 activated：填回后与所在句 researchers、asked、participants、wear、audio、recorders 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 activated 这个词性/语义，而不是 articulates）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 activated 这个词性/语义，而不是 assessment）。"
+       }
+      },
+      {
+       "locate": "These participants were then emailed surveys four times a day asking them to ____ how outgoing, agreeable, or conscientious they were during a particular hour of the day.",
+       "why": "答案是 recall：填回后与所在句 participants、emailed、surveys、four、times、day 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recall 这个词性/语义，而不是 relatively）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recall 这个词性/语义，而不是 random）。"
+       }
+      },
+      {
+       "locate": "The study used data from 248 participants, all of whom answered questions about their behavior for two ____ weeks and wore the audio device for one of those weeks.",
+       "why": "答案是 consecutive：填回后与所在句 study、used、data、participants、whom、answered 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 consecutive 这个词性/语义，而不是 cues）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 consecutive 这个词性/语义，而不是 activated）。"
+       }
+      },
+      {
+       "locate": "Six laboratory assistants rated each participant's audio clips to see how their observations compared with people's ____ of themselves.",
+       "why": "答案是 assessment：填回后与所在句 six、laboratory、assistants、rated、each、participant's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 assessment 这个词性/语义，而不是 activated）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 assessment 这个词性/语义，而不是 articulates）。"
+       }
+      },
+      {
+       "locate": "Some of this ____ could be because the observers used only audio clips, and thus could not read  … like body language, but there are  … other explanations, as people should be able to hear when a participant is being kind versus being rude.",
+       "why": "答案是 discrepancy：填回后与所在句 because、observers、used、only、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 discrepancy 这个词性/语义，而不是 deny）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 discrepancy 这个词性/语义，而不是 activated）。"
+       }
+      },
+      {
+       "locate": "Some of this  … could be because the observers used only audio clips, and thus could not read ____ like body language, but there are  … other explanations, as people should be able to hear when a participant is being kind versus being rude.",
+       "why": "答案是 cues：填回后与所在句 because、observers、used、only、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cues 这个词性/语义，而不是 consecutive）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cues 这个词性/语义，而不是 activated）。"
+       }
+      },
+      {
+       "locate": "Some of this  … could be because the observers used only audio clips, and thus could not read  … like body language, but there are ____ other explanations, as people should be able to hear when a participant is being kind versus being rude.",
+       "why": "答案是 probably：填回后与所在句 because、observers、used、only、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "与 probably 拼写相近（共同开头 prob），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 probably 这个词性/语义，而不是 activated）。"
+       }
+      },
+      {
+       "locate": "The weak agreement between how participants thought they were acting and what observers heard could be because people would rather ____ rude behavior.",
+       "why": "答案是 deny：填回后与所在句 weak、agreement、between、how、participants、thought 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 deny 这个词性/语义，而不是 discrepancy）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 deny 这个词性/语义，而不是 activated）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "We're experiencing the rebirth of smallness. Farmers markets, tiny homes, and brew pubs all exemplify our love of smallness. So do charter schools, coffee shops, and local bookstores. Small is often (but not always) more affordable, healthier, and sustainable, but its finest characteristic, the one that turns charm into love, is that going small allows us to be more fully who we are."
+      },
+      {
+       "id": "B",
+       "text": "In higher education the trend is mostly in the opposite direction: Universities with 20,000 or 30,000 students are considered \"mid-sized\". The nation's largest university, Arizona State University, has 80,000 students on campus and aims to enroll another 100,000 students online. At the other end of the spectrum is a handful of colleges that have fewer than a hundred students on campus and no online courses: colleges such as Sterling College, Thomas More College of Liberal Arts, and Deep Springs College. These colleges are so small that they can only be called \"tiny.\""
+      },
+      {
+       "id": "C",
+       "text": "Tiny colleges focus not just on a young person's intellect, but on the young person as a whole. Equally important, tiny colleges ask, \"How can education contribute to human flourishing and the well-being of the world?\" And they shape a college experience to address that question. They replace concerns about institutional growth with attention to the growth of students as fully developed participants in their communities."
+      },
+      {
+       "id": "D",
+       "text": "I've had the privilege of teaching at three different institutions of higher learning during my career—a small liberal arts college and two mid-sized public universities. I've also been profoundly disappointed in each of these institutions, and in many of my colleagues, especially when it comes to helping students and preparing them for the many responsibilities of adulthood. Administrators focus on the business of running a university, and most faculty focus on their scholarship and teaching their discipline. Little deliberate attention is given to how students mature as individuals and social beings."
+      },
+      {
+       "id": "E",
+       "text": "Having just retired from teaching at a public university, I'm now returning to my hometown of Flagstaff, Arizona, to establish a tiny college—Flagstaff College. I'm convinced there's a need for another type of education, one devoted to helping students come into their own and into this beautiful and troubled world. Young people need an education that will provide them with meaning, hope, courage, and passion, as well as information and skills. Large institutions, I believe, are particularly ill-suited to this type of education."
+      },
+      {
+       "id": "F",
+       "text": "There's no \"best of\" list when it comes to tiny colleges, at least not yet. But around the country people are creating new colleges that provide an alternative to small liberal arts colleges, large public universities, and online education."
+      },
+      {
+       "id": "G",
+       "text": "With only 26 students, Deep Springs is the smallest college in the country and, quite likely, the most atypical(非典型的). Located on a working cattle ranch on the California-Nevada border, Deep Springs is a private, residential, two-year college for men, committed to educating students for \"a life of service to humanity.\" Founded by the electricity tycoon(大亨) L.L. Nunn in 1917, Deep Springs \"curriculum\" revolves around academics, labor, and self-governance. In addition to their courses, students are charged with running the 155-acre ranch and overseeing the functioning of the college. Students chair both the admissions and the curriculum committees."
+      },
+      {
+       "id": "H",
+       "text": "\"Living in close community with one's teachers and fellow students, and being forced to take on adult responsibilities, makes for one's growth as a person,\" says William Hunt, who graduated last year. \"To exist for very long in a community like that, you have to get over the question of whether you're sufficiently talented or principled and get started worrying about how you can stretch yourself and your peers, how much you can manage to learn with them.\""
+      },
+      {
+       "id": "I",
+       "text": "Sterling College, in Craftsbury Common, Vermont, is also very small—fewer than 100 students. Unlike Deep Springs, Sterling focuses its curriculum on environmental and social justice issues, but like Deep Springs it places a high value on personal responsibility and manual labor. According to its catalog, a college education at Sterling combines \"rigorous academics, roll-up-your-sleeves challenges, and good old hard work.\""
+      },
+      {
+       "id": "J",
+       "text": "The average tuition at a small liberal-arts college is $30,000 to $40,000 a year, not including the cost of living on campus, as compared to $8,000 to $10,000 a year for tuition alone at a public university. Of the tiny colleges, only Deep Springs doesn't charge tuition or room and board; students pay only for books and the cost of traveling to and from college. If tiny schools are to become a player on the higher education scene, they will need to find a way to be truly affordable."
+      },
+      {
+       "id": "K",
+       "text": "Doing so may not be that difficult so long as they do not pattern themselves too closely on existing norms. We've come to believe that a good college should have many academic programs and excellent facilities, posh(豪华的) dorms, an array of athletic programs, and a world-class student activity center. Imagine a good college without a climbing wall! We also have accepted the idea that college presidents, and their many vice-presidents, should be paid like their counterparts in the business world and that higher education requires an elaborate, up-to-date technology infrastructure. All of this drives up the cost of education."
+      },
+      {
+       "id": "L",
+       "text": "The \"trick\" to making tiny colleges affordable, if that's the right word, is simplicity. At its core, education is a human-to-human interaction. Reflecting on his own college education, President Garfield once commented that an ideal college would consist of nothing more than the legendary teacher Mark Hopkins on one end of a log and a student on the other. The economics of a tiny college, in other words, might be similar to that of a tiny house. Because it is small, a tiny house costs less to build and less to furnish, insure, and maintain. But the economic benefits of a small house don't end there. Tiny homes discourage homeowners from buying stuff that they really don't need, because there's no place to put it."
+      },
+      {
+       "id": "M",
+       "text": "I'm a late convert to the idea of tiny colleges, and I fully understand the need for many diverse types of educational institutions. Academic research and job training are important, but tiny colleges aren't suited for either. The educational needs of a complex society are themselves complex, and no single model can meet all of these needs. But I'm now convinced there's an educational need that's now going almost completely unmet: namely, the need to help young people transition into adulthood. Tiny colleges can do this better than any other type of educational institution."
+      },
+      {
+       "id": "N",
+       "text": "The ultimate justification for a tiny college is the conviction that each of us comes into our full humanity by close interaction with those who know and care for us, and that one of the basic purposes of higher education is social. Although we give lip service to the idea that a college education will make us better people, when all's said and done, we think of higher education primarily in economic terms. We've come to think of higher education as a means to make a living rather than make a life. We've also come to see higher education as a private good rather than a public one. Tiny colleges are not the answer to all of our educational requirements, but they're an answer to one of our most basic educational necessities; the need to produce thoughtful, engaged, and compassionate human beings."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "One tiny American college situated on a cattle farm is devoted to educating students to serve mankind throughout their lives."
+      },
+      {
+       "id": "s37",
+       "text": "Much to the author's disappointment, the three institutions of higher learning where she taught largely ignore students' growth as social beings."
+      },
+      {
+       "id": "s38",
+       "text": "Tiny colleges must be made affordable in order to play a role in higher education."
+      },
+      {
+       "id": "s39",
+       "text": "According to a recent graduate from a tiny college, living together with faculty and fellow students is conducive to a student's growth as a person."
+      },
+      {
+       "id": "s40",
+       "text": "Rather than going small, most American universities are trying to go big."
+      },
+      {
+       "id": "s41",
+       "text": "In a certain tiny college, rigorous academic work and traditional manual labor are integrated."
+      },
+      {
+       "id": "s42",
+       "text": "Tiny colleges focus on educating students to become well-rounded citizens instead of seeking their own expansion."
+      },
+      {
+       "id": "s43",
+       "text": "The essence of education lies in the interaction between people."
+      },
+      {
+       "id": "s44",
+       "text": "After her retirement, the author has decided to set up a tiny college in her hometown."
+      },
+      {
+       "id": "s45",
+       "text": "Tiny colleges are justified as it is believed that our growth into full humanity comes through interaction with people near and dear to us."
+      }
+     ],
+     "answers": [
+      "G",
+      "D",
+      "J",
+      "H",
+      "B",
+      "I",
+      "C",
+      "L",
+      "E",
+      "N"
+     ],
+     "statementExplains": [
+      "【定位】Located on a working cattle ranch on the California-Nevada border, Deep Springs is a private, residential, two-year college for men, committed to educating students for \"a life of service to humanity.\" Founded by the electricity tycoon(大亨) L.L.\n【依据】陈述里的 college、cattle、educating、students 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】I've had the privilege of teaching at three different institutions of higher learning during my career—a small liberal arts college and two mid-sized public universities.\n【依据】陈述里的 three、institutions、higher、learning 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】If tiny schools are to become a player on the higher education scene, they will need to find a way to be truly affordable.\n【依据】陈述里的 tiny、affordable、higher、education 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】\"Living in close community with one's teachers and fellow students, and being forced to take on adult responsibilities, makes for one's growth as a person,\" says William Hunt, who graduated last year.\n【依据】陈述里的 graduate、living、fellow、students、student's、growth 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】In higher education the trend is mostly in the opposite direction: Universities with 20,000 or 30,000 students are considered \"mid-sized\".\n【依据】陈述里的 universities 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】According to its catalog, a college education at Sterling combines \"rigorous academics, roll-up-your-sleeves challenges, and good old hard work.\"\n【依据】陈述里的 college、rigorous、academic、work 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Equally important, tiny colleges ask, \"How can education contribute to human flourishing and the well-being of the world?\" And they shape a college experience to address that question.\n【依据】陈述里的 tiny、colleges、educating、well-rounded 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】At its core, education is a human-to-human interaction.\n【依据】陈述里的 education、interaction 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】Having just retired from teaching at a public university, I'm now returning to my hometown of Flagstaff, Arizona, to establish a tiny college—Flagstaff College.\n【依据】陈述里的 retirement、tiny、college、hometown 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】The ultimate justification for a tiny college is the conviction that each of us comes into our full humanity by close interaction with those who know and care for us, and that one of the basic purposes of higher education is social.\n【依据】陈述里的 tiny、colleges、justified、into、full、humanity 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。"
+     ],
+     "explain": "长篇阅读匹配：14 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Located on a working cattle ranch on the California-Nevada border, Deep Springs is a private, residential, two-year college for men, committed to educating students for \"a life of service to humanity.\" Founded by the electricity tycoon(大亨) L.L.",
+       "why": "陈述里的 college、cattle、educating、students 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "I've had the privilege of teaching at three different institutions of higher learning during my career—a small liberal arts college and two mid-sized public universities.",
+       "why": "陈述里的 three、institutions、higher、learning 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If tiny schools are to become a player on the higher education scene, they will need to find a way to be truly affordable.",
+       "why": "陈述里的 tiny、affordable、higher、education 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Living in close community with one's teachers and fellow students, and being forced to take on adult responsibilities, makes for one's growth as a person,\" says William Hunt, who graduated last year.",
+       "why": "陈述里的 graduate、living、fellow、students、student's、growth 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In higher education the trend is mostly in the opposite direction: Universities with 20,000 or 30,000 students are considered \"mid-sized\".",
+       "why": "陈述里的 universities 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "According to its catalog, a college education at Sterling combines \"rigorous academics, roll-up-your-sleeves challenges, and good old hard work.\"",
+       "why": "陈述里的 college、rigorous、academic、work 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Equally important, tiny colleges ask, \"How can education contribute to human flourishing and the well-being of the world?\" And they shape a college experience to address that question.",
+       "why": "陈述里的 tiny、colleges、educating、well-rounded 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "At its core, education is a human-to-human interaction.",
+       "why": "陈述里的 education、interaction 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Having just retired from teaching at a public university, I'm now returning to my hometown of Flagstaff, Arizona, to establish a tiny college—Flagstaff College.",
+       "why": "陈述里的 retirement、tiny、college、hometown 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The ultimate justification for a tiny college is the conviction that each of us comes into our full humanity by close interaction with those who know and care for us, and that one of the basic purposes of higher education is social.",
+       "why": "陈述里的 tiny、colleges、justified、into、full、humanity 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "If you're someone who has turned to snacking on junk food more in the pandemic(大流行病), you're not alone. Investigative reporter Michael Moss says processed food is engineered to hook you, not unlike alcohol, cigarettes, or other harmful substances. His 2013 book, Salt Sugar Fat, explored food companies' aggressive marketing of those products and their impact on our health. In his new book, Hooked, Moss updates the food giants' efforts to keep us eating what they serve, and how they're responding to complaints from consumers and health advocates. Processed food is inexpensive, it's legal, and it's everywhere. Companies' advertising is cueing us to remember those products and we want those products constantly. So the food environment is one of those key things that makes food even more problematic for so many people. Memory, nostalgia(怀旧) in particular, plays a big role in the foods we crave. Soda companies discovered that if they put a soda in the hands of a child when they're at a ball game with their parents, that soda will forever be associated with that joyous moment. Later in life, when that child wants to experience a joyous moment, they're going to think of soda. Many people seek comfort in the snacks they remember from childhood. Moss examines the way companies capitalize on our memories, cravings and brain chemistry to keep us snacking. One of the reasons I came to think that some of these food products are even more powerful, more troublesome than drugs can be is memory. What we eat is all about memory. And we begin forming memories for food at a really early age. And we keep those memories for a lifetime. Knowing this, the food industry spends lots of time trying to shape the memories that we have for their products. One of the features of addiction that scientists studying drug addiction discovered back in the 1990s was that the faster a substance hits the brain, the more apt we are as a result to act impulsively. There's nothing faster than food in its ability to hit the brain. For Moss, this puts the notion of \"fast food\" in an entirely new light as this isn't limited to fast food chains-almost 90% of food products in grocery stores are processed foods. Everything in the industry is about speed, from manufacturing to packaging. Overall, Moss outlines the industry's dependence on making their products inexpensive, super delicious, and incredibly convenient for consumers. Now that more and more people care about what they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "In what way does Michael Moss think processed food is comparable to alcohol and cigarettes?",
+       "options": [
+        "They are all addictive.",
+        "They are all necessary evils.",
+        "They are all engineered to be enjoyed.",
+        "They are all in increasingly great demand."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Now that more and more people care about what they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods.\n【依据】正确项的核心词 addictive 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Now that more and more people care about what they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods.",
+        "why": "正确项的核心词 addictive 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「necessary、evils」全文未出现。",
+         "C": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「enjoyed」全文未出现。",
+         "D": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「increasingly、great」全文未出现；把原文的「demand」换成了「increasingly、great」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author say plays a key role in the foods we crave?",
+       "options": [
+        "The food environment.",
+        "Aggressive marketing.",
+        "Convenience.",
+        "Memory."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Memory, nostalgia(怀旧) in particular, plays a big role in the foods we crave.\n【依据】正确项的核心词 memory 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Memory, nostalgia(怀旧) in particular, plays a big role in the foods we crave.",
+        "why": "正确项的核心词 memory 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do food companies do to capitalize on consumers' association with their food products?",
+       "options": [
+        "They strive to influence how consumers remember their products.",
+        "They attempt to use consumers' long-term memories to promote addiction.",
+        "They try to exploit consumers' memories for their products as early as possible.",
+        "They endeavor to find what consumers remember about their products."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】In his new book, Hooked, Moss updates the food giants' efforts to keep us eating what they serve, and how they're responding to complaints from consumers and health advocates.\n【依据】正确项的核心词 how、consumers 与定位句对得上；其余 strive、influence、remember、products 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In his new book, Hooked, Moss updates the food giants' efforts to keep us eating what they serve, and how they're responding to complaints from consumers and health advocates.",
+        "why": "正确项的核心词 how、consumers 与定位句对得上；其余 strive、influence、remember、products 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「attempt、use、long-term」全文未出现；把原文的「consumers'」换成了「attempt、use、long-term」，主语或对象被调包。",
+         "C": "偷换主体：「try、exploit、possible」全文未出现；把原文的「consumers'」换成了「try、exploit、memories」，主语或对象被调包。",
+         "D": "偷换主体：「endeavor、find」全文未出现；把原文的「what、consumers」换成了「endeavor、find、remember」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "How does the food industry operate from manufacturing to packaging, according to Moss?",
+       "options": [
+        "Placing the idea of fast food in an entirely new light.",
+        "Setting no limit to the number of fast food chains.",
+        "Focusing on how quickly the work is done.",
+        "Prioritizing the quality of their products."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In his new book, Hooked, Moss updates the food giants' efforts to keep us eating what they serve, and how they're responding to complaints from consumers and health advocates.\n【依据】正确项的核心词 how 与定位句对得上；其余 focusing、quickly、work、done 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In his new book, Hooked, Moss updates the food giants' efforts to keep us eating what they serve, and how they're responding to complaints from consumers and health advocates.",
+        "why": "正确项的核心词 how 与定位句对得上；其余 focusing、quickly、work、done 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「placing、idea」全文未出现；把原文的「food、new」换成了「placing、idea、fast」，主语或对象被调包。",
+         "B": "无中生有：「setting、limit、number」全文未出现；把原文的「food」换成了「setting、limit、number」，主语或对象被调包。",
+         "D": "无中生有：「prioritizing、quality」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "Why are companies finding it difficult to satisfy consumers' demand for healthier food products?",
+       "options": [
+        "They think speed of production outweighs consumers' health.",
+        "They believe their industry would perish without fast foods.",
+        "They have to strike a balance between taste and nutrition.",
+        "They are hooked on manufacturing convenience foods."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Now that more and more people care about what they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods.\n【依据】正确项的核心词 convenience、foods 与定位句对得上；其余 hooked、manufacturing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Now that more and more people care about what they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods.",
+        "why": "正确项的核心词 convenience、foods 与定位句对得上；其余 hooked、manufacturing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「production、outweighs、consumers'」全文未出现；把原文的「health」换成了「think、speed、production」，主语或对象被调包。",
+         "B": "无中生有：「believe、perish、without」全文未出现；把原文的「foods」换成了「believe、industry、perish」，主语或对象被调包。",
+         "C": "无中生有：「strike、balance、between」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 446 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Chimpanzees(黑猩猩), human beings' closest animal relatives, share up to 98% of our genes. Yet humans and chimpanzees lead very different lives. Fewer than 300,000 wild chimpanzees live in a few forested corners of Africa today, while humans have colonized every corner of the globe. At more than 7 billion, human population dwarfs that of nearly all other mammals—despite our physical weaknesses. What could account for our species' incredible evolutionary successes? One obvious answer is our big brains. It could be that our raw intelligence gave us an unprecedented ability to think outside the box, innovating solutions to thorny problems as people migrated across the globe. But a growing number of cognitive scientists and anthropologists(人类学家) are rejecting that explanation. They think that, rather than making our living as innovators, we survive and thrive precisely because we don't think for ourselves. Instead, people cope with challenging climates and ecological contexts by carefully copying others. In a famous study, psychologists Victoria Horner and Andrew Whiten showed two groups of test subjects—children and chimpanzees—a mechanical box with a treat inside. In one condition, the box was opaque, while in the other it was transparent. The experimenters demonstrated how to open the box to retrieve the treat, but they also included the irrelevant step of tapping on the box with a stick. Oddly, the children carefully copied all the steps to open the box, even when they could see that the stick had no practical effect. That is, they copied irrationally: Instead of doing only what was necessary to get their reward, children slavishly imitated every action they'd witnessed. Of course, that study only included three—and four-year-olds. But additional research has shown that older children and adults are even more likely to mindlessly copy others' actions, and infants are less likely to over-imitate—that is, to precisely copy even impractical actions. By contrast, chimpanzees in the study only over-imitated in the opaque condition. In the transparent condition—where they saw that the stick was mechanically useless—they ignored that step entirely. Other research has since supported these findings. When it comes to copying, chimpanzees are more rational than human children or adults. Where does the seemingly irrational human preference for over-imitation come from? Anthropologist Joseph Henrich points out that people around the world rely on technologies that are often so complex that no one can learn them rationally. Instead, people must learn them step by step, trusting in the wisdom of more experienced elders and peers. So the next time you hear someone arguing passionately that everyone should embrace nonconformity and avoid imitating others, you might laugh a little bit. We're not chimpanzees, after all.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What might explain humans' having the largest population of almost all mammals?",
+       "options": [
+        "They are equipped with raw strength for solving the most challenging problems.",
+        "They cope with the outside world more effectively than their animal relatives.",
+        "They possess the most outstanding ability to think.",
+        "They know how to survive everywhere on earth."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】At more than 7 billion, human population dwarfs that of nearly all other mammals—despite our physical weaknesses.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 possess、outstanding、ability、think 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "At more than 7 billion, human population dwarfs that of nearly all other mammals—despite our physical weaknesses.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 possess、outstanding、ability、think 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「equipped、strength、solving」全文未出现。",
+         "B": "因果倒置：「effectively」全文未出现。",
+         "D": "无中生有：「know、everywhere、earth」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What accounts for humans' evolutionary successes according to a growing number of cognitive scientists and anthropologists?",
+       "options": [
+        "They are better at innovating solutions.",
+        "They thrive through creative strategies.",
+        "They are naturally adaptive to ecological contexts.",
+        "They meet challenges by imitating others carefully."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】But a growing number of cognitive scientists and anthropologists(人类学家) are rejecting that explanation.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 meet、challenges、imitating、others 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But a growing number of cognitive scientists and anthropologists(人类学家) are rejecting that explanation.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 meet、challenges、imitating、others 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「better」全文未出现。",
+         "B": "无中生有：「through、creative、strategies」全文未出现。",
+         "C": "因果倒置：「naturally、adaptive」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the author think is odd about the findings of the study by Victoria Horner and Andrew Whiten?",
+       "options": [
+        "Children irrationally imitated every action of the experimenters.",
+        "Chimpanzees could tell the transparent box from the opaque one.",
+        "Chimpanzees could retrieve the treat more quickly than children did.",
+        "Children omitted the step of tapping on the box with a stick to open it."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】In a famous study, psychologists Victoria Horner and Andrew Whiten showed two groups of test subjects—children and chimpanzees—a mechanical box with a treat inside.\n【依据】正确项的核心词 children 与定位句对得上；其余 irrationally、imitated、every、action 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In a famous study, psychologists Victoria Horner and Andrew Whiten showed two groups of test subjects—children and chimpanzees—a mechanical box with a treat inside.",
+        "why": "正确项的核心词 children 与定位句对得上；其余 irrationally、imitated、every、action 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「tell」全文未出现；把原文的「chimpanzees、box」换成了「tell、transparent、opaque」，主语或对象被调包。",
+         "C": "偷换主体：「quickly」全文未出现；把原文的「chimpanzees、treat、children」换成了「retrieve、quickly」，主语或对象被调包。",
+         "D": "偷换主体：「omitted」全文未出现；把原文的「children、box」换成了「omitted、step、tapping」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What is anthropologist Joseph Henrich's explanation for the human preference for copying?",
+       "options": [
+        "It originates in the rationality of people around the world.",
+        "It stems from the way people learn complex technologies.",
+        "It results from people distrusting their own wisdom.",
+        "It derives from the desire to acquire knowledge step by step."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Anthropologist Joseph Henrich points out that people around the world rely on technologies that are often so complex that no one can learn them rationally.\n【依据】正确项的核心词 people、learn、complex、technologies 与定位句对得上；其余 stems、way 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Anthropologist Joseph Henrich points out that people around the world rely on technologies that are often so complex that no one can learn them rationally.",
+        "why": "正确项的核心词 people、learn、complex、technologies 与定位句对得上；其余 stems、way 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「originates」全文未出现；把原文的「rationality、people、around」换成了「originates」，主语或对象被调包。",
+         "C": "无中生有：「results、distrusting、own」全文未出现；把原文的「people」换成了「results、distrusting、own」，主语或对象被调包。",
+         "D": "无中生有：「derives、desire、acquire」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What point does the author want to emphasize when he says \"We're not chimpanzees\"?",
+       "options": [
+        "It is arguable whether everyone should avoid imitation.",
+        "It is characteristic of human beings to copy others.",
+        "It is desirable to trust in more knowledgeable peers.",
+        "It is naive to laugh at someone embracing nonconformity."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】When it comes to copying, chimpanzees are more rational than human children or adults.\n【依据】正确项的核心词 human 与定位句对得上；其余 characteristic、beings、copy、others 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When it comes to copying, chimpanzees are more rational than human children or adults.",
+        "why": "正确项的核心词 human 与定位句对得上；其余 characteristic、beings、copy、others 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「arguable、whether、imitation」全文未出现。",
+         "C": "无中生有：「desirable、trust、knowledgeable」全文未出现。",
+         "D": "因果倒置：「naive、embracing」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 441 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "近年来中国城市加快发展城市人居环境得到显著改善。许多城市努力探索中国特色的城市高质量发展之路城市功能不断完善治理水平明显提高。中国持续开展城市生态修复和功能修补全面实施城镇老旧小区改造大力推进城市园林绿化消除污染同时大力推进城市基础设施体系化建设开展房屋建筑和市政设施普查以及安全隐患排查整治努力为市民创造高品质的生活环境让城市更美丽、更安全、更宜居。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

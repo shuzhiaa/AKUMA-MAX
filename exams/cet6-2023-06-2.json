@@ -1,0 +1,1168 @@
+{
+ "id": "cet6-2023-06-2",
+ "levelId": "cet6",
+ "title": "六级 2023 年 06 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2023年6月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2023-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2023-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 你决定想学什么了吗？"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 是的，教授。我想学习建筑学"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 啊，那是一门很棒的职业"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 我认真思考了您在上次讨论中说的话"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 这很好，不过我记得你之前一直在担心那些高深的数学"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 不会。我做了一些网上调查"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 我相信确实如此"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 嗯，我想这也是真的"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 如今，建筑学是一门非常多样且充满活力的学位专业"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 您觉得我应该先从哪种软件开始"
+      },
+      {
+       "idx": 11,
+       "zh": "M: Photoshop 是个不错的起点"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "Why does the woman wish to study architecture?",
+       "options": [
+        "She is attracted to the beauty of modern buildings.",
+        "She is preoccupied with her dream to be an architect.",
+        "She is influenced by her father who teaches architecture.",
+        "She is drawn to its integration of design and engineering."
+       ],
+       "optionsZh": [
+        "她被现代建筑的美感所吸引。",
+        "她一心想着成为建筑师的梦想。",
+        "她受到教授建筑学的父亲的影响。",
+        "她被建筑学中设计与工程的结合所吸引。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She is drawn to its integration of design and engineering.（她被建筑学中设计与工程的结合所吸引。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "How does the woman say she will overcome the difficulty in learning mathematics?",
+       "options": [
+        "Through hard work.",
+        "With the professor's help.",
+        "By studying the subject online.",
+        "By taking prerequisite courses."
+       ],
+       "optionsZh": [
+        "通过刻苦学习。",
+        "在教授的帮助下。",
+        "通过在线学习该科目。",
+        "通过修读先修课程。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Through hard work.（通过刻苦学习。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the man say about architects' contribution to a city?",
+       "options": [
+        "It is groundbreaking.",
+        "It is long-lasting.",
+        "It is immaterial.",
+        "It is immortal."
+       ],
+       "optionsZh": [
+        "它是开创性的。",
+        "它是持久的。",
+        "它是无关紧要的。",
+        "它是不朽的。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It is long-lasting.（它是持久的。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What subject does the man suggest the woman start with?",
+       "options": [
+        "Economics.",
+        "Philosophy.",
+        "Computer science.",
+        "Western art."
+       ],
+       "optionsZh": [
+        "经济学。",
+        "哲学。",
+        "计算机科学。",
+        "西方艺术。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Computer science.（计算机科学。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn from the conversation about Mr. Sanchez?",
+       "options": [
+        "He has occasionally been harassed by his fans.",
+        "He has been guarded by a discreet assistant.",
+        "He is well known to the public.",
+        "He is a famous football coach."
+       ],
+       "optionsZh": [
+        "他偶尔会被粉丝骚扰。",
+        "他一直由一位谨慎的助理保护着。",
+        "他为公众所熟知。",
+        "他是一位著名的足球教练。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He is well known to the public.（他为公众所熟知。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What will the man do if he gets the job?",
+       "options": [
+        "Serve as a personal assistant.",
+        "Play a key role in Real Madrid.",
+        "Run common daily chores for the woman.",
+        "Help promote Mr. Sanchez's public profile."
+       ],
+       "optionsZh": [
+        "担任私人助理。",
+        "在皇家马德里扮演关键角色。",
+        "为女士处理日常琐事。",
+        "帮助提升桑切斯先生的公众形象。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Serve as a personal assistant.（担任私人助理。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the man say about himself?",
+       "options": [
+        "He is honest and always tells the truth.",
+        "He once worked part-time in university.",
+        "He cares little about his working hours.",
+        "He has little previous work experience."
+       ],
+       "optionsZh": [
+        "他诚实且总是说真话。",
+        "他曾在大学期间做过兼职工作。",
+        "他不太在意自己的工作时间。",
+        "他几乎没有以前的工作经验。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He has little previous work experience.（他几乎没有以前的工作经验。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "Why does the man think he is a very competitive candidate?",
+       "options": [
+        "He has a strong ability to connect with people.",
+        "He has a high proficiency in several languages.",
+        "He has a sound knowledge of sports consultancy.",
+        "He has a natural capacity to cooperate with others."
+       ],
+       "optionsZh": [
+        "他有很强的与人交往的能力。",
+        "他精通多种语言。",
+        "他对体育咨询有扎实的知识。",
+        "他有与他人合作的天生能力。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He has a high proficiency in several languages.（他精通多种语言。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "Why do extreme sports appeal to many kids?",
+       "options": [
+        "They bring more benefits to young people.",
+        "They require less supervision and training.",
+        "They are more suitable to young people.",
+        "They have fewer rules and pressures."
+       ],
+       "optionsZh": [
+        "它们给年轻人带来更多益处。",
+        "它们需要更少的监督和训练。",
+        "它们更适合年轻人。",
+        "它们有更少的规则和压力。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They have fewer rules and pressures.（它们有更少的规则和压力。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the speaker say about risk-free activities?",
+       "options": [
+        "They prevent kids from enjoying adventure sports.",
+        "They help kids guard against any possible injuries.",
+        "They rob kids of the chance to cultivate their courage.",
+        "They deprive kids of the opportunity to develop team spirit."
+       ],
+       "optionsZh": [
+        "它们阻止孩子享受冒险运动。",
+        "它们帮助孩子防范任何可能的伤害。",
+        "它们剥夺了孩子培养勇气的机会。",
+        "它们剥夺了孩子发展团队精神的机会。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They rob kids of the chance to cultivate their courage.（它们剥夺了孩子培养勇气的机会。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What should parents do if they decide adventure sports are a bit too much for their kids?",
+       "options": [
+        "Help them take up these sports when they are more mature.",
+        "Let them participate in some less risky outdoor activities.",
+        "Ask them to try some forms of indoor sports.",
+        "Introduce them to these sports step by step."
+       ],
+       "optionsZh": [
+        "在孩子更成熟时帮助他们从事这些运动。",
+        "让他们参与一些风险较小的户外活动。",
+        "让他们尝试某些形式的室内运动。",
+        "循序渐进地向他们介绍这些运动。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Let them participate in some less risky outdoor activities.（让他们参与一些风险较小的户外活动。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "Why do new tech products soon become waste?",
+       "options": [
+        "Consumers often have a craving for the latest model.",
+        "Such products tend to comprise parts that are irreplaceable.",
+        "Tech firms intentionally design products to have short lifespans.",
+        "Manufacturers use effective strategies to promote fancier products."
+       ],
+       "optionsZh": [
+        "消费者往往渴望拥有最新款式。",
+        "此类产品往往包含无法更换的部件。",
+        "科技公司有意将产品设计成使用寿命短的。",
+        "制造商使用有效的策略来推广更华丽的产品。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Tech firms intentionally design products to have short lifespans.（科技公司有意将产品设计成使用寿命短的。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What did the French government require tech companies to do to help consumers make better choices?",
+       "options": [
+        "Indicate the competitiveness of their products.",
+        "List a repairability score of their products.",
+        "Specify the major parts of their products.",
+        "Detail the lifecycle of their products."
+       ],
+       "optionsZh": [
+        "标明其产品的竞争力。",
+        "列出其产品的可维修性评分。",
+        "详细说明其产品的主要部件。",
+        "详细说明其产品的生命周期。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：List a repairability score of their products.（列出其产品的可维修性评分。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What should tech companies do to help ensure environmental sustainability?",
+       "options": [
+        "Take the initiative to reduce electronic waste.",
+        "Take due caution in upgrading their products.",
+        "Invest in constructing more recycling facilities.",
+        "Substitute all toxic substances with non-toxic ones."
+       ],
+       "optionsZh": [
+        "主动减少电子废弃物。",
+        "在升级其产品时采取适当的谨慎措施。",
+        "投资建设更多回收设施。",
+        "用无毒物质替代所有有毒物质。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Take the initiative to reduce electronic waste.（主动减少电子废弃物。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the speaker think of the problem of waste?",
+       "options": [
+        "It can be solved.",
+        "It is certain to worsen.",
+        "It will be fixed by tech companies.",
+        "It is unavoidable in the long run."
+       ],
+       "optionsZh": [
+        "它可以被解决。",
+        "它肯定会恶化。",
+        "它将由科技公司解决。",
+        "从长远来看它是不可避免的。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It can be solved.（它可以被解决。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does most cyberloafing research focus on?",
+       "options": [
+        "How internet monitoring can be implemented.",
+        "How to encourage productive internet surfing.",
+        "How cyberloafing affects overall productivity.",
+        "How to prevent employees from cyberloafing."
+       ],
+       "optionsZh": [
+        "如何实施互联网监控。",
+        "如何鼓励富有成效的网络浏览。",
+        "网络闲逛如何影响整体生产力。",
+        "如何防止员工网络闲逛。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：How to prevent employees from cyberloafing.（如何防止员工网络闲逛。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What was the hypothesis of the speaker's research team?",
+       "options": [
+        "Cyberloafing is a sign of workers' laziness.",
+        "Cyberloafing may relieve employees of stress.",
+        "Employee engagement is closely related to job satisfaction.",
+        "Overuse of social media may lead to decline in productivity."
+       ],
+       "optionsZh": [
+        "网络闲逛是员工懒惰的标志。",
+        "网络闲逛可能缓解员工的压力。",
+        "员工敬业度与工作满意度密切相关。",
+        "过度使用社交媒体可能导致生产力下降。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Cyberloafing may relieve employees of stress.（网络闲逛可能缓解员工的压力。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "On what point do the results of the speaker's study agree with other recent research?",
+       "options": [
+        "Taking mini-breaks means better job performance.",
+        "Cyberloafing generally does more harm than good.",
+        "Worker turnover is linked to the time allowed for cyberloafing.",
+        "Employees who indulge in internet surfing are most likely to quit."
+       ],
+       "optionsZh": [
+        "短暂休息意味着更好的工作表现。",
+        "网络闲逛总体上弊大于利。",
+        "员工流动率与允许网络闲逛的时间有关。",
+        "沉溺于网络浏览的员工最有可能辞职。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Taking mini-breaks means better job performance.（短暂休息意味着更好的工作表现。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about Nebraska City in 1854 when Julius Morton moved there?",
+       "options": [
+        "There were no wooden buildings.",
+        "There were environmental problems.",
+        "There were no trees.",
+        "There were few settlers."
+       ],
+       "optionsZh": [
+        "没有木制建筑。",
+        "存在环境问题。",
+        "没有树木。",
+        "几乎没有定居者。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：There were no trees.（没有树木。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What did Julius Morton do that increased his influence in Nebraska City?",
+       "options": [
+        "He served as chairman of the Nebraska State Board of Agriculture.",
+        "He urged the state to start the Nebraska State Gardening Society.",
+        "He engaged himself in a large number of aesthetic projects.",
+        "He founded a newspaper and used it to promote his ideas."
+       ],
+       "optionsZh": [
+        "他担任Nebraska州农业委员会主席。",
+        "他敦促该州成立Nebraska州园艺协会。",
+        "他参与了大量美化项目。",
+        "他创办了一份报纸并用它来宣传他的理念。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He founded a newspaper and used it to promote his ideas.（他创办了一份报纸并用它来宣传他的理念。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does the speaker say happened on April 10, 1872?",
+       "options": [
+        "A special prize was awarded to Julius Morton.",
+        "One million trees were planted throughout Nebraska.",
+        "The state government declared it the official Arbor Day.",
+        "Nebraska earned the nickname \"the Tree Planters State\"."
+       ],
+       "optionsZh": [
+        "Julius Morton获得了一项特别奖励。",
+        "整个Nebraska州种植了一百万棵树。",
+        "州政府宣布这一天为正式的植树节。",
+        "Nebraska获得了\"植树者之州\"的昵称。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：One million trees were planted throughout Nebraska.（整个Nebraska州种植了一百万棵树。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do we learn about modern humans according to the hypothesis commonly accepted in the 1990s?",
+       "options": [
+        "They spread across Europe and Asia in a few decades.",
+        "They lived mostly in Africa for about 200,000 years.",
+        "They preferred to live in Europe rather than in Asia.",
+        "They moved out of Africa about 60,000 years ago."
+       ],
+       "optionsZh": [
+        "他们在几十年内遍布欧洲和亚洲。",
+        "他们在非洲生活了大约20万年。",
+        "他们更喜欢生活在欧洲而不是亚洲。",
+        "他们大约在6万年前走出非洲。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They moved out of Africa about 60,000 years ago.（他们大约在6万年前走出非洲。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What has called into question the \"Out of Africa\" model?",
+       "options": [
+        "The discovery of two modern human teeth in China.",
+        "The traces of human migration out of Africa to Asia.",
+        "The human fossils discovered most recently in Africa.",
+        "The Luna cave in Guangxi Zhuang Autonomous Region."
+       ],
+       "optionsZh": [
+        "在中国发现的两颗现代人类牙齿。",
+        "人类从非洲迁徙到亚洲的痕迹。",
+        "最近在非洲发现的人类化石。",
+        "广西壮族自治区的Luna洞穴。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The discovery of two modern human teeth in China.（在中国发现的两颗现代人类牙齿。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What does the speaker want to show with the example of some monkeys in Africa?",
+       "options": [
+        "There must have been some reason for human migration.",
+        "There have been changes in animals' living conditions.",
+        "Humans adapted themselves to the environment there.",
+        "Humans had access to abundant food sources there."
+       ],
+       "optionsZh": [
+        "人类迁徙一定有某种原因。",
+        "动物的生存条件发生了变化。",
+        "人类在那里适应了环境。",
+        "人类在那里能获得丰富的食物来源。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：There must have been some reason for human migration.（人类迁徙一定有某种原因。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What question does the speaker raise close to the end of the talk?",
+       "options": [
+        "How humans settled down on the Arabian Peninsula.",
+        "When modern humans started to disperse out of Africa.",
+        "What path modern humans took to migrate out of Africa.",
+        "Why fresh water is so important for human survival."
+       ],
+       "optionsZh": [
+        "人类如何在阿拉伯半岛定居。",
+        "现代人类何时开始走出非洲。",
+        "现代人类走出非洲采取了什么路径。",
+        "淡水对人类生存为何如此重要。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：What path modern humans took to migrate out of Africa.（现代人类走出非洲采取了什么路径。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words(not including the sentence given).",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Imagine sitting down to a big dinner: a massive steak, a large portion of fried potatoes, and cake for dessert. After eating so much, you should be too full to eat another bite. But some people experience a powerful urge to keep eating, even after {{1}} in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with {{2}} health issues and is even linked to increased {{3}} risk. But some people still keep eating long after they should stop, a phenomenon Dr. Susan Thompson calls \"insatiable(永不满足的) hunger.\" It is characterized by two main {{4}} : not being satisfied by eating, and having a desire to stay sedentary(久坐不动的). This is at {{5}} with how humans are biologically programmed. When there was a great deal of food available, ancient people would gorge on calories; this massive calorie intake was accompanied by an urge to get active. Humans were also programmed for something called \"compensation,\" which is the brain's {{6}} mechanism for preventing the accumulation of excess weight. With compensation, if you eat one large meal in the morning, you are naturally {{7}} to eat less for the rest of the day. But recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse {{8}} , a significant number of them report {{9}} hunger halfway through an eating session, but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down. Dr. Thompson argues that the main cause of this phenomenon is the modern diet, which is {{10}} of food high in sugar, carbohydrates and calories.",
+     "options": [
+      "attributes",
+      "comprised",
+      "conceded",
+      "conservation",
+      "diminishing",
+      "far",
+      "inclined",
+      "indulging",
+      "innumerable",
+      "mortality",
+      "odds",
+      "plights",
+      "regulatory",
+      "still",
+      "unmatchable"
+     ],
+     "answers": [
+      7,
+      8,
+      9,
+      0,
+      10,
+      12,
+      6,
+      13,
+      4,
+      1
+     ],
+     "blankExplains": [
+      "【定位】But some people experience a powerful urge to keep eating, even after ____ in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with  … health issues and is even linked to increased  … risk.\n【依据】答案是 indulging：填回后与所在句 people、experience、powerful、urge、keep、eating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But some people experience a powerful urge to keep eating, even after  … in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with ____ health issues and is even linked to increased  … risk.\n【依据】答案是 innumerable：填回后与所在句 people、experience、powerful、urge、keep、eating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But some people experience a powerful urge to keep eating, even after  … in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with  … health issues and is even linked to increased ____ risk.\n【依据】答案是 mortality：填回后与所在句 people、experience、powerful、urge、keep、eating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Susan Thompson calls \"insatiable(永不满足的) hunger.\" It is characterized by two main ____ : not being satisfied by eating, and having a desire to stay sedentary(久坐不动的).\n【依据】答案是 attributes：填回后与所在句 susan、thompson、calls、insatiable、hunger、characterized 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This is at ____ with how humans are biologically programmed.\n【依据】答案是 odds：填回后与所在句 how、humans、biologically、programmed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Humans were also programmed for something called \"compensation,\" which is the brain's ____ mechanism for preventing the accumulation of excess weight.\n【依据】答案是 regulatory：填回后与所在句 humans、programmed、something、called、compensation、which 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】With compensation, if you eat one large meal in the morning, you are naturally ____ to eat less for the rest of the day.\n【依据】答案是 inclined：填回后与所在句 compensation、eat、large、meal、morning、naturally 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse ____ , a significant number of them report  … hunger halfway through an eating session, but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down.\n【依据】答案是 still：填回后与所在句 recent、studies、show、american、adults、lost 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse  … , a significant number of them report ____ hunger halfway through an eating session, but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down.\n【依据】答案是 diminishing：填回后与所在句 recent、studies、show、american、adults、lost 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Thompson argues that the main cause of this phenomenon is the modern diet, which is ____ of food high in sugar, carbohydrates and calories.\n【依据】答案是 comprised：填回后与所在句 thompson、argues、main、cause、phenomenon、modern 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "But some people experience a powerful urge to keep eating, even after ____ in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with  … health issues and is even linked to increased  … risk.",
+       "why": "答案是 indulging：填回后与所在句 people、experience、powerful、urge、keep、eating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 indulging 这个词性/语义，而不是 inclined）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 indulging 这个词性/语义，而不是 innumerable）。"
+       }
+      },
+      {
+       "locate": "But some people experience a powerful urge to keep eating, even after  … in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with ____ health issues and is even linked to increased  … risk.",
+       "why": "答案是 innumerable：填回后与所在句 people、experience、powerful、urge、keep、eating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 innumerable 这个词性/语义，而不是 inclined）。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 innumerable 这个词性/语义，而不是 indulging）。"
+       }
+      },
+      {
+       "locate": "But some people experience a powerful urge to keep eating, even after  … in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with  … health issues and is even linked to increased ____ risk.",
+       "why": "答案是 mortality：填回后与所在句 people、experience、powerful、urge、keep、eating 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 mortality 这个词性/语义，而不是 attributes）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 mortality 这个词性/语义，而不是 comprised）。"
+       }
+      },
+      {
+       "locate": "Susan Thompson calls \"insatiable(永不满足的) hunger.\" It is characterized by two main ____ : not being satisfied by eating, and having a desire to stay sedentary(久坐不动的).",
+       "why": "答案是 attributes：填回后与所在句 susan、thompson、calls、insatiable、hunger、characterized 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 attributes 这个词性/语义，而不是 comprised）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 attributes 这个词性/语义，而不是 conceded）。"
+       }
+      },
+      {
+       "locate": "This is at ____ with how humans are biologically programmed.",
+       "why": "答案是 odds：填回后与所在句 how、humans、biologically、programmed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 odds 这个词性/语义，而不是 attributes）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 odds 这个词性/语义，而不是 comprised）。"
+       }
+      },
+      {
+       "locate": "Humans were also programmed for something called \"compensation,\" which is the brain's ____ mechanism for preventing the accumulation of excess weight.",
+       "why": "答案是 regulatory：填回后与所在句 humans、programmed、something、called、compensation、which 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 regulatory 这个词性/语义，而不是 attributes）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 regulatory 这个词性/语义，而不是 comprised）。"
+       }
+      },
+      {
+       "locate": "With compensation, if you eat one large meal in the morning, you are naturally ____ to eat less for the rest of the day.",
+       "why": "答案是 inclined：填回后与所在句 compensation、eat、large、meal、morning、naturally 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inclined 这个词性/语义，而不是 indulging）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inclined 这个词性/语义，而不是 innumerable）。"
+       }
+      },
+      {
+       "locate": "But recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse ____ , a significant number of them report  … hunger halfway through an eating session, but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down.",
+       "why": "答案是 still：填回后与所在句 recent、studies、show、american、adults、lost 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 still 这个词性/语义，而不是 attributes）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 still 这个词性/语义，而不是 comprised）。"
+       }
+      },
+      {
+       "locate": "But recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse  … , a significant number of them report ____ hunger halfway through an eating session, but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down.",
+       "why": "答案是 diminishing：填回后与所在句 recent、studies、show、american、adults、lost 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 diminishing 这个词性/语义，而不是 attributes）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 diminishing 这个词性/语义，而不是 comprised）。"
+       }
+      },
+      {
+       "locate": "Thompson argues that the main cause of this phenomenon is the modern diet, which is ____ of food high in sugar, carbohydrates and calories.",
+       "why": "答案是 comprised：填回后与所在句 thompson、argues、main、cause、phenomenon、modern 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 comprised 这个词性/语义，而不是 conceded）。",
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 comprised 这个词性/语义，而不是 conservation）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "When psychologist Jessica Pryor lived near an internationally renowned university, she once saw a student walking into a library holding a sleeping bag and a coffee maker. She has heard of graduate students spending 12 to 18 hours at a time in the lab. Their schedules are meant to be literally punishing: If they are scientists-in-training, they won't allow themselves to watch Netflix until their experiments start generating results. \"Relationships become estranged(疏远的)—people stop inviting them to social gatherings or dinner parties, which leads them to spend even more time in the lab,\" Pryor told me."
+      },
+      {
+       "id": "B",
+       "text": "Along with other therapists, Pryor, who is now with the Family Institute at Northwestern University, is trying to sound the alarm about a tendency among young adults and college students to strive for perfection in their work—sometimes at any cost. Though it is often portrayed as a positive trait, Pryor and others say extreme perfectionism can lead to depression, anxiety, and even suicide."
+      },
+      {
+       "id": "C",
+       "text": "What's more, perfectionism seems to be on the rise. In a study of thousands of American, Canadian, and British college students published earlier this year, Thomas Curran of the University of Bath and Andrew Hill of York St. John University found that today's college students report higher levels of perfectionism than college students did during the 1990s or early 2000s. They measured three types of perfectionism: self-oriented, or a desire to be perfect; socially prescribed, or a desire to live up to others' expectations; and other-oriented, or holding others to unrealistic standards. From 1989 to 2016, they found, self-oriented perfectionism scores increased by 10 percent, socially prescribed scores rose by 33 percent, and other-oriented perfectionism increased by 16 percent."
+      },
+      {
+       "id": "D",
+       "text": "A person living with an other-oriented perfectionist might feel criticized by the perfectionist spouse for not doing household chores exactly the \"right\" way. \"One of the most common things couples argue about is the proper way of loading the dishwasher,\" says Amy Bach, a psychologist in Providence, Rhode Island."
+      },
+      {
+       "id": "E",
+       "text": "Curran describes socially prescribed perfectionism as \"My self-esteem is contingent on what other people think.\" His study didn't examine the causal reasons for its rise, but he assumes that the rise of both standardized testing and social media might play a role. These days, LinkedIn alerts us when our rival gets a new job, and Instagram can let us know how well \"liked\" our lives are compared with a friend's. In an opinion piece earlier this year, Curran and Hill argue that society has also become more dog-eat-dog. \"Over the last 50 years, public interest and civic responsibility have been progressively eroded,\" they write, \"replaced by a focus on self-interest and competition in a supposedly free and open marketplace.\" We strive for perfection, it seems, because we feel we must in order to get ahead. Michael Brustein, a clinical psychologist in Manhattan, says when he first began practicing in 2007, he was surprised by how prevalent perfectionism was among his clients, despite how little his graduate training had focused on the phenomenon. He sees perfectionism in, among others, clients who are entrepreneurs, artists, and tech employees. \"You're in New York because you're ambitious, you have this need to strive,\" he says. \"But then your whole identity gets wrapped into a goal.\""
+      },
+      {
+       "id": "F",
+       "text": "Perfectionism can, of course, be a positive force. Think of professional athletes, who train aggressively for ever-higher levels of competition. In well-adjusted perfectionism, someone who doesn't get the gold is able to forget the setback and move on. In maladaptive(不当的) perfectionism, meanwhile, people make an archive of all their failures. They revisit these archives constantly, thinking, as Pryor puts it, \"I need to make myself feel terrible so I don't do this again.\" Then they double down, \"raising the expectation bar even higher, which increases the likelihood of defeat, which makes you self-critical, so you raise the bar higher, work even harder,\" she says. Next comes failure, shame, and pushing yourself even harder toward even higher and more impossible goals. Meeting them becomes an \"all or nothing\" premise. Pryor offered this example: \"Even if I'm an incredible attorney, if I don't make partner in the same pacing as one of my colleagues, clearly that means I'm a failure.\""
+      },
+      {
+       "id": "G",
+       "text": "Brustein says his perfectionist clients tend to devalue their accomplishments, so that every time a goal is achieved, the high lasts only a short time, like \"a gas tank with a hole in it.\" If the boss says you did a great job, it's because he doesn't know anything. If the audience likes your work, that's because it's too stupid to know what good art actually is. But, therapists say, there are also different ways perfectionism manifests. Some perfectionists are always pushing themselves forward. But others actually fall behind on work, unable to complete assignments unless they are, well, perfect. Or they might handicap their performance ahead of time. They're the ones partying until 2 a.m. the night before the final, so that when the grade C rolls in, there's a ready excuse."
+      },
+      {
+       "id": "H",
+       "text": "While educators and parents have successfully convinced students of the need to be high performing and diligent, the experts told me, they haven't adequately prepared them for the inevitability of failure. Instead of praises like \"You're so smart,\" parents and educators should say things like \"You really stuck with it,\" Pryor says, to emphasize the value of perseverance over intrinsic talent. Pryor notes that many of her clients are wary she'll \"turn them into some degenerate couch potato and teach them to be okay with it.\" Instead, she tries to help them think through the parts of their perfectionism they'd like to keep, and to lose the parts that are ruining their lives."
+      },
+      {
+       "id": "I",
+       "text": "Bach, who sees many students from Brown University, says some of them don't even go out on weekends, let alone weekdays. She tells them, \"Aim high, but get comfortable with good enough.\" When they don't get some award, she encourages them to remember that \"one outcome is not a basis for a broad conclusion about the person's intelligence, qualifications, or potential for the future.\""
+      },
+      {
+       "id": "J",
+       "text": "The treatment for perfectionism might be as simple as having patients keep logs of things they can be proud of, or having them behave imperfectly in small ways, just to see how it feels. \"We might have them hang the towels crooked(不正的) or wear some clothing inside out,\" says Martin Antony, a professor in the department of psychology at Ryerson University in Toronto."
+      },
+      {
+       "id": "K",
+       "text": "Brustein likes to get his perfectionist clients to create values that are important to them, then try to shift their focus to living according to those values rather than achieving specific goals. It's a play on the \"You really stuck with it\" message for kids. In other words, it isn't about doing a headstand in yoga class; it's about going to yoga class in the first place, because you like to be the kind of person who takes care of herself. But he warns that some people go into therapy expecting too much—an instant transformation of themselves from a pathological(病态的) perfectionist to a (still high-achieving) non-perfectionist. They try to be perfect, in other words, at no longer being perfect."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Socially prescribed perfectionism is described as one's self-esteem depending on other people's opinion."
+      },
+      {
+       "id": "s37",
+       "text": "Jessica Pryor has learned that some graduate students work such long hours in the lab that they have little time for entertainment or socializing."
+      },
+      {
+       "id": "s38",
+       "text": "The author believes perfectionism may sometimes be constructive."
+      },
+      {
+       "id": "s39",
+       "text": "It is found that perfectionism is getting more and more prevalent among college students."
+      },
+      {
+       "id": "s40",
+       "text": "Some experts suggest parents and educators should prepare students for failures."
+      },
+      {
+       "id": "s41",
+       "text": "Some therapists warn that young adults tend to pursue perfection in their work."
+      },
+      {
+       "id": "s42",
+       "text": "Psychologist Amy Bach encourages her students to aim high but be content with something less than perfect."
+      },
+      {
+       "id": "s43",
+       "text": "A clinical psychologist finds perfectionism is widespread among his clients."
+      },
+      {
+       "id": "s44",
+       "text": "In trying to overcome perfectionism, some people are still pursuing perfection."
+      },
+      {
+       "id": "s45",
+       "text": "In pursuing perfection, some perfectionists fail to complete their tasks on time."
+      }
+     ],
+     "answers": [
+      "E",
+      "A",
+      "F",
+      "C",
+      "H",
+      "B",
+      "I",
+      "E",
+      "K",
+      "G"
+     ],
+     "statementExplains": [
+      "【定位】Curran describes socially prescribed perfectionism as \"My self-esteem is contingent on what other people think.\" His study didn't examine the causal reasons for its rise, but he assumes that the rise of both standardized testing and social media might play a role.\n【依据】陈述里的 socially、prescribed、perfectionism、described、self-esteem、other 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】She has heard of graduate students spending 12 to 18 hours at a time in the lab.\n【依据】陈述里的 graduate、students、hours、lab、time 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Perfectionism can, of course, be a positive force.\n【依据】陈述里的 perfectionism 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】John University found that today's college students report higher levels of perfectionism than college students did during the 1990s or early 2000s.\n【依据】陈述里的 found、perfectionism、college、students 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】While educators and parents have successfully convinced students of the need to be high performing and diligent, the experts told me, they haven't adequately prepared them for the inevitability of failure.\n【依据】陈述里的 experts、parents、educators、prepare、students、failures 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】Along with other therapists, Pryor, who is now with the Family Institute at Northwestern University, is trying to sound the alarm about a tendency among young adults and college students to strive for perfection in their work—sometimes at any cost.\n【依据】陈述里的 therapists、young、adults、perfection、work 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】She tells them, \"Aim high, but get comfortable with good enough.\" When they don't get some award, she encourages them to remember that \"one outcome is not a basis for a broad conclusion about the person's intelligence, qualifications, or potential for the future.\"\n【依据】陈述里的 encourages、aim、high 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Michael Brustein, a clinical psychologist in Manhattan, says when he first began practicing in 2007, he was surprised by how prevalent perfectionism was among his clients, despite how little his graduate training had focused on the phenomenon.\n【依据】陈述里的 clinical、psychologist、perfectionism、among、clients 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】But he warns that some people go into therapy expecting too much—an instant transformation of themselves from a pathological(病态的) perfectionist to a (still high-achieving) non-perfectionist.\n【依据】陈述里的 perfectionism、people、still、perfection 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Brustein says his perfectionist clients tend to devalue their accomplishments, so that every time a goal is achieved, the high lasts only a short time, like \"a gas tank with a hole in it.\" If the boss says you did a great job, it's because he doesn't know anything.\n【依据】陈述里的 perfection、perfectionists、time 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Curran describes socially prescribed perfectionism as \"My self-esteem is contingent on what other people think.\" His study didn't examine the causal reasons for its rise, but he assumes that the rise of both standardized testing and social media might play a role.",
+       "why": "陈述里的 socially、prescribed、perfectionism、described、self-esteem、other 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "She has heard of graduate students spending 12 to 18 hours at a time in the lab.",
+       "why": "陈述里的 graduate、students、hours、lab、time 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Perfectionism can, of course, be a positive force.",
+       "why": "陈述里的 perfectionism 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "John University found that today's college students report higher levels of perfectionism than college students did during the 1990s or early 2000s.",
+       "why": "陈述里的 found、perfectionism、college、students 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "While educators and parents have successfully convinced students of the need to be high performing and diligent, the experts told me, they haven't adequately prepared them for the inevitability of failure.",
+       "why": "陈述里的 experts、parents、educators、prepare、students、failures 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Along with other therapists, Pryor, who is now with the Family Institute at Northwestern University, is trying to sound the alarm about a tendency among young adults and college students to strive for perfection in their work—sometimes at any cost.",
+       "why": "陈述里的 therapists、young、adults、perfection、work 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "She tells them, \"Aim high, but get comfortable with good enough.\" When they don't get some award, she encourages them to remember that \"one outcome is not a basis for a broad conclusion about the person's intelligence, qualifications, or potential for the future.\"",
+       "why": "陈述里的 encourages、aim、high 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Michael Brustein, a clinical psychologist in Manhattan, says when he first began practicing in 2007, he was surprised by how prevalent perfectionism was among his clients, despite how little his graduate training had focused on the phenomenon.",
+       "why": "陈述里的 clinical、psychologist、perfectionism、among、clients 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But he warns that some people go into therapy expecting too much—an instant transformation of themselves from a pathological(病态的) perfectionist to a (still high-achieving) non-perfectionist.",
+       "why": "陈述里的 perfectionism、people、still、perfection 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Brustein says his perfectionist clients tend to devalue their accomplishments, so that every time a goal is achieved, the high lasts only a short time, like \"a gas tank with a hole in it.\" If the boss says you did a great job, it's because he doesn't know anything.",
+       "why": "陈述里的 perfection、perfectionists、time 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "How on earth did we come to this? We protect our children obsessively from every harm; we scrutinize every carer, teacher or doctor with whom they come into contact. Yet despite all this, one group, which in no way has their best interests at heart, has almost unconstrained access. We seem to take it for granted that advertisers and marketers are allowed to condition even the youngest children. Before children have even developed a proper sense of their own identity, or learned to handle money, they're encouraged to associate status and self-worth with stuff, and to look to external things such as fame and wealth for validation. We're turning out little consumers rather than young citizens who will value themselves for what they contribute to the society in which they live. We've reached this point so gradually that many of us have never questioned it. It's crept up on us in the 60 years since advertisers started to target the young and found that they could recruit them to a commercial assault on their parents. We've come to know it as \"pester power\" or the ability of children to pressure parents to make certain purchases. Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness. Not all psychologists agree. There're plenty working hand in glove with a ￡12bn-a-year industry that has turned the manipulation of adult emotions and desires into an art form—often literally. It's also one that's forever developing new ways to persuade our children to desire material possessions, and because of advertisements' viral effect they only need to infect a few to reach the many. Advertising and marketing can serve a useful purpose for children. Marketing may help socialize children as consumers, inform them about products, and help them carve out unique identities as they reach adulthood. Then, should we ban all advertising aimed at young children? I say yes. Of course there'll be plenty of objections to an outright ban on advertising to the under-11s. There'll be those who argue that would be a breach of freedom of speech and infringe the rights of corporations to brainwash little children into demanding their products. Most parents hate what advertising does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they're old enough to make their own decisions. And though advertising is only part of an all-pervasive(无处不在的) marketing culture we need to make a start somewhere. Let's ban all advertising targeting children of primary school age and younger now.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "Which group of people does the author say has almost unrestricted access to children?",
+       "options": [
+        "Advertisers.",
+        "Carers.",
+        "Teachers.",
+        "Doctors."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】It's also one that's forever developing new ways to persuade our children to desire material possessions, and because of advertisements' viral effect they only need to infect a few to reach the many.\n【依据】正确项的核心词 advertisers 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It's also one that's forever developing new ways to persuade our children to desire material possessions, and because of advertisements' viral effect they only need to infect a few to reach the many.",
+        "why": "正确项的核心词 advertisers 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「carers」全文未出现。",
+         "C": "无中生有：「teachers」全文未出现。",
+         "D": "无中生有：「doctors」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What kind of people should we enable children to become according to the author?",
+       "options": [
+        "Those who look to fame and wealth for external and ultimate validation.",
+        "Those who value themselves because of their contribution to society.",
+        "Those who associate self-worth with the ability to handle money.",
+        "Those who have developed a proper sense of their own identity."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Most parents hate what advertising does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they're old enough to make their own decisions.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 who、value、themselves、because 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Most parents hate what advertising does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they're old enough to make their own decisions.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 who、value、themselves、because 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「ultimate」全文未出现。",
+         "C": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "偷换主体：把原文的「own」换成了「who、developed、proper」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "Many child development experts and educators call attention to research that suggests _____.",
+       "options": [
+        "life-long consumerism is causing more and more cases of psychological problems.",
+        "increasing commercialization of education is eroding many children's self-esteem.",
+        "the growing desire for wealth is contributing to a rising rate of depression.",
+        "the craving for purchasing material things is nurtured throughout one's life."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness.\n【依据】正确项的核心词 consumerism、psychological 与定位句对得上；其余 life-long、causing、cases、problems 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness.",
+        "why": "正确项的核心词 consumerism、psychological 与定位句对得上；其余 life-long、causing、cases、problems 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「increasing、commercialization、eroding」全文未出现；把原文的「education、many、children's」换成了「increasing、commercialization、eroding」，主语或对象被调包。",
+         "C": "偷换主体：「rising、rate」全文未出现；把原文的「growing、contributing、depression」换成了「desire、wealth、rising」，主语或对象被调包。",
+         "D": "无中生有：「craving、purchasing、nurtured」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does the author imply about the impact of advertising?",
+       "options": [
+        "It is actually infectious to many rather than a few.",
+        "It is rooted in our desire for material possessions.",
+        "It is comparable to that of virus.",
+        "It is literally limited to children."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Most parents hate what advertising does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they're old enough to make their own decisions.\n【依据】正确项的核心词 many 与定位句对得上；其余 actually、infectious、rather、few 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Most parents hate what advertising does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they're old enough to make their own decisions.",
+        "why": "正确项的核心词 many 与定位句对得上；其余 actually、infectious、rather、few 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「rooted」全文未出现。",
+         "C": "无中生有：「comparable、virus」全文未出现。",
+         "D": "偷换主体：「limited」全文未出现；把原文的「children」换成了「literally、limited」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What is the opponents' argument against a complete ban on advertising to young children?",
+       "options": [
+        "It would deprive them of the chance to learn about products.",
+        "It would render them unable to carve out unique identities.",
+        "It would breach their freedom as would-be consumers.",
+        "It would violate the rights endowed upon advertisers."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Let's ban all advertising targeting children of primary school age and younger now.\n【依据】正确项的核心词 advertisers 与定位句对得上；其余 violate、rights、endowed、upon 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Let's ban all advertising targeting children of primary school age and younger now.",
+        "why": "正确项的核心词 advertisers 与定位句对得上；其余 violate、rights、endowed、upon 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「deprive、chance、learn」全文未出现。",
+         "B": "因果倒置：「render、unable」全文未出现。",
+         "C": "因果倒置：「would-be」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 450 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings. But it's on the rise around the world as firms look to become more efficient by squeezing more productivity from their workers. More than half of companies with over $750m in annual revenue used \"non-traditional\" monitoring techniques on staff last year. Monitoring employee performance gives firms the ability to assess how their staff are performing and interacting, which can be good for both the firm and employees themselves. A growing number of analytics companies offer this service. They gather \"data exhaust\" left by employees' email and instant messaging apps, and use name badges equipped with radio-frequency identification devices and microphones. These can check how much time you spend talking, your volume and tone of voice, even if you do not dominate conversations. While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment. Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis. Over the last few years a Stockholm co-working space called Epicenter has gone much further and holds popular \"chipping parties\", where people can have microchips implanted in their hands. They can use the implants to access electronically-controlled doors, or monitor how typing speed correlates with heart rate. Implanted chips may seem extreme, but it is a relatively small step from ID cards and biometrics to such devices. As long as such schemes are voluntary, there will probably be a growing number of convenience-oriented uses so that a substantial number of workers would opt to have a chip inserted. But if implanted chips are used to reduce slack time or rest breaks, that could prove to be detrimental. And if surveillance tools take away autonomy, that's when they prove most unpopular. A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged. If bosses don't communicate effectively, employees assume the worst. But if they're open about the information they're collecting and what they're doing with it, research suggests 46% of employees are generally okay with it. Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain sceptical and fear an erosion of their civil liberties. So workplace surveillance could be empowering for staff and useful for companies looking to become more efficient and profitable. But implemented in the wrong way, it could also become an unpopular tool of oppression that proves counterproductive.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "Why are many people opposed to monitoring employee performance?",
+       "options": [
+        "It puts workers under constant pressure.",
+        "It is universally deemed anti-human by nature.",
+        "It does both mental and physical harm to employees monitored.",
+        "It enables firms to squeeze maximal productivity from employees."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Monitoring employee performance gives firms the ability to assess how their staff are performing and interacting, which can be good for both the firm and employees themselves.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 puts、workers、under、constant 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Monitoring employee performance gives firms the ability to assess how their staff are performing and interacting, which can be good for both the firm and employees themselves.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 puts、workers、under、constant 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「universally、deemed、anti-human」全文未出现。",
+         "C": "无中生有：「mental、physical、harm」全文未出现；把原文的「both、employees、monitored」换成了「mental、physical、harm」，主语或对象被调包。",
+         "D": "无中生有：「enables、squeeze、maximal」全文未出现；把原文的「firms、employees」换成了「enables、squeeze、maximal」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is the supporters' argument for workplace surveillance?",
+       "options": [
+        "It enables employees to refrain from dominating conversations.",
+        "It enhances employees' identification with firms they work in.",
+        "It can alert employees to intrusion into their privacy.",
+        "It can protect employees against aggressive behavior."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 protect、employees、against、aggressive 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 protect、employees、against、aggressive 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「enables、refrain、dominating」全文未出现。",
+         "B": "因果倒置：「enhances、work」全文未出现。",
+         "C": "无中生有：「alert、intrusion、into」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the author want to show by the example of different numbers of people interacting at lunch tables?",
+       "options": [
+        "Data analysis is key to the successful implementation of workplace surveillance.",
+        "Analyzing data gathered from workers can yield something unexpected.",
+        "More workmates sitting at a lunch table tend to facilitate interaction and idea sharing.",
+        "It is hard to decide on how many people to sit at a lunch table without data analysis."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis.\n【依据】正确项的核心词 analyzing、data 与定位句对得上；其余 gathered、workers、yield、something 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis.",
+        "why": "正确项的核心词 analyzing、data 与定位句对得上；其余 gathered、workers、yield、something 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「key、successful、implementation」全文未出现；把原文的「data、analysis」换成了「key、successful、implementation」，主语或对象被调包。",
+         "C": "无中生有：「workmates、sitting、tend」全文未出现；把原文的「lunch、table、interaction」换成了「workmates、sitting、tend」，主语或对象被调包。",
+         "D": "无中生有：「hard、decide、sit」全文未出现；把原文的「people、lunch、table」换成了「hard、decide、how」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does much of the positive effect of monitoring initiatives depend on?",
+       "options": [
+        "How frequently employees are to be monitored.",
+        "What specific personal information is being excluded.",
+        "What steps are taken to minimize their detrimental impact.",
+        "How well bosses make known their purpose of monitoring."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged.\n【依据】正确项的核心词 how、monitoring 与定位句对得上；其余 well、bosses、make、known 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged.",
+        "why": "正确项的核心词 how、monitoring 与定位句对得上；其余 well、bosses、make、known 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「frequently」全文未出现；把原文的「how、monitored」换成了「frequently、employees」，主语或对象被调包。",
+         "B": "无中生有：「specific、personal、excluded」全文未出现。",
+         "C": "无中生有：「steps、taken、minimize」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What concern do monitoring initiatives cause among many staffers?",
+       "options": [
+        "They may empower employers excessively.",
+        "They may erode the workplace environment.",
+        "They may infringe upon staffers' entitled freedom.",
+        "They may become counterproductive in the long run."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain sceptical and fear an erosion of their civil liberties.\n【依据】正确项的核心词 staffers' 与定位句对得上；其余 infringe、upon、entitled、freedom 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain sceptical and fear an erosion of their civil liberties.",
+        "why": "正确项的核心词 staffers' 与定位句对得上；其余 infringe、upon、entitled、freedom 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「empower、employers、excessively」全文未出现。",
+         "B": "无中生有：「erode、environment」全文未出现。",
+         "D": "因果倒置：「run」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 449 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "随着中国经济的快速发展和人们生活水平的稳步提高城市居民对环境和生活品质的要求越来越高。中国地方政府更加注重公共设施的建设和改进以更好地满足人们的需求。通过兴建新的广场、公园和公共绿地或对原有公共场地重新加以规划改造许多城市为市民提供了更多休闲和社交的场所。如今政府出资购置的健身器械和铺设的健身步道在不少城市随处可见既明显改善了市民户外活动的条件又使城市更加美丽。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

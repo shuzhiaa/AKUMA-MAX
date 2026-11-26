@@ -1,0 +1,615 @@
+{
+ "id": "cet4-2022-06-2",
+ "levelId": "cet4",
+ "title": "四级 2022 年 06 月 第 2 套",
+ "minutes": 125,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2022年6月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2022-06-2/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose you are going to write a proposal to your student union for enriching students’ extracurricular activities. You are to write about what activities to organize and why. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "A Proposal on Enriching Extracurricular Activities I am writing to propose a few extracurricular activities that\nour student union could organize, in the hope of making our campus life more colorful and rewarding.\nTo begin with, I would suggest holding a monthly book-sharing club. Since many of us read alone and seldom\nexchange thoughts, such a club would offer a regular chance to share insights, broaden our horizons and\nimprove our critical thinking.\nIn addition, I recommend arranging weekend volunteer trips to nearby communities. These activities would not\nonly allow us to apply what we learn in real life, but also cultivate a stronger sense of social responsibility and\nteamwork among students.\nI sincerely hope the student union will take these suggestions into consideration. Your support would mean a\ngreat deal to all of us. Thank you for your time and attention."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "If you've ever looked at the ingredients list while grocery shopping, chances are you've seen the term \"natural flavors\". But have you taken a {{1}} to consider what these natural flavors actually are? Most of us might think that \"natural flavors\" are, well, naturally good for us. A recent study in the journal Appetite found that when the word \"natural\" appears on packaging, people {{2}} that the food within is indeed healthier. In truth, natural flavors do not {{3}} much, at least chemically speaking, from their flavor-boosting {{4}} : artificial flavors. Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a {{5}} smell or taste. Natural flavors come from plant or animal {{6}} , like fruit, vegetable, meat, fish or milk that is then processed or refined in some way. In short, natural flavors are {{7}} from plants and animals to create specific flavors for processed foods. But that does not {{8}} make it easier to tell what is really in your food. Because the Food and Drug Administration (FDA) has not {{9}} the term, companies can use it to refer to pretty much anything derived from a plant or animal. And natural flavors can also include a variety of chemical additives, such as preservatives. The FDA doesn't require companies to reveal what additional chemicals a specific item {{10}} . So if you want to know for certain what you're getting with your groceries, you might want to stick to the farmer's market.",
+     "options": [
+      "acknowledge",
+      "chance",
+      "contains",
+      "counterparts",
+      "defined",
+      "differ",
+      "especially",
+      "extracted",
+      "implies",
+      "necessarily",
+      "particular",
+      "perceive",
+      "second",
+      "sources",
+      "strange"
+     ],
+     "answers": [
+      12,
+      11,
+      5,
+      3,
+      10,
+      13,
+      7,
+      9,
+      4,
+      2
+     ],
+     "blankExplains": [
+      "【定位】But have you taken a ____ to consider what these natural flavors actually are?\n【依据】答案是 second：填回后与所在句 taken、consider、what、natural、flavors、actually 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】A recent study in the journal Appetite found that when the word \"natural\" appears on packaging, people ____ that the food within is indeed healthier.\n【依据】答案是 perceive：填回后与所在句 recent、study、journal、appetite、found、when 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In truth, natural flavors do not ____ much, at least chemically speaking, from their flavor-boosting  … : artificial flavors.\n【依据】答案是 differ：填回后与所在句 truth、natural、flavors、much、least、chemically 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In truth, natural flavors do not  … much, at least chemically speaking, from their flavor-boosting ____ : artificial flavors.\n【依据】答案是 counterparts：填回后与所在句 truth、natural、flavors、much、least、chemically 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a ____ smell or taste.\n【依据】答案是 particular：填回后与所在句 both、made、lab、trained、flavorists、artificial 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Natural flavors come from plant or animal ____ , like fruit, vegetable, meat, fish or milk that is then processed or refined in some way.\n【依据】答案是 sources：填回后与所在句 natural、flavors、come、plant、animal、like 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In short, natural flavors are ____ from plants and animals to create specific flavors for processed foods.\n【依据】答案是 extracted：填回后与所在句 short、natural、flavors、plants、animals、create 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But that does not ____ make it easier to tell what is really in your food.\n【依据】答案是 necessarily：填回后与所在句 make、easier、tell、what、really、food 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Because the Food and Drug Administration (FDA) has not ____ the term, companies can use it to refer to pretty much anything derived from a plant or animal.\n【依据】答案是 defined：填回后与所在句 because、food、drug、administration、fda、term 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The FDA doesn't require companies to reveal what additional chemicals a specific item ____ .\n【依据】答案是 contains：填回后与所在句 fda、doesn't、require、companies、reveal、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "But have you taken a ____ to consider what these natural flavors actually are?",
+       "why": "答案是 second：填回后与所在句 taken、consider、what、natural、flavors、actually 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 second 这个词性/语义，而不是 sources）。",
+        "O": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 second 这个词性/语义，而不是 strange）。"
+       }
+      },
+      {
+       "locate": "A recent study in the journal Appetite found that when the word \"natural\" appears on packaging, people ____ that the food within is indeed healthier.",
+       "why": "答案是 perceive：填回后与所在句 recent、study、journal、appetite、found、when 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 perceive 这个词性/语义，而不是 particular）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 perceive 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "In truth, natural flavors do not ____ much, at least chemically speaking, from their flavor-boosting  … : artificial flavors.",
+       "why": "答案是 differ：填回后与所在句 truth、natural、flavors、much、least、chemically 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 differ 这个词性/语义，而不是 defined）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 differ 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "In truth, natural flavors do not  … much, at least chemically speaking, from their flavor-boosting ____ : artificial flavors.",
+       "why": "答案是 counterparts：填回后与所在句 truth、natural、flavors、much、least、chemically 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 counterparts 这个词性/语义，而不是 contains）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 counterparts 这个词性/语义，而不是 chance）。"
+       }
+      },
+      {
+       "locate": "Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a ____ smell or taste.",
+       "why": "答案是 particular：填回后与所在句 both、made、lab、trained、flavorists、artificial 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 particular 这个词性/语义，而不是 perceive）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 particular 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "Natural flavors come from plant or animal ____ , like fruit, vegetable, meat, fish or milk that is then processed or refined in some way.",
+       "why": "答案是 sources：填回后与所在句 natural、flavors、come、plant、animal、like 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 sources 这个词性/语义，而不是 second）。",
+        "O": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 sources 这个词性/语义，而不是 strange）。"
+       }
+      },
+      {
+       "locate": "In short, natural flavors are ____ from plants and animals to create specific flavors for processed foods.",
+       "why": "答案是 extracted：填回后与所在句 short、natural、flavors、plants、animals、create 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 extracted 这个词性/语义，而不是 especially）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 extracted 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "But that does not ____ make it easier to tell what is really in your food.",
+       "why": "答案是 necessarily：填回后与所在句 make、easier、tell、what、really、food 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 necessarily 这个词性/语义，而不是 acknowledge）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 necessarily 这个词性/语义，而不是 chance）。"
+       }
+      },
+      {
+       "locate": "Because the Food and Drug Administration (FDA) has not ____ the term, companies can use it to refer to pretty much anything derived from a plant or animal.",
+       "why": "答案是 defined：填回后与所在句 because、food、drug、administration、fda、term 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 defined 这个词性/语义，而不是 differ）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 defined 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "The FDA doesn't require companies to reveal what additional chemicals a specific item ____ .",
+       "why": "答案是 contains：填回后与所在句 fda、doesn't、require、companies、reveal、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 contains 这个词性/语义，而不是 counterparts）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 contains 这个词性/语义，而不是 chance）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "During the British winter, the thought of two weeks in a coastal villa(别墅) with soul-stirring views of the sea and a huge pool to enjoy is enough to offset(抵消) the labor until the holidays start. For a growing number of people, however, their yearly break is turning into a nightmare as they find that the property they have paid thousands for does not exist and the website through which they booked it has disappeared."
+      },
+      {
+       "id": "B",
+       "text": "Consumers have been warned to be aware of the potential for deception in this market, which is far from uncommon. In 2017 there were 1,632 cases of reported \"villa fraud(诈骗)\", with victims losing an average of £2,052, according to Action Fraud, the national center for reporting such frauds. \"Millions of pounds are lost each year by defrauded holidaymakers,\" says Sean Tipton of the Association of British Travel Agents (ABTA)."
+      },
+      {
+       "id": "C",
+       "text": "The problem has ballooned in the last 10 years, with frauds becoming more and more sophisticated. The fake websites have authentic-sounding names involving a mix of keywords, typically including the place name, \"summer\", \"villas\" or \"rentals\". Details of legitimate(合法的) villas are often stolen from other sites. \"When the fraudsters first started it was unsophisticated—the websites looked amateur and there wasn't a lot of effort,\" says Tipton. \"Now they are clever. They extensively rip off legitimate websites and use a different website name. They'll have pictures of a sales team and it might be a poor actor in New York that is down as their head of sales.\""
+      },
+      {
+       "id": "D",
+       "text": "Fraudsters target popular seaside destinations for British tourists visiting Spain where prices can soar if demand exceeds supply. Prices are kept within reasonable ranges to avoid arousing suspicion. \"A villa might cost £5,000 elsewhere and they will offer it at say £3,500. But a bit of a giveaway is that the villa will be cheaper than on other websites and there's unlimited availability,\" says Tipton. Fraudsters also invest in pay-per-click advertising to feature at the top of search engines when people type in phrases such as \"Spanish seaside villas\"."
+      },
+      {
+       "id": "E",
+       "text": "With such a degree of professionalism, how can consumers find out if the website they're looking to book with is trustworthy? \"When people book holiday villas they are doing so through rose-colored glasses,\" says Tony Neate, chief executive of Get Safe Online, \"They should be Googling the property, and looking on websites like Google Maps and StreetView to see if it's there. Also, speak to the person you're booking the villa with on a landline phone, as fraudsters tend to only use mobiles.\" He also suggests asking someone not going on the holiday to have a look at the website. \"They might spot problems you don't spot.\" Another potential red flag is being asked to pay by bank transfer. \"The problem is that when the money leaves your account it's in theirs straightaway and it's very hard to track it,\" says Barclays Bank head of digital safety, Jodie Gilbert. \"We generally recommend other forms of payment, like credit card.\""
+      },
+      {
+       "id": "F",
+       "text": "Little seems to be known about these fraudsters, \"There is no way to definitely know who they are,\" says Neate. \"It could be anyone. It could be your next-door neighbor or organized crime in Russia.\" Action Fraud says people should ensure the company renting the villa is a member of a recognized trade body such as ABTA."
+      },
+      {
+       "id": "G",
+       "text": "\"By working with industry partners such as ABTA and Get Safe Online, we are able to issue alerts about the latest threats they should be aware of. If you believe you have fallen victim to fraud or cyber-crime, please report it to Action Fraud,\" it adds. ABTA says it is trying to combat the issue by running public awareness campaigns. \"It's a growing problem and people can't stop fraudsters being dishonest,\" says Tipton. \"They're still going to do it. It's not impossible to stop but as it's internet-based it's harder to pursue.\""
+      },
+      {
+       "id": "H",
+       "text": "Nick Cooper, the founder and co-owner of villa booking company Villa Plus, estimates his company has uncovered more than 200 fake villa websites over the past two years, and doesn't believe enough is being done. \"It is hopeless to report fake villa websites to the internet giants who host them,\" he says. \"I found it impossible to speak to anyone. Also, once one bank account gets reported, they simply use another.\""
+      },
+      {
+       "id": "I",
+       "text": "For now the only way to stop fraudsters appears ultimately to lie in the hands of the consumer. \"When people book their holidays they get so emotionally involved, and when they find that villa at a good price with availability in peak season, they are an easy target,\" says Cooper. \"The public has to learn to be far more aware they are a target for these sort of frauds.\" But it's not just the financial cost. \"A family will turn up at a villa and find out it doesn't exist or the owner doesn't know who you are,\" says Tipton. \"The problem then is you have to find accommodation at short notice. It can be incredibly expensive but it's the emotional cost, too.\""
+      },
+      {
+       "id": "J",
+       "text": "Carla O'Shaughnessy from Sydenham was searching last year for a good deal to book a villa in Majorca for a summer break for the family. \"I was comparing prices online and found one that came in a bit cheaper than others,\" says O'Shaughnessy. She emailed the company via its website, asking how far the villa was from the airport and about local restaurants. \"They came back with believable answers; it was all very friendly and professional,\" she says. Happy with the responses, O'Shaughnessy paid the full amount of £ 3,000 via bank transfer into the travel agent's account and then forgot about it until a month before the booking."
+      },
+      {
+       "id": "K",
+       "text": "\"I tried logging on to the website and couldn't,\" she recalls. \"I Googled the agent's name and there were lots of complaints about him being a fraudster. If only I'd Googled before but I never thought of it.\" Although she found another villa in time for their holiday, she admits she was much more cautious. \"I paid through a secure third-party site and had phone conversations with the agent. But I wasn't able to relax until we turned up and I had the keys.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Fraudsters often steal villa-booking information from authentic holiday websites."
+      },
+      {
+       "id": "s37",
+       "text": "Fraudsters keep changing their bank accounts to avoid being tracked."
+      },
+      {
+       "id": "s38",
+       "text": "It is suggested that people not going on the holiday might help detect website frauds."
+      },
+      {
+       "id": "s39",
+       "text": "More and more British holidaymakers find the seaside villas they booked online actually nonexistent."
+      },
+      {
+       "id": "s40",
+       "text": "By checking an agent's name online before booking a villa, holidaymakers can avoid falling into traps."
+      },
+      {
+       "id": "s41",
+       "text": "Fraudsters are difficult to identify, according to an online safety expert."
+      },
+      {
+       "id": "s42",
+       "text": "Holidaymakers have been alerted to the frequent occurrence of online villa-booking frauds."
+      },
+      {
+       "id": "s43",
+       "text": "It is holidaymakers that can protect themselves from falling victim to frauds."
+      },
+      {
+       "id": "s44",
+       "text": "Holidaymakers are advised not to make payments by bank transfer."
+      },
+      {
+       "id": "s45",
+       "text": "Fraudsters advertise their villas at reasonable prices so as not to be suspected."
+      }
+     ],
+     "answers": [
+      "C",
+      "H",
+      "E",
+      "A",
+      "K",
+      "F",
+      "B",
+      "I",
+      "E",
+      "D"
+     ],
+     "statementExplains": [
+      "【定位】The fake websites have authentic-sounding names involving a mix of keywords, typically including the place name, \"summer\", \"villas\" or \"rentals\".\n【依据】陈述里的 villa-booking、authentic、websites 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Also, once one bank account gets reported, they simply use another.\"\n【依据】陈述里的 bank、accounts 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】Also, speak to the person you're booking the villa with on a landline phone, as fraudsters tend to only use mobiles.\" He also suggests asking someone not going on the holiday to have a look at the website.\n【依据】陈述里的 suggested、going、holiday、website、frauds 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】During the British winter, the thought of two weeks in a coastal villa(别墅) with soul-stirring views of the sea and a huge pool to enjoy is enough to offset(抵消) the labor until the holidays start.\n【依据】陈述里的 british、holidaymakers、villas 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】If only I'd Googled before but I never thought of it.\" Although she found another villa in time for their holiday, she admits she was much more cautious.\n【依据】陈述里的 before、villa、holidaymakers 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Little seems to be known about these fraudsters, \"There is no way to definitely know who they are,\" says Neate.\n【依据】陈述里的 fraudsters 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】In 2017 there were 1,632 cases of reported \"villa fraud(诈骗)\", with victims losing an average of £2,052, according to Action Fraud, the national center for reporting such frauds.\n【依据】陈述里的 villa-booking、frauds 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】For now the only way to stop fraudsters appears ultimately to lie in the hands of the consumer.\n【依据】陈述里的 frauds 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】\"They might spot problems you don't spot.\" Another potential red flag is being asked to pay by bank transfer.\n【依据】陈述里的 bank、transfer 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Fraudsters also invest in pay-per-click advertising to feature at the top of search engines when people type in phrases such as \"Spanish seaside villas\".\n【依据】陈述里的 fraudsters、advertise、villas 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "The fake websites have authentic-sounding names involving a mix of keywords, typically including the place name, \"summer\", \"villas\" or \"rentals\".",
+       "why": "陈述里的 villa-booking、authentic、websites 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Also, once one bank account gets reported, they simply use another.\"",
+       "why": "陈述里的 bank、accounts 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Also, speak to the person you're booking the villa with on a landline phone, as fraudsters tend to only use mobiles.\" He also suggests asking someone not going on the holiday to have a look at the website.",
+       "why": "陈述里的 suggested、going、holiday、website、frauds 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "During the British winter, the thought of two weeks in a coastal villa(别墅) with soul-stirring views of the sea and a huge pool to enjoy is enough to offset(抵消) the labor until the holidays start.",
+       "why": "陈述里的 british、holidaymakers、villas 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If only I'd Googled before but I never thought of it.\" Although she found another villa in time for their holiday, she admits she was much more cautious.",
+       "why": "陈述里的 before、villa、holidaymakers 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Little seems to be known about these fraudsters, \"There is no way to definitely know who they are,\" says Neate.",
+       "why": "陈述里的 fraudsters 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In 2017 there were 1,632 cases of reported \"villa fraud(诈骗)\", with victims losing an average of £2,052, according to Action Fraud, the national center for reporting such frauds.",
+       "why": "陈述里的 villa-booking、frauds 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For now the only way to stop fraudsters appears ultimately to lie in the hands of the consumer.",
+       "why": "陈述里的 frauds 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"They might spot problems you don't spot.\" Another potential red flag is being asked to pay by bank transfer.",
+       "why": "陈述里的 bank、transfer 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Fraudsters also invest in pay-per-click advertising to feature at the top of search engines when people type in phrases such as \"Spanish seaside villas\".",
+       "why": "陈述里的 fraudsters、advertise、villas 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Social media can be a powerful communication tool for employees, helping them to collaborate, share ideas and solve problems. Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes. These beliefs contribute to a majority of workers connecting with colleagues on social media, even during work hours. Employers typically worry that social media is a productivity killer; more than half of U.S. employers reportedly block access to social media at work. In my research with 277 employees of a healthcare organization I found these concerns to be misguided. Social media doesn't reduce productivity nearly as much as it kills employee retention. In the first part of the study I surveyed the employees about why and how they used platforms like Facebook, Twitter, or LinkedIn. Respondents were then asked about their work behaviors, including whether they felt motivated in their jobs and showed initiative at work. I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less motivated and show less initiative. In the second part of the study I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activities including researching new organizations and making new work connections. These findings present a dilemma for managers: employees using social media at work are more engaged and more productive, but they are also more likely to leave your company. Managers should implement solutions that neutralize the retention risk caused by social media. They can create social media groups in which employees will be more likely to collaborate and less likely to share withdrawal intentions or discussions about external job opportunities. Managers can also use social media to directly reduce turnover(跳槽) intentions, by recognizing employees' accomplishments and giving visibility to employees' success stories.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does previous research about social media reveal?",
+       "options": [
+        "Most employees think positively of it.",
+        "It improves employees' work efficiency.",
+        "It enables employees to form connections.",
+        "Employees spend much of their work time on it."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes.\n【依据】正确项的核心词 employees、think 与定位句对得上；其余 positively 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes.",
+        "why": "正确项的核心词 employees、think 与定位句对得上；其余 positively 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「efficiency」全文未出现；把原文的「improves、employees'、work」换成了「efficiency」，主语或对象被调包。",
+         "C": "无中生有：「enables、form」全文未出现；把原文的「employees」换成了「enables、form、connections」，主语或对象被调包。",
+         "D": "无中生有：「spend、time」全文未出现；把原文的「employees、work」换成了「spend、much、time」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What did the author's own research find about social media?",
+       "options": [
+        "It influences employees' work negatively.",
+        "It does much harm to employee loyalty.",
+        "It kills employees' motivation for work",
+        "It affects employers' decision-making."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】They can create social media groups in which employees will be more likely to collaborate and less likely to share withdrawal intentions or discussions about external job opportunities.\n【依据】正确项的核心词 employee 与定位句对得上；其余 much、harm、loyalty 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "They can create social media groups in which employees will be more likely to collaborate and less likely to share withdrawal intentions or discussions about external job opportunities.",
+        "why": "正确项的核心词 employee 与定位句对得上；其余 much、harm、loyalty 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「influences、negatively」全文未出现；把原文的「employees'」换成了「influences、work、negatively」，主语或对象被调包。",
+         "C": "偷换主体：「motivation」全文未出现；把原文的「employees'」换成了「kills、motivation、work」，主语或对象被调包。",
+         "D": "偷换主体：「affects」全文未出现；把原文的「employers'」换成了「affects、decision-making」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What did the author find in his study about the effect of online social interactions?",
+       "options": [
+        "It differs from employee to employee.",
+        "It tends to vary with the platform used.",
+        "It has much to do with whom employees interact with.",
+        "It is hard to measure when employees interact with outsiders."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas.\n【依据】正确项的核心词 employees、interact 与定位句对得上；其余 much、whom 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas.",
+        "why": "正确项的核心词 employees、interact 与定位句对得上；其余 much、whom 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「differs」全文未出现；把原文的「employee、employee」换成了「differs」，主语或对象被调包。",
+         "B": "无中生有：「tends、vary、platform」全文未出现。",
+         "D": "无中生有：「hard、measure、outsiders」全文未出现；把原文的「employees、interact」换成了「hard、measure、when」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What problem was found with employees using social media for work?",
+       "options": [
+        "They seldom expressed their inner thoughts.",
+        "Most of them explored new job opportunities.",
+        "They were reluctant to collaborate with others.",
+        "Many of them ended with lower productivity."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In the second part of the study I found 76% of employees using social media for work took an interest in other organizations they found on social media.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 explored、new、job、opportunities 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In the second part of the study I found 76% of employees using social media for work took an interest in other organizations they found on social media.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 explored、new、job、opportunities 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「seldom、inner、thoughts」全文未出现。",
+         "C": "偷换主体：「reluctant」全文未出现；把原文的「others」换成了「reluctant、collaborate」，主语或对象被调包。",
+         "D": "无中生有：「many、ended、lower」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author suggest managers do to neutralize the retention risk?",
+       "options": [
+        "Give promotions to employees for their accomplishments.",
+        "Create opportunities for employees to share success stories.",
+        "Acknowledge employees' achievements through social media.",
+        "Encourage employees to increase their visibility on social media."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Managers should implement solutions that neutralize the retention risk caused by social media.\n【依据】正确项的核心词 social、media 与定位句对得上；其余 acknowledge、employees'、achievements、through 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Managers should implement solutions that neutralize the retention risk caused by social media.",
+        "why": "正确项的核心词 social、media 与定位句对得上；其余 acknowledge、employees'、achievements、through 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「give、promotions」全文未出现。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "偷换主体：「encourage、increase」全文未出现；把原文的「social、media」换成了「encourage、employees、increase」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 347 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "In the coming era of budget cuts to education, distance learning could become the norm. The temptation for those in charge of education budgets to trade teachers for technology could be so strong that they ignore the disadvantages of distance learning. School facilities are expensive to build and maintain, and teachers are expensive to employ. Online classes do not require buildings and each class can host hundreds of people simultaneously, resulting in greater savings, thus increasing the temptation of distance education for those concerned more about budgets than learning. But moving away from a traditional classroom in which a living, breathing human being teaches and interacts with students daily would be a disaster. Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people. Moreover, schools should be more than simple institutions of traditional learning. They are now places that provide meals. They are places where students receive counseling and other support. Those policy-makers are often fascinated by the latest technology in education and its potential to \"transform\" education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help. Educational videos may deliver academic content, but they are unable to make eye contact or assess a student's level of engagement. Distance education will never match the personal teaching in a traditional classroom. In their first 18 years of life, American children spend only 9% of their time in school. Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market. Given these expectations, schools should not become permanently \"remote\". The power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time. Personal teaching is about teachers showing students a higher path, and about young people going through the process together. Technology, no matter how advanced, should simply be a tool of a good teacher.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What mainly accounts for the possibility that distance learning could become the norm?",
+       "options": [
+        "Advances in education technology.",
+        "Shrinking financial resources.",
+        "Shortage of school facilities.",
+        "Lack of qualified teachers."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In the coming era of budget cuts to education, distance learning could become the norm.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 shrinking、financial、resources 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In the coming era of budget cuts to education, distance learning could become the norm.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 shrinking、financial、resources 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「advances」全文未出现；把原文的「education」换成了「advances、technology」，主语或对象被调包。",
+         "C": "因果倒置：「shortage」全文未出现。",
+         "D": "无中生有：「lack、qualified」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does the author say is one possible benefit of students attending school physically?",
+       "options": [
+        "Developing the habit of getting up early.",
+        "Eating nutritionally well-balanced meals.",
+        "Growing into living and breathing human beings.",
+        "Cultivating relationships with peers and teachers."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people.\n【依据】正确项的核心词 cultivating、relationships、peers、teachers 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people.",
+        "why": "正确项的核心词 cultivating、relationships、peers、teachers 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「developing、habit、early」全文未出现；把原文的「getting」换成了「developing、habit、early」，主语或对象被调包。",
+         "B": "无中生有：「eating、nutritionally、well-balanced」全文未出现。",
+         "C": "因果倒置：「growing、into、beings」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the author think of the latest technology in education?",
+       "options": [
+        "It may have potential disadvantages.",
+        "It may render many teachers jobless.",
+        "It may add to students' financial burden.",
+        "It may revolutionize classroom teaching"
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Those policy-makers are often fascinated by the latest technology in education and its potential to \"transform\" education overnight.\n【依据】正确项的核心词 potential 与定位句对得上；其余 disadvantages 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Those policy-makers are often fascinated by the latest technology in education and its potential to \"transform\" education overnight.",
+        "why": "正确项的核心词 potential 与定位句对得上；其余 disadvantages 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「render、many、jobless」全文未出现。",
+         "C": "无中生有：「add、students'、financial」全文未出现。",
+         "D": "因果倒置：「revolutionize」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the author say teachers are expected to do?",
+       "options": [
+        "Enhance students' leadership capacity.",
+        "Elevate students to managerial positions.",
+        "Enable students to adapt to the changes in life.",
+        "Prepare students to be competitive in the future."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market.\n【依据】正确项的核心词 prepare 与定位句对得上；其余 students、competitive、future 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market.",
+        "why": "正确项的核心词 prepare 与定位句对得上；其余 students、competitive、future 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「students'、leadership」全文未出现；把原文的「enhance、capacity」换成了「students'、leadership」，主语或对象被调包。",
+         "B": "无中生有：「elevate、positions」全文未出现；把原文的「managerial」换成了「elevate、students、positions」，主语或对象被调包。",
+         "C": "无中生有：「enable、adapt、changes」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "Why couldn't technology replace a good teacher?",
+       "options": [
+        "It lacks humanity.",
+        "It is still immature.",
+        "It cannot track students' growth.",
+        "It cannot cater to personal needs."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Technology, no matter how advanced, should simply be a tool of a good teacher.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 lacks、humanity 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Technology, no matter how advanced, should simply be a tool of a good teacher.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 lacks、humanity 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「still、immature」全文未出现。",
+         "C": "无中生有：「cannot、track、students'」全文未出现。",
+         "D": "无中生有：「cannot、cater、needs」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 346 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "从前有个人养了一群羊。一天早上他准备出去放羊，发现少了一只。他仔细一看，看到羊栏上有个窟窿。显然，夜间有狼钻进羊圈叼走了羊。邻居劝他修羊栏，可是他不听。第二天，他发现狼又通过窟窿叼走一只羊。他想起邻居的话，就赶快堵上窟窿把羊栏补好。此后，他的羊再也没有被狼叼走。故事告诉我们出了问题及时补救，可以防止蒙受更大损失。",
+     "reference": "Long long ago, there was a man who raised a flock of sheep One morning, when he was about to take the sheep out to graze, he found that one of them was missing. On a closer look, he saw that there was a hole in the sheepfold. Obviously, during the night a wolf had got into the sheepfold and carried off a sheep. His neighbour advised him to mend the sheepfold, but he would not listen. The next day, he found that another sheep had been carried off by the wolf through the hole Remembering what his neighbour had said, he quickly blocked up the hole and mended the sheepfold. From then on, his sheep were never carried off by wolves again. The story tells us that fixing problems in time can prevent us from suffering greater losses",
+     "keyPoints": [
+      "Long long ago, there was a man who raised a flock of sheep One morning, when he was about to take the sheep out to graze, he found that one of them was missing.",
+      "On a closer look, he saw that there was a hole in the sheepfold.",
+      "Obviously, during the night a wolf had got into the sheepfold and carried off a sheep.",
+      "His neighbour advised him to mend the sheepfold, but he would not listen.",
+      "The next day, he found that another sheep had been carried off by the wolf through the hole Remembering what his neighbour had said, he quickly blocked up the hole and mended the sheepfold.",
+      "From then on, his sheep were never carried off by wolves again.",
+      "The story tells us that fixing problems in time can prevent us from suffering greater losses"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

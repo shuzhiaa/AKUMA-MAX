@@ -1,0 +1,1182 @@
+{
+ "id": "cet4-2024-06-2",
+ "levelId": "cet4",
+ "title": "四级 2024 年 06 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2024年6月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2024-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2024-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "JetBlue航空公司一架从西棕榈滩飞往纽约市的航班周日上午在飞机撞鸟后被迫掉头降落"
+      },
+      {
+       "idx": 2,
+       "zh": "机上未报告有人员受伤"
+      },
+      {
+       "idx": 3,
+       "zh": "这种蛇是野外最致命、毒性最强的蛇类之一"
+      },
+      {
+       "idx": 4,
+       "zh": "市议会成员Anna Cumber在将电动自行车引入杰克逊维尔以为市中心注入新活力方面发挥了重要作用"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 我们还给孩子零花钱"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 我们也这样做,而且是按年龄支付"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 教他们存钱很重要"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 哦,我还没考虑过这样做"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 时机成熟时,我会开始跟孩子们谈投资"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 我一直跟大女儿强调存养老金的重要性"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 是的,这是非常重要的一课"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn about the JetBlue Airlines flight from the news report?",
+       "options": [
+        "It hit a bird shortly after takeoff.",
+        "Its crew members went on strike.",
+        "It narrowly escaped a plane crash when turning around.",
+        "Its captain got slightly injured during the forced landing."
+       ],
+       "optionsZh": [
+        "起飞后不久撞上了一只鸟。",
+        "机组人员举行了罢工。",
+        "掉头时险些发生坠机事故。",
+        "机长在迫降过程中受了轻伤。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It hit a bird shortly after takeoff.（起飞后不久撞上了一只鸟。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "How did the passengers feel when the plane came to a stop, according to Brian Healy?",
+       "options": [
+        "Panic.",
+        "Nervous.",
+        "Relieved.",
+        "Contented."
+       ],
+       "optionsZh": [
+        "恐慌。",
+        "紧张。",
+        "如释重负。",
+        "满意。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Relieved.（如释重负。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What do we learn about the deadly snake from the news report?",
+       "options": [
+        "He is now kept in a secure area.",
+        "He has escaped the zoo once again.",
+        "He has been caught a second time.",
+        "He finally disappeared six days ago."
+       ],
+       "optionsZh": [
+        "它现在被关在一个安全区域。",
+        "它再次从动物园逃脱了。",
+        "它已经第二次被抓住了。",
+        "它最终在六天前消失了。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He has escaped the zoo once again.（它再次从动物园逃脱了。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "How have the zoo staff been feeling about the snake?",
+       "options": [
+        "Squeezed.",
+        "Threatened.",
+        "Disappointed.",
+        "Frustrated."
+       ],
+       "optionsZh": [
+        "受挤压的。",
+        "受威胁的。",
+        "失望的。",
+        "沮丧的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Frustrated.（沮丧的。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn from the news report about the introduction of electric bikes into Jacksonville?",
+       "options": [
+        "It is condemned as a crazy idea.",
+        "It is enriching the city's night life.",
+        "It is questioned by local residents.",
+        "It is giving rise to safety concerns."
+       ],
+       "optionsZh": [
+        "它被谴责为一个疯狂的想法。",
+        "它正在丰富这座城市的夜生活。",
+        "它受到当地居民的质疑。",
+        "它正在引发安全担忧。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is giving rise to safety concerns.（它正在引发安全担忧。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What are electric bike riders supposed to do?",
+       "options": [
+        "Avoid entering one-way streets.",
+        "Ensure the safety of pedestrians.",
+        "Follow all the traffic rules drivers do.",
+        "Give way to automobiles at all times."
+       ],
+       "optionsZh": [
+        "避免进入单行道。",
+        "确保行人的安全。",
+        "遵守驾驶员遵守的所有交通规则。",
+        "任何时候都给机动车让行。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Follow all the traffic rules drivers do.（遵守驾驶员遵守的所有交通规则。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why did City Council member Anna Cumber advocate the introduction of electric bikes into Jacksonville?",
+       "options": [
+        "To ease the city's busy traffic.",
+        "To bring new life into the city.",
+        "To add a new means of transport.",
+        "To reduce the city's air pollution."
+       ],
+       "optionsZh": [
+        "为了缓解城市的繁忙交通。",
+        "为了给城市带来新的活力。",
+        "为了增加一种新的交通方式。",
+        "为了减少城市的空气污染。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To bring new life into the city.（为了给城市带来新的活力。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What should we do with the topic of money, according to the woman?",
+       "options": [
+        "Take it seriously.",
+        "Discuss it regularly.",
+        "Make it sound scary.",
+        "Talk about it openly."
+       ],
+       "optionsZh": [
+        "认真对待它。",
+        "定期讨论它。",
+        "让它听起来很可怕。",
+        "公开谈论它。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Discuss it regularly.（定期讨论它。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "How does the woman say money can be made real for children?",
+       "options": [
+        "By shopping around for the best deals.",
+        "By making abstract sums relevant.",
+        "By citing concrete examples.",
+        "By visiting discount stores."
+       ],
+       "optionsZh": [
+        "通过货比三家寻找最优惠的价格。",
+        "通过让抽象的金额变得相关。",
+        "通过引用具体的例子。",
+        "通过参观折扣商店。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：By citing concrete examples.（通过引用具体的例子。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What is the common practice between the man and the woman?",
+       "options": [
+        "Paying their kids to help with housework.",
+        "Setting kids a good example by sharing chores.",
+        "Giving kids pocket money according to their needs.",
+        "Urging kids to deposit some of their gift money."
+       ],
+       "optionsZh": [
+        "付钱给孩子们帮忙做家务。",
+        "通过分担家务给孩子们树立好榜样。",
+        "根据孩子们的需要给他们零花钱。",
+        "督促孩子们存一些压岁钱。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Paying their kids to help with housework.（付钱给孩子们帮忙做家务。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What is the woman always talking about to her elder daughter?",
+       "options": [
+        "The importance of cutting down family expenses.",
+        "The need to learn important lessons from her elders.",
+        "The delight in seeing their savings grow.",
+        "The necessity of saving into a pension."
+       ],
+       "optionsZh": [
+        "削减家庭开支的重要性。",
+        "需要向长辈学习重要的经验教训。",
+        "看到他们的储蓄增长的喜悦。",
+        "向养老金储蓄的必要性。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The necessity of saving into a pension.（向养老金储蓄的必要性。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What do we learn about the man?",
+       "options": [
+        "He is a successful businessman.",
+        "He reviews books on political affairs.",
+        "He has published a new bestseller.",
+        "He has worked in several banks."
+       ],
+       "optionsZh": [
+        "他是一位成功的商人。",
+        "他评论政治事务方面的书籍。",
+        "他出版了一本新的畅销书。",
+        "他曾在几家银行工作过。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He has published a new bestseller.（他出版了一本新的畅销书。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the woman say is the most controversial?",
+       "options": [
+        "The man's ideas about education.",
+        "The man's academic background.",
+        "The man's attempts at drawing public attention.",
+        "The man's proposals to solve economic problems."
+       ],
+       "optionsZh": [
+        "这位男士关于教育的观点。",
+        "这位男士的学术背景。",
+        "这位男士吸引公众关注的尝试。",
+        "这位男士解决经济问题的提案。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The man's ideas about education.（这位男士关于教育的观点。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the man say is his real goal?",
+       "options": [
+        "To reduce students' financial burden.",
+        "To motivate all students to be successful.",
+        "To give students incentive to excel in economics.",
+        "To provide remedies for students' poor performance."
+       ],
+       "optionsZh": [
+        "减轻学生的经济负担。",
+        "激励所有学生取得成功。",
+        "给予学生在经济学方面出类拔萃的动力。",
+        "为学生的不良表现提供补救措施。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To motivate all students to be successful.（激励所有学生取得成功。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What will be one option for funding the proposed rewards according to the man?",
+       "options": [
+        "Improving school budgeting.",
+        "Increasing tuition fees.",
+        "Seeking donations.",
+        "Raising taxes."
+       ],
+       "optionsZh": [
+        "改善学校预算。",
+        "提高学费。",
+        "寻求捐赠。",
+        "提高税收。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Raising taxes.（提高税收。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "Why is the speaker launching a campaign?",
+       "options": [
+        "To show his sympathy towards people always being busy.",
+        "To prevent people from complaining about being \"busy\".",
+        "To call on busy people to take care of themselves.",
+        "To help busy people to sort out their priorities."
+       ],
+       "optionsZh": [
+        "表达他对总是忙碌的人们的同情。",
+        "阻止人们抱怨自己很\"忙\"。",
+        "呼吁忙碌的人们照顾好自己。",
+        "帮助忙碌的人们理清他们的优先事项。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To prevent people from complaining about being \"busy\".（阻止人们抱怨自己很\"忙\"。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the speaker advise us to do next time someone asks how we are?",
+       "options": [
+        "Avoid saying we are busy.",
+        "Reflect on their true purpose.",
+        "Describe our schedule in detail.",
+        "Respond as most busy people do."
+       ],
+       "optionsZh": [
+        "避免说我们很忙。",
+        "反思他们的真实目的。",
+        "详细描述我们的日程安排。",
+        "像大多数忙碌的人那样回应。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Avoid saying we are busy.（避免说我们很忙。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "Why do many people make the \"I'm busy\" response according to the speaker?",
+       "options": [
+        "To show their achievements resulted from great efforts.",
+        "To prove they stand out as accomplished professionals.",
+        "To cover up their failure to achieve some purpose.",
+        "To tell others a complete lie about their inability."
+       ],
+       "optionsZh": [
+        "展示他们通过巨大努力取得的成就。",
+        "证明他们作为有成就的专业人士脱颖而出。",
+        "掩盖他们未能实现某个目标的事实。",
+        "向他人彻底撒谎说自己没有能力。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To cover up their failure to achieve some purpose.（掩盖他们未能实现某个目标的事实。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What may sound strange to say about extreme sports?",
+       "options": [
+        "They will help one reduce fear",
+        "They should become so popular.",
+        "They will be less challenging after a time.",
+        "They should cover so many different types."
+       ],
+       "optionsZh": [
+        "它们会帮助人减少恐惧",
+        "它们应该变得如此流行。",
+        "一段时间后它们的挑战性会降低。",
+        "它们应该涵盖如此多不同的类型。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They will help one reduce fear（它们会帮助人减少恐惧）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "Why should one be highly focused when doing extreme sports?",
+       "options": [
+        "To break one's ultimate limits.",
+        "To stop being extremely afraid.",
+        "To avoid dangerous mistakes.",
+        "To enjoy the sports to the full."
+       ],
+       "optionsZh": [
+        "为了突破个人的极限",
+        "为了停止极度恐惧",
+        "为了避免危险的错误",
+        "为了充分享受这些运动"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To avoid dangerous mistakes.（为了避免危险的错误）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "How can extreme sports benefit us more than standard exercise routines and sports?",
+       "options": [
+        "By allowing our motivation to be at an all-time high.",
+        "By stopping us hurting the same muscles repeatedly.",
+        "By burning as many as 300 calories per hour.",
+        "By enabling us to get an all-over workout."
+       ],
+       "optionsZh": [
+        "通过让我们的动力达到空前的高度",
+        "通过阻止我们反复伤害相同的肌肉",
+        "通过每小时燃烧多达300卡路里",
+        "通过使我们能够得到全身锻炼"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：By enabling us to get an all-over workout.（通过使我们能够得到全身锻炼）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the passage say about conflict in organizations?",
+       "options": [
+        "It is natural.",
+        "It is instrumental.",
+        "It is personal.",
+        "It is vital."
+       ],
+       "optionsZh": [
+        "这是自然的。",
+        "这是有益的。",
+        "这是针对个人的。",
+        "这是至关重要的。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is natural.（这是自然的。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "Why do some people want to avoid conflict at all costs?",
+       "options": [
+        "To guard against being perceived negatively.",
+        "To prevent themselves from being isolated.",
+        "To conceal personality preferences.",
+        "To maintain workplace harmony."
+       ],
+       "optionsZh": [
+        "防止被负面看待。",
+        "防止自己被孤立。",
+        "隐藏个性偏好。",
+        "维护工作场所和谐。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：To maintain workplace harmony.（维护工作场所和谐。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Why is productive conflict important for teams and organizations?",
+       "options": [
+        "It helps to enhance team spirit.",
+        "It stimulates innovative ideas.",
+        "It helps to resolve problems.",
+        "It facilitates policy-making."
+       ],
+       "optionsZh": [
+        "它有助于增强团队精神。",
+        "它激发创新想法。",
+        "它有助于解决问题。",
+        "它促进政策制定。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It stimulates innovative ideas.（它激发创新想法。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does productive conflict need as a basis?",
+       "options": [
+        "An innovative mind.",
+        "Corporate culture.",
+        "Mutual trust.",
+        "A healthy mentality."
+       ],
+       "optionsZh": [
+        "创新思维。",
+        "企业文化。",
+        "相互信任。",
+        "健康的心态。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Mutual trust.（相互信任。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose your university is seeking students’ opinions on whether university sports facilities should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "In my view, university sports facilities should be opened to the public rather than kept behind closed gates. In\nthe following paragraphs I will give my reasons.\nTo begin with, these facilities are usually built with public funding, yet they stand empty on weekends and\nholidays. Opening them turns a wasted resource into a shared benefit for taxpayers. What is more, many\ncommunities lack affordable places to exercise, so free access to a campus track or gym would clearly improve\nresidents' health. Admittedly, some people worry about campus safety and extra costs. Nevertheless, these\nproblems can be eased by fixed opening hours, an entry registration and a small fee.\nTo sum up, I firmly believe that universities should open their sports facilities to the public. It is advisable that\nthey first set up proper management, so that both students and residents can enjoy the resource in harmony."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "A team of researchers led by Priyanka Joshi examined the degree to which men and women relied on \"communicative abstraction\" to verbally convey their ideas and emotions. Communicative abstraction, according to the researchers, reflects the tendency of people to use \"abstract speech that focuses on the broader picture and {{1}} purpose of action rather than concrete speech focusing on details and the means of {{2}} action.\" Interestingly, they found that men were far more likely to speak in the abstract than were women. To arrive at this {{3}} , the researchers examined the linguistic(语言的) patterns of men and women in over 600,000 blog posts written on websites. To do this, the researchers computed abstractness ratings for {{4}} 40,000 commonly used words in the English language. Words considered to be concrete could be easily visualized, such as \"table\" or \"chair\". Words that were more {{5}} to visualize, for example, \"justice\" or \"morality\" were considered to be more abstract. They found that men used {{6}} more abstract language in their blog posts. What is the {{7}} of this effect? The researchers suggest that power differences between the genders—that is, men having more power in society—might be a key determinant(决定因素). For instance, in a follow-up study conducted with a sample of 300 students, the researchers {{8}} power dynamics in an interpersonal setting to see if this would influence communicative abstraction. They found that participants in a high-power interviewer role were more likely to give abstract descriptions of behaviors than were participants in a low-power interviewee role. This suggests that communicating more abstractly does not reflect a {{9}} tendency of men or women but rather {{10}} within specific contexts.",
+     "options": [
+      "approximately",
+      "attaining",
+      "conclusion",
+      "difficult",
+      "emerges",
+      "fixed",
+      "ignored",
+      "legally",
+      "manipulated",
+      "recommended",
+      "refraining",
+      "signals",
+      "significantly",
+      "source",
+      "ultimate"
+     ],
+     "answers": [
+      14,
+      1,
+      2,
+      0,
+      3,
+      12,
+      13,
+      8,
+      5,
+      4
+     ],
+     "blankExplains": [
+      "【定位】Communicative abstraction, according to the researchers, reflects the tendency of people to use \"abstract speech that focuses on the broader picture and ____ purpose of action rather than concrete speech focusing on details and the means of  … action.\" Interestingly, they found that men were far more likely to speak in the abstract than were women.\n【依据】答案是 ultimate：填回后与所在句 communicative、abstraction、according、researchers、reflects、tendency 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Communicative abstraction, according to the researchers, reflects the tendency of people to use \"abstract speech that focuses on the broader picture and  … purpose of action rather than concrete speech focusing on details and the means of ____ action.\" Interestingly, they found that men were far more likely to speak in the abstract than were women.\n【依据】答案是 attaining：填回后与所在句 communicative、abstraction、according、researchers、reflects、tendency 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】To arrive at this ____ , the researchers examined the linguistic(语言的) patterns of men and women in over 600,000 blog posts written on websites.\n【依据】答案是 conclusion：填回后与所在句 arrive、researchers、examined、linguistic、patterns、men 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】To do this, the researchers computed abstractness ratings for ____ 40,000 commonly used words in the English language.\n【依据】答案是 approximately：填回后与所在句 researchers、computed、abstractness、ratings、commonly、used 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Words that were more ____ to visualize, for example, \"justice\" or \"morality\" were considered to be more abstract.\n【依据】答案是 difficult：填回后与所在句 words、visualize、example、justice、morality、considered 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】They found that men used ____ more abstract language in their blog posts.\n【依据】答案是 significantly：填回后与所在句 found、men、used、abstract、language、blog 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】What is the ____ of this effect?\n【依据】答案是 source：填回后与所在句 what、effect 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】For instance, in a follow-up study conducted with a sample of 300 students, the researchers ____ power dynamics in an interpersonal setting to see if this would influence communicative abstraction.\n【依据】答案是 manipulated：填回后与所在句 instance、follow-up、study、conducted、sample、students 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This suggests that communicating more abstractly does not reflect a ____ tendency of men or women but rather  … within specific contexts.\n【依据】答案是 fixed：填回后与所在句 suggests、communicating、abstractly、reflect、tendency、men 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This suggests that communicating more abstractly does not reflect a  … tendency of men or women but rather ____ within specific contexts.\n【依据】答案是 emerges：填回后与所在句 suggests、communicating、abstractly、reflect、tendency、men 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Communicative abstraction, according to the researchers, reflects the tendency of people to use \"abstract speech that focuses on the broader picture and ____ purpose of action rather than concrete speech focusing on details and the means of  … action.\" Interestingly, they found that men were far more likely to speak in the abstract than were women.",
+       "why": "答案是 ultimate：填回后与所在句 communicative、abstraction、according、researchers、reflects、tendency 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ultimate 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ultimate 这个词性/语义，而不是 attaining）。"
+       }
+      },
+      {
+       "locate": "Communicative abstraction, according to the researchers, reflects the tendency of people to use \"abstract speech that focuses on the broader picture and  … purpose of action rather than concrete speech focusing on details and the means of ____ action.\" Interestingly, they found that men were far more likely to speak in the abstract than were women.",
+       "why": "答案是 attaining：填回后与所在句 communicative、abstraction、according、researchers、reflects、tendency 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 attaining 这个词性/语义，而不是 approximately）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 attaining 这个词性/语义，而不是 conclusion）。"
+       }
+      },
+      {
+       "locate": "To arrive at this ____ , the researchers examined the linguistic(语言的) patterns of men and women in over 600,000 blog posts written on websites.",
+       "why": "答案是 conclusion：填回后与所在句 arrive、researchers、examined、linguistic、patterns、men 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 conclusion 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 conclusion 这个词性/语义，而不是 attaining）。"
+       }
+      },
+      {
+       "locate": "To do this, the researchers computed abstractness ratings for ____ 40,000 commonly used words in the English language.",
+       "why": "答案是 approximately：填回后与所在句 researchers、computed、abstractness、ratings、commonly、used 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 approximately 这个词性/语义，而不是 attaining）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 approximately 这个词性/语义，而不是 conclusion）。"
+       }
+      },
+      {
+       "locate": "Words that were more ____ to visualize, for example, \"justice\" or \"morality\" were considered to be more abstract.",
+       "why": "答案是 difficult：填回后与所在句 words、visualize、example、justice、morality、considered 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 difficult 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 difficult 这个词性/语义，而不是 attaining）。"
+       }
+      },
+      {
+       "locate": "They found that men used ____ more abstract language in their blog posts.",
+       "why": "答案是 significantly：填回后与所在句 found、men、used、abstract、language、blog 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "与 significantly 拼写相近（共同开头 sign），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 significantly 这个词性/语义，而不是 source）。"
+       }
+      },
+      {
+       "locate": "What is the ____ of this effect?",
+       "why": "答案是 source：填回后与所在句 what、effect 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 source 这个词性/语义，而不是 signals）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 source 这个词性/语义，而不是 significantly）。"
+       }
+      },
+      {
+       "locate": "For instance, in a follow-up study conducted with a sample of 300 students, the researchers ____ power dynamics in an interpersonal setting to see if this would influence communicative abstraction.",
+       "why": "答案是 manipulated：填回后与所在句 instance、follow-up、study、conducted、sample、students 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 manipulated 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 manipulated 这个词性/语义，而不是 attaining）。"
+       }
+      },
+      {
+       "locate": "This suggests that communicating more abstractly does not reflect a ____ tendency of men or women but rather  … within specific contexts.",
+       "why": "答案是 fixed：填回后与所在句 suggests、communicating、abstractly、reflect、tendency、men 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 fixed 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 fixed 这个词性/语义，而不是 attaining）。"
+       }
+      },
+      {
+       "locate": "This suggests that communicating more abstractly does not reflect a  … tendency of men or women but rather ____ within specific contexts.",
+       "why": "答案是 emerges：填回后与所在句 suggests、communicating、abstractly、reflect、tendency、men 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 emerges 这个词性/语义，而不是 approximately）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 emerges 这个词性/语义，而不是 attaining）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Hal Hershfield, a psychologist at the UCLA Anderson School of Management, wanted to know why people weren't saving for retirement. Across the board, people are living longer. Logically, they'll need more money to live comfortably in their post-work years. And yet, savings rates in the U.S. have gone down in recent decades, not up."
+      },
+      {
+       "id": "B",
+       "text": "To help explain this seemingly irrational behavior, Hershfield and his team scanned the brains of study participants while asking them to what degree various traits(特征)—like \"honorable\" or \"funny\"—applied to their current self, their future self, a current other, or a future other. As participants answered, Hershfield's team recorded which parts of their brains lit up. Unsurprisingly, people's brains were most active when thinking about their current selves and least active when thinking about a current other. But the team found that participants' brain activity while considering their future selves more closely resembled their brain activity while thinking about a current other rather than the current self."
+      },
+      {
+       "id": "C",
+       "text": "Put in practical terms, when thinking of yourself in a month or a year or a decade, your brain registers that person in ways similar to how it would register Taylor Swift or the mailman. Understood in that way, saving for retirement is the equivalent of giving money away to someone else entirely."
+      },
+      {
+       "id": "D",
+       "text": "In light of Hershfield's study, one simple question arises: Is it possible to make our present selves give a damn about our future selves? The answers are anything but simple."
+      },
+      {
+       "id": "E",
+       "text": "Seen through the lens of the present self versus the future self, our self-defeating actions—like choosing to watch television rather than go to the gym—suddenly make perfect sense. We get to enjoy the very concrete, immediate benefits of our actions while someone else (namely, our future selves) suffers the hypothetical(假设的), far-off consequences. As a result, the decisions we make for our present selves often look very different from our decisions for our future selves. We believe that tomorrow will be different. We believe that we will be different tomorrow; but in doing so, we prioritize our current mood over the consequences of our inaction for the future self."
+      },
+      {
+       "id": "F",
+       "text": "Understanding our procrastination(拖延) through the lens of the present and future selves, we're left with three possible solutions: The first is to force your future self to do whatever your present self doesn't want to do. The second is to convince your present self that your future self is, in fact, still you. If the central problem is that we think of our future selves as other people, it follows that trying to identify more closely with our future selves will encourage us to make better long-term decisions."
+      },
+      {
+       "id": "G",
+       "text": "In a follow-up study, Hershfield wanted to explore ways to bridge the disconnect between the present and future selves and encourage people to save more for retirement. He and his team took photos of study participants, and then used image processing to visually age their faces. Participants were then placed in a virtual reality setting where they could look into a mirror and see their aged selves looking back at them. Participants who saw their aged selves said they would save 30% more of their salary for retirement than the control group."
+      },
+      {
+       "id": "H",
+       "text": "Whatever your long-term goals may be—getting in better shape, launching your own business, writing a book—thinking about your deadline in terms of days rather than months or years can help you wrap your mind around how close the future really is."
+      },
+      {
+       "id": "I",
+       "text": "The third solution is to forget about your future self and use your present self's love of instant gratification(满足感) to your advantage. While the two tactics(手段) above can be effective in making better long-term choices, in the end, you're still struggling against human nature. Our brains are hard-wired for instant gratification. Instead of fighting your present self's need for immediate rewards, why not use it to your advantage? When most of us set goals, we focus on long-term results we want to see—e.g., losing weight, getting a promotion, retiring in comfort, etc. While those visions of our future selves can be inspiring, when it comes to actually doing the day-to-day work, it may be more effective to reframe activities in terms of their immediate, or at least very near-term, rewards."
+      },
+      {
+       "id": "J",
+       "text": "Take writing this article, for instance. It's easy for me to imagine how amazing it will feel at the end of the workday to have this article done. This isn't just my opinion. Research partners Kaitlin Woolley of Cornell University and Ayelet Fishbach of the University of Chicago have made a career out of studying the differences between the goals that people achieve and the ones that fall to the wayside."
+      },
+      {
+       "id": "K",
+       "text": "\"In one study, we asked people online about the goals they set at the beginning of the year. Most people set goals to achieve delayed, long-term benefits, such as career advancement, debt repayment, or improved health. We asked these individuals how enjoyable it was to pursue their goal, as well as how important their goal was. We also asked whether they were still working on their goals two months after setting them. We found that enjoyment predicted people's goal persistence two months after setting the goal far more than how important they rated their goal to be,\" Woolley said."
+      },
+      {
+       "id": "L",
+       "text": "This pattern held true across a wide variety of goals from exercising to studying to eating healthier foods. For example, people ate 50% more of a healthy food when directed to focus on the good taste rather than the long-term health benefits. Other studies have shown a greater uptake of exercise in people who were told to think of the enjoyment of doing the exercise now rather than future health gains."
+      },
+      {
+       "id": "M",
+       "text": "These findings suggest that when it comes to achieving your goals, enjoying the process itself is more important than wanting the long-term benefits. In other words, present self trumps(战胜) future self. Who says instant gratification has to be a bad thing? By all means, set ambitious long-term goals for your future self, but when it comes to actually following through day-to-day, make sure your present self knows what's in it for her too."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Our brains are genetically determined to satisfy immediate desires."
+      },
+      {
+       "id": "s37",
+       "text": "Taken in a practical way, saving for post-work years is like giving money away to others."
+      },
+      {
+       "id": "s38",
+       "text": "Research found that, as regards achievement of one's goals, it is important to focus more on enjoying the process than the long-term benefits."
+      },
+      {
+       "id": "s39",
+       "text": "Regarding our future selves as still being ourselves will help us make better long-term decisions."
+      },
+      {
+       "id": "s40",
+       "text": "Savings rates in America have dropped in recent decades even though people's life expectancy has increased."
+      },
+      {
+       "id": "s41",
+       "text": "Researchers found that enjoyment rather than importance enabled people to persist in their goals."
+      },
+      {
+       "id": "s42",
+       "text": "When making decisions, we give priority to our current frame of mind without thinking much of the consequences."
+      },
+      {
+       "id": "s43",
+       "text": "People ate more of a healthy food when they focused on its good taste instead of its long-term benefits."
+      },
+      {
+       "id": "s44",
+       "text": "As was expected, when people thought of their present selves, their brains were observed to become more active."
+      },
+      {
+       "id": "s45",
+       "text": "Researchers found that participants who saw the images of their aged selves would save more for their later years than those who didn't."
+      }
+     ],
+     "answers": [
+      "I",
+      "C",
+      "M",
+      "F",
+      "A",
+      "K",
+      "E",
+      "L",
+      "B",
+      "G"
+     ],
+     "statementExplains": [
+      "【定位】Our brains are hard-wired for instant gratification.\n【依据】陈述里的 brains 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Understood in that way, saving for retirement is the equivalent of giving money away to someone else entirely.\n【依据】陈述里的 way、saving、giving、money、away 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】These findings suggest that when it comes to achieving your goals, enjoying the process itself is more important than wanting the long-term benefits.\n【依据】陈述里的 achievement、goals、important、enjoying、process、long-term 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】If the central problem is that we think of our future selves as other people, it follows that trying to identify more closely with our future selves will encourage us to make better long-term decisions.\n【依据】陈述里的 future、selves、make、better、long-term、decisions 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Hal Hershfield, a psychologist at the UCLA Anderson School of Management, wanted to know why people weren't saving for retirement.\n【依据】陈述里的 savings、people's 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】We found that enjoyment predicted people's goal persistence two months after setting the goal far more than how important they rated their goal to be,\" Woolley said.\n【依据】陈述里的 found、enjoyment、importance、people、persist 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】We believe that we will be different tomorrow; but in doing so, we prioritize our current mood over the consequences of our inaction for the future self.\n【依据】陈述里的 priority、current、consequences 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】For example, people ate 50% more of a healthy food when directed to focus on the good taste rather than the long-term health benefits.\n【依据】陈述里的 people、ate、healthy、food、when、focused 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】Unsurprisingly, people's brains were most active when thinking about their current selves and least active when thinking about a current other.\n【依据】陈述里的 when、people、selves、brains、active 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Participants who saw their aged selves said they would save 30% more of their salary for retirement than the control group.\n【依据】陈述里的 participants、who、saw、aged、selves、save 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Our brains are hard-wired for instant gratification.",
+       "why": "陈述里的 brains 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Understood in that way, saving for retirement is the equivalent of giving money away to someone else entirely.",
+       "why": "陈述里的 way、saving、giving、money、away 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "These findings suggest that when it comes to achieving your goals, enjoying the process itself is more important than wanting the long-term benefits.",
+       "why": "陈述里的 achievement、goals、important、enjoying、process、long-term 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If the central problem is that we think of our future selves as other people, it follows that trying to identify more closely with our future selves will encourage us to make better long-term decisions.",
+       "why": "陈述里的 future、selves、make、better、long-term、decisions 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Hal Hershfield, a psychologist at the UCLA Anderson School of Management, wanted to know why people weren't saving for retirement.",
+       "why": "陈述里的 savings、people's 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "We found that enjoyment predicted people's goal persistence two months after setting the goal far more than how important they rated their goal to be,\" Woolley said.",
+       "why": "陈述里的 found、enjoyment、importance、people、persist 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "We believe that we will be different tomorrow; but in doing so, we prioritize our current mood over the consequences of our inaction for the future self.",
+       "why": "陈述里的 priority、current、consequences 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For example, people ate 50% more of a healthy food when directed to focus on the good taste rather than the long-term health benefits.",
+       "why": "陈述里的 people、ate、healthy、food、when、focused 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Unsurprisingly, people's brains were most active when thinking about their current selves and least active when thinking about a current other.",
+       "why": "陈述里的 when、people、selves、brains、active 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Participants who saw their aged selves said they would save 30% more of their salary for retirement than the control group.",
+       "why": "陈述里的 participants、who、saw、aged、selves、save 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "People often wonder why some entrepreneurs have greater success than others. Is it habits, connections, luck, work ethic or any other behavior? I believe the key to success is willpower. Willpower is the ability to control yourself. It is a strong determination that allows you to do something difficult. It is a behavior we are born with more than one we learn; however, it is possible to not only learn it, but also strengthen it with constant exercise. Willpower is just like a muscle; to keep it strong you need to constantly exercise it. People with a great amount of willpower have the discipline to develop positive, successful habits. Even with an incredible amount of talent, without the discipline and motivation to create positive habits, it can be difficult to achieve success. Willpower and habits go hand in hand. It is critical to create good habits and take the actions necessary to stick to those habits day in and day out for greater success. Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-to-day basis. The best way to create and stick to a habit is to have strong motivation. It's easier to change your habits to lose weight if you have a health issue and you want to be around longer for your kids, or if your business is something you're passionate about. Having a valuable outcome associated with a habit will help you stick to that habit permanently. The art of self-control is one that most successful individuals have mastered. Self-control enables you to avoid behaviors that don't contribute to your success and adopt those that do. Because there is a delayed satisfaction associated with self-control, it can be easy to get off track. However, if you work on sticking to those small positive habits one day at a time, it becomes easier to stay strong and achieve that delayed reward. Once a reward is achieved, it is much easier to continue sticking to your habits.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author say we need to do to strengthen our willpower?",
+       "options": [
+        "Keep it under control.",
+        "Apply it continuously.",
+        "Learn from entrepreneurs.",
+        "Aim at success determinedly."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Willpower is just like a muscle; to keep it strong you need to constantly exercise it.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 apply、continuously 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Willpower is just like a muscle; to keep it strong you need to constantly exercise it.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 apply、continuously 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「under」全文未出现；把原文的「keep」换成了「under、control」，主语或对象被调包。",
+         "C": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "无中生有：「aim、determinedly」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "How are almost half of our daily actions performed according to the passage?",
+       "options": [
+        "Out of habit.",
+        "With determination.",
+        "Like muscle building.",
+        "By self-discipline."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-to-day basis.\n【依据】正确项的核心词 habit 与定位句对得上；其余 out 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-to-day basis.",
+        "why": "正确项的核心词 habit 与定位句对得上；其余 out 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "因果倒置：「building」全文未出现。",
+         "D": "无中生有：「self-discipline」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What will help people stick to doing something constructive automatically?",
+       "options": [
+        "Practising it on a day-to-day basis.",
+        "Associating it with improving health.",
+        "Possessing a reasonable amount of talent.",
+        "Foreseeing the desired outcome it will yield."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Having a valuable outcome associated with a habit will help you stick to that habit permanently.\n【依据】正确项的核心词 outcome 与定位句对得上；其余 foreseeing、desired、yield 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Having a valuable outcome associated with a habit will help you stick to that habit permanently.",
+        "why": "正确项的核心词 outcome 与定位句对得上；其余 foreseeing、desired、yield 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「practising」全文未出现。",
+         "B": "偷换主体：「improving」全文未出现；把原文的「associating」换成了「improving、health」，主语或对象被调包。",
+         "C": "因果倒置：「possessing、reasonable」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "How does the art of self-control help us succeed?",
+       "options": [
+        "By allowing us to remain clear-headed permanently.",
+        "By enabling us to alter our behaviors constantly.",
+        "By enabling us to take positive actions",
+        "By allowing us to avoid taking risks."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The art of self-control is one that most successful individuals have mastered.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 enabling、take、positive、actions 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The art of self-control is one that most successful individuals have mastered.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 enabling、take、positive、actions 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「allowing、remain、clear-headed」全文未出现。",
+         "B": "因果倒置：「enabling、alter」全文未出现。",
+         "D": "无中生有：「allowing、taking、risks」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "Why can it be difficult for us to maintain self-control?",
+       "options": [
+        "Most of us are not in the habit of exercising self-control.",
+        "We may not get immediate rewards from self-control.",
+        "Self-control tends to be associated with pains.",
+        "Self-control only brings about small benefits."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Because there is a delayed satisfaction associated with self-control, it can be easy to get off track.\n【依据】正确项的核心词 get、self-control 与定位句对得上；其余 immediate、rewards 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Because there is a delayed satisfaction associated with self-control, it can be easy to get off track.",
+        "why": "正确项的核心词 get、self-control 与定位句对得上；其余 immediate、rewards 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「exercising」全文未出现；把原文的「self-control」换成了「habit、exercising」，主语或对象被调包。",
+         "C": "无中生有：「tends、pains」全文未出现；把原文的「self-control、associated」换成了「tends、pains」，主语或对象被调包。",
+         "D": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「brings、benefits」全文未出现；把原文的「self-control」换成了「only、brings、about」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 349 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Today, most scientific research is funded by government grants, companies doing research and development, and non-profit foundations. As a society, we reap the rewards from this science, but we also help pay for it. You indirectly support science through taxes you pay, products and services you purchase, and donations you make. Funding for science has changed with the times. Historically, science has been largely supported through private patronage(资助), church sponsorship, or simply paying for the research yourself. Today, researchers are likely to be funded by a mix of grants from various government agencies, institutions, and foundations. Other research is funded by private companies. Such corporate sponsorship is widespread in some fields. Almost 75% of U.S. clinical trials in medicine are paid for by private companies. And, of course, some researchers today still fund small-scale studies out of their own pockets. Most of us can't afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget. In a perfect world, money wouldn't matter—all scientific studies would be completely objective. But in the real world, funding may introduce biases. Drug research sponsored by the pharmaceutical(制药的) industry is more likely to end up favoring the drug under consideration than studies sponsored by government grants or charitable organizations. Similarly, nutrition research sponsored by the food industry is more likely to end up favoring the food under consideration than independently funded research. So what should we make of all this? Should we ignore any research funded by companies or special interest groups? Certainly not. These groups provide invaluable funding for scientific research. Furthermore, science has many safeguards in place to catch instances of bias that affect research outcomes. Ultimately, misleading results will be corrected as science proceeds; however, this process takes time. Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. Are the results consistent with other independently funded studies? What do other scientists have to say about this research? A little examination can go a long way towards identifying bias associated with the funding source.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the passage mainly discuss regarding scientific research?",
+       "options": [
+        "Its foundation.",
+        "Its rewards.",
+        "Its prospect.",
+        "Its funding."
+       ],
+       "answer": 3,
+       "kind": "main",
+       "explain": "【定位】These groups provide invaluable funding for scientific research.\n【依据】正确项的核心词 funding 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "These groups provide invaluable funding for scientific research.",
+        "why": "正确项的核心词 funding 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「foundation」全文未出现。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "无中生有：「prospect」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What do we learn from the passage about researchers like birdwatchers and rock collectors?",
+       "options": [
+        "They have little access to government funding.",
+        "They can do research with limited resources.",
+        "They can do amateur work in their own fields.",
+        "They have no means for large-scale research."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Most of us can't afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget.\n【依据】正确项的核心词 research、limited 与定位句对得上；其余 resources 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Most of us can't afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget.",
+        "why": "正确项的核心词 research、limited 与定位句对得上；其余 resources 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「access」全文未出现。",
+         "C": "因果倒置：「amateur、work」全文未出现。",
+         "D": "无中生有：「means、large-scale」全文未出现；把原文的「research」换成了「means、large-scale」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What would scientific studies look like in a perfect world according to the author?",
+       "options": [
+        "They would be totally unbiased.",
+        "They would be independently funded.",
+        "They would be responsibly conducted.",
+        "They would be strictly supervised"
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】In a perfect world, money wouldn't matter—all scientific studies would be completely objective.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 totally、unbiased 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In a perfect world, money wouldn't matter—all scientific studies would be completely objective.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 totally、unbiased 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "无中生有：「responsibly、conducted」全文未出现。",
+         "D": "无中生有：「strictly、supervised」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the author say about companies and special interest groups?",
+       "options": [
+        "They try hard to pull down the safeguards for research.",
+        "They make extra efforts to research their own products.",
+        "They provide valuable resources for scientific research.",
+        "They reap the most benefits from scientific research."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Should we ignore any research funded by companies or special interest groups?\n【依据】正确项的核心词 research 与定位句对得上；其余 provide、valuable、resources、scientific 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Should we ignore any research funded by companies or special interest groups?",
+        "why": "正确项的核心词 research 与定位句对得上；其余 provide、valuable、resources、scientific 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「try、hard、pull」全文未出现；把原文的「research」换成了「try、hard、pull」，主语或对象被调包。",
+         "B": "偷换主体：「efforts」全文未出现；把原文的「research」换成了「make、extra、efforts」，主语或对象被调包。",
+         "D": "偷换主体：「benefits」全文未出现；把原文的「research」换成了「reap、benefits、scientific」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author think of research funded by industry or special interest groups?",
+       "options": [
+        "Its recommendations should be examined for feasibility.",
+        "Its misleading results should be corrected in time.",
+        "Its validity should be checked with additional care.",
+        "Its hidden biases should be identified independently."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care.\n【依据】正确项的核心词 care 与定位句对得上；其余 validity、checked、additional 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care.",
+        "why": "正确项的核心词 care 与定位句对得上；其余 validity、checked、additional 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「recommendations、feasibility」全文未出现；把原文的「examined」换成了「recommendations、feasibility」，主语或对象被调包。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "因果倒置：「hidden、identified」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 351 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "农历起源于数千年前的中国，根据太阳和月亮的运行规律制定。长期以来，农历在农业生产和人们日常生活中发挥着重要作用。古人依据农历记录日期、安排农活，以便最有效地利用自然资源和气候条件，提高农作物的产量和质量。中国的春节、中秋节等传统节日的日期都基于农历。农历是中国传统文化的重要组成部分，当今依然广为使用。",
+     "reference": "The lunar calendar originated in China thousands of years ago and was formulated based on the movements of the sun and the moon. For a long time, the lunar calendar has played an important role in agricultural production and people's daily life. Ancient people recorded dates and arranged farm work according to the lunar calendar, in order to make the most effective use of natural resources and climatic conditions, thereby improving the yield and quality of crops The dates of China's traditional festivals, such as the Spring Festival and the Mid- Autumn Festival, are based on the lunar calendar. The lunar calendar is an important part of traditional Chinese culture and is still widely used today.",
+     "keyPoints": [
+      "The lunar calendar originated in China thousands of years ago and was formulated based on the movements of the sun and the moon.",
+      "For a long time, the lunar calendar has played an important role in agricultural production and people's daily life.",
+      "Ancient people recorded dates and arranged farm work according to the lunar calendar, in order to make the most effective use of natural resources and climatic conditions, thereby improving the yield and quality of crops The dates of China's traditional festivals, such as the Spring Festival and the Mid- Autumn Festival, are based on the lunar calendar.",
+      "The lunar calendar is an important part of traditional Chinese culture and is still widely used today."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

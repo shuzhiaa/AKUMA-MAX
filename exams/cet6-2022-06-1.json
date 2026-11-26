@@ -1,0 +1,1168 @@
+{
+ "id": "cet6-2022-06-1",
+ "levelId": "cet6",
+ "title": "六级 2022 年 06 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2022年6月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2022-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2022-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W: 大卫·杰克逊先生是《纽约客》的一名专职撰稿人"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 人们很容易把注意力集中在挑战上"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 是的，和年幼的孩子交谈相比"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 会的，写作方面他们确实会"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 有没有一些你认为很重要"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 我的总体想法是广泛阅读"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 所以，你不像一些家长那样太在意他们阅读的内容？我知道自己对此有些担忧"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 是的，喜欢读什么就读什么"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 我觉得，随着孩子步入青春期"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 我认为，随着他们年龄增长"
+      },
+      {
+       "idx": 11,
+       "zh": "M：那么，你对未来有什么计划？你打算开一家实体店吗？"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn about David Jackson from the conversation?",
+       "options": [
+        "He is a staff writer.",
+        "He is an adventurer.",
+        "He is an author of fiction.",
+        "He is a father of four kids."
+       ],
+       "optionsZh": [
+        "他是一名专职撰稿人。",
+        "他是一名冒险家。",
+        "他是一名小说作家。",
+        "他是四个孩子的父亲。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He is a staff writer.（他是一名专职撰稿人。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the man think of young teenagers?",
+       "options": [
+        "They are interested in fairy tales.",
+        "They are curious and autonomous.",
+        "They are a headache to their parents.",
+        "They are ignorant of politics."
+       ],
+       "optionsZh": [
+        "他们对童话故事感兴趣。",
+        "他们好奇且自主。",
+        "他们让父母头疼。",
+        "他们对政治一无所知。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They are curious and autonomous.（他们好奇且自主。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "How does the man help his kids with their essays?",
+       "options": [
+        "He offers them ample editorial guidance.",
+        "He recommends model essays to them.",
+        "He gives them encouragement.",
+        "He teaches them proofreading."
+       ],
+       "optionsZh": [
+        "他为他们提供充分的编辑指导。",
+        "他向他们推荐范文。",
+        "他给予他们鼓励。",
+        "他教他们校对。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He gives them encouragement.（他给予他们鼓励。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the woman say about herself when she was a teenager?",
+       "options": [
+        "Her tastes in books changed.",
+        "She realized the power of reading.",
+        "Her reading opened her eyes to the world.",
+        "She began to perceive the world differently."
+       ],
+       "optionsZh": [
+        "她对书籍的品味发生了变化。",
+        "她意识到了阅读的力量。",
+        "她的阅读让她开阔了眼界。",
+        "她开始以不同的方式感知世界。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Her tastes in books changed.（她对书籍的品味发生了变化。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn about the woman?",
+       "options": [
+        "She is a website designer.",
+        "She is a university graduate.",
+        "She is a main street store owner.",
+        "She is a successful entrepreneur."
+       ],
+       "optionsZh": [
+        "她是一名网站设计师。",
+        "她是一名大学毕业生。",
+        "她是一家实体店的店主。",
+        "她是一位成功的企业家。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She is a successful entrepreneur.（她是一位成功的企业家。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the woman say about the clothes she made at first?",
+       "options": [
+        "They were repeatedly rejected by shops.",
+        "They were popular with her classmates.",
+        "They showed her natural talent.",
+        "They were mostly failures."
+       ],
+       "optionsZh": [
+        "它们被商店反复拒绝。",
+        "它们在她的同学中很受欢迎。",
+        "它们展现了她的天赋。",
+        "它们大多是失败之作。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They were mostly failures.（它们大多是失败之作。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why did the woman persevere in making clothes for herself?",
+       "options": [
+        "She had a strong interest in doing it.",
+        "She did not like ready-made clothes.",
+        "She could not find clothes of her size.",
+        "She found clothes in shops unaffordable."
+       ],
+       "optionsZh": [
+        "她对做这件事有浓厚的兴趣。",
+        "她不喜欢成衣。",
+        "她找不到适合自己尺码的衣服。",
+        "她觉得商店里的衣服买不起。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：She could not find clothes of her size.（她找不到适合自己尺码的衣服。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What does the woman plan to do in the future?",
+       "options": [
+        "Study fashion design at college.",
+        "Improve her marketing strategy.",
+        "Add designs for women.",
+        "Expand her business."
+       ],
+       "optionsZh": [
+        "在大学学习时装设计。",
+        "改进她的营销策略。",
+        "增加女装设计。",
+        "扩大她的业务。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Expand her business.（扩大她的业务。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What have researchers done for the first time in history?",
+       "options": [
+        "Utilizing artificial intelligence to find a powerful new antibiotic.",
+        "Discovering bacteria which are resistant to all known antibiotics.",
+        "Identifying bacterial strains that are most harmful to human health.",
+        "Removing a deadly strain of bacteria in humans with a new antibiotic."
+       ],
+       "optionsZh": [
+        "利用人工智能找到一种强效的新型抗生素。",
+        "发现对所有已知抗生素都具有耐药性的细菌。",
+        "识别出对人类健康危害最大的细菌菌株。",
+        "用一种新型抗生素清除人体内的致命细菌菌株。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Utilizing artificial intelligence to find a powerful new antibiotic.（利用人工智能找到一种强效的新型抗生素。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What makes it important to find new antibiotic drugs?",
+       "options": [
+        "Ever-increasing strains of bacteria.",
+        "Bacteria's resistance to antibiotics.",
+        "The similarity between known drugs.",
+        "The growing threat of bacteria to health."
+       ],
+       "optionsZh": [
+        "不断增加的细菌菌株。",
+        "细菌对抗生素的耐药性。",
+        "已知药物之间的相似性。",
+        "细菌对健康日益增长的威胁。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Bacteria's resistance to antibiotics.（细菌对抗生素的耐药性。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the passage say artificial intelligence is able to do in antibiotic research?",
+       "options": [
+        "Dispense with experimental testing.",
+        "Predict whether compounds are toxic.",
+        "Foresee human reaction to antibiotics.",
+        "Combat bacteria's resistance to antibiotics."
+       ],
+       "optionsZh": [
+        "省去实验性测试。",
+        "预测化合物是否有毒。",
+        "预见人类对抗生素的反应。",
+        "对抗细菌对抗生素的耐药性。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Predict whether compounds are toxic.（预测化合物是否有毒。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "According to the passage, how do most people detect lying?",
+       "options": [
+        "By theorization.",
+        "By generalization.",
+        "By observation.",
+        "By conversation."
+       ],
+       "optionsZh": [
+        "通过理论推导。",
+        "通过归纳概括。",
+        "通过观察。",
+        "通过交谈。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：By observation.（通过观察。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the passage say about most lies?",
+       "options": [
+        "They are easy to detect.",
+        "They are well intended.",
+        "They are groundless.",
+        "They are harmless."
+       ],
+       "optionsZh": [
+        "它们很容易识破。",
+        "它们是善意的。",
+        "它们是毫无根据的。",
+        "它们是无害的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are harmless.（它们是无害的。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What have many studies uncovered about the average person's lie detection?",
+       "options": [
+        "Mostly by chance.",
+        "Basically objective.",
+        "Subject to their mental alertness.",
+        "Dependent on their analytical ability."
+       ],
+       "optionsZh": [
+        "主要靠运气。",
+        "基本客观。",
+        "取决于他们的精神警觉性。",
+        "取决于他们的分析能力。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Mostly by chance.（主要靠运气。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What advice does the new research offer regarding lie detection?",
+       "options": [
+        "Looking the speaker in the eye.",
+        "Listening carefully to the speaker.",
+        "Measuring the speaker's breathing rate.",
+        "Focusing on the speaker's facial expressions."
+       ],
+       "optionsZh": [
+        "直视说话者的眼睛。",
+        "仔细倾听说话者。",
+        "测量说话者的呼吸频率。",
+        "关注说话者的面部表情。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Listening carefully to the speaker.（仔细倾听说话者。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say about most American hospitals?",
+       "options": [
+        "They don't treat patients with due respect.",
+        "They witness a lot of doctor-patient conflicts.",
+        "They have to deal with social workers' strikes.",
+        "They don't care how much patients have to pay."
+       ],
+       "optionsZh": [
+        "它们没有以应有的尊重对待病人。",
+        "它们目睹了许多医患冲突。",
+        "它们必须应对社会工作者的罢工。",
+        "它们不关心病人要支付多少钱。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They don't treat patients with due respect.（它们没有以应有的尊重对待病人。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does Karen Brudney suggest patients do?",
+       "options": [
+        "Appear submissive and grateful to doctors and nurses.",
+        "Express a strong desire to be consulted or informed.",
+        "Refrain from saying anything that sounds negative.",
+        "Note down the names of all the doctors and nurses."
+       ],
+       "optionsZh": [
+        "在医生和护士面前表现得顺从和感激。",
+        "表达希望被咨询或告知的强烈愿望。",
+        "避免说任何听起来负面的话。",
+        "记下所有医生和护士的名字。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Note down the names of all the doctors and nurses.（记下所有医生和护士的名字。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What do American doctors expect their patients to be, according to Karen Brudney?",
+       "options": [
+        "Cooperative.",
+        "Appreciative.",
+        "Passive.",
+        "Responsive."
+       ],
+       "optionsZh": [
+        "合作的。",
+        "感激的。",
+        "被动的。",
+        "有回应的。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Passive.（被动的。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about a team with vitality?",
+       "options": [
+        "Its members work together despite risks of failure.",
+        "It prioritizes recruiting young energetic members.",
+        "Its members stay in touch even after it breaks up.",
+        "It grows more and more mature professionally."
+       ],
+       "optionsZh": [
+        "其成员尽管面临失败风险仍共同协作。",
+        "它优先招募年轻有活力的成员。",
+        "其成员即使在团队解散后也保持联系。",
+        "它在专业上变得越来越成熟。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Its members stay in touch even after it breaks up.（其成员即使在团队解散后也保持联系。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What do the researchers find out about members of a team?",
+       "options": [
+        "Their differences are likely to impact productivity.",
+        "Their similarity is conducive to future collaboration.",
+        "Their connections strengthen with the passage of time.",
+        "Their mutual understanding stems from a common goal."
+       ],
+       "optionsZh": [
+        "他们的差异可能会影响生产力。",
+        "他们的相似性有利于未来的合作。",
+        "他们的联系随着时间推移而加强。",
+        "他们的相互理解源于共同目标。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Their similarity is conducive to future collaboration.（他们的相似性有利于未来的合作。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do we learn about the team the speaker is currently working in?",
+       "options": [
+        "It is characterized by diversity.",
+        "Its goals are quite inconsistent.",
+        "Its members have similar backgrounds.",
+        "It is connected by a unique mechanism."
+       ],
+       "optionsZh": [
+        "它的特点是多样性。",
+        "它的目标相当不一致。",
+        "其成员有相似的背景。",
+        "它通过一种独特的机制联结在一起。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is characterized by diversity.（它的特点是多样性。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do experts recommend concerning being thrifty?",
+       "options": [
+        "Putting aside twenty percent of one's earnings.",
+        "Spending in anticipation of becoming wealthy.",
+        "Living off a small proportion of one's income.",
+        "Saving as much as one can possibly manage."
+       ],
+       "optionsZh": [
+        "将收入的百分之二十存起来。",
+        "预期自己会变富而消费。",
+        "靠收入的一小部分生活。",
+        "尽可能多地储蓄。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Putting aside twenty percent of one's earnings.（将收入的百分之二十存起来。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "How does confidence help people to be thrifty?",
+       "options": [
+        "It empowers them to cope with irrational emotions.",
+        "It will guarantee the profits from their investments.",
+        "It will turn them into successful financial planners.",
+        "It enables them to focus on long-term investments."
+       ],
+       "optionsZh": [
+        "它使他们有能力应对非理性情绪。",
+        "它将保证他们的投资获利。",
+        "它将把他们变成成功的理财规划师。",
+        "它使他们能够专注于长期投资。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It enables them to focus on long-term investments.（它使他们能够专注于长期投资。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "How do millionaires react when they fail in their investment?",
+       "options": [
+        "They count on others to take the responsibility.",
+        "They change their investment strategy in time.",
+        "They think they themselves are to blame.",
+        "They persist rather than get discouraged."
+       ],
+       "optionsZh": [
+        "他们指望别人承担责任。",
+        "他们及时改变投资策略。",
+        "他们认为自己应该受到责备。",
+        "他们坚持下去而不是气馁。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They think they themselves are to blame.（他们认为自己应该受到责备。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "Why does the speaker say millionaires are socially indifferent?",
+       "options": [
+        "They do not resist novel lifestyles.",
+        "They do not try to keep up with others.",
+        "They do not care what they have acquired.",
+        "They do not pressure themselves to get rich."
+       ],
+       "optionsZh": [
+        "他们不抗拒新颖的生活方式。",
+        "他们不试图跟上他人。",
+        "他们不在乎自己获得了什么。",
+        "他们不给自己施加变富的压力。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They do not try to keep up with others.（他们不试图跟上他人。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more people choose to live an environmentally friendly lifestyle.” You can make comments, cite examples, or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "The city of Bath was founded by the Romans almost two thousand years ago. It has been famous for its {{1}} pleasing architecture and healing thermal springs ever since. There are three hot springs in Bath; one is the King's Spring, upon which the Roman Baths and a temple were {{2}} . The other two are the Cross Spring and the Hetling Spring, close to each other in Hot Bath Street. Although Bath is {{3}} known as a Roman and Georgian city, many people came in the intervening centuries to make use of the {{4}} waters. While the Georgians made 'taking the waters' or bathing particularly fashionable, it was {{5}} generations who paved the way, creating greater interest in Bath and its springs. Charles II, desperate for an heir and unable to produce a {{6}} son, came to Bath to take the waters in the hope that their magical powers would do something to {{7}} the situation. Craving for a male heir, James and Mary both came to Bath and soon after produced a son, which bred many conspiracy theories about who was the real father of their {{8}} . Regardless, the 'miracle' created something of a boom in tourism for Bath and once Queen Anne had paid a visit in 1702, sealing it as the place to be, the whole nation {{9}} to the city. Afterwards, the spas(矿泉疗养浴场) in Bath continued to go in and out of fashion for more than 150 years until they closed completely. The new Bath Spa, which opened in 2006, {{10}} modern architecture with the ancient spring, now the New Royal Bath.",
+     "options": [
+      "aesthetically",
+      "constructed",
+      "designates",
+      "extract",
+      "flocked",
+      "incorporates",
+      "legitimate",
+      "natural",
+      "offspring",
+      "previous",
+      "principally",
+      "remedy",
+      "rhetorically",
+      "sneaked",
+      "versatile"
+     ],
+     "answers": [
+      0,
+      1,
+      10,
+      7,
+      9,
+      6,
+      11,
+      8,
+      4,
+      5
+     ],
+     "blankExplains": [
+      "【定位】It has been famous for its ____ pleasing architecture and healing thermal springs ever since.\n【依据】答案是 aesthetically：填回后与所在句 famous、pleasing、architecture、healing、thermal、springs 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】There are three hot springs in Bath; one is the King's Spring, upon which the Roman Baths and a temple were ____ .\n【依据】答案是 constructed：填回后与所在句 there、three、hot、springs、bath、king's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Although Bath is ____ known as a Roman and Georgian city, many people came in the intervening centuries to make use of the  … waters.\n【依据】答案是 principally：填回后与所在句 although、bath、known、roman、georgian、city 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Although Bath is  … known as a Roman and Georgian city, many people came in the intervening centuries to make use of the ____ waters.\n【依据】答案是 natural：填回后与所在句 although、bath、known、roman、georgian、city 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】While the Georgians made 'taking the waters' or bathing particularly fashionable, it was ____ generations who paved the way, creating greater interest in Bath and its springs.\n【依据】答案是 previous：填回后与所在句 while、georgians、made、taking、waters'、bathing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Charles II, desperate for an heir and unable to produce a ____ son, came to Bath to take the waters in the hope that their magical powers would do something to  … the situation.\n【依据】答案是 legitimate：填回后与所在句 charles、desperate、heir、unable、produce、son 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Charles II, desperate for an heir and unable to produce a  … son, came to Bath to take the waters in the hope that their magical powers would do something to ____ the situation.\n【依据】答案是 remedy：填回后与所在句 charles、desperate、heir、unable、produce、son 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Craving for a male heir, James and Mary both came to Bath and soon after produced a son, which bred many conspiracy theories about who was the real father of their ____ .\n【依据】答案是 offspring：填回后与所在句 craving、male、heir、james、mary、both 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Regardless, the 'miracle' created something of a boom in tourism for Bath and once Queen Anne had paid a visit in 1702, sealing it as the place to be, the whole nation ____ to the city.\n【依据】答案是 flocked：填回后与所在句 regardless、miracle'、created、something、boom、tourism 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The new Bath Spa, which opened in 2006, ____ modern architecture with the ancient spring, now the New Royal Bath.\n【依据】答案是 incorporates：填回后与所在句 new、bath、spa、which、opened、modern 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "It has been famous for its ____ pleasing architecture and healing thermal springs ever since.",
+       "why": "答案是 aesthetically：填回后与所在句 famous、pleasing、architecture、healing、thermal、springs 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 aesthetically 这个词性/语义，而不是 constructed）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 aesthetically 这个词性/语义，而不是 designates）。"
+       }
+      },
+      {
+       "locate": "There are three hot springs in Bath; one is the King's Spring, upon which the Roman Baths and a temple were ____ .",
+       "why": "答案是 constructed：填回后与所在句 there、three、hot、springs、bath、king's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 constructed 这个词性/语义，而不是 aesthetically）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 constructed 这个词性/语义，而不是 designates）。"
+       }
+      },
+      {
+       "locate": "Although Bath is ____ known as a Roman and Georgian city, many people came in the intervening centuries to make use of the  … waters.",
+       "why": "答案是 principally：填回后与所在句 although、bath、known、roman、georgian、city 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 principally 这个词性/语义，而不是 previous）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 principally 这个词性/语义，而不是 aesthetically）。"
+       }
+      },
+      {
+       "locate": "Although Bath is  … known as a Roman and Georgian city, many people came in the intervening centuries to make use of the ____ waters.",
+       "why": "答案是 natural：填回后与所在句 although、bath、known、roman、georgian、city 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 natural 这个词性/语义，而不是 aesthetically）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 natural 这个词性/语义，而不是 constructed）。"
+       }
+      },
+      {
+       "locate": "While the Georgians made 'taking the waters' or bathing particularly fashionable, it was ____ generations who paved the way, creating greater interest in Bath and its springs.",
+       "why": "答案是 previous：填回后与所在句 while、georgians、made、taking、waters'、bathing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 previous 这个词性/语义，而不是 principally）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 previous 这个词性/语义，而不是 aesthetically）。"
+       }
+      },
+      {
+       "locate": "Charles II, desperate for an heir and unable to produce a ____ son, came to Bath to take the waters in the hope that their magical powers would do something to  … the situation.",
+       "why": "答案是 legitimate：填回后与所在句 charles、desperate、heir、unable、produce、son 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 legitimate 这个词性/语义，而不是 aesthetically）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 legitimate 这个词性/语义，而不是 constructed）。"
+       }
+      },
+      {
+       "locate": "Charles II, desperate for an heir and unable to produce a  … son, came to Bath to take the waters in the hope that their magical powers would do something to ____ the situation.",
+       "why": "答案是 remedy：填回后与所在句 charles、desperate、heir、unable、produce、son 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 remedy 这个词性/语义，而不是 rhetorically）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 remedy 这个词性/语义，而不是 aesthetically）。"
+       }
+      },
+      {
+       "locate": "Craving for a male heir, James and Mary both came to Bath and soon after produced a son, which bred many conspiracy theories about who was the real father of their ____ .",
+       "why": "答案是 offspring：填回后与所在句 craving、male、heir、james、mary、both 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 offspring 这个词性/语义，而不是 aesthetically）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 offspring 这个词性/语义，而不是 constructed）。"
+       }
+      },
+      {
+       "locate": "Regardless, the 'miracle' created something of a boom in tourism for Bath and once Queen Anne had paid a visit in 1702, sealing it as the place to be, the whole nation ____ to the city.",
+       "why": "答案是 flocked：填回后与所在句 regardless、miracle'、created、something、boom、tourism 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 flocked 这个词性/语义，而不是 aesthetically）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 flocked 这个词性/语义，而不是 constructed）。"
+       }
+      },
+      {
+       "locate": "The new Bath Spa, which opened in 2006, ____ modern architecture with the ancient spring, now the New Royal Bath.",
+       "why": "答案是 incorporates：填回后与所在句 new、bath、spa、which、opened、modern 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 incorporates 这个词性/语义，而不是 aesthetically）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 incorporates 这个词性/语义，而不是 constructed）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Fazila is a young woman that has been dealing with eczema(湿疹), a common skin condition, for the past five years, but never got it treated. The nearest hospital is an hour away, by boat and bus, and her skin condition didn't seem serious enough to make the trek, so she ignored it—until a new technology brought the doctor to her. Fazila lives on one of the remote river islands in northern Bangladesh. These islands are low-lying, temporary sand islands that are continuously formed and destroyed through sand buildup and erosion. They are home to over six million people, who face repeated displacement from flooding and erosion—which may be getting worse because of climate change—and a range of health risks, including poor nutrition, malaria(疟疾) and other water-borne diseases."
+      },
+      {
+       "id": "B",
+       "text": "The most dangerous thing for these remote island dwellers is land erosion. The second is lack of access to medical supplies and doctors. There are no doctors within miles, and while child mortality and maternal death have gone down in the rest of the country, this is not the case for the islands. The medical situation is so bad that it really takes away from the quality of their life. Yet for many island inhabitants—some of Bangladesh's poorest—paying for health care is a costly ordeal. Victims of erosion lose their houses, agricultural land and jobs as farmers, fishermen and day laborers. Though government hospitals are free, many people hesitate to go, citing long commutes, endless lines and questionable diagnoses. For convenience's sake, one-third of rural households visit unqualified village doctors, who rely on unscientific methods of treatment, according to a 2016 study in the peer-reviewed journal Global Health Action."
+      },
+      {
+       "id": "C",
+       "text": "On the islands, there's even a colloquial(口头的) expression for the idea of making medical care your lowest priority: It's known as \"rog pushai rakha\" in Bengali, which roughly translates to \"stockpiling their diseases\"—waiting to seek medical attention until a condition becomes extremely serious. Now, a new virtual medical service called Teledaktar (TD) is trying to make health care more easily accessible. Every week, TD's medical operators travel to the islands by boat, carrying a laptop, a portable printer for prescriptions and tools to run basic medical screenings such as blood pressure, blood sugar, body temperature and weight. They choose an area of the island with the best Internet reception and set up a makeshift(临时凑合的) medical center which consists of plastic stools and small tables borrowed from the locals' homes, a tent in case of rain and a sheet that is strung up to give the patients privacy during their session."
+      },
+      {
+       "id": "D",
+       "text": "Launched in October 2018, TD has eight centers in towns and villages across rural Bangladesh and on three islands. It is funded by a nonprofit organization founded by Bangladeshi entrepreneurs, finance and technology professionals. Inside the center, the laptop screen lights up to reveal Dr. Tina Mustahid, TD's head physician, live-streamed(网络直播) from the capital city of Dhaka for free remote medical consultations. Affectionately called Doctor Apa—\"older sister\" in Bengali—by her patients, she is one of three volunteer doctors at TD."
+      },
+      {
+       "id": "E",
+       "text": "\"I diagnose them through conversation,\" says Dr. Mustahid. \"Sometimes it's really obvious things that local doctors don't have the patience to talk through with their patients. For example, a common complaint mothers come in with is that their children refuse to eat their meals. The mothers are concerned they are dealing with indigestion, but it's because they are feeding the children packaged chips which are cheap and convenient. I tell them it is ruining their appetite and ask them to cut back on unhealthy snacks.\" Dr. Mustahid says building awareness about health and nutrition is important for island patients who are cut off from mainland resources."
+      },
+      {
+       "id": "F",
+       "text": "Even off the islands, Bangladesh faces a critical deficit of health services. The country has half the doctors-per-person ratio recommended by the World Health Organization: roughly one doctor per 2,000 people, instead of one doctor per 1,000 people. And of those physicians, many are concentrated in cities: 70% of the country's population live in rural areas, yet less than 20% of health workers practice there. Over 70% of TD's 3,000 patients are female, in part because many are not comfortable speaking with local doctors who tend to be male. The rural women are mostly not literate or confident enough to travel on their own to the nearest town to visit medical facilities. Many have spent their entire lives rebuilding their homes when the islands flood. Early marriage and young motherhood, which are prevalent in these parts of Bangladesh, also contribute to the early onset of health problems."
+      },
+      {
+       "id": "G",
+       "text": "For most TD patients on the islands, Dr. Mustahid is the first big-city doctor that they've ever consulted. TD doctors are not meant to treat serious illnesses or conditions that require a doctor to be physically present, such as pregnancy. But they can write prescriptions, diagnose common ailments—including digestive issues, joint pain, skin diseases, fever and the common cold—and refer patients to doctors at local hospitals. The visit is also an opportunity for the patients, especially women, to air their concerns about aging, motherhood and reproductive health according to Dr. Mustahid. The doctors also offer health, dietary and lifestyle advice where necessary, including insight on everything from recognizing postnatal(产后的) depression to daily exercise. Dr. Mustahid regularly recommends her patients to take a daily thirty-minute morning walk before the sun gets too intense."
+      },
+      {
+       "id": "H",
+       "text": "After a few sessions about general health issues Fazila finally opened up about something else that was bothering her: her persistent skin condition. It can get expensive to travel to the doctor, so usually the women living on the islands describe their illness to their husbands. The husbands then go to the pharmacy, try to describe the issue and return home with some random medicines. Nothing worked for Fazila until she started seeing Dr. Apa."
+      },
+      {
+       "id": "I",
+       "text": "Other nonprofits are also starting to provide health services on the islands. A local non-governmental organization called Friendship operates floating boat hospitals that provide health services to islands all over Bangladesh, docking at each for two months at a time. Friendship also runs satellite clinics in which one doctor and one clinic aide who are residents of the community disperse health and hygiene information."
+      },
+      {
+       "id": "J",
+       "text": "TD still has a few major challenges. Many residents complain the medicines they are prescribed are sometimes unaffordable, but the government isn't doing enough for them. Patients often ask why the medicine isn't free along with the consultation from the doctors. The organizations are linked to local pharmacies and offer discounts to the patients and make sure to prescribe the most cost-effective brands, but still many residents can't afford even that."
+      },
+      {
+       "id": "K",
+       "text": "Nevertheless, TD's remote consultations seem to be popular: Of 3,000 patients, at least 200 have returned for follow-ups, according to TD. The reason, explains one resident, might be the simple gesture of treating the island inhabitants with respect. \"Dr. Apa is patient,\" he says, \"At government hospitals, the doctors treat us very badly, but here they listen to us, I can repeat myself many times and no one gets annoyed.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Some children on the remote islands won't eat their meals because they are fed cheap junk food."
+      },
+      {
+       "id": "s37",
+       "text": "Unlike other parts of Bangladesh, the number of women who die from giving birth remains high on the river islands."
+      },
+      {
+       "id": "s38",
+       "text": "One big problem many islanders have is that they can't afford the prescribed medicines, even with discounts offered."
+      },
+      {
+       "id": "s39",
+       "text": "TD is a virtual medical service financially supported by one of the nation's nonprofit organizations."
+      },
+      {
+       "id": "s40",
+       "text": "TD doctors are welcome to the islanders because they treat the sick with respect and patience."
+      },
+      {
+       "id": "s41",
+       "text": "Women islanders tend to have health problems early partly because they get married and give birth early."
+      },
+      {
+       "id": "s42",
+       "text": "TD doctors make weekly visits to the remote islands to provide services at a temporary medical center."
+      },
+      {
+       "id": "s43",
+       "text": "TD doctors provide the islanders with online diagnoses and treatments for common diseases."
+      },
+      {
+       "id": "s44",
+       "text": "The residents of the river islands have to keep moving their homes because of floods and land erosions."
+      },
+      {
+       "id": "s45",
+       "text": "Women islanders usually rely on their husbands to get some medicines for them without diagnoses and prescriptions."
+      }
+     ],
+     "answers": [
+      "E",
+      "B",
+      "J",
+      "D",
+      "K",
+      "F",
+      "C",
+      "G",
+      "A",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】For example, a common complaint mothers come in with is that their children refuse to eat their meals.\n【依据】陈述里的 children、eat、meals 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Yet for many island inhabitants—some of Bangladesh's poorest—paying for health care is a costly ordeal.\n【依据】陈述里的 bangladesh、islands 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】The organizations are linked to local pharmacies and offer discounts to the patients and make sure to prescribe the most cost-effective brands, but still many residents can't afford even that.\n【依据】陈述里的 many、can't、afford、prescribed、even、discounts 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】It is funded by a nonprofit organization founded by Bangladeshi entrepreneurs, finance and technology professionals.\n【依据】陈述里的 financially、nonprofit、organizations 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】The reason, explains one resident, might be the simple gesture of treating the island inhabitants with respect.\n【依据】陈述里的 islanders、treat、respect 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Early marriage and young motherhood, which are prevalent in these parts of Bangladesh, also contribute to the early onset of health problems.\n【依据】陈述里的 health、problems、early、married、early 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Now, a new virtual medical service called Teledaktar (TD) is trying to make health care more easily accessible.\n【依据】陈述里的 make、services、medical 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】But they can write prescriptions, diagnose common ailments—including digestive issues, joint pain, skin diseases, fever and the common cold—and refer patients to doctors at local hospitals.\n【依据】陈述里的 doctors、diagnoses、common、diseases 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】They are home to over six million people, who face repeated displacement from flooding and erosion—which may be getting worse because of climate change—and a range of health risks, including poor nutrition, malaria(疟疾) and other water-borne diseases.\n【依据】陈述里的 because、floods、erosions 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】It can get expensive to travel to the doctor, so usually the women living on the islands describe their illness to their husbands.\n【依据】陈述里的 women、islanders、usually、husbands、get 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "For example, a common complaint mothers come in with is that their children refuse to eat their meals.",
+       "why": "陈述里的 children、eat、meals 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Yet for many island inhabitants—some of Bangladesh's poorest—paying for health care is a costly ordeal.",
+       "why": "陈述里的 bangladesh、islands 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The organizations are linked to local pharmacies and offer discounts to the patients and make sure to prescribe the most cost-effective brands, but still many residents can't afford even that.",
+       "why": "陈述里的 many、can't、afford、prescribed、even、discounts 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It is funded by a nonprofit organization founded by Bangladeshi entrepreneurs, finance and technology professionals.",
+       "why": "陈述里的 financially、nonprofit、organizations 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The reason, explains one resident, might be the simple gesture of treating the island inhabitants with respect.",
+       "why": "陈述里的 islanders、treat、respect 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Early marriage and young motherhood, which are prevalent in these parts of Bangladesh, also contribute to the early onset of health problems.",
+       "why": "陈述里的 health、problems、early、married、early 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Now, a new virtual medical service called Teledaktar (TD) is trying to make health care more easily accessible.",
+       "why": "陈述里的 make、services、medical 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But they can write prescriptions, diagnose common ailments—including digestive issues, joint pain, skin diseases, fever and the common cold—and refer patients to doctors at local hospitals.",
+       "why": "陈述里的 doctors、diagnoses、common、diseases 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "They are home to over six million people, who face repeated displacement from flooding and erosion—which may be getting worse because of climate change—and a range of health risks, including poor nutrition, malaria(疟疾) and other water-borne diseases.",
+       "why": "陈述里的 because、floods、erosions 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It can get expensive to travel to the doctor, so usually the women living on the islands describe their illness to their husbands.",
+       "why": "陈述里的 women、islanders、usually、husbands、get 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Selective colleges and universities in the U.S. are under fire for being too elite and too expensive, and for not training graduates for the world of work. Such charges ignore the fact that these institutions continue to prepare students for success in their work, for thoughtful engagement in civic life, for lifelong learning, and for understanding the world and those with whom they live. These colleges and universities must be doing something right. Applications are at record highs, and their financial aid programs make them more accessible than ever. This model of education has long played a central role in creating opportunity, driving economic growth, and spurring innovation. Yet, there is growing skepticism about the value of this model. The recent tax reform bill is a wake-up call that our strongest colleges and universities are under assault by some in government. The initial proposals would have made education unaffordable for many by taxing tuition waivers for graduate students and ending deductions for student loan interest. Thankfully, these provisions were ultimately stripped from the bill, but lawmakers let stand a new tax on the investment income of some colleges and universities. While these attacks are motivated by misguided ideas, we need to do a better job of explaining why these claims are false and why what we do is valuable. We cannot take for granted that any of this is obvious. It is often said that elite colleges and universities do not train students, particularly those who study the liberal arts, for the workforce. But this can be refuted by scholarly research. The data are clear: a liberal arts education is great career preparation, both for excellent lifetime earnings and for satisfaction with the work. This education develops the skills of critical thinking, rigorous analysis of data and facts, communication with the written and spoken word, understanding of cultural differences and issues, and the ability to keep learning. In fact, liberal arts graduates do extremely well in every imaginable field. Access to an education at selective colleges and universities is now more available than ever to low- and middle-income families. We have built endowments from donations by alumni(校友) and parents who understand and appreciate our mission to provide access and opportunity, and a significant portion of the returns from these endowments is used to fund financial aid. Ironically, the new tax on endowments drains financial aid funds from the very schools most able to offer opportunity to those who have earned a spot but cannot otherwise afford this education. Beyond the virtue of access to those who have earned a place at these schools, the diversity of economic backgrounds enhances the education and experience of all of our students.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What fact does the author emphasize concerning selective colleges and universities?",
+       "options": [
+        "They have been ignoring the training of graduates for the world of work.",
+        "They have been doing well in ensuring their students a successful future.",
+        "They have been constantly attacked for being too elite and too expensive.",
+        "They have been actively engaged in civic life beyond the school campus."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Access to an education at selective colleges and universities is now more available than ever to low- and middle-income families.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 doing、well、ensuring、students 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Access to an education at selective colleges and universities is now more available than ever to low- and middle-income families.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 doing、well、ensuring、students 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「ignoring」全文未出现。",
+         "C": "因果倒置：「constantly、attacked」全文未出现。",
+         "D": "因果倒置：「actively、engaged、school」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author say in arguing for the model of education in the U.S.?",
+       "options": [
+        "It has contributed substantially to the nation's overall development.",
+        "It has succeeded in maintaining sustainable financial aid programs.",
+        "It has given priority to innovative programs for graduate studies.",
+        "It has played a central role in attracting international applicants."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】This model of education has long played a central role in creating opportunity, driving economic growth, and spurring innovation.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 contributed、substantially、nation's、overall 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This model of education has long played a central role in creating opportunity, driving economic growth, and spurring innovation.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 contributed、substantially、nation's、overall 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「succeeded、maintaining、sustainable」全文未出现。",
+         "C": "无中生有：「given、priority、studies」全文未出现；把原文的「innovative」换成了「given、priority、programs」，主语或对象被调包。",
+         "D": "无中生有：「attracting、international、applicants」全文未出现；把原文的「played、central、role」换成了「attracting、international、applicants」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do we learn about the initial proposals concerning the recent tax reform bill?",
+       "options": [
+        "They would have stripped many students of life's chances.",
+        "They would have deducted graduate student loan interest.",
+        "They would have added to many students' financial burden.",
+        "They would have increased the number of tuition waivers."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The initial proposals would have made education unaffordable for many by taxing tuition waivers for graduate students and ending deductions for student loan interest.\n【依据】正确项的核心词 many、students' 与定位句对得上；其余 added、financial、burden 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The initial proposals would have made education unaffordable for many by taxing tuition waivers for graduate students and ending deductions for student loan interest.",
+        "why": "正确项的核心词 many、students' 与定位句对得上；其余 added、financial、burden 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「life's、chances」全文未出现；把原文的「many、students」换成了「stripped、life's、chances」，主语或对象被调包。",
+         "B": "无中生有：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "无中生有：「increased、number」全文未出现；把原文的「tuition、waivers」换成了「increased、number」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What do the data show about elite colleges and universities?",
+       "options": [
+        "Their graduates lack the rigor required for doing statistical analysis.",
+        "Their students prove to be inadequately prepared for their future careers.",
+        "Their focus on research is conducive to developing students' critical thinking.",
+        "Their liberal arts education enables graduates to excel in whatever field they are in."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】It is often said that elite colleges and universities do not train students, particularly those who study the liberal arts, for the workforce.\n【依据】正确项的核心词 liberal、arts 与定位句对得上；其余 education、enables、graduates、excel 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It is often said that elite colleges and universities do not train students, particularly those who study the liberal arts, for the workforce.",
+        "why": "正确项的核心词 liberal、arts 与定位句对得上；其余 education、enables、graduates、excel 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「lack、rigor、required」全文未出现。",
+         "B": "无中生有：「prove、inadequately、prepared」全文未出现；把原文的「students」换成了「prove、inadequately、prepared」，主语或对象被调包。",
+         "C": "偷换主体：「focus、conducive、developing」全文未出现；把原文的「students'」换成了「focus、research、conducive」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What is an advantage of providing financial aid for students?",
+       "options": [
+        "Every student can choose the institution they wish to attend.",
+        "All students can benefit from a diversified student population.",
+        "All students will be able to earn a place on university campus.",
+        "Less privileged students will be more competitive at elite schools."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】We have built endowments from donations by alumni(校友) and parents who understand and appreciate our mission to provide access and opportunity, and a significant portion of the returns from these endowments is used to fund financial aid.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 students、benefit、diversified、student 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We have built endowments from donations by alumni(校友) and parents who understand and appreciate our mission to provide access and opportunity, and a significant portion of the returns from these endowments is used to fund financial aid.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 students、benefit、diversified、student 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「choose、institution、wish」全文未出现。",
+         "C": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「earn、university、campus」全文未出现。",
+         "D": "因果倒置：「less、privileged、competitive」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 449 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "When a group of Australians was asked why they believed climate change was not happening, about 36% said it was \"common sense\", according to a report published last year by the Commonwealth Scientific and Industrial Research Organization. This was the most popular reason for their opinion, with only 11% saying their belief that climate change was not happening was based on scientific research. But what do we mean by an appeal to common sense? Presumably it's an appeal to rationality of some sort that forms the basis of more complex reasoning. The appeal to common sense, however, is usually nothing more than an appeal to thinking that just feels right, but what feels right to one person may not feel right to another. Whether it feels right is usually a reflection of the world view and ideologies we have internalised, and that frames how we interact with new ideas. When new ideas are in accord with what we already believe, they are more readily accepted. When they are not, they, and the arguments that lead to them, are more readily rejected. We often mistake this automatic compatibility testing of new ideas with existing beliefs as an application of common sense, but, in reality, it is more about judging than thinking. As Nobelist Daniel Kahneman notes in Thinking, Fast and Slow, when we arrive at conclusions in this way, the outcomes also feel true, regardless of whether they are. We are not psychologically well equipped to judge our own thinking. We are also highly susceptible to a range of cognitive biases such as giving preference to the first things that come to mind when making decisions or giving weight to evidence. One way we can check our internal biases and inconsistencies is through the social verification of knowledge, in which we test our ideas in a rigorous and systematic way to see if they make sense not just to us, but to other people. The outstanding example of this socially shared cognition is science. That does not mean that individuals are not capable of excellent thinking, nor does it mean no individual is rational. But the extent to which individuals can do this on their own is a function of how well integrated they are with communities of systematic inquiry in the first place. You can't learn to think well by yourself. In matters of science at least, those who value their common sense over methodological, collaborative investigation imagine themselves to be more free in their thinking, unbound by involvement with the group, but in reality they are tightly bound by their capabilities and perspectives. We are smarter together than we are individually, and perhaps that's just common sense.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author intend to show by citing the findings from the report published last year?",
+       "options": [
+        "People seldom appeal to rationality in their thinking.",
+        "It is often the case that truth lies in the hands of a few.",
+        "Common sense and science are the two sides of a coin.",
+        "Few people know if climate change is really happening."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】When a group of Australians was asked why they believed climate change was not happening, about 36% said it was \"common sense\", according to a report published last year by the Commonwealth Scientific and Industrial Research Organization.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 people、seldom、appeal、rationality 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When a group of Australians was asked why they believed climate change was not happening, about 36% said it was \"common sense\", according to a report published last year by the Commonwealth Scientific and Industrial Research Organization.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 people、seldom、appeal、rationality 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「case、truth、lies」全文未出现。",
+         "C": "无中生有：「two、sides、coin」全文未出现；把原文的「common、sense、science」换成了「two、sides、coin」，主语或对象被调包。",
+         "D": "无中生有：「few、know、really」全文未出现；把原文的「climate、change、happening」换成了「few、people、know」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is the appeal to common sense according to the author?",
+       "options": [
+        "It is the basis for the internalisation of individuals' ideologies.",
+        "It is a series of conceptions formulated from complex reasoning.",
+        "It is collective wisdom that helps people interact with new ideas.",
+        "It is something subjective based on what one perceives to be right."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The appeal to common sense, however, is usually nothing more than an appeal to thinking that just feels right, but what feels right to one person may not feel right to another.\n【依据】正确项的核心词 what、right 与定位句对得上；其余 something、subjective、based、perceives 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The appeal to common sense, however, is usually nothing more than an appeal to thinking that just feels right, but what feels right to one person may not feel right to another.",
+        "why": "正确项的核心词 what、right 与定位句对得上；其余 something、subjective、based、perceives 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「internalisation、individuals'」全文未出现。",
+         "B": "无中生有：「series、conceptions、formulated」全文未出现。",
+         "C": "因果倒置：「collective、wisdom、helps」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does Daniel Kahneman think is the problem of testing new ideas with existing beliefs?",
+       "options": [
+        "It may lead to incorrect judgment.",
+        "It makes no use of common sense.",
+        "It fails to correct mistakes through serious reasoning.",
+        "It can produce psychologically unacceptable outcomes."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】We often mistake this automatic compatibility testing of new ideas with existing beliefs as an application of common sense, but, in reality, it is more about judging than thinking.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 lead、incorrect、judgment 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We often mistake this automatic compatibility testing of new ideas with existing beliefs as an application of common sense, but, in reality, it is more about judging than thinking.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 lead、incorrect、judgment 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「makes、use」全文未出现；把原文的「common、sense」换成了「makes、use」，主语或对象被调包。",
+         "C": "无中生有：「fails、correct、serious」全文未出现；把原文的「mistakes」换成了「fails、correct、through」，主语或对象被调包。",
+         "D": "因果倒置：「produce、unacceptable」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What can we do to be less susceptible to cognitive biases?",
+       "options": [
+        "Give equal weight to evidence of both sides in a conflict.",
+        "Provide convincing examples in developing an argument.",
+        "Establish socially shared cognition via scientific methods.",
+        "Avoid inconsistencies when addressing controversial issues."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】We are also highly susceptible to a range of cognitive biases such as giving preference to the first things that come to mind when making decisions or giving weight to evidence.\n【依据】正确项的核心词 cognition 与定位句对得上；其余 establish、socially、shared、via 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We are also highly susceptible to a range of cognitive biases such as giving preference to the first things that come to mind when making decisions or giving weight to evidence.",
+        "why": "正确项的核心词 cognition 与定位句对得上；其余 establish、socially、shared、via 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「give、equal、both」全文未出现；把原文的「weight、evidence」换成了「give、equal、both」，主语或对象被调包。",
+         "B": "无中生有：「provide、convincing、examples」全文未出现。",
+         "D": "无中生有：「avoid、addressing、controversial」全文未出现；把原文的「when」换成了「avoid、inconsistencies、addressing」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What message does the author try to convey at the end of the passage?",
+       "options": [
+        "Multiple perspectives stimulate people's interest in exploring the unknown.",
+        "Individuals can enhance their overall capabilities by interacting with others.",
+        "Individuals should think freely to break from the restrictions of common sense.",
+        "Collaborative efforts can overcome individuals limitations in scientific inquiry."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The appeal to common sense, however, is usually nothing more than an appeal to thinking that just feels right, but what feels right to one person may not feel right to another.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 collaborative、efforts、overcome、individuals 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The appeal to common sense, however, is usually nothing more than an appeal to thinking that just feels right, but what feels right to one person may not feel right to another.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 collaborative、efforts、overcome、individuals 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「multiple、stimulate、people's」全文未出现。",
+         "B": "无中生有：「enhance、overall、interacting」全文未出现。",
+         "C": "无中生有：「freely、break、restrictions」全文未出现；把原文的「think、common、sense」换成了「individuals、freely、break」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 446 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "卢沟桥位于天安门广场西南公里处，横跨永定河，是北京现存最古老的多拱石桥。卢沟桥最初建成于年，年重建，由根柱子支撑。每根柱子上都有一头石狮。这些石狮的头、背、腹部或爪子上都藏着更多的狮子。这些石狮生动逼真、千姿百态，是卢沟桥石刻艺术的精品。桥上的石狮不计其数，因而北京地区流传着\"卢沟桥上的石狮子数不清\"的说法。卢沟桥不仅以其美学特征闻名于世，还被公认为石桥建筑史上的一座丰碑。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

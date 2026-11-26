@@ -1,0 +1,1172 @@
+{
+ "id": "cet6-2022-12-1",
+ "levelId": "cet6",
+ "title": "六级 2022 年 12 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2022年12月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2022-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2022-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 你的学位论文写得怎么样了？我正在校对初稿"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 哦，我连写都还没开始写呢"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 你是说你连动笔都还没动？终稿还有五个月就要交了"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 我当然已经开始了"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 也许问题出在你做研究的方式上"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 这些我都试过了"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 嗯，我建议你换个新选题"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 回想起来，我真希望当时听了他的话"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 如果你坚持用现在的选题"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 是《国内南方民间传说中对女性形象的刻画》"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 那范围确实挺窄的"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What does the woman say about her dissertation?",
+       "options": [
+        "She hasn't started writing it.",
+        "She hasn't decided on a topic.",
+        "She is proofreading the first draft.",
+        "She is working on the references."
+       ],
+       "optionsZh": [
+        "她还没有开始写。",
+        "她还没有确定题目。",
+        "她正在校对初稿。",
+        "她正在整理参考文献。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She hasn't started writing it.（她还没有开始写。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the man say about his professor?",
+       "options": [
+        "He lent many books to the man for reference.",
+        "He offered the man advice on resource hunting",
+        "He published a lot in a number of reputable journals.",
+        "He told the man to be selective when using e-resources."
+       ],
+       "optionsZh": [
+        "他借给男士许多书供参考。",
+        "他就资源搜寻向男士提供了建议。",
+        "他在多个知名期刊上发表了大量文章。",
+        "他告诉男士在使用电子资源时要有选择性。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He offered the man advice on resource hunting（他就资源搜寻向男士提供了建议。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the woman say about her professor?",
+       "options": [
+        "He didn't think her dissertation topic viable.",
+        "He wasn't interested in her dissertation topic.",
+        "He didn't want her to rush through her dissertation.",
+        "He wasn't specific about the length of her dissertation."
+       ],
+       "optionsZh": [
+        "他认为她的论文题目不可行。",
+        "他对她的论文题目不感兴趣。",
+        "他不希望她仓促完成论文。",
+        "他没有具体说明她的论文篇幅。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He didn't think her dissertation topic viable.（他认为她的论文题目不可行。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What do we learn the woman will do to complete her dissertation?",
+       "options": [
+        "Change her research methodology.",
+        "Narrow down her dissertation topic.",
+        "Consult her professor more.",
+        "Follow the man's advice."
+       ],
+       "optionsZh": [
+        "改变她的研究方法。",
+        "缩小她的论文题目范围。",
+        "多咨询她的教授。",
+        "听从男士的建议。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Follow the man's advice.（听从男士的建议。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the woman say about the man in her introduction?",
+       "options": [
+        "He has translated 12 books.",
+        "He is a well-known nutritionist.",
+        "His books sell well worldwide.",
+        "His latest book sold a million copies."
+       ],
+       "optionsZh": [
+        "他已经翻译了12本书。",
+        "他是一位知名的营养学家。",
+        "他的书在全球销量很好。",
+        "他的最新著作售出了一百万册。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：His books sell well worldwide.（他的书在全球销量很好。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What has motivated the man to write his books?",
+       "options": [
+        "The desire of Americans to try exotic cuisines.",
+        "The demand for information about food safety.",
+        "The fact that over half of Americans are overweight.",
+        "The fact that science books are difficult to read."
+       ],
+       "optionsZh": [
+        "美国人尝试异国风味美食的渴望。",
+        "对食品安全信息的需求。",
+        "超过半数美国人超重的事实。",
+        "科学书籍难以阅读的事实。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The fact that over half of Americans are overweight.（超过半数美国人超重的事实。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Who does the man say his last book was mainly written for?",
+       "options": [
+        "The general public.",
+        "Those who are overweight.",
+        "Those who want to lose weight.",
+        "The medical community."
+       ],
+       "optionsZh": [
+        "普通大众。",
+        "超重人群。",
+        "想要减肥的人。",
+        "医学界。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The medical community.（医学界。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What does the man recommend people do?",
+       "options": [
+        "Switch to a vegetarian diet.",
+        "Follow a personalized diet.",
+        "Adhere to doctors' advice.",
+        "Cut carbohydrate intake."
+       ],
+       "optionsZh": [
+        "改吃素食。",
+        "遵循个性化饮食方案。",
+        "听从医生的建议。",
+        "减少碳水化合物摄入。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Follow a personalized diet.（遵循个性化饮食方案。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What did researchers discover about rats placed briefly in a stressful situation?",
+       "options": [
+        "The rate of their growth increased dramatically.",
+        "The growth of their new brain cells doubled.",
+        "They began to show signs of depression.",
+        "They began to get irritated and restless."
+       ],
+       "optionsZh": [
+        "它们的生长速度显著加快。",
+        "它们新生脑细胞的增长翻了一番。",
+        "它们开始表现出抑郁的迹象。",
+        "它们开始变得烦躁不安。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The growth of their new brain cells doubled.（它们新生脑细胞的增长翻了一番。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "Why do people tend to have clear memories of dangerous situations they have encountered?",
+       "options": [
+        "To avoid them in the future.",
+        "To warn others against them.",
+        "To make good sense of them.",
+        "To reflect on their causes."
+       ],
+       "optionsZh": [
+        "为了在将来避免这些情境。",
+        "为了警告他人不要遭遇这些情境。",
+        "为了合理理解这些情境。",
+        "为了反思这些情境的起因。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：To avoid them in the future.（为了在将来避免这些情境。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What do scientists believe chronic stress can do?",
+       "options": [
+        "Produce a surprising healing effect.",
+        "Weaken one's immunity in the long run.",
+        "Make people more susceptible to illness.",
+        "Provide protection against mental illnesses."
+       ],
+       "optionsZh": [
+        "产生令人惊讶的疗愈效果。",
+        "从长远来看削弱人的免疫力。",
+        "使人更容易生病。",
+        "提供针对精神疾病的保护。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Make people more susceptible to illness.（使人更容易生病。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the speaker say is a common problem with managers?",
+       "options": [
+        "Placing their own interests over their staff's.",
+        "Being overwhelmed by their daily routines.",
+        "Lacking the ability to relate to their staff.",
+        "Spending too much time handling email."
+       ],
+       "optionsZh": [
+        "将自己的利益置于员工之上。",
+        "被日常事务压得喘不过气来。",
+        "缺乏与员工建立联系的能力。",
+        "花费太多时间处理电子邮件。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Spending too much time handling email.（花费太多时间处理电子邮件。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What may happen when managers ignore minor problems?",
+       "options": [
+        "Their leadership may be challenged.",
+        "Their companies may go bankrupt.",
+        "Unexpected events may occur.",
+        "Major problems may result."
+       ],
+       "optionsZh": [
+        "他们的领导力可能会受到挑战。",
+        "他们的公司可能会破产。",
+        "可能会出现意外事件。",
+        "可能会导致重大问题。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Major problems may result.（可能会导致重大问题。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What are leaders expected to do in pursuing their strategic goals?",
+       "options": [
+        "Keep an eye on their employees.",
+        "Motivate and inspire their team.",
+        "Sacrifice some of the immediate goals.",
+        "Have greater ambition in overall planning."
+       ],
+       "optionsZh": [
+        "密切关注他们的员工。",
+        "激励和鼓舞他们的团队。",
+        "牺牲一些眼前目标。",
+        "在整体规划中具有更大的雄心。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Motivate and inspire their team.（激励和鼓舞他们的团队。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "How can a manager best avoid being distracted by email?",
+       "options": [
+        "Cultivate self-control.",
+        "Filter their email boxes.",
+        "Respond only after work.",
+        "Check only when necessary."
+       ],
+       "optionsZh": [
+        "培养自我控制能力。",
+        "过滤他们的电子邮件收件箱。",
+        "仅在下班后回复。",
+        "仅在必要时查看。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Cultivate self-control.（培养自我控制能力。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say a team of marketing professors has studied?",
+       "options": [
+        "The key to increasing healthy food supply.",
+        "The best way to improve marketing research.",
+        "The impact of advertisements on consumption.",
+        "The importance of the appearance of food."
+       ],
+       "optionsZh": [
+        "增加健康食品供应的关键。",
+        "改进营销研究的最佳方法。",
+        "广告对消费的影响。",
+        "食物外观的重要性。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The importance of the appearance of food.（食物外观的重要性。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "How have medical professionals tried to fight obesity?",
+       "options": [
+        "By focusing on the nutrients in different foods.",
+        "By emphasizing the diversity of food.",
+        "By stressing pleasing aesthetics of food.",
+        "By winning the support of marketing professors."
+       ],
+       "optionsZh": [
+        "通过关注不同食物中的营养成分。",
+        "通过强调食物的多样性。",
+        "通过强调食物赏心悦目的美感。",
+        "通过赢得营销学教授的支持。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：By focusing on the nutrients in different foods.（通过关注不同食物中的营养成分。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What can other companies learn from the example of the carrot promotion campaign?",
+       "options": [
+        "They can attract customers with the healthy qualities of their products.",
+        "They can boost sales of healthy foods by making them visually appealing.",
+        "They can turn to marketing professors for advice.",
+        "They can rely on advertising for sales promotion."
+       ],
+       "optionsZh": [
+        "它们可以用产品的健康品质吸引顾客。",
+        "它们可以通过使健康食品在视觉上更吸引人来提升销量。",
+        "它们可以向营销学教授寻求建议。",
+        "它们可以依靠广告进行促销。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They can boost sales of healthy foods by making them visually appealing.（它们可以通过使健康食品在视觉上更吸引人来提升销量。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about the cleaning products industry in recent years?",
+       "options": [
+        "It has witnessed a spectacular surge in demand.",
+        "It has met much criticism from environmentalists.",
+        "It has seen more small businesses offering environment-friendly products.",
+        "It has experienced increasingly fierce competition among global companies."
+       ],
+       "optionsZh": [
+        "该行业需求出现了惊人的激增。",
+        "该行业受到了环保主义者的诸多批评。",
+        "该行业出现了更多提供环保产品的小企业。",
+        "该行业经历了全球公司之间日益激烈的竞争。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It has seen more small businesses offering environment-friendly products.（该行业出现了更多提供环保产品的小企业。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "Why are newly developed cleaning products selling well?",
+       "options": [
+        "Consumers now know much more about technology.",
+        "Their mass production has sharply reduced the price",
+        "Consumers tend to favor all that is novel.",
+        "Their quality has been greatly improved."
+       ],
+       "optionsZh": [
+        "消费者现在对技术了解得多得多。",
+        "它们的大规模生产大幅降低了价格。",
+        "消费者倾向于青睐一切新颖的东西。",
+        "它们的质量得到了极大改善。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Consumers now know much more about technology.（消费者现在对技术了解得多得多。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What are some customers doing to help promote non-traditional cleaning products?",
+       "options": [
+        "Purchasing only this kind of products for home cleaning.",
+        "Writing positive comments about them on social media.",
+        "Demonstrating on TV how effective these products are.",
+        "Telling one another about their incomparable virtues."
+       ],
+       "optionsZh": [
+        "只购买这类产品用于家庭清洁。",
+        "在社交媒体上撰写关于它们的正面评论。",
+        "在电视上演示这些产品有多有效。",
+        "相互告知它们无可比拟的优点。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Writing positive comments about them on social media.（在社交媒体上撰写关于它们的正面评论。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What problem might be caused by the growing piles of coins in fountains?",
+       "options": [
+        "Increasing cleaners' workload.",
+        "Blocking the fountains' works.",
+        "Breaking a time-honored ritual.",
+        "Polluting the fountains' water."
+       ],
+       "optionsZh": [
+        "增加清洁工的工作量。",
+        "堵塞喷泉的运作装置。",
+        "破坏一项由来已久的仪式。",
+        "污染喷泉的水。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Blocking the fountains' works.（堵塞喷泉的运作装置。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What does the speaker say about the coins collected from New York City's park fountains?",
+       "options": [
+        "They are occasionally retrieved by curious tourists.",
+        "They are regularly donated to charity organizations.",
+        "They are mostly used for the fountains' maintenance.",
+        "They are usually used as wages for fountain cleaners."
+       ],
+       "optionsZh": [
+        "它们偶尔会被好奇的游客取走。",
+        "它们定期捐赠给慈善组织。",
+        "它们大多用于喷泉的维护。",
+        "它们通常用作喷泉清洁工的工资。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They are mostly used for the fountains' maintenance.（它们大多用于喷泉的维护。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What do we learn about the money collected from Rome's Trevi Fountain?",
+       "options": [
+        "It is invested in a series of businesses.",
+        "It is used exclusively for its maintenance.",
+        "It is used to run a supermarket for the needy.",
+        "It is estimated to be about $40,000 a month."
+       ],
+       "optionsZh": [
+        "它被投资于一系列生意。",
+        "它专门用于该喷泉的维护。",
+        "它被用来经营一家为贫困者服务的超市。",
+        "它估计每月约为40000美元。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It is used to run a supermarket for the needy.（它被用来经营一家为贫困者服务的超市。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the speaker say about Thomas Morgan?",
+       "options": [
+        "He was arrested for stealing money from four fountain cleaners.",
+        "He was sentenced to 34 years' imprisonment.",
+        "He collected rare coins from around the world.",
+        "He stole a lot of money from a fountain with a magnetic stick."
+       ],
+       "optionsZh": [
+        "他因从四名喷泉清洁工那里偷钱而被逮捕。",
+        "他被判处34年监禁。",
+        "他收集来自世界各地的稀有硬币。",
+        "他用磁棒从喷泉中偷了很多钱。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He stole a lot of money from a fountain with a magnetic stick.（他用磁棒从喷泉中偷了很多钱。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence“With the application of information technology in education, college students can now learn in more diverse and efficient ways.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "During the summer, when I was a visiting poet at a residency out of state, an angry, confused woman wandered into my class and said: \"I have three guns and I want to use them.\" We all {{1}} . It wasn't clear if she had the guns, but we each know that, when we teach in America, we are already in danger. I was dizzy with fear. The woman, who later turned out to be a schizophrenic(精神分裂症患者) without {{2}} to her medications, was, by some force, wrestled out and {{3}} away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges. My class went on; we talked about poems. But despite the fact that the rest of our days on campus passed {{4}} , I was rattled. I couldn't shake the sense that in this country we always live at {{5}} risk. A few months later, crisis {{6}} again. While my husband was locking his bike to drop off our 3-year-old daughter for her preschool-aged day camp, a different woman approached. Swiftly and for no {{7}} reason, she bent down, picked up our daughter, and began to carry her down the street. It was so fast and confusing that my daughter {{8}} cried. My husband, in a burst of speed, chased the woman and reclaimed our daughter. The woman, clearly confused, retreated into the public library. A {{9}} of homeless people who generally know the other homeless in the area said they did not recognize the woman. The woman was so clearly unwell that when she was taken into custody she was incoherent. Heartbreakingly, she called our daughter by the name of someone else's child. Each part of the episode was as haunting as it was {{10}} .",
+     "options": [
+      "access",
+      "apparent",
+      "barely",
+      "dedication",
+      "escorted",
+      "froze",
+      "incredible",
+      "indignant",
+      "network",
+      "overriding",
+      "peacefully",
+      "presumably",
+      "stifled",
+      "struck",
+      "terrifying"
+     ],
+     "answers": [
+      5,
+      0,
+      4,
+      10,
+      6,
+      13,
+      1,
+      2,
+      8,
+      14
+     ],
+     "blankExplains": [
+      "【定位】During the summer, when I was a visiting poet at a residency out of state, an angry, confused woman wandered into my class and said: \"I have three guns and I want to use them.\" We all ____ .\n【依据】答案是 froze：填回后与所在句 during、summer、when、visiting、poet、residency 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The woman, who later turned out to be a schizophrenic(精神分裂症患者) without ____ to her medications, was, by some force, wrestled out and  … away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges.\n【依据】答案是 access：填回后与所在句 woman、who、later、turned、out、schizophrenic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The woman, who later turned out to be a schizophrenic(精神分裂症患者) without  … to her medications, was, by some force, wrestled out and ____ away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges.\n【依据】答案是 escorted：填回后与所在句 woman、who、later、turned、out、schizophrenic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But despite the fact that the rest of our days on campus passed ____ , I was rattled.\n【依据】答案是 peacefully：填回后与所在句 despite、fact、rest、days、campus、passed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】I couldn't shake the sense that in this country we always live at ____ risk.\n【依据】答案是 incredible：填回后与所在句 couldn't、shake、sense、country、always、live 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】A few months later, crisis ____ again.\n【依据】答案是 struck：填回后与所在句 few、months、later、crisis、again 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Swiftly and for no ____ reason, she bent down, picked up our daughter, and began to carry her down the street.\n【依据】答案是 apparent：填回后与所在句 swiftly、reason、bent、down、picked、daughter 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It was so fast and confusing that my daughter ____ cried.\n【依据】答案是 barely：填回后与所在句 fast、confusing、daughter、cried 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】A ____ of homeless people who generally know the other homeless in the area said they did not recognize the woman.\n【依据】答案是 network：填回后与所在句 homeless、people、who、generally、know、other 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Each part of the episode was as haunting as it was ____ .\n【依据】答案是 terrifying：填回后与所在句 each、part、episode、haunting 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "During the summer, when I was a visiting poet at a residency out of state, an angry, confused woman wandered into my class and said: \"I have three guns and I want to use them.\" We all ____ .",
+       "why": "答案是 froze：填回后与所在句 during、summer、when、visiting、poet、residency 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 froze 这个词性/语义，而不是 access）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 froze 这个词性/语义，而不是 apparent）。"
+       }
+      },
+      {
+       "locate": "The woman, who later turned out to be a schizophrenic(精神分裂症患者) without ____ to her medications, was, by some force, wrestled out and  … away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges.",
+       "why": "答案是 access：填回后与所在句 woman、who、later、turned、out、schizophrenic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 access 这个词性/语义，而不是 apparent）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 access 这个词性/语义，而不是 barely）。"
+       }
+      },
+      {
+       "locate": "The woman, who later turned out to be a schizophrenic(精神分裂症患者) without  … to her medications, was, by some force, wrestled out and ____ away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges.",
+       "why": "答案是 escorted：填回后与所在句 woman、who、later、turned、out、schizophrenic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 escorted 这个词性/语义，而不是 access）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 escorted 这个词性/语义，而不是 apparent）。"
+       }
+      },
+      {
+       "locate": "But despite the fact that the rest of our days on campus passed ____ , I was rattled.",
+       "why": "答案是 peacefully：填回后与所在句 despite、fact、rest、days、campus、passed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 peacefully 这个词性/语义，而不是 presumably）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 peacefully 这个词性/语义，而不是 access）。"
+       }
+      },
+      {
+       "locate": "I couldn't shake the sense that in this country we always live at ____ risk.",
+       "why": "答案是 incredible：填回后与所在句 couldn't、shake、sense、country、always、live 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 incredible 这个词性/语义，而不是 indignant）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 incredible 这个词性/语义，而不是 access）。"
+       }
+      },
+      {
+       "locate": "A few months later, crisis ____ again.",
+       "why": "答案是 struck：填回后与所在句 few、months、later、crisis、again 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 struck 这个词性/语义，而不是 stifled）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 struck 这个词性/语义，而不是 access）。"
+       }
+      },
+      {
+       "locate": "Swiftly and for no ____ reason, she bent down, picked up our daughter, and began to carry her down the street.",
+       "why": "答案是 apparent：填回后与所在句 swiftly、reason、bent、down、picked、daughter 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 apparent 这个词性/语义，而不是 access）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 apparent 这个词性/语义，而不是 barely）。"
+       }
+      },
+      {
+       "locate": "It was so fast and confusing that my daughter ____ cried.",
+       "why": "答案是 barely：填回后与所在句 fast、confusing、daughter、cried 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 barely 这个词性/语义，而不是 access）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 barely 这个词性/语义，而不是 apparent）。"
+       }
+      },
+      {
+       "locate": "A ____ of homeless people who generally know the other homeless in the area said they did not recognize the woman.",
+       "why": "答案是 network：填回后与所在句 homeless、people、who、generally、know、other 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 network 这个词性/语义，而不是 access）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 network 这个词性/语义，而不是 apparent）。"
+       }
+      },
+      {
+       "locate": "Each part of the episode was as haunting as it was ____ .",
+       "why": "答案是 terrifying：填回后与所在句 each、part、episode、haunting 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 terrifying 这个词性/语义，而不是 access）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 terrifying 这个词性/语义，而不是 apparent）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Michael Wardian pushed forward into the penetrating arctic(北极的) wind, fighting the urge to speed up. Too much effort and he'd begin to sweat, which, he was told, would only increase the risk of hypothermia(体温过低)."
+      },
+      {
+       "id": "B",
+       "text": "At the 2014 North Pole Marathon, the temperature dipped to minus-22 degrees F, with a wind chill that made it feel even colder. Along the route, armed guards wandered the large sheets of floating ice to minimize the risk of polar bear attacks."
+      },
+      {
+       "id": "C",
+       "text": "\"I like to do stuff that scares me,\" Wardian said. With ice frozen to his beard, Wardian crossed the finish line that April afternoon in a winning time of 4 hours 7 minutes and 40 seconds, almost two hours slower than his personal best over 26.2 miles. The race for Wardian, however, was less about the result than overcoming his aversion to the cold."
+      },
+      {
+       "id": "D",
+       "text": "In a few days, Wardian will once again compete in an unfamiliar territory and below-freezing temperatures. He will line up Monday in Antarctica(南极) for the first leg of the World Marathon Challenge—joining 32 other adventure seekers on an unusual journey where participants travel through different time zones and climates to run seven marathons on seven continents in seven days."
+      },
+      {
+       "id": "E",
+       "text": "An elite ultra-runner, Wardian has his sights on breaking the event's record average marathon time of 3:32:25 set last January by U.S. Marine Corps captain Daniel Cartica. Wardian, a 42-year-old Arlington resident, is a record-breaking racer, known in the ultra-running community for seeking tough courses and setting world records. Last year, he ran 1,254.65 miles in 47 races. The World Marathon Challenge, like most of Wardian's running goals, will be about pushing his limits. \"I love diverse and unique challenges,\" he said. \"I'm definitely interested in seeing what I can handle and what my body can accept. That drives me.\""
+      },
+      {
+       "id": "F",
+       "text": "Something about the way Richard Donovan carried himself appealed to Wardian. Perhaps it was the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director. The two hit it off, and soon Wardian was participating in Donovan's events. It was at the North Pole Marathon, a race that Donovan organizes, that Wardian first heard about the Irishman's plan for the World Marathon Challenge—a challenge that Donovan himself completed in 2009 and 2012. \"I knew that many people had a goal of running seven marathons on seven continents during any time period,\" Donovan, 50, said. \"I felt the natural extension to this idea would be to try to achieve it within a seven-day period.\""
+      },
+      {
+       "id": "G",
+       "text": "Wardian started saving for the trip in 2014, connecting with sponsors and getting approval from his wife, Jennifer, before committing. Registration for the event costs 36,000 euros, which covers international charter flights to each of the seven marathon locations: Union Glacier (Antarctica), Punta Arenas, Chile (South America), Miami (North America), Madrid (Europe), Marrakesh, Morocco (Africa), Dubai (Asia) and Sydney (Australia). The challenge is a test of both physical strength and mental fitness. Sleeping on a crammed plane, adjusting to different time zones and finding food to eat (Wardian is a vegetarian) would make it an exhausting trip over a month, let alone a week. \"The key to a race like this is getting comfortable being uncomfortable,\" said Becca Pizzi, last year's women's champion. \"The highs of the race are incredibly high, and the lows incredibly low.\""
+      },
+      {
+       "id": "H",
+       "text": "Since turning it into an organized event in 2015, Donovan has attracted a variety of runners. This year's challenge will feature a far more elite field, which includes Ryan Hall, America's fastest marathon runner. Despite his proven track record, Hall said he has no time goals and that he still suffers from the same fatigue issues that forced him to leave the professional ranks in 2015. Hall plans to run with his friend, Pastor Matthew Barnett of The Dream Center in Los Angeles—one of the six American men who will be competing. \"I don't expect to run a step with Mike, but I will be excited to see how he does,\" said the 34-year-old Hall, who began weight-lifting after retiring. \"If I finish within an hour of him in each marathon, I'd be surprised.\""
+      },
+      {
+       "id": "I",
+       "text": "Instead, 43-year-old Petr Vabrousek, an elite Czech Ironman champion, is expected to be Wardian's closest challenger. To others on the trip, simply finishing will be its own reward. Sinead Kane of Ireland is aiming to become the first blind person to complete the challenge. And Beth Ann Telford, a 47-year-old federal government worker from Fairfax and the only American female in this year's mix, is using the event as a platform to raise money for cancer research. It's a cause with a personal connection to Telford, who was diagnosed with brain cancer in 2004. \"Doing something like this is definitely the hardest challenge that I've ever done except for the chemotherapy and brain surgery,\" she said. \"It's going to raise awareness. …I just wanted to do something that is epic and this certainly is right up there.\" Wardian, too, hopes his involvement will give him a platform to promote a cause. He recently became an ambassador for the United Nations Women's HeForShe initiative to fight inequalities faced by women and girls worldwide."
+      },
+      {
+       "id": "J",
+       "text": "On a chilly December afternoon, Wardian wove through Washington's crowded sidewalks on the way home from his full-time job as an international ship broker. His elastic, 6-foot frame bounced gently and efficiently off the ground with each step of the hilly six-mile trip back to Arlington. This is a daily routine during the week for Wardian, who started racing professionally in 2003 and runs seven days a week, often multiple times a day. When he travels, he prefers to explore new places on his feet."
+      },
+      {
+       "id": "K",
+       "text": "But in some ways, Wardian still has trouble thinking of himself as a runner. For the majority of his childhood, Wardian devoted his energy to becoming a Division I lacrosse(长曲棍球) player-a dream he realized when he was recruited to play at Michigan State University. \"Once he decides to do something, he just works at it until he does it,\" Michael's younger sister, Mariele, said. \"Once he decides to do it, it's usually something that's going to happen. He's always been like that. He's a very motivated individual.\""
+      },
+      {
+       "id": "L",
+       "text": "It was only a year or so ago that Wardian realized that he had been a runner longer than a lacrosse player. It was not until he ran in the 2004 U.S. Olympic Marathon Trials-the first of three for Wardian-that he felt that he was a legitimate runner. Now more than 10 years and numerous ultra-marathon national titles and world records later, he embraces that identity. Wardian wants to see how far his legs can take him, one epic challenge at a time. \"I want to always keep doing things that are exciting, adventurous, different and most importantly, probably things I'm not the best at,\" Wardian said, \"because if you're not seeking things out that are challenging and difficult for you, then you're not growing … So I hope maybe people see what I do, and say, 'Okay, I want to do something different or try something new. … I'm going to do something that scares me.' That's what I'm hoping people will take from it.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Wardian regards the various extraordinary challenges as a test of his physical endurance"
+      },
+      {
+       "id": "s37",
+       "text": "Wardian hopes his participation in the seven-day marathon series will contribute to a worthy cause."
+      },
+      {
+       "id": "s38",
+       "text": "Wardian is going to join over thirty other runners in a week-long marathon series."
+      },
+      {
+       "id": "s39",
+       "text": "Over-exertion in extreme cold can lower one's body temperature to a dangerous point."
+      },
+      {
+       "id": "s40",
+       "text": "Wardian was very much impressed by a race director's sense of adventure."
+      },
+      {
+       "id": "s41",
+       "text": "Once Wardian sets his mind on something, he is determined to make it happen."
+      },
+      {
+       "id": "s42",
+       "text": "One top American marathoner quit his running career because of his physical condition."
+      },
+      {
+       "id": "s43",
+       "text": "To many of the week-long marathon participants, completing the race will be a success in itself."
+      },
+      {
+       "id": "s44",
+       "text": "For Wardian, the marathon in the Arctic was more about how to triumph over the extreme cold."
+      },
+      {
+       "id": "s45",
+       "text": "To participate in the seven-day marathon series, Wardian had to raise a lot of money and have his wife's support."
+      }
+     ],
+     "answers": [
+      "E",
+      "I",
+      "D",
+      "A",
+      "F",
+      "K",
+      "H",
+      "I",
+      "C",
+      "G"
+     ],
+     "statementExplains": [
+      "【定位】The World Marathon Challenge, like most of Wardian's running goals, will be about pushing his limits.\n【依据】陈述里的 wardian、challenges 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】…I just wanted to do something that is epic and this certainly is right up there.\" Wardian, too, hopes his involvement will give him a platform to promote a cause.\n【依据】陈述里的 wardian、hopes、cause 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】He will line up Monday in Antarctica(南极) for the first leg of the World Marathon Challenge—joining 32 other adventure seekers on an unusual journey where participants travel through different time zones and climates to run seven marathons on seven continents in seven days.\n【依据】陈述里的 other、marathon 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Michael Wardian pushed forward into the penetrating arctic(北极的) wind, fighting the urge to speed up.\n【依据】陈述里的 核心词 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Perhaps it was the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director.\n【依据】陈述里的 race、director's、sense、adventure 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】\"Once he decides to do it, it's usually something that's going to happen.\n【依据】陈述里的 once、something、happen 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】This year's challenge will feature a far more elite field, which includes Ryan Hall, America's fastest marathon runner.\n【依据】陈述里的 american、marathoner 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】Sinead Kane of Ireland is aiming to become the first blind person to complete the challenge.\n【依据】陈述里的 completing 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】The race for Wardian, however, was less about the result than overcoming his aversion to the cold.\n【依据】陈述里的 wardian、about、cold 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Registration for the event costs 36,000 euros, which covers international charter flights to each of the seven marathon locations: Union Glacier (Antarctica), Punta Arenas, Chile (South America), Miami (North America), Madrid (Europe), Marrakesh, Morocco (Africa), Dubai (Asia) and Sydney (Australia).\n【依据】陈述里的 seven-day、marathon 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "The World Marathon Challenge, like most of Wardian's running goals, will be about pushing his limits.",
+       "why": "陈述里的 wardian、challenges 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "…I just wanted to do something that is epic and this certainly is right up there.\" Wardian, too, hopes his involvement will give him a platform to promote a cause.",
+       "why": "陈述里的 wardian、hopes、cause 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "He will line up Monday in Antarctica(南极) for the first leg of the World Marathon Challenge—joining 32 other adventure seekers on an unusual journey where participants travel through different time zones and climates to run seven marathons on seven continents in seven days.",
+       "why": "陈述里的 other、marathon 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Michael Wardian pushed forward into the penetrating arctic(北极的) wind, fighting the urge to speed up.",
+       "why": "陈述里的 核心词 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Perhaps it was the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director.",
+       "why": "陈述里的 race、director's、sense、adventure 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Once he decides to do it, it's usually something that's going to happen.",
+       "why": "陈述里的 once、something、happen 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This year's challenge will feature a far more elite field, which includes Ryan Hall, America's fastest marathon runner.",
+       "why": "陈述里的 american、marathoner 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Sinead Kane of Ireland is aiming to become the first blind person to complete the challenge.",
+       "why": "陈述里的 completing 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The race for Wardian, however, was less about the result than overcoming his aversion to the cold.",
+       "why": "陈述里的 wardian、about、cold 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Registration for the event costs 36,000 euros, which covers international charter flights to each of the seven marathon locations: Union Glacier (Antarctica), Punta Arenas, Chile (South America), Miami (North America), Madrid (Europe), Marrakesh, Morocco (Africa), Dubai (Asia) and Sydney (Australia).",
+       "why": "陈述里的 seven-day、marathon 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Many people associate their self-worth with their work. The more successful their career, the better they feel about themselves. Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right? Well, not always. According to recent research, in which psychologists interviewed 370 full-time workers over a period of three weeks, the reality is a little more complicated. And it involves negative as well as positive consequences. It's natural to be drawn towards pleasure and to step away from pain. In the workplace, if that pleasure comes from a triumph which swells our self-respect, people will try to repeat the accomplishment. But repeating that accomplishment is often not realistic, which can lead to severe negative emotional consequences when it doesn't reoccur. This form of motivation is widely regarded as a negative type of motivation. It can hinder other more positive motivation types, such as completing a task purely because it's fulfilling or enjoyable. What consumes the employee instead is a pressing need to feel mighty and sure of themselves. They then take on only tasks and objectives which serve that ego-driven need. As a result, to avoid feelings of shame and worthlessness associated with failure, they extend themselves to such a degree that there's a subsequent adverse effect on their well-being. This internal pressure to succeed at all costs demands a lot of effort. It depletes their energy, culminating in disproportionate levels of damaging sentiment. Those negative emotions mount into heightened anxiety, impacting their ability to make the most of their personal life. Their desire to avoid feeling inferior ends up making them feel inferior when it comes to their diminished capacity for friendship and leisure. They end up dissatisfied both at work and outside of it. But thankfully, for those people compelled almost entirely by this specific form of motivation, the news isn't all bad, or bad at all. The study also discovered several positive outcomes that can actually outweigh the harmful ones. Though these types of employees are motivated by the desire to avoid negative consequences, they are also motivated by the excitement of pursuing emotional rewards. This excitement makes pursuing goals enjoyable and stimulates pleasure and pride that would result from success. An effect of the positive motivation is that it neutralizes the existence of negative motivation. Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands. However, the way people feel about their work has less to do with whether they're motivated by the preservation of self-esteem but more with the fact that they're simply motivated.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author say about the pursuit of work-related self-esteem?",
+       "options": [
+        "It may result in negative motivation.",
+        "It contributes to one's accomplishments.",
+        "It can increase one's vigor as one keeps trying.",
+        "It costs too much emotionally and psychologically."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】However, the way people feel about their work has less to do with whether they're motivated by the preservation of self-esteem but more with the fact that they're simply motivated.\n【依据】正确项的核心词 motivation 与定位句对得上；其余 result、negative 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, the way people feel about their work has less to do with whether they're motivated by the preservation of self-esteem but more with the fact that they're simply motivated.",
+        "why": "正确项的核心词 motivation 与定位句对得上；其余 result、negative 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「contributes、one's、accomplishments」全文未出现。",
+         "C": "无中生有：「increase、one's、keeps」全文未出现。",
+         "D": "无中生有：「too、much、emotionally」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do employees tend to do in pursuing work-related self-esteem?",
+       "options": [
+        "Take on tasks well beyond their actual capabilities.",
+        "Strive to succeed at the expense of their well-being.",
+        "Resort to all means regardless of the consequences.",
+        "Exaggerate their sense of shame and worthlessness."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right?\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 strive、succeed、expense、well-being 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right?",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 strive、succeed、expense、well-being 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「beyond、actual、capabilities」全文未出现。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「resort、means、regardless」全文未出现。",
+         "D": "无中生有：「exaggerate、sense」全文未出现；把原文的「worthlessness」换成了「exaggerate、sense、shame」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do we learn about people over-concerned with work-related self-esteem?",
+       "options": [
+        "They may often feel inferior to their colleagues.",
+        "They cannot enjoy their personal life to the full.",
+        "They are never satisfied with their achievements.",
+        "They have their own view of friendship and leisure."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands.\n【依据】正确项的核心词 personal、life 与定位句对得上；其余 cannot、enjoy、full 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands.",
+        "why": "正确项的核心词 personal、life 与定位句对得上；其余 cannot、enjoy、full 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「colleagues」全文未出现；把原文的「often」换成了「feel、inferior、colleagues」，主语或对象被调包。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「never、satisfied、achievements」全文未出现。",
+         "D": "无中生有：「own、view」全文未出现；把原文的「leisure」换成了「own、view、friendship」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What is the good news we learn from the recent research?",
+       "options": [
+        "The pursuit of goals may turn out to be enjoyable and pleasant.",
+        "The emotional rewards from goal pursuit are worth the pains taken.",
+        "The negative consequences of goal pursuit can mostly be avoided.",
+        "The goal of swelling self-esteem can be achieved if one keeps trying."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】According to recent research, in which psychologists interviewed 370 full-time workers over a period of three weeks, the reality is a little more complicated.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 pursuit、goals、turn、out 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "According to recent research, in which psychologists interviewed 370 full-time workers over a period of three weeks, the reality is a little more complicated.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 pursuit、goals、turn、out 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「goal、pursuit、worth」全文未出现。",
+         "C": "无中生有：「goal、pursuit、mostly」全文未出现。",
+         "D": "无中生有：「goal、swelling、achieved」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What can we infer from the last paragraph?",
+       "options": [
+        "Workers have to make sacrifices to preserve self-esteem.",
+        "Self-esteem swells when workers are strongly motivated.",
+        "Pursuit of goals affects people's personal lives to an unhealthy extent.",
+        "People feel positive about their work as long as they are motivated."
+       ],
+       "answer": 3,
+       "kind": "inference",
+       "explain": "【定位】Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands.\n【依据】正确项的核心词 people、work 与定位句对得上；其余 feel、positive、about、long 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands.",
+        "why": "正确项的核心词 people、work 与定位句对得上；其余 feel、positive、about、long 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「preserve」全文未出现；把原文的「sacrifices」换成了「workers、make、preserve」，主语或对象被调包。",
+         "B": "因果倒置：「strongly」全文未出现。",
+         "C": "偷换主体：「pursuit」全文未出现；把原文的「affects、people's、personal」换成了「pursuit、goals」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 444 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found. The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries. Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people. There appears little prospect of this desperate situation being remedied without radical action being taken. Water resources are under increasing threat from population growth, climate change, rapid urbanization, rising levels of consumption, and the degradation of lands that previously provided a natural replenishment(补充) of water resources. The rate of damage to the natural environment was found to increase globally, despite concerted efforts to persuade government to take measures to improve the condition. \"If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world's environment will continue to decline,\" warned UN executive director Achim Steiner. He said the tools for improving the environment for millions of people existed in developed countries, but were in danger of not being used. The study found that basic measures to tackle some of the key causes of environmental damage were still not being taken. These included measures to reduce air pollution; to control the damage to marine ecosystems, which can have a huge effect on fish stocks on which hundreds of millions of people depend; and to curb the degradation of land where modern agricultural methods were pursued without regard to the longer-term consequences. Despite the recent global agreement on cutting greenhouse gas emissions, global carbon output continues to rise. This will put a long-term strain on the ability of developing economies to feed their own people. Climate change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other problem areas identified in the report included glaciers, which provide vital water resources for millions of people, but which are shrinking as the climate warms. In rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What is the major finding of the UN environmental study?",
+       "options": [
+        "Human activity has rendered Mother Earth almost uninhabitable.",
+        "Humans are doing more damage to the earth than it can cope with.",
+        "Environmental problems have considerably weakened human prosperity.",
+        "Environmental damage is more serious in developed countries these days."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found.\n【依据】正确项的核心词 humans、damage 与定位句对得上；其余 doing、earth、cope 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found.",
+        "why": "正确项的核心词 humans、damage 与定位句对得上；其余 doing、earth、cope 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「activity、rendered、mother」全文未出现；把原文的「human」换成了「activity、rendered、mother」，主语或对象被调包。",
+         "C": "偷换主体：「considerably、weakened」全文未出现；把原文的「environmental、human」换成了「problems、considerably、weakened」，主语或对象被调包。",
+         "D": "偷换主体：「serious、days」全文未出现；把原文的「environmental、damage」换成了「serious、developed、countries」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is said about water scarcity in some of the poorest regions?",
+       "options": [
+        "It is getting so serious that there is little hope of solution.",
+        "It largely accounts for their slow economic development.",
+        "It can hardly be relieved if no drastic measures are taken.",
+        "It is primarily caused by the acceleration of climate change."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 hardly、relieved、drastic、measures 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 hardly、relieved、drastic、measures 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「getting、serious、hope」全文未出现。",
+         "B": "无中生有：「largely、accounts、slow」全文未出现；把原文的「development」换成了「largely、accounts、slow」，主语或对象被调包。",
+         "D": "无中生有：「primarily、caused、acceleration」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does Achim Steiner say about the environmental condition?",
+       "options": [
+        "It will deteriorate worldwide.",
+        "It is attracting global attention.",
+        "It is being slowly remedied globally.",
+        "It will shrink the world's population."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】\"If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world's environment will continue to decline,\" warned UN executive director Achim Steiner.\n【依据】正确项的核心词 worldwide 与定位句对得上；其余 deteriorate 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world's environment will continue to decline,\" warned UN executive director Achim Steiner.",
+        "why": "正确项的核心词 worldwide 与定位句对得上；其余 deteriorate 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「attracting、attention」全文未出现。",
+         "C": "因果倒置：「slowly」全文未出现。",
+         "D": "偷换主体：「shrink」全文未出现；把原文的「world's」换成了「shrink、population」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What is the dilemma developing countries face?",
+       "options": [
+        "They cannot modernise farming without causing land degradation.",
+        "They cannot promote industrialisation without polluting waterways.",
+        "They cannot boost crop yields without causing greenhouse gas emissions.",
+        "They cannot catch up with rich countries without sacrificing the environment."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries.\n【依据】正确项的核心词 without 与定位句对得上；其余 cannot、boost、crop、yields 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries.",
+        "why": "正确项的核心词 without 与定位句对得上；其余 cannot、boost、crop、yields 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「cannot、modernise、farming」全文未出现；把原文的「without」换成了「cannot、modernise、farming」，主语或对象被调包。",
+         "B": "无中生有：「cannot、promote、industrialisation」全文未出现；把原文的「without」换成了「cannot、promote、industrialisation」，主语或对象被调包。",
+         "D": "无中生有：「cannot、catch、sacrificing」全文未出现；把原文的「countries、without」换成了「cannot、catch、rich」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What should developing countries do in their future development according to the passage?",
+       "options": [
+        "They turn to developed countries for the assistance they need.",
+        "They remedy environmental damage by slowing economic growth.",
+        "They avoid damaging interference from international institutions.",
+        "They improve people's livelihood without harming the environment."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment.\n【依据】正确项的核心词 environment 与定位句对得上；其余 improve、people's、livelihood、without 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment.",
+        "why": "正确项的核心词 environment 与定位句对得上；其余 improve、people's、livelihood、without 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「turn、assistance、need」全文未出现；把原文的「developed、countries」换成了「turn、assistance、need」，主语或对象被调包。",
+         "B": "偷换主体：「slowing」全文未出现；把原文的「environmental、growth」换成了「remedy、damage、slowing」，主语或对象被调包。",
+         "C": "无中生有：「avoid、damaging」全文未出现；把原文的「interference、international、institutions」换成了「avoid、damaging」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 439 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "青藏高原位于中国西南部，面积约万平方公里，平均海拔米以上，被称为\"世界屋脊\"。青藏高原自然资源丰富，风景秀丽，拥有多种珍稀野生动物。青藏高原气温很低，形成了大面积高山冰川。这里是亚洲许多著名河流的源头，是中国和东南亚的主要淡水供应源。青藏高原对全球生态系统至关重要。由于气候变化的影响，青藏高原的冰川正在加速融化。中国一直在努力保护青藏高原的生态系统，草地覆盖率不断增加，许多濒危物种得到更为有效的保护。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

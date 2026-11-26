@@ -1,0 +1,1168 @@
+{
+ "id": "cet6-2021-06-1",
+ "levelId": "cet6",
+ "title": "六级 2021 年 06 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年6月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2021-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2021-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 明天是我在这儿工作的最后一天"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 啊，离职面谈。你期待吗？"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 我也说不清自己是什么感觉"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 在我看来，在离职面谈时把一股激动的真实想法倾泻出来"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 让我猜猜。第二个好处是"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 没错。但公司改进这一点的问题在于"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 你现在让我重新考虑面谈时要透露些什么了"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 你最初因为直抒己见而获得的即时满足"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 对。也许去那些给雇主评分的网站发泄一下"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 你可以这么做。也可以完全不参加面谈"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 你们为什么提前结束了这次探险？"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn about the man from the conversation?",
+       "options": [
+        "He will tell the management how he really feels.",
+        "He will meet his new manager in two weeks.",
+        "He is going to attend a job interview.",
+        "He is going to leave his present job."
+       ],
+       "optionsZh": [
+        "他会告诉管理层他的真实感受。",
+        "他将在两周后见他的新经理。",
+        "他将要参加一个工作面试。",
+        "他将要离开他现在的工作。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He is going to leave his present job.（他将要离开他现在的工作。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the woman think about the information gained from an exit interview?",
+       "options": [
+        "It should be kept private.",
+        "It should be carefully analyzed.",
+        "It can be quite useful to senior managers.",
+        "It can improve interviewees' job prospects."
+       ],
+       "optionsZh": [
+        "应该保密。",
+        "应该仔细分析。",
+        "对高层管理者来说可能相当有用。",
+        "可以改善面试者的工作前景。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It should be kept private.（应该保密。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "Why does the man want to rethink what he will say in the coming exit interview?",
+       "options": [
+        "It may leave a negative impression on the interviewer.",
+        "It may adversely affect his future career prospects.",
+        "It may displease his immediate superiors.",
+        "It may do harm to his fellow employees."
+       ],
+       "optionsZh": [
+        "可能会给面试官留下负面印象。",
+        "可能会对他未来的职业前景产生不利影响。",
+        "可能会让他的直属上级不高兴。",
+        "可能会对他的同事造成伤害。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It may adversely affect his future career prospects.（可能会对他未来的职业前景产生不利影响。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the man think he had better do?",
+       "options": [
+        "Prepare a comprehensive exit report.",
+        "Do some practice for the exit interview.",
+        "Network with his close friends to find a better employer.",
+        "Pour out his frustrations on a rate-your-employer website."
+       ],
+       "optionsZh": [
+        "准备一份全面的离职报告。",
+        "为离职面谈做一些练习。",
+        "与他的密友建立联系以找到更好的雇主。",
+        "在雇主评价网站上发泄他的不满。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Pour out his frustrations on a rate-your-employer website.（在雇主评价网站上发泄他的不满。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the man want Jane Forster to talk about?",
+       "options": [
+        "Her unsuccessful journey.",
+        "Her month-long expedition.",
+        "Her latest documentary.",
+        "Her career as a botanist."
+       ],
+       "optionsZh": [
+        "她不成功的旅程。",
+        "她为期一个月的考察。",
+        "她最新的纪录片。",
+        "她作为植物学家的职业生涯。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Her latest documentary.（她最新的纪录片。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "Why does the woman describe her experience as \"far from glamorous\"?",
+       "options": [
+        "She had to live like a vegetarian.",
+        "She was caught in a hurricane.",
+        "She had to endure many hardships.",
+        "She suffered from water shortage."
+       ],
+       "optionsZh": [
+        "她不得不像素食者一样生活。",
+        "她遭遇了飓风。",
+        "她不得不忍受许多艰难困苦。",
+        "她遭受了缺水之苦。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：She had to endure many hardships.（她不得不忍受许多艰难困苦。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why did the woman and those who went with her end their trip halfway?",
+       "options": [
+        "A hurricane was coming.",
+        "A flood was approaching.",
+        "They had no more food in the canoe.",
+        "They could no longer bear the humidity."
+       ],
+       "optionsZh": [
+        "飓风即将来临。",
+        "洪水正在逼近。",
+        "他们的独木舟里没有食物了。",
+        "他们无法再忍受湿度了。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：A hurricane was coming.（飓风即将来临。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What does the woman think of the journey?",
+       "options": [
+        "It was memorable.",
+        "It was unbearable.",
+        "It was uneventful.",
+        "It was fruitful."
+       ],
+       "optionsZh": [
+        "令人难忘的。",
+        "难以忍受的。",
+        "平淡无奇的。",
+        "富有成果的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It was fruitful.（富有成果的。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the passage say about the use of jargon terms by experts?",
+       "options": [
+        "It diminishes laymen's interest in science.",
+        "It ensures the accuracy of their arguments.",
+        "It makes their expressions more explicit.",
+        "It hurts laymen's dignity and self-esteem."
+       ],
+       "optionsZh": [
+        "它削弱了外行人对科学的兴趣。",
+        "它确保了他们论证的准确性。",
+        "它使他们的表达更加明确。",
+        "它伤害了外行人的尊严和自尊。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It diminishes laymen's interest in science.（它削弱了外行人对科学的兴趣。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What do researchers find about people reading scientific articles containing jargon terms?",
+       "options": [
+        "They can learn to communicate with scientists.",
+        "They tend to disbelieve the actual science.",
+        "They feel great respect towards scientists.",
+        "They will see the complexity of science."
+       ],
+       "optionsZh": [
+        "他们可以学会与科学家交流。",
+        "他们倾向于不相信真正的科学。",
+        "他们对科学家感到非常尊敬。",
+        "他们会看到科学的复杂性。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They tend to disbelieve the actual science.（他们倾向于不相信真正的科学。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does Schulman suggest scientists do when communicating with the general public?",
+       "options": [
+        "Find appropriate topics.",
+        "Stimulate their interest.",
+        "Explain all the jargon terms.",
+        "Do away with jargon terms."
+       ],
+       "optionsZh": [
+        "找到合适的话题。",
+        "激发他们的兴趣。",
+        "解释所有的术语。",
+        "摒弃术语。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Do away with jargon terms.（摒弃术语。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What did Texas businessman Pattillo Higgins believe?",
+       "options": [
+        "The local gassy hill might start a huge fire.",
+        "There was oil leakage along the Gulf Coast.",
+        "The erupting gas might endanger local children.",
+        "There were oil deposits below a local gassy hill."
+       ],
+       "optionsZh": [
+        "当地的含气山丘可能引发一场巨大的火灾。",
+        "墨西哥湾沿岸存在石油泄漏。",
+        "喷发的气体可能危及当地儿童。",
+        "当地含气山丘下面有石油矿藏。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：There were oil deposits below a local gassy hill.（当地含气山丘下面有石油矿藏。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What prevented Higgins' workers from digging a proper hole to get the oil?",
+       "options": [
+        "The massive gas underground.",
+        "Their lack of the needed skill.",
+        "The sand under the hill.",
+        "Their lack of suitable tools."
+       ],
+       "optionsZh": [
+        "地下大量的气体。",
+        "他们缺乏所需的技能。",
+        "山丘下的沙子。",
+        "他们缺乏合适的工具。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The sand under the hill.（山丘下的沙子。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the passage say about Captain Lucas' drilling method?",
+       "options": [
+        "It rendered many oil workers jobless.",
+        "It was not as effective as he claimed.",
+        "It gave birth to the oil drilling industry.",
+        "It was not popularized until years later."
+       ],
+       "optionsZh": [
+        "它使许多石油工人失业。",
+        "它并不像他声称的那样有效。",
+        "它催生了石油钻探业。",
+        "直到数年后它才得以推广。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It gave birth to the oil drilling industry.（它催生了石油钻探业。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What do we learn about Texas oil industry boom?",
+       "options": [
+        "It radically transformed the state's economy.",
+        "It resulted in an oil surplus all over the world.",
+        "It totally destroyed the state's rural landscape.",
+        "It ruined the state's cotton and beef industries."
+       ],
+       "optionsZh": [
+        "它彻底改变了该州的经济。",
+        "它导致全世界石油过剩。",
+        "它彻底破坏了该州的乡村景观。",
+        "它毁掉了该州的棉花和牛肉产业。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It radically transformed the state's economy.（它彻底改变了该州的经济。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What is a primary cause of employee dissatisfaction according to recent research?",
+       "options": [
+        "Unsuitable jobs.",
+        "Bad managers.",
+        "Insufficient motivation.",
+        "Tough regulations."
+       ],
+       "optionsZh": [
+        "不合适的工作。",
+        "糟糕的管理者。",
+        "动力不足。",
+        "严苛的规章制度。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Bad managers.（糟糕的管理者。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What is one of the causes for poor management practices?",
+       "options": [
+        "Ineffective training.",
+        "Toxic company culture.",
+        "Lack of regular evaluation.",
+        "Overburdening of managers."
+       ],
+       "optionsZh": [
+        "培训无效。",
+        "有害的公司文化。",
+        "缺乏定期评估。",
+        "管理者负担过重。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Toxic company culture.（有害的公司文化。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What do we learn about the study on job dissatisfaction?",
+       "options": [
+        "It collected feedback from both employers and employees.",
+        "It was conducted from frontline managers' point of view.",
+        "It provided meaningful clues to solving the problem.",
+        "It was based only on the perspective of employees."
+       ],
+       "optionsZh": [
+        "它收集了雇主和员工双方的反馈。",
+        "它是从一线管理者的角度进行的。",
+        "它为解决问题提供了有意义的线索。",
+        "它仅基于员工的视角。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It was based only on the perspective of employees.（它仅基于员工的视角。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the passage say about the mining industry in Western Australia?",
+       "options": [
+        "It is seeing an automation revolution.",
+        "It is bringing prosperity to the region.",
+        "It is yielding an unprecedented profit.",
+        "It is expanding at an accelerating speed."
+       ],
+       "optionsZh": [
+        "该地区正在经历一场自动化革命。",
+        "该地区正在给这个地区带来繁荣。",
+        "该地区正在产生前所未有的利润。",
+        "该地区正在以加速的速度扩张。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is seeing an automation revolution.（该地区正在经历一场自动化革命。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What is the impact of the digitization of the mining industry?",
+       "options": [
+        "It exhausts resources sooner.",
+        "It creates a lot of new jobs.",
+        "It causes conflicts between employers and employees.",
+        "It calls for the retraining of unskilled mining workers."
+       ],
+       "optionsZh": [
+        "它更快地耗尽资源。",
+        "它创造了大量新工作岗位。",
+        "它导致雇主与雇员之间的冲突。",
+        "它要求对非熟练矿工进行再培训。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It creates a lot of new jobs.（它创造了大量新工作岗位。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What is the attitude of workers' unions towards the introduction of new technology?",
+       "options": [
+        "They welcome it with open arms.",
+        "They will wait to see its effect.",
+        "They are strongly opposed to it.",
+        "They accept it with reservations."
+       ],
+       "optionsZh": [
+        "他们张开双臂欢迎它。",
+        "他们将等待观察它的效果。",
+        "他们强烈反对它。",
+        "他们有保留地接受它。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They accept it with reservations.（他们有保留地接受它。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the speaker say about traffic accidents in Thailand?",
+       "options": [
+        "Their cost to the nation's economy is incalculable.",
+        "They kill more people than any infectious disease.",
+        "Their annual death rate is about twice that of the global average.",
+        "They have experienced a gradual decline since the year of 2017."
+       ],
+       "optionsZh": [
+        "它们对国家经济造成的损失无法估量。",
+        "它们造成的死亡人数超过任何传染病。",
+        "它们的年死亡率约为全球平均水平的两倍。",
+        "自2017年以来它们经历了逐渐下降。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Their annual death rate is about twice that of the global average.（它们的年死亡率约为全球平均水平的两倍。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What do we learn from an American institute's statistics regarding road deaths?",
+       "options": [
+        "They show a difference between rich and poor nations.",
+        "They don't reflect the changes in individual countries.",
+        "They rise and fall from year to year.",
+        "They are not as reliable as claimed."
+       ],
+       "optionsZh": [
+        "它们显示了富国和穷国之间的差异。",
+        "它们没有反映各个国家的变化。",
+        "它们每年都有起伏。",
+        "它们并不像声称的那样可靠。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They don't reflect the changes in individual countries.（它们没有反映各个国家的变化。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What is said about middle-income countries?",
+       "options": [
+        "Many of them have increasing numbers of cars on the road.",
+        "Many of them are following the example set by Thailand.",
+        "Many of them have seen a decline in road-death rates.",
+        "Many of them are investing heavily in infrastructure."
+       ],
+       "optionsZh": [
+        "它们中的许多国家道路上的汽车数量在增加。",
+        "它们中的许多国家正在效仿泰国树立的榜样。",
+        "它们中的许多国家道路死亡率出现了下降。",
+        "它们中的许多国家正在基础设施方面进行大量投资。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Many of them have seen a decline in road-death rates.（它们中的许多国家道路死亡率出现了下降。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What else could be done to reduce fatal road accidents in addition to safer roads?",
+       "options": [
+        "Foster better driving behavior.",
+        "Provide better training for drivers.",
+        "Abolish all outdated traffic rules.",
+        "Impose heavier penalties on speeding."
+       ],
+       "optionsZh": [
+        "培养更好的驾驶行为。",
+        "为驾驶员提供更好的培训。",
+        "废除所有过时的交通规则。",
+        "对超速施加更重的处罚。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Foster better driving behavior.（培养更好的驾驶行为。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay based on the graph below. You should start your essay with a brief description of the graph and comment on China's achievements in urbanization. You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "A new study has drawn a bleak picture of cultural inclusiveness reflected in the children's literature available in Australia. Dr. Helen Adam from Edith Cowan University's School of Education {{1}} the cultural diversity of children's books. She examined the books {{2}} in the kindergarten rooms of four day-care centers in Western Australia. Just 18 percent of 2,413 books in the total collection contained any {{3}} of non-white people. Minority cultures were often featured in stereotypical or tokenistic ways, for example, by {{4}} Asian culture with chopsticks and traditional dress. Characters that did represent a minority culture usually had {{5}} roles in the books. The main characters were mostly Caucasian. This causes concern as it can lead to an impression that whiteness is of greater value. Dr. Adam said children formed impressions about \"difference\" and identity from a very young age. Evidence has shown they develop own-race {{6}} from as young as three months of age. The books we share with young children can be a valuable opportunity to develop children's understanding of themselves and others. Books can also allow children to see diversity. They discover both similarities and differences between themselves and others. This can help develop understanding, acceptance and {{7}} of diversity. Census data has shown Australians come from more than 200 countries. They speak over 300 languages at home. Additionally, Australians belong to more than 100 different religious groups. They also work in more than 1,000 different occupations. \"Australia is a multicultural society. The current {{8}} promotion of white middle-class ideas and lifestyles risks {{9}} children from minority groups. This can give white middle-class children a sense of {{10}} or privilege,\" Dr. Adam said.",
+     "options": [
+      "alienating",
+      "appreciation",
+      "bias",
+      "fraud",
+      "housed",
+      "investigated",
+      "overwhelming",
+      "portraying",
+      "representation",
+      "safeguarded",
+      "secondary",
+      "superiority",
+      "temperament",
+      "tentative",
+      "threshold"
+     ],
+     "answers": [
+      5,
+      4,
+      8,
+      7,
+      10,
+      2,
+      1,
+      6,
+      0,
+      11
+     ],
+     "blankExplains": [
+      "【定位】Helen Adam from Edith Cowan University's School of Education ____ the cultural diversity of children's books.\n【依据】答案是 investigated：填回后与所在句 helen、adam、edith、cowan、university's、school 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】She examined the books ____ in the kindergarten rooms of four day-care centers in Western Australia.\n【依据】答案是 housed：填回后与所在句 examined、books、kindergarten、rooms、four、day-care 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Just 18 percent of 2,413 books in the total collection contained any ____ of non-white people.\n【依据】答案是 representation：填回后与所在句 just、percent、books、total、collection、contained 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Minority cultures were often featured in stereotypical or tokenistic ways, for example, by ____ Asian culture with chopsticks and traditional dress.\n【依据】答案是 portraying：填回后与所在句 minority、cultures、often、featured、stereotypical、tokenistic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Characters that did represent a minority culture usually had ____ roles in the books.\n【依据】答案是 secondary：填回后与所在句 characters、represent、minority、culture、usually、roles 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Evidence has shown they develop own-race ____ from as young as three months of age.\n【依据】答案是 bias：填回后与所在句 evidence、shown、develop、own-race、young、three 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This can help develop understanding, acceptance and ____ of diversity.\n【依据】答案是 appreciation：填回后与所在句 help、develop、understanding、acceptance、diversity 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The current ____ promotion of white middle-class ideas and lifestyles risks  … children from minority groups.\n【依据】答案是 overwhelming：填回后与所在句 current、promotion、white、middle-class、ideas、lifestyles 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The current  … promotion of white middle-class ideas and lifestyles risks ____ children from minority groups.\n【依据】答案是 alienating：填回后与所在句 current、promotion、white、middle-class、ideas、lifestyles 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This can give white middle-class children a sense of ____ or privilege,\" Dr.\n【依据】答案是 superiority：填回后与所在句 give、white、middle-class、children、sense、privilege 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Helen Adam from Edith Cowan University's School of Education ____ the cultural diversity of children's books.",
+       "why": "答案是 investigated：填回后与所在句 helen、adam、edith、cowan、university's、school 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 investigated 这个词性/语义，而不是 alienating）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 investigated 这个词性/语义，而不是 appreciation）。"
+       }
+      },
+      {
+       "locate": "She examined the books ____ in the kindergarten rooms of four day-care centers in Western Australia.",
+       "why": "答案是 housed：填回后与所在句 examined、books、kindergarten、rooms、four、day-care 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 housed 这个词性/语义，而不是 alienating）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 housed 这个词性/语义，而不是 appreciation）。"
+       }
+      },
+      {
+       "locate": "Just 18 percent of 2,413 books in the total collection contained any ____ of non-white people.",
+       "why": "答案是 representation：填回后与所在句 just、percent、books、total、collection、contained 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 representation 这个词性/语义，而不是 alienating）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 representation 这个词性/语义，而不是 appreciation）。"
+       }
+      },
+      {
+       "locate": "Minority cultures were often featured in stereotypical or tokenistic ways, for example, by ____ Asian culture with chopsticks and traditional dress.",
+       "why": "答案是 portraying：填回后与所在句 minority、cultures、often、featured、stereotypical、tokenistic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 portraying 这个词性/语义，而不是 alienating）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 portraying 这个词性/语义，而不是 appreciation）。"
+       }
+      },
+      {
+       "locate": "Characters that did represent a minority culture usually had ____ roles in the books.",
+       "why": "答案是 secondary：填回后与所在句 characters、represent、minority、culture、usually、roles 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 secondary 这个词性/语义，而不是 safeguarded）。",
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 secondary 这个词性/语义，而不是 superiority）。"
+       }
+      },
+      {
+       "locate": "Evidence has shown they develop own-race ____ from as young as three months of age.",
+       "why": "答案是 bias：填回后与所在句 evidence、shown、develop、own-race、young、three 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 bias 这个词性/语义，而不是 alienating）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 bias 这个词性/语义，而不是 appreciation）。"
+       }
+      },
+      {
+       "locate": "This can help develop understanding, acceptance and ____ of diversity.",
+       "why": "答案是 appreciation：填回后与所在句 help、develop、understanding、acceptance、diversity 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 appreciation 这个词性/语义，而不是 alienating）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 appreciation 这个词性/语义，而不是 bias）。"
+       }
+      },
+      {
+       "locate": "The current ____ promotion of white middle-class ideas and lifestyles risks  … children from minority groups.",
+       "why": "答案是 overwhelming：填回后与所在句 current、promotion、white、middle-class、ideas、lifestyles 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 overwhelming 这个词性/语义，而不是 alienating）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 overwhelming 这个词性/语义，而不是 appreciation）。"
+       }
+      },
+      {
+       "locate": "The current  … promotion of white middle-class ideas and lifestyles risks ____ children from minority groups.",
+       "why": "答案是 alienating：填回后与所在句 current、promotion、white、middle-class、ideas、lifestyles 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 alienating 这个词性/语义，而不是 appreciation）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 alienating 这个词性/语义，而不是 bias）。"
+       }
+      },
+      {
+       "locate": "This can give white middle-class children a sense of ____ or privilege,\" Dr.",
+       "why": "答案是 superiority：填回后与所在句 give、white、middle-class、children、sense、privilege 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 superiority 这个词性/语义，而不是 safeguarded）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 superiority 这个词性/语义，而不是 secondary）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "A hundred years before iconic figures like Bill Gates and Steve Jobs permeated our lives, an Irish-Italian inventor laid the foundation of the communication explosion of the 21st century. Guglielmo Marconi was arguably the first truly global figure in modern communication. Not only was he the first to communicate globally, he was the first to think globally about communication. Marconi may not have been the greatest inventor of his time, but more than anyone else, he brought about a fundamental shift in the way we communicate."
+      },
+      {
+       "id": "B",
+       "text": "Today's globally networked media and communication system has its origins in the 19th century, when, for the first time, messages were sent electronically across great distances. The telegraph, the telephone, and radio were the obvious predecessors of the Internet, iPods, and mobile phones. What made the link from then to now was the development of wireless communication. Marconi was the first to develop and perfect this system, using the recently-discovered \"air waves\" that make up the electromagnetic spectrum."
+      },
+      {
+       "id": "C",
+       "text": "Between 1896, when he applied for his first patent in England at the age of 22, and his death in Italy in 1937, Marconi was at the center of every major innovation in electronic communication. He was also a skilled and sophisticated organizer, an entrepreneurial innovator, who mastered the use of corporate strategy, media relations, government lobbying, international diplomacy, patents, and prosecution. Marconi was really interested in only one thing: the extension of mobile, personal, long-distance communication to the ends of the earth (and beyond, if we can believe some reports). Some like to refer to him as a genius, but if there was any genius to Marconi it was this vision."
+      },
+      {
+       "id": "D",
+       "text": "In 1901 he succeeded in signaling across the Atlantic, from the west coast of England to Newfoundland in the USA, despite the claims of science that it could not be done. In 1924 he convinced the British government to encircle the world with a chain of wireless stations using the latest technology that he had devised, shortwave radio. There are some who say Marconi lost his edge when commercial broadcasting came along; he didn't see that radio could or should be used to frivolous(无聊的) ends. In one of his last public speeches, a radio broadcast to the United States in March 1937, he deplored that broadcasting had become a one-way means of communication and foresaw it moving in another direction, toward communication as a means of exchange. That was visionary genius."
+      },
+      {
+       "id": "E",
+       "text": "Marconi's career was devoted to making wireless communication happen cheaply, efficiently, smoothly, and with an elegance that would appear to be intuitive and uncomplicated to the user-friendly, if you will. There is a direct connection from Marconi to today's social media, search engines, and program streaming that can best be summed up by an admittedly provocative exclamation: the 20th century did not exist. In a sense, Marconi's vision jumped from his time to our own."
+      },
+      {
+       "id": "F",
+       "text": "Marconi invented the idea of global communication—or, more straightforwardly, globally networked, mobile, wireless communication. Initially, this was wireless Morse code telegraphy(电报通讯), the principal communication technology of his day. Marconi was the first to develop a practical method for wireless telegraphy using radio waves. He borrowed technical details from many sources, but what set him apart was a self-confident vision of the power of communication technology on the one hand, and, on the other, of the steps that needed to be taken to consolidate his own position as a player in that field. Tracing Marconi's lifeline leads us into the story of modern communication itself. There were other important figures, but Marconi towered over them all in reach, power, and influence, as well as in the grip he had on the popular imagination of his time. Marconi was quite simply the central figure in the emergence of a modern understanding of communication."
+      },
+      {
+       "id": "G",
+       "text": "In his lifetime, Marconi foresaw the development of television and the fax machine, GPS, radar, and the portable hand-held telephone. Two months before he died, newspapers were reporting that he was working on a \"death ray,\" and that he had \"killed a rat with an intricate device at a distance of three feet.\" By then, anything Marconi said or did was newsworthy. Stock prices rose or sank according to his pronouncements. If Marconi said he thought it might rain, there was likely to be a run on umbrellas."
+      },
+      {
+       "id": "H",
+       "text": "Marconi's biography is also a story about choices and the motivations behind them. At one level, Marconi could be fiercely autonomous and independent of the constraints of his own social class. On another scale, he was a perpetual outsider. Wherever he went, he was never \"of\" the group; he was always the \"other,\" considered foreign in Britain, British in Italy, and \"not American\" in the United States. At the same time, he also suffered tremendously from a need for acceptance that drove, and sometimes stained, every one of his relationships."
+      },
+      {
+       "id": "I",
+       "text": "Marconi placed a permanent stamp on the way we live. He was the first person to imagine a practical application for the wireless spectrum, and to develop it successfully into a global communication system—in both terms of the word; that is, worldwide and all-inclusive. He was able to do this because of a combination of factors—most important, timing and opportunity—but the single-mindedness and determination with which he carried out his self-imposed mission was fundamentally character-based; millions of Marconi's contemporaries had the same class, gender, race, and colonial privilege as he, but only a handful did anything with it. Marconi needed to achieve the goal that was set in his mind as an adolescent; by the time he reached adulthood, he understood, intuitively, that in order to have an impact he had to both develop an independent economic base and align himself with political power. Disciplined, uncritical loyalty to political power became his compass for the choices he had to make."
+      },
+      {
+       "id": "J",
+       "text": "At the same time, Marconi was uncompromisingly independent intellectually. Shortly after Marconi's death, the nuclear physicist Enrico Fermi—soon to be the developer of the Manhattan Project—wrote that Marconi proved that theory and experimentation were complementary features of progress. \"Experience can rarely, unless guided by a theoretical concept, arrive at results of any great significance…on the other hand, an excessive trust in theoretical conviction would have prevented Marconi from persisting in experiments which were destined to bring about a revolution in the technique of radio-communications.\" In other words, Marconi had the advantage of not being burdened by preconceived assumptions."
+      },
+      {
+       "id": "K",
+       "text": "The most controversial aspect of Marconi's life—and the reason why there has been no satisfying biography of Marconi until now—was his uncritical embrace of Benito Mussolini. At first this was not problematic for him. But as the regressive(倒退的) nature of Mussolini's regime became clear, he began to suffer a crisis of conscience. However, after a lifetime of moving within the circles of power, he was unable to break with authority, and served Mussolini faithfully (as president of Italy's national research council and royal academy, as well as a member of the Fascist Grand Council) until the day he died—conveniently—in 1937, shortly before he would have had to take a stand in the conflict that consumed a world that he had, in part, created."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Marconi was central to our present-day understanding of communication."
+      },
+      {
+       "id": "s37",
+       "text": "As an adult, Marconi had an intuition that he had to be loyal to politicians in order to be influential."
+      },
+      {
+       "id": "s38",
+       "text": "Marconi disapproved of the use of wireless communication for commercial broadcasting."
+      },
+      {
+       "id": "s39",
+       "text": "Marconi's example demonstrates that theoretical concepts and experiments complement each other in making progress in science and technology."
+      },
+      {
+       "id": "s40",
+       "text": "Marconi's real interest lay in the development of worldwide wireless communication."
+      },
+      {
+       "id": "s41",
+       "text": "Marconi spent his whole life making wireless communication simple to use."
+      },
+      {
+       "id": "s42",
+       "text": "Because of his long-time connection with people in power, Marconi was unable to cut himself off from the fascist regime in Italy."
+      },
+      {
+       "id": "s43",
+       "text": "In his later years, Marconi exerted a tremendous influence on all aspects of people's life."
+      },
+      {
+       "id": "s44",
+       "text": "What connected the 19th century and our present time was the development of wireless communication."
+      },
+      {
+       "id": "s45",
+       "text": "Despite his autonomy, Marconi felt alienated and suffered from a lack of acceptance."
+      }
+     ],
+     "answers": [
+      "F",
+      "I",
+      "D",
+      "J",
+      "C",
+      "E",
+      "K",
+      "G",
+      "B",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】Marconi was quite simply the central figure in the emergence of a modern understanding of communication.\n【依据】陈述里的 marconi、central、understanding、communication 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Marconi needed to achieve the goal that was set in his mind as an adolescent; by the time he reached adulthood, he understood, intuitively, that in order to have an impact he had to both develop an independent economic base and align himself with political power.\n【依据】陈述里的 adult、marconi、intuition、politicians、order 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】There are some who say Marconi lost his edge when commercial broadcasting came along; he didn't see that radio could or should be used to frivolous(无聊的) ends.\n【依据】陈述里的 marconi、commercial、broadcasting 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】\"Experience can rarely, unless guided by a theoretical concept, arrive at results of any great significance…on the other hand, an excessive trust in theoretical conviction would have prevented Marconi from persisting in experiments which were destined to bring about a revolution in the technique of radio-communications.\" In other words, Marconi had the advantage of not being burdened by preconceived assumptions.\n【依据】陈述里的 marconi's、theoretical、concepts、experiments、other、technology 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Marconi was really interested in only one thing: the extension of mobile, personal, long-distance communication to the ends of the earth (and beyond, if we can believe some reports).\n【依据】陈述里的 marconi's、interest、communication 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Marconi's career was devoted to making wireless communication happen cheaply, efficiently, smoothly, and with an elegance that would appear to be intuitive and uncomplicated to the user-friendly, if you will.\n【依据】陈述里的 marconi、making、wireless、communication 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】However, after a lifetime of moving within the circles of power, he was unable to break with authority, and served Mussolini faithfully (as president of Italy's national research council and royal academy, as well as a member of the Fascist Grand Council) until the day he died—conveniently—in 1937, shortly before he would have had to take a stand in the conflict that consumed a world that he had, in part, created.\n【依据】陈述里的 power、unable、fascist、italy 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】In his lifetime, Marconi foresaw the development of television and the fax machine, GPS, radar, and the portable hand-held telephone.\n【依据】陈述里的 marconi 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】What made the link from then to now was the development of wireless communication.\n【依据】陈述里的 what、development、wireless、communication 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】At one level, Marconi could be fiercely autonomous and independent of the constraints of his own social class.\n【依据】陈述里的 autonomy、marconi 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Marconi was quite simply the central figure in the emergence of a modern understanding of communication.",
+       "why": "陈述里的 marconi、central、understanding、communication 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Marconi needed to achieve the goal that was set in his mind as an adolescent; by the time he reached adulthood, he understood, intuitively, that in order to have an impact he had to both develop an independent economic base and align himself with political power.",
+       "why": "陈述里的 adult、marconi、intuition、politicians、order 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "There are some who say Marconi lost his edge when commercial broadcasting came along; he didn't see that radio could or should be used to frivolous(无聊的) ends.",
+       "why": "陈述里的 marconi、commercial、broadcasting 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Experience can rarely, unless guided by a theoretical concept, arrive at results of any great significance…on the other hand, an excessive trust in theoretical conviction would have prevented Marconi from persisting in experiments which were destined to bring about a revolution in the technique of radio-communications.\" In other words, Marconi had the advantage of not being burdened by preconceived assumptions.",
+       "why": "陈述里的 marconi's、theoretical、concepts、experiments、other、technology 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Marconi was really interested in only one thing: the extension of mobile, personal, long-distance communication to the ends of the earth (and beyond, if we can believe some reports).",
+       "why": "陈述里的 marconi's、interest、communication 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Marconi's career was devoted to making wireless communication happen cheaply, efficiently, smoothly, and with an elegance that would appear to be intuitive and uncomplicated to the user-friendly, if you will.",
+       "why": "陈述里的 marconi、making、wireless、communication 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "However, after a lifetime of moving within the circles of power, he was unable to break with authority, and served Mussolini faithfully (as president of Italy's national research council and royal academy, as well as a member of the Fascist Grand Council) until the day he died—conveniently—in 1937, shortly before he would have had to take a stand in the conflict that consumed a world that he had, in part, created.",
+       "why": "陈述里的 power、unable、fascist、italy 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In his lifetime, Marconi foresaw the development of television and the fax machine, GPS, radar, and the portable hand-held telephone.",
+       "why": "陈述里的 marconi 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "What made the link from then to now was the development of wireless communication.",
+       "why": "陈述里的 what、development、wireless、communication 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "At one level, Marconi could be fiercely autonomous and independent of the constraints of his own social class.",
+       "why": "陈述里的 autonomy、marconi 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Humans are fascinated by the source of their failings and virtues: This preoccupation inevitably leads to an old debate: whether nature or nurture moulds us more. A revolution in genetics has poised this as a modern political question about the character of our society: if personalities are hard-wired into our genes, what can governments do to help us? It feels morally questionable, yet claims of genetic selection by intelligence are making headlines. This is down to \"hereditarian\"(遗传论的) science and a recent paper claimed \"differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them\". With such an assertion, the work was predictably greeted by a lot of absurd claims about \"genetics determining academic success\". What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils' inborn ability and socio-economic background were taken into account. It is a glimpse of the blindingly obvious—and there's nothing to back strongly either a hereditary or environmental argument. Yet the paper does say children are \"unintentionally genetically selected\" by the school system. Central to hereditarian science is a tall claim: that identifiable variations in genetic sequences can predict an individual's aptness to learn, reason and solve problems. This is problematic on many levels. A teacher could not seriously tell a parent their child has a low genetic tendency to study when external factors clearly exist. Unlike-minded academics say the inheritability of human traits is scientifically unsound. At best there is a weak statistical association and not a causal link between DNA and intelligence. Yet sophisticated statistics are used to create an intimidatory atmosphere of scientific certainty. While there's an undoubted genetic basis to individual difference, it is wrong to think that socially defined groups can be genetically accounted for. The fixation on genes as destiny is surely false too. Medical predictability can rarely be based on DNA alone; the environment matters too. Something as complex as intellect is likely to be affected by many factors beyond genes. If hereditarians want to advance their cause it will require more balanced interpretation and not just acts of advocacy. Genetic selection is a way of exerting influence over others, \"the ultimate collective control of human destinies,\" as writer H. G. Wells put it. Knowledge becomes power and power requires a sense of responsibility. In understanding cognitive ability, we must not elevate discrimination to a science, allowing people to climb the ladder of life only as far as their cells might suggest. This will need a more sceptical eye on the science. As technology progresses, we all have a duty to make sure that we shape a future that we would want to find ourselves in.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What did a recent research paper claim?",
+       "options": [
+        "The type of school students attend makes a difference to their future.",
+        "Genetic differences between students are far greater than supposed.",
+        "The advantages of selective schools are too obvious to ignore.",
+        "Students' academic performance is determined by their genes."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】This is down to \"hereditarian\"(遗传论的) science and a recent paper claimed \"differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them\".\n【依据】正确项的核心词 performance 与定位句对得上；其余 students'、academic、determined、genes 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This is down to \"hereditarian\"(遗传论的) science and a recent paper claimed \"differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them\".",
+        "why": "正确项的核心词 performance 与定位句对得上；其余 students'、academic、determined、genes 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「type、students、makes」全文未出现；把原文的「school、attend、difference」换成了「type、students、makes」，主语或对象被调包。",
+         "B": "无中生有：「students、greater、supposed」全文未出现；把原文的「genetic、differences、between」换成了「students、far、greater」，主语或对象被调包。",
+         "C": "偷换主体：「advantages、ignore」全文未出现；把原文的「selective、schools」换成了「advantages、too、obvious」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author think of the recent research?",
+       "options": [
+        "Its result was questionable.",
+        "Its implication was positive.",
+        "Its influence was rather negligible.",
+        "Its conclusions were enlightening."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils' inborn ability and socio-economic background were taken into account.\n【依据】正确项的核心词 result 与定位句对得上；其余 questionable 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils' inborn ability and socio-economic background were taken into account.",
+        "why": "正确项的核心词 result 与定位句对得上；其余 questionable 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「implication、positive」全文未出现。",
+         "C": "偷换主体：「negligible」全文未出现；把原文的「rather」换成了「influence、negligible」，主语或对象被调包。",
+         "D": "无中生有：「conclusions、enlightening」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the author say about the relationship between DNA and intelligence?",
+       "options": [
+        "It is one of scientific certainty.",
+        "It is not one of cause and effect.",
+        "It is subject to interpretation of statistics.",
+        "It is not fully examined by gene scientists."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】At best there is a weak statistical association and not a causal link between DNA and intelligence.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 cause、effect 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "At best there is a weak statistical association and not a causal link between DNA and intelligence.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 cause、effect 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "偷换主体：「subject」全文未出现；把原文的「statistics」换成了「subject、interpretation」，主语或对象被调包。",
+         "D": "无中生有：「fully、examined、gene」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What do hereditarians need to do to make their claims convincing?",
+       "options": [
+        "Take all relevant factors into account in interpreting their data.",
+        "Conduct their research using more sophisticated technology.",
+        "Gather gene data from people of all social classes.",
+        "Cooperate with social scientists in their research."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】This is down to \"hereditarian\"(遗传论的) science and a recent paper claimed \"differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them\".\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 take、relevant、factors、into 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This is down to \"hereditarian\"(遗传论的) science and a recent paper claimed \"differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them\".",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 take、relevant、factors、into 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「conduct、using」全文未出现。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「gather、gene、data」全文未出现。",
+         "D": "无中生有：「cooperate、social」全文未出现；把原文的「scientists」换成了「cooperate、social、research」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author warn against in the passage?",
+       "options": [
+        "Exaggerating the power of technology in shaping the world.",
+        "Losing sight of professional ethics in conducting research.",
+        "Misunderstanding the findings of human cognition research.",
+        "Promoting discrimination in the name of science."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils' inborn ability and socio-economic background were taken into account.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 promoting、discrimination、name、science 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils' inborn ability and socio-economic background were taken into account.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 promoting、discrimination、name、science 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「exaggerating、shaping、world」全文未出现。",
+         "B": "无中生有：「losing、sight、professional」全文未出现；把原文的「research」换成了「losing、sight、professional」，主语或对象被调包。",
+         "C": "无中生有：「misunderstanding、findings、cognition」全文未出现；把原文的「research」换成了「misunderstanding、findings、human」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 453 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Nicola Sturgeon's speech last Tuesday setting out the Scottish government's legislative programme for the year ahead confirmed what was already pretty clear. Scottish councils are set to be the first in the UK with the power to levy charges on visitors, with Edinburgh likely to lead the way. Tourist taxes are not new. The Himalayan kingdom of Bhutan has a longstanding policy of charging visitors a daily fee. France's tax on overnight stays was introduced to assist thermal spa(温泉) towns to develop, and around half of French local authorities use it today. But such levies are on the rise. Moves by Barcelona and Venice to deal with the phenomenon of \"over-tourism\" through the use of charges have recently gained prominence. Japan and Greece are among the countries to have recently introduced tourist taxes. That the UK lags behind is due to our weak, by international standards, local government, as well as the opposition to taxes and regulation of our aggressively pro-market ruling party. Some UK cities have lobbied without success for the power to levy a charge on visitors. Such levies are no universal remedy as the amounts raised would be tiny compared with what has been taken away by central government since 2010. Still, it is to be hoped that the Scottish government's bold move will prompt others to act. There is no reason why visitors to the UK, or domestic tourists on holiday in hotspots such as Cornwall, should be exempt from taxation-particularly when vital local services including waste collection, park maintenance and arts and culture spending are under unprecedented strain. On the contrary, compelling tourists to make a financial contribution to the places they visit beyond their personal consumption should be part of a wider cultural shift. Westerners with disposable incomes have often behaved as if they have a right to go wherever they choose with little regard for the consequences. Just as the environmental harm caused by aviation and other transport must come under far greater scrutiny, the social cost of tourism must also be confronted. This includes the impact of short-term lets on housing costs and quality of life for residents. Several European capitals, including Paris and Berlin, are leading a campaign for tougher regulation by the European Union. It also includes the impact of overcrowding, litter and the kinds of behaviour associated with noisy parties. There is no \"one size fits all\" solution to this problem. The existence of new revenue streams for some but not all councils is complicated, and businesses are often opposed, fearing higher costs will make them uncompetitive. But those places that want them must be given the chance to make tourist taxes work.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn from Nicola Sturgeon's speech?",
+       "options": [
+        "The UK is set to adjust its policy on taxation.",
+        "Tourists will have to pay a tax to visit Scotland.",
+        "The UK will take new measures to boost tourism.",
+        "Edinburgh contributes most to Scotland's tourism."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Nicola Sturgeon's speech last Tuesday setting out the Scottish government's legislative programme for the year ahead confirmed what was already pretty clear.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 tourists、pay、tax、visit 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Nicola Sturgeon's speech last Tuesday setting out the Scottish government's legislative programme for the year ahead confirmed what was already pretty clear.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 tourists、pay、tax、visit 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「adjust、taxation」全文未出现。",
+         "C": "无中生有：「take、measures、boost」全文未出现。",
+         "D": "因果倒置：「contributes、scotland's」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "How come the UK has been slow in imposing the tourist tax?",
+       "options": [
+        "Its government wants to attract more tourists.",
+        "The tax is unlikely to add much to its revenue.",
+        "Its ruling party is opposed to taxes and regulation.",
+        "It takes time for local governments to reach consensus."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Just as the environmental harm caused by aviation and other transport must come under far greater scrutiny, the social cost of tourism must also be confronted.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 ruling、party、opposed、taxes 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Just as the environmental harm caused by aviation and other transport must come under far greater scrutiny, the social cost of tourism must also be confronted.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 ruling、party、opposed、taxes 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「wants、attract」全文未出现；把原文的「tourists」换成了「government、wants、attract」，主语或对象被调包。",
+         "B": "无中生有：「unlikely、add、much」全文未出现。",
+         "D": "无中生有：「takes、time、governments」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "Both international and domestic visitors in the UK should pay tourist tax so as to ______.",
+       "options": [
+        "elevate its tourism to international standards",
+        "improve the welfare of its maintenance workers",
+        "promote its cultural exchange with other nations",
+        "ease its financial burden of providing local services"
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】There is no reason why visitors to the UK, or domestic tourists on holiday in hotspots such as Cornwall, should be exempt from taxation-particularly when vital local services including waste collection, park maintenance and arts and culture spending are under unprecedented strain.\n【依据】正确项的核心词 local、services 与定位句对得上；其余 ease、financial、burden、providing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "There is no reason why visitors to the UK, or domestic tourists on holiday in hotspots such as Cornwall, should be exempt from taxation-particularly when vital local services including waste collection, park maintenance and arts and culture spending are under unprecedented strain.",
+        "why": "正确项的核心词 local、services 与定位句对得上；其余 ease、financial、burden、providing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「elevate」全文未出现；把原文的「tourism」换成了「elevate、international、standards」，主语或对象被调包。",
+         "B": "无中生有：「improve、welfare、workers」全文未出现；把原文的「maintenance」换成了「improve、welfare、workers」，主语或对象被调包。",
+         "C": "无中生有：「promote、exchange、nations」全文未出现；把原文的「cultural」换成了「promote、exchange、other」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the author say about Western tourists?",
+       "options": [
+        "They don't seem to care about the social cost of tourism.",
+        "They don't seem to mind paying for additional services.",
+        "They deem travel an important part of their life.",
+        "They subject the effects of tourism to scrutiny."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Just as the environmental harm caused by aviation and other transport must come under far greater scrutiny, the social cost of tourism must also be confronted.\n【依据】正确项的核心词 social、cost、tourism 与定位句对得上；其余 don't、seem、care、about 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Just as the environmental harm caused by aviation and other transport must come under far greater scrutiny, the social cost of tourism must also be confronted.",
+        "why": "正确项的核心词 social、cost、tourism 与定位句对得上；其余 don't、seem、care、about 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「don't、seem、mind」全文未出现。",
+         "C": "无中生有：「deem、travel、important」全文未出现。",
+         "D": "无中生有：「subject、effects」全文未出现；把原文的「tourism、scrutiny」换成了「subject、effects」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What are UK people's opinions about the levy of tourist tax?",
+       "options": [
+        "Supportive.",
+        "Skeptical.",
+        "Divided.",
+        "Unclear."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Nicola Sturgeon's speech last Tuesday setting out the Scottish government's legislative programme for the year ahead confirmed what was already pretty clear.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 divided 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Nicola Sturgeon's speech last Tuesday setting out the Scottish government's legislative programme for the year ahead confirmed what was already pretty clear.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 divided 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「supportive」全文未出现。",
+         "B": "无中生有：「skeptical」全文未出现。",
+         "D": "无中生有：「unclear」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 443 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "海南是仅次于台湾的中国第二大岛，是位于中国最南端的省份。海南岛风景秀丽，气候宜人，阳光充足生物多样，温泉密布，海水清澈，大部分海滩几乎全年都是游泳和日光浴的理想场所，因而被誉为中国的四季花园和度假胜地，每年都吸引了大批中外游客。海南年建省以来，旅游业、服务业、高新技术产业飞速发展是中国唯一的省级经济特区。在中央政府和全国人民的大力支持下，海南将建成中国最大的自由贸易试验区。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

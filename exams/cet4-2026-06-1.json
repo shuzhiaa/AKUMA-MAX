@@ -1,0 +1,1178 @@
+{
+ "id": "cet4-2026-06-1",
+ "levelId": "cet4",
+ "title": "四级 2026 年 06 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2026年6月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2026-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2026-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "上周末，一名男子的6岁儿子从多家餐厅订购了一顿“虚拟自助餐”"
+      },
+      {
+       "idx": 2,
+       "zh": "基思·斯通豪斯说，上周六晚上"
+      },
+      {
+       "idx": 3,
+       "zh": "大部分食物都放进了家里的冰箱"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 是啊，你今天做了什么？"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 我和凯西只是逛了逛老城区"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 你觉得怎么样？"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 非常漂亮，不过游客太多了"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 是啊，到处都很拥挤"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 是啊，感觉全世界的人都来这里度假了"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 我还没决定。我在考虑做你今天做的事"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 那是什么地方？我没听说过"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "Why was Keith Stonehouse left with a $1,000 bill?",
+       "options": [
+        "He had bought meals with his online food ordering account.",
+        "His son had used his cell phone to pay for playing a game.",
+        "His son had ordered food from several restaurants.",
+        "He had dined out at a famous five-star restaurant."
+       ],
+       "optionsZh": [
+        "他曾使用自己的网上点餐账户购买餐食。",
+        "他的儿子曾用他的手机支付玩游戏的费用。",
+        "他的儿子曾从几家餐馆订餐。",
+        "他曾在一家著名的五星级餐厅用餐。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：His son had ordered food from several restaurants.（他的儿子曾从几家餐馆订餐。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the news report say Keith Stonehouse is planning to do?",
+       "options": [
+        "Teach his son a lesson.",
+        "Change his password.",
+        "Ask his neighbors for help.",
+        "Buy a bigger refrigerator."
+       ],
+       "optionsZh": [
+        "给他的儿子一个教训。",
+        "更改他的密码。",
+        "向邻居求助。",
+        "买一台更大的冰箱。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Change his password.（更改他的密码。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What did animal behaviour experts do according to the news report?",
+       "options": [
+        "They examined how visitors affected animal behaviour in zoos.",
+        "They studied when the best time to feed animals in public was.",
+        "They studied how animals adapted themselves to life in zoos.",
+        "They examined what behaviours indicated animal boredom."
+       ],
+       "optionsZh": [
+        "他们研究了游客如何影响动物园中动物的行为。",
+        "他们研究了在公众场合喂食动物的最佳时间。",
+        "他们研究了动物如何适应动物园生活。",
+        "他们研究了哪些行为表明动物感到无聊。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They examined how visitors affected animal behaviour in zoos.（他们研究了游客如何影响动物园中动物的行为。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "Why have some animal species likely become used to the presence of humans?",
+       "options": [
+        "They socialise with zookeepers as well as with each other.",
+        "They show good adaptability to living with humans.",
+        "They have been kept as pets by humans.",
+        "They have been born and raised in zoos."
+       ],
+       "optionsZh": [
+        "它们既与动物园饲养员交往，也彼此交往。",
+        "它们表现出与人类共同生活的良好适应性。",
+        "它们曾被人类当作宠物饲养。",
+        "它们出生并成长于动物园。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They have been born and raised in zoos.（它们出生并成长于动物园。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What is Denver doing with its popular electric bike incentive program?",
+       "options": [
+        "Adjusting it.",
+        "Suspending it.",
+        "Reevaluating it.",
+        "Expanding it."
+       ],
+       "optionsZh": [
+        "调整该计划。",
+        "暂停该计划。",
+        "重新评估该计划。",
+        "扩大该计划。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Suspending it.（暂停该计划。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "How did the electric bike incentive program benefit residents?",
+       "options": [
+        "They could buy an electric bike for $400 in April.",
+        "They could buy their first electric bike at a discount.",
+        "They could enjoy free after-sale service for their purchase.",
+        "They could get $1,200 from government funds if they qualified."
+       ],
+       "optionsZh": [
+        "他们可以在四月份花400美元购买一辆电动自行车。",
+        "他们可以以折扣价购买自己的第一辆电动自行车。",
+        "他们可以享受所购电动自行车的免费售后服务。",
+        "如果符合条件，他们可以从政府资金中获得1200美元。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They could get $1,200 from government funds if they qualified.（如果符合条件，他们可以从政府资金中获得1200美元。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the city of Denver expect to do early next year?",
+       "options": [
+        "Put 400 more electric bikes on its streets.",
+        "Increase the program funding by 8 percent.",
+        "Resume its electric bike incentive program.",
+        "Invest millions of dollars into the local economy."
+       ],
+       "optionsZh": [
+        "在街头投放另外400辆电动自行车。",
+        "将该计划的资金增加8%。",
+        "恢复其电动自行车激励计划。",
+        "向当地经济投入数百万美元。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Resume its electric bike incentive program.（恢复其电动自行车激励计划。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What exhibits does the man like best in the museum he visited?",
+       "options": [
+        "The coin collection.",
+        "The primitive tools.",
+        "The ancient ornaments.",
+        "The 2,000-year-old clothes."
+       ],
+       "optionsZh": [
+        "硬币收藏。",
+        "原始工具。",
+        "古代饰品。",
+        "有两千年历史的服装。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The coin collection.（硬币收藏。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the woman say about the old city centre?",
+       "options": [
+        "It is charming with narrow but beautiful streets.",
+        "It attracts visitors from every corner of the world.",
+        "It has flowers displayed around the Trevi Fountain.",
+        "It is more attractive than the pictures in guidebooks."
+       ],
+       "optionsZh": [
+        "这里虽然街道狭窄，但很迷人美丽。",
+        "它吸引着来自世界各地的游客。",
+        "特莱维喷泉周围摆放着鲜花。",
+        "它比旅游指南中的图片更有吸引力。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is charming with narrow but beautiful streets.（这里虽然街道狭窄，但很迷人美丽。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the man say about the square with the Spanish steps?",
+       "options": [
+        "It is covered with wild grass.",
+        "It is very famous and pretty.",
+        "It is located away from an old church.",
+        "It is surrounded by Spanish-style houses."
+       ],
+       "optionsZh": [
+        "广场上长满了野草。",
+        "它非常著名，也很漂亮。",
+        "它远离一座古老的教堂。",
+        "它周围环绕着西班牙风格的房屋。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It is very famous and pretty.（它非常著名，也很漂亮。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the woman say she is going to do first?",
+       "options": [
+        "Ask Kathy what her plan is.",
+        "Tell Kathy Mike will join them.",
+        "Ask Kathy if she'd like to see the square.",
+        "Tell Kathy Mike would like to have a change."
+       ],
+       "optionsZh": [
+        "问凯茜有什么计划。",
+        "告诉凯茜迈克会加入他们。",
+        "问凯茜是否愿意去看看那个广场。",
+        "告诉凯茜迈克想换换环境。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Ask Kathy if she'd like to see the square.（问凯茜是否愿意去看看那个广场。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What advice does the man want to get from the woman?",
+       "options": [
+        "How to fit into the bigger picture.",
+        "How to get on with colleagues.",
+        "How to create a solid first impression.",
+        "How to succeed in a new job."
+       ],
+       "optionsZh": [
+        "如何融入更大的整体。",
+        "如何与同事相处。",
+        "如何树立良好的第一印象。",
+        "如何在新工作中取得成功。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：How to succeed in a new job.（如何在新工作中取得成功。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the woman say is the most important thing for the man to do at first?",
+       "options": [
+        "Get familiar with all the details of his job description.",
+        "Learn about the relations within the organization.",
+        "Recognize his own limitations and weaknesses.",
+        "Understand his role from various perspectives."
+       ],
+       "optionsZh": [
+        "熟悉工作说明中的所有细节。",
+        "了解组织内部的关系。",
+        "认识到自己的局限和弱点。",
+        "从不同角度理解自己的角色。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Understand his role from various perspectives.（从不同角度理解自己的角色。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the man say he is feeling a bit uneasy about?",
+       "options": [
+        "Learning history.",
+        "Meeting his boss.",
+        "Creating reports for other departments to use.",
+        "Leaving his coworkers in the present company."
+       ],
+       "optionsZh": [
+        "学习历史。",
+        "与老板见面。",
+        "为其他部门使用而制作报告。",
+        "离开现在公司的同事。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Meeting his boss.（与老板见面。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the woman suggest the man do to gain insight about the running of the business?",
+       "options": [
+        "Get to know the decision-makers.",
+        "Acquire decision-making authority.",
+        "Promote its products and services.",
+        "Observe its overall management."
+       ],
+       "optionsZh": [
+        "了解决策者。",
+        "获得决策权。",
+        "推广其产品和服务。",
+        "观察其整体管理情况。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Get to know the decision-makers.（了解决策者。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does research indicate about many consumers when they evaluate a purchase?",
+       "options": [
+        "They do not tell marketers their feeling about a product.",
+        "They do not compare competing brands and prices.",
+        "They are not hesitant to contradict themselves.",
+        "They are not sure what they really like to buy."
+       ],
+       "optionsZh": [
+        "他们不会告诉营销人员自己对某一产品的感受。",
+        "他们不会比较竞争品牌和价格。",
+        "他们毫不犹豫地自相矛盾。",
+        "他们不确定自己真正喜欢购买什么。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They do not compare competing brands and prices.（他们不会比较竞争品牌和价格。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What do good marketers keep in mind all the time?",
+       "options": [
+        "Consumers are often attracted by new products.",
+        "Consumers tend to make decisions on the spot.",
+        "Consumers find it hard to resist temptation.",
+        "Consumers are actually driven by emotion."
+       ],
+       "optionsZh": [
+        "消费者常常会被新产品吸引。",
+        "消费者往往会当场作出决定。",
+        "消费者觉得很难抵制诱惑。",
+        "消费者实际上是受情感驱动的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Consumers are actually driven by emotion.（消费者实际上是受情感驱动的。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What should marketers do besides stressing the features of a product?",
+       "options": [
+        "Draw consumers' attention to the luxury goods symbolizing quality life.",
+        "Leave consumers the impression they are doing nothing manipulative.",
+        "Highlight the emotional response it will trigger in the consumer.",
+        "Remind consumers of the wide connections it can help to build."
+       ],
+       "optionsZh": [
+        "将消费者的注意力吸引到象征高品质生活的奢侈品上。",
+        "让消费者觉得他们没有在进行任何操纵。",
+        "强调产品将引发消费者的情感反应。",
+        "提醒消费者产品可以帮助建立广泛的人际联系。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Highlight the emotional response it will trigger in the consumer.（强调产品将引发消费者的情感反应。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the passage say about Americans?",
+       "options": [
+        "They are taking in a lot of plastic.",
+        "They are polluting the environment.",
+        "They consume much processed food.",
+        "They make everything with plastics."
+       ],
+       "optionsZh": [
+        "他们摄入了大量塑料。",
+        "他们正在污染环境。",
+        "他们食用大量加工食品。",
+        "他们用塑料制造一切东西。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They are taking in a lot of plastic.（他们摄入了大量塑料。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What counted as the biggest sources for Americans breathing in or consuming microplastics?",
+       "options": [
+        "Beer, salts and added sugars.",
+        "Tap water and take-away food.",
+        "Food packages and plastic bags.",
+        "Air, bottled water and seafood."
+       ],
+       "optionsZh": [
+        "啤酒、盐和添加糖。",
+        "自来水和外带食品。",
+        "食品包装和塑料袋。",
+        "空气、瓶装水和海鲜。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Air, bottled water and seafood.（空气、瓶装水和海鲜。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does the passage say is still unknown?",
+       "options": [
+        "How much plastic there is in the remaining 85% of Americans' typical diet.",
+        "What measures can be taken to prevent plastic objects from fragmenting.",
+        "What harm microplastics may actually do to the average Americans.",
+        "How many ways there are for microplastics to get into food and air."
+       ],
+       "optionsZh": [
+        "美国人日常饮食中剩余的85%含有多少塑料。",
+        "可以采取哪些措施来防止塑料物品碎裂。",
+        "微塑料实际上可能对普通美国人造成多大危害。",
+        "微塑料进入食物和空气的方式有多少种。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：How much plastic there is in the remaining 85% of Americans' typical diet.（美国人日常饮食中剩余的85%含有多少塑料。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What did over half of the respondents say in the survey?",
+       "options": [
+        "They planned to adopt a pet animal.",
+        "They kept not only a dog but a cat.",
+        "They had at least one pet.",
+        "They liked cats more than dogs."
+       ],
+       "optionsZh": [
+        "他们计划养一只宠物。",
+        "他们养的不仅有狗，还有猫。",
+        "他们至少养有一只宠物。",
+        "他们比起狗更喜欢猫。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They had at least one pet.（他们至少养有一只宠物。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What did most older pet owners in the survey say their pets provided?",
+       "options": [
+        "A sense of pride.",
+        "A sense of duty.",
+        "A sense of purpose.",
+        "A sense of security."
+       ],
+       "optionsZh": [
+        "自豪感。",
+        "责任感。",
+        "目标感。",
+        "安全感。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：A sense of purpose.（目标感。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What does the passage say people did report in the survey?",
+       "options": [
+        "A few problems with keeping big animals.",
+        "Some disadvantages related to pet ownership.",
+        "A few cases of getting attacked by pet animals.",
+        "Some conflicts with neighbors due to pet keeping."
+       ],
+       "optionsZh": [
+        "饲养大型动物时遇到的一些问题。",
+        "与养宠物有关的一些不利之处。",
+        "少数遭到宠物攻击的案例。",
+        "因养宠物而与邻居发生的一些冲突。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Some disadvantages related to pet ownership.（与养宠物有关的一些不利之处。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does research show interacting with pets can do?",
+       "options": [
+        "Reduce as many symptoms of depression as medical help.",
+        "Improve people's health as much as physical activities.",
+        "Lower older people's stress as effectively as exercising.",
+        "Bring many of the same benefits as human social support."
+       ],
+       "optionsZh": [
+        "像医疗帮助一样减轻同样多的抑郁症状。",
+        "像体育活动一样改善人们的健康。",
+        "像锻炼一样有效地减轻老年人的压力。",
+        "带来许多与人的社会支持相同的益处。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Bring many of the same benefits as human social support.（带来许多与人的社会支持相同的益处。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose it is proposed that university students should be required to participate in at least one research project. You are now to write a response by stating what you think of the proposal in terms of its necessity and practicality. You will have 30 minutes to write the response. You should write at least 120 words but not more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Requiring university students to take part in at least one research project is a proposal worth supporting,\nprovided it is implemented flexibly and students can choose topics that interest them. From my perspective,\nsuch a policy is both necessary and practical for most undergraduates.\nFirst, it is necessary because research experience bridges the gap between textbook knowledge and real-world\nproblem solving. Through a well-designed project, students learn to ask meaningful questions, collect reliable\ndata, and think critically. These abilities are essential for their future careers. Second, it is practical because\nuniversities already have laboratories, supervisors, and course projects in place. A single semester-long project\ncan fit into the existing curriculum without placing too much burden on students.\nTherefore, I support the proposal. It helps students develop practical skills that lectures alone cannot provide,\nand its flexible design makes it achievable for most universities."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "One of the biggest controversies over the Industrial Revolution is how it affected the working class. The oldest debates were over whether the standards of living rose or fell. Those that believed they fell claimed that the capitalists {{1}} every ounce of surplus they could from the working class. Those that believed the standards of living rose claimed that the environment was consumer-friendly, with more and more goods {{2}} to the working class every year. Today's historians agree that overall, the standards of living {{3}} . They do not agree, however, on when this improvement {{4}} . In an effort to solve this controversy, historians have attempted to define {{5}} what \"standard of living\" means. They all seem to agree that it should mean happiness, but happiness is impossible to measure. Instead, historians {{6}} use \"real income\" as the measure for the standards of living. Real income is money {{7}} and then adjusted according to the cost of living. However, it does not take into account unemployment, pollution, health, life expectancy, or free time. After {{8}} debate and analysis of the average income, historians have agreed to disagree on whether there was rapid or slow economic growth during the Industrial Revolution. Instead, they have decided to {{9}} how the Industrial Revolution was affected by other events. They have determined that the Industrial Revolution had an overall positive {{10}} , but it quite possibly was neutralized by negative events such as wars, high taxes, and rapid population growth.",
+     "options": [
+      "available",
+      "deteriorating",
+      "earned",
+      "effect",
+      "enhance",
+      "exactly",
+      "exhausting",
+      "experience",
+      "increased",
+      "interpret",
+      "occurred",
+      "peculiar",
+      "probably",
+      "squeezed",
+      "typically"
+     ],
+     "answers": [
+      13,
+      0,
+      8,
+      10,
+      5,
+      14,
+      2,
+      6,
+      9,
+      3
+     ],
+     "blankExplains": [
+      "【定位】Those that believed they fell claimed that the capitalists ____ every ounce of surplus they could from the working class.\n【依据】答案是 squeezed：填回后与所在句 believed、fell、claimed、capitalists、every、ounce 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Those that believed the standards of living rose claimed that the environment was consumer-friendly, with more and more goods ____ to the working class every year.\n【依据】答案是 available：填回后与所在句 believed、standards、living、rose、claimed、environment 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Today's historians agree that overall, the standards of living ____ .\n【依据】答案是 increased：填回后与所在句 today's、historians、agree、overall、standards、living 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】They do not agree, however, on when this improvement ____ .\n【依据】答案是 occurred：填回后与所在句 agree、however、when、improvement 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In an effort to solve this controversy, historians have attempted to define ____ what \"standard of living\" means.\n【依据】答案是 exactly：填回后与所在句 effort、solve、controversy、historians、attempted、define 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Instead, historians ____ use \"real income\" as the measure for the standards of living.\n【依据】答案是 typically：填回后与所在句 instead、historians、use、real、income、measure 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Real income is money ____ and then adjusted according to the cost of living.\n【依据】答案是 earned：填回后与所在句 real、income、money、adjusted、according、cost 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】After ____ debate and analysis of the average income, historians have agreed to disagree on whether there was rapid or slow economic growth during the Industrial Revolution.\n【依据】答案是 exhausting：填回后与所在句 after、debate、analysis、average、income、historians 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Instead, they have decided to ____ how the Industrial Revolution was affected by other events.\n【依据】答案是 interpret：填回后与所在句 instead、decided、how、industrial、revolution、affected 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】They have determined that the Industrial Revolution had an overall positive ____ , but it quite possibly was neutralized by negative events such as wars, high taxes, and rapid population growth.\n【依据】答案是 effect：填回后与所在句 determined、industrial、revolution、overall、positive、quite 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Those that believed they fell claimed that the capitalists ____ every ounce of surplus they could from the working class.",
+       "why": "答案是 squeezed：填回后与所在句 believed、fell、claimed、capitalists、every、ounce 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 squeezed 这个词性/语义，而不是 available）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 squeezed 这个词性/语义，而不是 deteriorating）。"
+       }
+      },
+      {
+       "locate": "Those that believed the standards of living rose claimed that the environment was consumer-friendly, with more and more goods ____ to the working class every year.",
+       "why": "答案是 available：填回后与所在句 believed、standards、living、rose、claimed、environment 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 available 这个词性/语义，而不是 deteriorating）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 available 这个词性/语义，而不是 earned）。"
+       }
+      },
+      {
+       "locate": "Today's historians agree that overall, the standards of living ____ .",
+       "why": "答案是 increased：填回后与所在句 today's、historians、agree、overall、standards、living 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 increased 这个词性/语义，而不是 interpret）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 increased 这个词性/语义，而不是 available）。"
+       }
+      },
+      {
+       "locate": "They do not agree, however, on when this improvement ____ .",
+       "why": "答案是 occurred：填回后与所在句 agree、however、when、improvement 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 occurred 这个词性/语义，而不是 available）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 occurred 这个词性/语义，而不是 deteriorating）。"
+       }
+      },
+      {
+       "locate": "In an effort to solve this controversy, historians have attempted to define ____ what \"standard of living\" means.",
+       "why": "答案是 exactly：填回后与所在句 effort、solve、controversy、historians、attempted、define 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exactly 这个词性/语义，而不是 exhausting）。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exactly 这个词性/语义，而不是 experience）。"
+       }
+      },
+      {
+       "locate": "Instead, historians ____ use \"real income\" as the measure for the standards of living.",
+       "why": "答案是 typically：填回后与所在句 instead、historians、use、real、income、measure 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 typically 这个词性/语义，而不是 available）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 typically 这个词性/语义，而不是 deteriorating）。"
+       }
+      },
+      {
+       "locate": "Real income is money ____ and then adjusted according to the cost of living.",
+       "why": "答案是 earned：填回后与所在句 real、income、money、adjusted、according、cost 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 earned 这个词性/语义，而不是 effect）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 earned 这个词性/语义，而不是 enhance）。"
+       }
+      },
+      {
+       "locate": "After ____ debate and analysis of the average income, historians have agreed to disagree on whether there was rapid or slow economic growth during the Industrial Revolution.",
+       "why": "答案是 exhausting：填回后与所在句 after、debate、analysis、average、income、historians 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exhausting 这个词性/语义，而不是 exactly）。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exhausting 这个词性/语义，而不是 experience）。"
+       }
+      },
+      {
+       "locate": "Instead, they have decided to ____ how the Industrial Revolution was affected by other events.",
+       "why": "答案是 interpret：填回后与所在句 instead、decided、how、industrial、revolution、affected 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 interpret 这个词性/语义，而不是 increased）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 interpret 这个词性/语义，而不是 available）。"
+       }
+      },
+      {
+       "locate": "They have determined that the Industrial Revolution had an overall positive ____ , but it quite possibly was neutralized by negative events such as wars, high taxes, and rapid population growth.",
+       "why": "答案是 effect：填回后与所在句 determined、industrial、revolution、overall、positive、quite 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 effect 这个词性/语义，而不是 earned）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 effect 这个词性/语义，而不是 enhance）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "I was glad I had such terrible jetlag. Wide awake at 3:30 am with our nine-year-old daughter on our lodge balcony, I stared for hours at the most incredible night sky I've ever seen before the dawn slowly started to rub out the stars on the horizon and the multiple shooting stars faded away."
+      },
+      {
+       "id": "B",
+       "text": "We were going to my wife's big family reunion in Auckland, New Zealand, but when we found out that Great Barrier Island, just off the coast, had been recently awarded Dark Sky Sanctuary status—a typically remote area that has an \"exceptional or distinguished quality of starry nights\"—we thought it would be the perfect place to relax before our busy schedule. It's the first island and only the fourth location in the world to achieve this status."
+      },
+      {
+       "id": "C",
+       "text": "After a 28-hour flight with two travel-sick children, our hearts sank when we saw the tiny twin engine 10-seater that was to take us the 90km across the Hauraki Gulf to Great Barrier Island. But we needn't have worried. Whether it was the gravity force of the plane climbing or the noise of the engine, it put our three-year-old daughter instantly to sleep until we bumped down on the grass at Claris Airport. Our first empty sick bag against all the odds…Things were looking up."
+      },
+      {
+       "id": "D",
+       "text": "Great Barrier Island has no public facilities and the 950 people living there (though only about half permanently) rely on solar and wind energy, and bottled gas for cooking. There are no streetlights. There are no cash machines or banks. The police force comprises a husband and wife, and there's one postman. It's not just the lack of light but the lack of noise that's so delightful on this unique and gorgeous scene. It was first discovered by East Polynesians about 700 years ago and the Maori name for the island is Aotea. Captain Cook gave the island its European name, because it acts as a barrier between the Pacific and the Hauraki Gulf."
+      },
+      {
+       "id": "E",
+       "text": "The climate here is subtropical(亚热带的) like Auckland's. The island boasts a beautiful wilderness with dense forests, glorious, unspoilt sandy beaches and plenty of bays and a few mountainous areas where there are good walking tracks among the wetlands and valleys. You can birdwatch, dive, surf and boat. The best beaches are on the eastern side of the island where the surf is better, too. The sheltered western side is where you'll find the best diving and boating. Lots of people come here for the fantastic fishing spots around the island. Like a lot of spots in New Zealand, there are whale-watching trips and you might just catch sight of sharks."
+      },
+      {
+       "id": "F",
+       "text": "It's rare to find an island that really does feel undiscovered—but this is it. When one of my wife's relations, who comes here regularly, found out that we'd been there, he whispered to us, only half-joking: \"Shh—don't tell anyone!\" The locals are a relaxed and friendly bunch—a lot of them told us that it's like what Waiheke Island (now in effect a suburb of Auckland) was in the 1970s when it was a commune of artists and people wanting to escape the city."
+      },
+      {
+       "id": "G",
+       "text": "Our guide for some of our stay was the inestimable Hilde Hoven, a Dark Sky ambassador who runs Good Heavens with Deborah Kilgallon and Orla Cumisky. They bring their Dobsonian telescope and beanbags (it's hard work staring up wide-eyed in wonder without neck support) and, our elder daughter was glad to hear, hot chocolate to wherever you are on the island. \"It's odd but when the light readings were done,\" said Hilde, explaining how the island was awarded its special status, \"they found there was more light pollution on the northern side coming from Fiji, which is about 3,000km away, than Auckland to the south. It's pretty dark!\""
+      },
+      {
+       "id": "H",
+       "text": "Beginning their astronomical PowerPoint demonstration using a green laser pointer, Hilde and Orla showed us the Messier 4 spherical cluster(星团) with white dwarf stars(白矮星), Saturn and its rings, the Southern Cross and the Milky Way, which stretched across the sky. Our daughter was especially taken with Hilde's narrating of the Maori myth of Māui's fish hook to explain the shape of Scorpius. In the fable, Māui hauled the North Island of New Zealand from the bottom of the ocean with his hook."
+      },
+      {
+       "id": "I",
+       "text": "We stayed at Mount St Paul's Estate, a luxurious lodge run by the friendly Chris and Teara, both from Canada. Teara used to be a chef at the Langham in Auckland and so dinner, eaten around a huge circular table (made of one of the most ancient trees in the world), was every bit as mouth-watering as you'd expect. Eating pancakes on the balcony overlooking the unspoilt white sandy beach was a great way to start the day."
+      },
+      {
+       "id": "J",
+       "text": "Another highlight was an hour-long walk to Kaitoke hot pools in the centre of the island, through wetlands and a forest, where we whiled away a good hour sitting in the pools shaded from the heat by layers of delicate umbrella-like plants."
+      },
+      {
+       "id": "K",
+       "text": "We also loved visiting the potter(陶艺家) Sarah Harrison, who showed us round her studio at Shoal Bay harbour, and her many pots and jugs, plates and bowls and colourful mosaics(马赛克). In her work, she also uses a lot of materials found on the beach. Our elder daughter loved the gorgeous hidden pool at Medlands beach where the water is separated from the sea in a private rock pool. Other high points were the ancient pōhutukawa trees and the incredible views of Okiwi Basin and Whangapoua beach from the top of Windy Canyon, just a 10-minute hike through a narrow valley up some steep wooden steps on the eastern side of the island."
+      },
+      {
+       "id": "L",
+       "text": "Apparently the island council turned down famous musician Paul McCartney's application to buy a property at Great Barrier Island because of the unwelcome attention he would have brought. You can see why he wanted to come here; equally, the island knows exactly what kind of star watching it prefers."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "The author's daughter slept throughout the last leg of their flight to Great Barrier Island."
+      },
+      {
+       "id": "s37",
+       "text": "The lodge where the author stayed provided very delicious food."
+      },
+      {
+       "id": "s38",
+       "text": "Many people are attracted to Great Barrier Island because of the incredible fishing sites around it."
+      },
+      {
+       "id": "s39",
+       "text": "A well-known artist failed to purchase a house on Great Barrier Island."
+      },
+      {
+       "id": "s40",
+       "text": "Unable to fall asleep after a long flight, the author was pleased to enjoy the most gorgeous view of the night sky in his life."
+      },
+      {
+       "id": "s41",
+       "text": "Great Barrier Island is compared to another island which attracted a lot of artists and people who wished to stay away from city life half a century ago."
+      },
+      {
+       "id": "s42",
+       "text": "One most memorable part of the author's visit to Great Barrier Island was a one-hour walk to its centre's hot springs."
+      },
+      {
+       "id": "s43",
+       "text": "Great Barrier Island has officially been recognized for its extraordinary starry nights."
+      },
+      {
+       "id": "s44",
+       "text": "Great Barrier Island is not connected to any public power supply lines."
+      },
+      {
+       "id": "s45",
+       "text": "It is strange that light pollution on Great Barrier Island mainly comes from a faraway island to the north."
+      }
+     ],
+     "answers": [
+      "C",
+      "I",
+      "E",
+      "L",
+      "A",
+      "F",
+      "J",
+      "B",
+      "D",
+      "G"
+     ],
+     "statementExplains": [
+      "【定位】After a 28-hour flight with two travel-sick children, our hearts sank when we saw the tiny twin engine 10-seater that was to take us the 90km across the Hauraki Gulf to Great Barrier Island.\n【依据】陈述里的 flight、great、barrier、island 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】We stayed at Mount St Paul's Estate, a luxurious lodge run by the friendly Chris and Teara, both from Canada.\n【依据】陈述里的 lodge、stayed 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Lots of people come here for the fantastic fishing spots around the island.\n【依据】陈述里的 people、island、fishing、around 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Apparently the island council turned down famous musician Paul McCartney's application to buy a property at Great Barrier Island because of the unwelcome attention he would have brought.\n【依据】陈述里的 great、barrier、island 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】Wide awake at 3:30 am with our nine-year-old daughter on our lodge balcony, I stared for hours at the most incredible night sky I've ever seen before the dawn slowly started to rub out the stars on the horizon and the multiple shooting stars faded away.\n【依据】陈述里的 night、sky 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】When one of my wife's relations, who comes here regularly, found out that we'd been there, he whispered to us, only half-joking: \"Shh—don't tell anyone!\" The locals are a relaxed and friendly bunch—a lot of them told us that it's like what Waiheke Island (now in effect a suburb of Auckland) was in the 1970s when it was a commune of artists and people wanting to escape the city.\n【依据】陈述里的 island、island、lot、artists、people、who 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Another highlight was an hour-long walk to Kaitoke hot pools in the centre of the island, through wetlands and a forest, where we whiled away a good hour sitting in the pools shaded from the heat by layers of delicate umbrella-like plants.\n【依据】陈述里的 island、walk、centre's、hot 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】We were going to my wife's big family reunion in Auckland, New Zealand, but when we found out that Great Barrier Island, just off the coast, had been recently awarded Dark Sky Sanctuary status—a typically remote area that has an \"exceptional or distinguished quality of starry nights\"—we thought it would be the perfect place to relax before our busy schedule.\n【依据】陈述里的 great、barrier、island、starry、nights 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Great Barrier Island has no public facilities and the 950 people living there (though only about half permanently) rely on solar and wind energy, and bottled gas for cooking.\n【依据】陈述里的 great、barrier、island、public 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】\"It's odd but when the light readings were done,\" said Hilde, explaining how the island was awarded its special status, \"they found there was more light pollution on the northern side coming from Fiji, which is about 3,000km away, than Auckland to the south.\n【依据】陈述里的 light、pollution、island、island、north 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "After a 28-hour flight with two travel-sick children, our hearts sank when we saw the tiny twin engine 10-seater that was to take us the 90km across the Hauraki Gulf to Great Barrier Island.",
+       "why": "陈述里的 flight、great、barrier、island 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "We stayed at Mount St Paul's Estate, a luxurious lodge run by the friendly Chris and Teara, both from Canada.",
+       "why": "陈述里的 lodge、stayed 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Lots of people come here for the fantastic fishing spots around the island.",
+       "why": "陈述里的 people、island、fishing、around 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Apparently the island council turned down famous musician Paul McCartney's application to buy a property at Great Barrier Island because of the unwelcome attention he would have brought.",
+       "why": "陈述里的 great、barrier、island 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Wide awake at 3:30 am with our nine-year-old daughter on our lodge balcony, I stared for hours at the most incredible night sky I've ever seen before the dawn slowly started to rub out the stars on the horizon and the multiple shooting stars faded away.",
+       "why": "陈述里的 night、sky 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "When one of my wife's relations, who comes here regularly, found out that we'd been there, he whispered to us, only half-joking: \"Shh—don't tell anyone!\" The locals are a relaxed and friendly bunch—a lot of them told us that it's like what Waiheke Island (now in effect a suburb of Auckland) was in the 1970s when it was a commune of artists and people wanting to escape the city.",
+       "why": "陈述里的 island、island、lot、artists、people、who 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Another highlight was an hour-long walk to Kaitoke hot pools in the centre of the island, through wetlands and a forest, where we whiled away a good hour sitting in the pools shaded from the heat by layers of delicate umbrella-like plants.",
+       "why": "陈述里的 island、walk、centre's、hot 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "We were going to my wife's big family reunion in Auckland, New Zealand, but when we found out that Great Barrier Island, just off the coast, had been recently awarded Dark Sky Sanctuary status—a typically remote area that has an \"exceptional or distinguished quality of starry nights\"—we thought it would be the perfect place to relax before our busy schedule.",
+       "why": "陈述里的 great、barrier、island、starry、nights 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Great Barrier Island has no public facilities and the 950 people living there (though only about half permanently) rely on solar and wind energy, and bottled gas for cooking.",
+       "why": "陈述里的 great、barrier、island、public 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"It's odd but when the light readings were done,\" said Hilde, explaining how the island was awarded its special status, \"they found there was more light pollution on the northern side coming from Fiji, which is about 3,000km away, than Auckland to the south.",
+       "why": "陈述里的 light、pollution、island、island、north 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Is organic food worth the higher price? It's the classic grocery store dilemma. On the one hand, your family dinner table deserves only the best. On the other hand, your wallet can only stretch so far. Whether or not to buy organic is a personal decision, said Mike von Massow, professor of Food Agriculture. Science won't give a clear-cut answer to the question of whether organic food is \"better\". There are often trade-offs(权衡) and answers become less definitive depending on the product under consideration. One thing is definitive: Organic and conventionally grown food are equally nutritious. From a nutrition point of view, there is no difference between organic and traditionally grown products. Organic products don't necessarily have fewer pesticides(杀虫剂)—in fact, they may have more. There is also no big difference between organic and non-organic products from a food-safety perspective. Even organic growers use pesticides. Testing shows little if any pesticide remains on conventionally grown products. In fact, organic farmers often use larger quantities of pesticide because they can only use the natural variety of insect-killers. Chemical pesticides generally kill a much wider range of pests(害虫) than any single natural pesticide. The use of animal waste in organic agriculture can also be a factor in the spread of bacteria like E. coli and salmonella. Over the past 10 years, Canada has seen more food-safety recalls for organic products, proportionally, than for conventional products. On the whole, organic agriculture may have a smaller environmental footprint. That's mostly because the risk of groundwater contamination from organic farming is lower. Organic farmers never use neonics, the controversial pesticides that have been linked to shrinking bee populations worldwide. Traditional agriculture has been making \"dramatic improvements\" to reduce its impact on the environment. It isn't a black-and-white picture, though. Organic farming is much less efficient when it comes to land use, although yields vary considerably depending on the crop. On the other hand, advocates of organic farming argue yields and efficiency could be significantly improved if the food industry devoted as much research and money to organic farming as it does conventional agriculture.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What is the classic grocery store dilemma?",
+       "options": [
+        "Whether or not one should eat organic food.",
+        "Whether or not one can stretch their wallet far.",
+        "Organic food costs more but it certainly tastes better.",
+        "One wants the best food but their budget is limited."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】It's the classic grocery store dilemma.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 wants、best、food、budget 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It's the classic grocery store dilemma.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 wants、best、food、budget 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「eat」全文未出现。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "因果倒置：「costs、certainly、tastes」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we learn about organic food from science?",
+       "options": [
+        "Whether it is any better remains uncertain.",
+        "Whether it is healthier is under consideration.",
+        "Whether it is more nutritious than conventional food is arguable.",
+        "Whether it is going to replace conventional food is still unclear."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Science won't give a clear-cut answer to the question of whether organic food is \"better\".\n【依据】正确项的核心词 whether、better 与定位句对得上；其余 remains、uncertain 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Science won't give a clear-cut answer to the question of whether organic food is \"better\".",
+        "why": "正确项的核心词 whether、better 与定位句对得上；其余 remains、uncertain 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「healthier」全文未出现；把原文的「whether」换成了「healthier、under、consideration」，主语或对象被调包。",
+         "C": "偷换主体：「arguable」全文未出现；把原文的「whether、food」换成了「nutritious、conventional、arguable」，主语或对象被调包。",
+         "D": "无中生有：「going、replace、still」全文未出现；把原文的「whether、food」换成了「going、replace、conventional」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the passage say about organic and non-organic products as far as food safety is concerned?",
+       "options": [
+        "Their difference is the conventions used to test them.",
+        "They differ in how much pesticide remains on them.",
+        "One relies on pesticides whereas the other does not.",
+        "There is no substantial difference between the two."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】There is also no big difference between organic and non-organic products from a food-safety perspective.\n【依据】正确项的核心词 there、difference、between 与定位句对得上；其余 substantial、two 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "There is also no big difference between organic and non-organic products from a food-safety perspective.",
+        "why": "正确项的核心词 there、difference、between 与定位句对得上；其余 substantial、two 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「conventions、used、test」全文未出现；把原文的「difference」换成了「conventions、used、test」，主语或对象被调包。",
+         "B": "偷换主体：「how」全文未出现；把原文的「differ」换成了「how、much、pesticide」，主语或对象被调包。",
+         "C": "因果倒置：「relies、whereas」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does the author say about organic farming?",
+       "options": [
+        "It may be blamed for the shrinking bee populations in the world.",
+        "It minimizes the use of controversial pesticides in its operations.",
+        "It may impact the environment less than conventional farming.",
+        "It contaminates groundwater as much as conventional farming."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】On the other hand, advocates of organic farming argue yields and efficiency could be significantly improved if the food industry devoted as much research and money to organic farming as it does conventional agriculture.\n【依据】正确项的核心词 conventional、farming 与定位句对得上；其余 impact、environment、less 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "On the other hand, advocates of organic farming argue yields and efficiency could be significantly improved if the food industry devoted as much research and money to organic farming as it does conventional agriculture.",
+        "why": "正确项的核心词 conventional、farming 与定位句对得上；其余 impact、environment、less 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「blamed、world」全文未出现。",
+         "B": "因果倒置：「minimizes、operations」全文未出现。",
+         "D": "偷换主体：「contaminates」全文未出现；把原文的「much、conventional、farming」换成了「contaminates、groundwater」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What do advocates of organic farming argue about its yields and efficiency?",
+       "options": [
+        "They would increase quickly with the emergence of new technologies.",
+        "They would improve remarkably with more research and investment.",
+        "They would be achieved along with enormous health benefits.",
+        "They would considerably lower the cost to the environment."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】On the other hand, advocates of organic farming argue yields and efficiency could be significantly improved if the food industry devoted as much research and money to organic farming as it does conventional agriculture.\n【依据】正确项的核心词 improve、research 与定位句对得上；其余 remarkably、investment 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "On the other hand, advocates of organic farming argue yields and efficiency could be significantly improved if the food industry devoted as much research and money to organic farming as it does conventional agriculture.",
+        "why": "正确项的核心词 improve、research 与定位句对得上；其余 remarkably、investment 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「increase、quickly、emergence」全文未出现。",
+         "C": "无中生有：「achieved、along、enormous」全文未出现。",
+         "D": "因果倒置：「cost」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 347 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "It is still controversial whether we are fundamentally generous or selfish and whether these tendencies are shaped by our genes or environment. Some evidence points to humans being born cooperative. At later stages in life we routinely work together to reach goals and help out in times of need. Yet instances of selfish behavior are also plenty. One recent study tested people's willingness to set aside selfish interests to reach a greater good. It found that being selfish was more advantageous than cooperating. The benefit may be short-lived, however. Another study showed that players who cooperated did better in the long run. It seems that human nature supports both pro-social and selfish traits(特征). Genetic studies have made some progress toward identifying their biological roots. By comparing identical twins, who share nearly 100 percent of their genes, and non-identical twins, who share about half, researchers have found overwhelming evidence for genetic effects on behaviors. In these twin studies, identical and non-identical twins are asked, for example, to split a sum of money with a peer. Such studies often also rely on careful psychological assessments and DNA analysis. Other work highlights specific genes as key players. My colleagues and I recently identified a gene linked to altruistic(利他的) behavior and found that a particular variant of it was associated with more selfish behavior in preschoolers. According to evolutionary scientists, cooperative behavior may have evolved first among relatives to promote the continuation of their genetic line. As communities diversified, mutual support could have broadened to include individuals not linked by blood. Another possibility is that humans cooperate to gain some advantage, such as boosting reputation. Finally, evolutionary processes take place at the group level. Groups of highly cooperative individuals have higher chances of survival because they can work together to reach goals that are unattainable to less cooperative groups. Yet almost no behavior is entirely genetic, even among identical twins. Culture, schooling and parenting are important determinants of cooperation. Thus, the degree to which we act cooperatively or selfishly is unique to each individual and depends on a variety of genetic and environmental influences.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What is the finding of one recent study about being selfish?",
+       "options": [
+        "It may bring certain benefits in the short term.",
+        "It usually yields more disadvantages than advantages.",
+        "It serves individual interest rather than a collective's.",
+        "It may give way to cooperating in the long run."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】One recent study tested people's willingness to set aside selfish interests to reach a greater good.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 bring、certain、benefits、short 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One recent study tested people's willingness to set aside selfish interests to reach a greater good.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 bring、certain、benefits、short 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「usually、yields、disadvantages」全文未出现。",
+         "C": "无中生有：「serves、rather、collective's」全文未出现；把原文的「interest」换成了「serves、individual、rather」，主语或对象被调包。",
+         "D": "因果倒置：「give、way」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What have researchers found by studying identical and non-identical twins?",
+       "options": [
+        "They are overwhelmingly different in the amounts of genes.",
+        "One's behavior is largely determined by their genetic traits.",
+        "One's biological roots can be identified by their genes.",
+        "They differ from each other in their behavior patterns."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】By comparing identical twins, who share nearly 100 percent of their genes, and non-identical twins, who share about half, researchers have found overwhelming evidence for genetic effects on behaviors.\n【依据】正确项的核心词 behavior、genetic 与定位句对得上；其余 one's、largely、determined、traits 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "By comparing identical twins, who share nearly 100 percent of their genes, and non-identical twins, who share about half, researchers have found overwhelming evidence for genetic effects on behaviors.",
+        "why": "正确项的核心词 behavior、genetic 与定位句对得上；其余 one's、largely、determined、traits 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「different、amounts」全文未出现；把原文的「overwhelmingly、genes」换成了「different、amounts」，主语或对象被调包。",
+         "C": "偷换主体：「one's」全文未出现；把原文的「identified、genes」换成了「one's、biological、roots」，主语或对象被调包。",
+         "D": "偷换主体：「differ、patterns」全文未出现；把原文的「behavior」换成了「differ、each、other」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What did the author and colleagues identify in their recent research?",
+       "options": [
+        "A gene-related selfish behavior in preschool children.",
+        "Key factors that determine one's altruistic behavior.",
+        "A specific gene associated with altruistic behavior.",
+        "Roles played by genes in shaping one's character."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】My colleagues and I recently identified a gene linked to altruistic(利他的) behavior and found that a particular variant of it was associated with more selfish behavior in preschoolers.\n【依据】正确项的核心词 gene、associated、altruistic、behavior 与定位句对得上；其余 specific 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "My colleagues and I recently identified a gene linked to altruistic(利他的) behavior and found that a particular variant of it was associated with more selfish behavior in preschoolers.",
+        "why": "正确项的核心词 gene、associated、altruistic、behavior 与定位句对得上；其余 specific 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「gene-related、children」全文未出现；把原文的「selfish、behavior、preschool」换成了「gene-related、children」，主语或对象被调包。",
+         "B": "无中生有：「factors、determine、one's」全文未出现；把原文的「altruistic、behavior」换成了「key、factors、determine」，主语或对象被调包。",
+         "D": "无中生有：「roles、played、shaping」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What do we learn from evolutionary scientists about cooperative behavior?",
+       "options": [
+        "It may have initially originated in individuals linked by blood.",
+        "It may have caused the diversification of communities.",
+        "It helps to build relationships among blood-related people.",
+        "It guarantees the achievement of goals otherwise unattainable."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】According to evolutionary scientists, cooperative behavior may have evolved first among relatives to promote the continuation of their genetic line.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 initially、originated、individuals、linked 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "According to evolutionary scientists, cooperative behavior may have evolved first among relatives to promote the continuation of their genetic line.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 initially、originated、individuals、linked 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「caused、diversification」全文未出现。",
+         "C": "无中生有：「helps、build、blood-related」全文未出现；把原文的「relationships、among」换成了「helps、build、blood-related」，主语或对象被调包。",
+         "D": "无中生有：「guarantees、achievement、otherwise」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What can we infer from the last paragraph?",
+       "options": [
+        "Cooperative behavior is evident among identical twins.",
+        "One is born either cooperative or non-cooperative.",
+        "Genes determine one's tendency to cooperate.",
+        "Cooperative behavior may be cultivated."
+       ],
+       "answer": 3,
+       "kind": "inference",
+       "explain": "【定位】According to evolutionary scientists, cooperative behavior may have evolved first among relatives to promote the continuation of their genetic line.\n【依据】正确项的核心词 cooperative、behavior 与定位句对得上；其余 cultivated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "According to evolutionary scientists, cooperative behavior may have evolved first among relatives to promote the continuation of their genetic line.",
+        "why": "正确项的核心词 cooperative、behavior 与定位句对得上；其余 cultivated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「evident」全文未出现；把原文的「cooperative、behavior、among」换成了「evident、identical、twins」，主语或对象被调包。",
+         "B": "无中生有：「either、non-cooperative」全文未出现；把原文的「cooperative」换成了「born、either、non-cooperative」，主语或对象被调包。",
+         "C": "无中生有：「determine、one's、tendency」全文未出现；把原文的「cooperate」换成了「genes、determine、one's」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 349 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "中国有句老话：\"一日为师，终身为父\"。在中国人的观念里，老师不仅传授知识，更教给学生做人的道理。在古代，学生初次见老师时要举行隆重的仪式，足见老师地位之高。为弘扬尊师的优良传统，中国从1985年开始将每年的9月10日定为教师节。在这一天，学生以各种方式表达对老师的敬意。尊师是中华民族的传统美德，在当今社会得到了发扬光大。",
+     "reference": "There is an old Chinese saying: \"A teacher for a day is a father for a lifetime.\" In the eyes of Chinese people, teachers not only impart knowledge, but also teach students how to be a good person In ancient times, students had to hold a grand ceremony when they met their teacher for the first time, which was enough to show the high status of teachers. To carry forward the fine tradition of respecting teachers, China has observed September 10 of each year as Teachers' Day since 1985. On this day, students express their respect for teachers in various ways. Respecting teachers is a traditional virtue of the Chinese nation, and it has been carried forward in today's society.",
+     "keyPoints": [
+      "There is an old Chinese saying: \"A teacher for a day is a father for a lifetime.\" In the eyes of Chinese people, teachers not only impart knowledge, but also teach students how to be a good person In ancient times, students had to hold a grand ceremony when they met their teacher for the first time, which was enough to show the high status of teachers.",
+      "To carry forward the fine tradition of respecting teachers, China has observed September 10 of each year as Teachers' Day since 1985.",
+      "On this day, students express their respect for teachers in various ways.",
+      "Respecting teachers is a traditional virtue of the Chinese nation, and it has been carried forward in today's society."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

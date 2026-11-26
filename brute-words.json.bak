@@ -1,0 +1,857 @@
+{
+ "meta": {
+  "source": "35 套四级真题（2020-12 → 2026-06）实测词频 × lexicon 释义",
+  "rule": "出现在 20/35 套以上、且非功能词的内容词",
+  "count": 141,
+  "missing_meaning": 1,
+  "note": "8 秒/词是训练链里写死的时间额度；142 个词过一遍约 19 分钟。"
+ },
+ "words": [
+  {
+   "w": "learn",
+   "zh": "v. 学习；得知",
+   "papers": 35,
+   "count": 175
+  },
+  {
+   "w": "first",
+   "zh": "n. 第一；adj. 第一的",
+   "papers": 33,
+   "count": 108
+  },
+  {
+   "w": "good",
+   "zh": "adj. 好的；优秀的",
+   "papers": 32,
+   "count": 134
+  },
+  {
+   "w": "long",
+   "zh": "adj. 长的；长时间的；adv. 长久地；始终",
+   "papers": 32,
+   "count": 98
+  },
+  {
+   "w": "better",
+   "zh": "adj. 更好的；更优秀的；“good”的比较级；adv. 更好地；“well”的比较级",
+   "papers": 31,
+   "count": 84
+  },
+  {
+   "w": "life",
+   "zh": "n. 生活；生命；人生",
+   "papers": 30,
+   "count": 132
+  },
+  {
+   "w": "health",
+   "zh": "n. 健康；健康状况",
+   "papers": 30,
+   "count": 131
+  },
+  {
+   "w": "studies",
+   "zh": "v. 学习；研究；“study”的第三人称单数；n. 学习；研究；“study”的复数",
+   "papers": 30,
+   "count": 88
+  },
+  {
+   "w": "public",
+   "zh": "adj. 平民的；大众的；公众的；n. 公众；公共场所",
+   "papers": 29,
+   "count": 80
+  },
+  {
+   "w": "important",
+   "zh": "adj. 重要的",
+   "papers": 29,
+   "count": 79
+  },
+  {
+   "w": "feel",
+   "zh": "v. 感到；触摸；认为；n. 感受；触觉",
+   "papers": 29,
+   "count": 65
+  },
+  {
+   "w": "means",
+   "zh": "n. 手段；方法；收入；财富；v. 意思是；表示…的意思；“mean”的第三人称单数",
+   "papers": 29,
+   "count": 53
+  },
+  {
+   "w": "back",
+   "zh": "n. 背部；后面；adv. 回原处；向后",
+   "papers": 29,
+   "count": 53
+  },
+  {
+   "w": "food",
+   "zh": "n. 食物",
+   "papers": 28,
+   "count": 172
+  },
+  {
+   "w": "social",
+   "zh": "adj. 社会的；社交的；n. 社交聚会",
+   "papers": 28,
+   "count": 132
+  },
+  {
+   "w": "part",
+   "zh": "n. 部分；局部；零件；角色；v. 分离；分开",
+   "papers": 28,
+   "count": 65
+  },
+  {
+   "w": "example",
+   "zh": "n. 例子；实例；榜样",
+   "papers": 28,
+   "count": 57
+  },
+  {
+   "w": "themselves",
+   "zh": "pron. 他们自己；她们自己；它们自己",
+   "papers": 28,
+   "count": 55
+  },
+  {
+   "w": "high",
+   "zh": "adj. 高的；adv. 在高处",
+   "papers": 27,
+   "count": 73
+  },
+  {
+   "w": "number",
+   "zh": "n. 数字；号码",
+   "papers": 27,
+   "count": 67
+  },
+  {
+   "w": "recent",
+   "zh": "adj. 近来的；新近的",
+   "papers": 27,
+   "count": 52
+  },
+  {
+   "w": "keep",
+   "zh": "v. 继续；保持；保留",
+   "papers": 27,
+   "count": 46
+  },
+  {
+   "w": "suggest",
+   "zh": "v. 建议；提出；使想起；暗示",
+   "papers": 27,
+   "count": 41
+  },
+  {
+   "w": "different",
+   "zh": "adj. 不同的",
+   "papers": 26,
+   "count": 92
+  },
+  {
+   "w": "change",
+   "zh": "n. 变化；变革；零钱；v. 变化；变革",
+   "papers": 26,
+   "count": 91
+  },
+  {
+   "w": "business",
+   "zh": "n. 生意；商业；事务",
+   "papers": 26,
+   "count": 82
+  },
+  {
+   "w": "come",
+   "zh": "v. 来；到来",
+   "papers": 26,
+   "count": 56
+  },
+  {
+   "w": "woman",
+   "zh": "n. 女人；妇女",
+   "papers": 25,
+   "count": 114
+  },
+  {
+   "w": "human",
+   "zh": "adj. 人的；人类的；n. 人；人类",
+   "papers": 25,
+   "count": 67
+  },
+  {
+   "w": "problem",
+   "zh": "n. 难题；问题",
+   "papers": 25,
+   "count": 61
+  },
+  {
+   "w": "family",
+   "zh": "n. 家庭；家族；adj. 家庭的；家族的",
+   "papers": 25,
+   "count": 59
+  },
+  {
+   "w": "actually",
+   "zh": "adv. 事实上；实际上；竟然",
+   "papers": 25,
+   "count": 56
+  },
+  {
+   "w": "taking",
+   "zh": "v. 拿；带领；乘坐；接受；花费；做（某个动作）",
+   "papers": 25,
+   "count": 56
+  },
+  {
+   "w": "news",
+   "zh": "n. 新闻；消息",
+   "papers": 25,
+   "count": 53
+  },
+  {
+   "w": "attention",
+   "zh": "n. 注意；关注；照料",
+   "papers": 25,
+   "count": 45
+  },
+  {
+   "w": "greater",
+   "zh": "adj. 较大的；程度较重的",
+   "papers": 25,
+   "count": 40
+  },
+  {
+   "w": "skills",
+   "zh": "n. 技能；技巧；技术；“skill”的复数",
+   "papers": 24,
+   "count": 92
+  },
+  {
+   "w": "experience",
+   "zh": "v. 经历；体验；n. 经验；阅历",
+   "papers": 24,
+   "count": 72
+  },
+  {
+   "w": "best",
+   "zh": "adj. 最好的；最多的；最大的；“good”的最高级；adv. 最好地；最多地；最大地；“well”的最高级",
+   "papers": 24,
+   "count": 68
+  },
+  {
+   "w": "great",
+   "zh": "adj. 伟大的；大的；极好的；adv. 很好地",
+   "papers": 24,
+   "count": 55
+  },
+  {
+   "w": "benefits",
+   "zh": "n. 利益；好处；“benefit”的复数；v. 有益于；有助于；“benefit”的第三人称单数",
+   "papers": 24,
+   "count": 54
+  },
+  {
+   "w": "based",
+   "zh": "v. 以…为基础；n. 基地；基础",
+   "papers": 24,
+   "count": 53
+  },
+  {
+   "w": "little",
+   "zh": "adj. 少的；小的",
+   "papers": 24,
+   "count": 52
+  },
+  {
+   "w": "understand",
+   "zh": "v. 理解",
+   "papers": 24,
+   "count": 50
+  },
+  {
+   "w": "look",
+   "zh": "v. 看；看上去；n. 看",
+   "papers": 24,
+   "count": 49
+  },
+  {
+   "w": "increase",
+   "zh": "n. 增加；增长；v. 增加；增多",
+   "papers": 24,
+   "count": 46
+  },
+  {
+   "w": "place",
+   "zh": "n. 地方；方位；v. 安置；安放",
+   "papers": 24,
+   "count": 46
+  },
+  {
+   "w": "children",
+   "zh": "n. 儿童；小孩；“child”的复数",
+   "papers": 23,
+   "count": 137
+  },
+  {
+   "w": "self",
+   "zh": "n. 自我；本人",
+   "papers": 23,
+   "count": 80
+  },
+  {
+   "w": "home",
+   "zh": "n. 家；家庭；adv. 在家",
+   "papers": 23,
+   "count": 65
+  },
+  {
+   "w": "local",
+   "zh": "adj. 局部的；本地的",
+   "papers": 23,
+   "count": 54
+  },
+  {
+   "w": "ability",
+   "zh": "n. 能力；才能",
+   "papers": 23,
+   "count": 51
+  },
+  {
+   "w": "away",
+   "zh": "adv. 离开；远离；在远处",
+   "papers": 23,
+   "count": 47
+  },
+  {
+   "w": "last",
+   "zh": "adj. 最后的；最近的；adv. 最后；最近一次",
+   "papers": 23,
+   "count": 46
+  },
+  {
+   "w": "possible",
+   "zh": "adj. 可能的",
+   "papers": 23,
+   "count": 42
+  },
+  {
+   "w": "give",
+   "zh": "v. 给予；发出",
+   "papers": 23,
+   "count": 39
+  },
+  {
+   "w": "popular",
+   "zh": "adj. 流行的；受欢迎的；大众的",
+   "papers": 23,
+   "count": 38
+  },
+  {
+   "w": "believe",
+   "zh": "v. 相信；认为；信任",
+   "papers": 23,
+   "count": 38
+  },
+  {
+   "w": "asked",
+   "zh": "v. 询问；请求；邀请；“ask”的过去式和过去分词",
+   "papers": 23,
+   "count": 38
+  },
+  {
+   "w": "higher",
+   "zh": "adj. 高等级的；更高的；“high”的比较级；adv. 在更高处；“high”的比较级",
+   "papers": 23,
+   "count": 37
+  },
+  {
+   "w": "given",
+   "zh": "v. 给予；“give”的过去分词；prep. 考虑到",
+   "papers": 23,
+   "count": 34
+  },
+  {
+   "w": "company",
+   "zh": "n. 公司；陪伴",
+   "papers": 22,
+   "count": 76
+  },
+  {
+   "w": "learning",
+   "zh": "n. 学习；学问；v. 学习；“learn”的现在分词",
+   "papers": 22,
+   "count": 76
+  },
+  {
+   "w": "online",
+   "zh": "adj. 联机的；在线的；adv. 在网上地；在线地",
+   "papers": 22,
+   "count": 69
+  },
+  {
+   "w": "money",
+   "zh": "n. 钱；金钱",
+   "papers": 22,
+   "count": 68
+  },
+  {
+   "w": "healthy",
+   "zh": "adj. 健康的；健壮的",
+   "papers": 22,
+   "count": 60
+  },
+  {
+   "w": "tend",
+   "zh": "v. 趋向；朝向；往往会；照料；看护",
+   "papers": 22,
+   "count": 53
+  },
+  {
+   "w": "today",
+   "zh": "n. 今天；当今；adv. 在今天；当今",
+   "papers": 22,
+   "count": 48
+  },
+  {
+   "w": "lead",
+   "zh": "v. 领导；带领；导致；n. 铅",
+   "papers": 22,
+   "count": 41
+  },
+  {
+   "w": "avoid",
+   "zh": "v. 避免；避开",
+   "papers": 22,
+   "count": 40
+  },
+  {
+   "w": "simply",
+   "zh": "adv. 简单地；仅仅；简直",
+   "papers": 22,
+   "count": 37
+  },
+  {
+   "w": "next",
+   "zh": "adj. 下一个的；adv. 随后",
+   "papers": 22,
+   "count": 28
+  },
+  {
+   "w": "kids",
+   "zh": "n. 小孩；v. 哄骗；开玩笑",
+   "papers": 21,
+   "count": 83
+  },
+  {
+   "w": "success",
+   "zh": "n. 成功；胜利",
+   "papers": 21,
+   "count": 64
+  },
+  {
+   "w": "scientists",
+   "zh": "n. 科学家",
+   "papers": 21,
+   "count": 60
+  },
+  {
+   "w": "participants",
+   "zh": "n. 参与者；参加者",
+   "papers": 21,
+   "count": 51
+  },
+  {
+   "w": "percent",
+   "zh": "n. 百分比；百分之",
+   "papers": 21,
+   "count": 50
+  },
+  {
+   "w": "improve",
+   "zh": "v. 改善；改进；提高",
+   "papers": 21,
+   "count": 41
+  },
+  {
+   "w": "hard",
+   "zh": "adj. 坚硬的；困难的；费劲的；adv. 努力地",
+   "papers": 21,
+   "count": 41
+  },
+  {
+   "w": "quality",
+   "zh": "n. 质量；素质；品质",
+   "papers": 21,
+   "count": 38
+  },
+  {
+   "w": "longer",
+   "zh": "adj. 更长的；更长时间的；“long”的比较级；adv. 更长久地；“long”的比较级",
+   "papers": 21,
+   "count": 38
+  },
+  {
+   "w": "spend",
+   "zh": "v. 花费；消耗；度过",
+   "papers": 21,
+   "count": 37
+  },
+  {
+   "w": "findings",
+   "zh": "n. 裁决；调查发现；v. 找到；发现；“find”的现在分词",
+   "papers": 21,
+   "count": 36
+  },
+  {
+   "w": "problems",
+   "zh": "n. 问题；“problem”的复数",
+   "papers": 21,
+   "count": 35
+  },
+  {
+   "w": "trying",
+   "zh": "v. 尝试；试图；“try”的现在分词；adj. 令人厌烦的；难对付的",
+   "papers": 21,
+   "count": 35
+  },
+  {
+   "w": "past",
+   "zh": "n. 过去；昔日；prep. 超过；晚于",
+   "papers": 21,
+   "count": 32
+  },
+  {
+   "w": "increasing",
+   "zh": "adj. 增长的；增多的；v. 增加；增多； “increase”的现在分词",
+   "papers": 21,
+   "count": 32
+  },
+  {
+   "w": "enough",
+   "zh": "adj. 足够的；充足的；adv. 足够地；充分地",
+   "papers": 21,
+   "count": 31
+  },
+  {
+   "w": "fact",
+   "zh": "n. 事实；真相；实际",
+   "papers": 21,
+   "count": 29
+  },
+  {
+   "w": "benefit",
+   "zh": "n. 利益；好处；救济金；v. 有益于；有助于",
+   "papers": 21,
+   "count": 28
+  },
+  {
+   "w": "consider",
+   "zh": "v. 考虑；思考；认为",
+   "papers": 21,
+   "count": 27
+  },
+  {
+   "w": "companies",
+   "zh": "n. 公司；“company”的复数",
+   "papers": 20,
+   "count": 66
+  },
+  {
+   "w": "countries",
+   "zh": "n. 国家；乡村",
+   "papers": 20,
+   "count": 52
+  },
+  {
+   "w": "sense",
+   "zh": "n. 知觉；感知；理解力；意义；v. 意识到；感觉到；觉察出",
+   "papers": 20,
+   "count": 44
+  },
+  {
+   "w": "provide",
+   "zh": "v. 提供；供应",
+   "papers": 20,
+   "count": 38
+  },
+  {
+   "w": "personal",
+   "zh": "adj. 个人的；私人的",
+   "papers": 20,
+   "count": 37
+  },
+  {
+   "w": "lives",
+   "zh": "n. 生活；生命；“life”的复数；v. 生活；居住；“live”的第三人称单数",
+   "papers": 20,
+   "count": 36
+  },
+  {
+   "w": "large",
+   "zh": "adj. 大的",
+   "papers": 20,
+   "count": 35
+  },
+  {
+   "w": "idea",
+   "zh": "n. 主意；想法；理念",
+   "papers": 20,
+   "count": 34
+  },
+  {
+   "w": "support",
+   "zh": "v. 支持；支撑；n. 拥护；帮助",
+   "papers": 20,
+   "count": 34
+  },
+  {
+   "w": "enjoy",
+   "zh": "v. 享受；享有；喜爱",
+   "papers": 20,
+   "count": 34
+  },
+  {
+   "w": "tell",
+   "zh": "v. 告诉；讲述；说；辨别",
+   "papers": 20,
+   "count": 34
+  },
+  {
+   "w": "similar",
+   "zh": "adj. 类似的；相像的",
+   "papers": 20,
+   "count": 33
+  },
+  {
+   "w": "create",
+   "zh": "v. 创造；创作",
+   "papers": 20,
+   "count": 33
+  },
+  {
+   "w": "reduce",
+   "zh": "v. 减少；降低；减量",
+   "papers": 20,
+   "count": 31
+  },
+  {
+   "w": "nearly",
+   "zh": "adv. 几乎；将近；差不多",
+   "papers": 20,
+   "count": 30
+  },
+  {
+   "w": "result",
+   "zh": "n. 结果；成果；比分；v. 由于；导致",
+   "papers": 20,
+   "count": 28
+  },
+  {
+   "w": "question",
+   "zh": "n. 问题；疑问；v. 询问；怀疑",
+   "papers": 20,
+   "count": 28
+  },
+  {
+   "w": "focus",
+   "zh": "n. 中心点；焦点；v. 集中；聚焦",
+   "papers": 20,
+   "count": 26
+  },
+  {
+   "w": "published",
+   "zh": "v. 发布；出版",
+   "papers": 20,
+   "count": 26
+  },
+  {
+   "w": "various",
+   "zh": "adj. 各种各样的；不同的；各种的",
+   "papers": 20,
+   "count": 25
+  },
+  {
+   "w": "young",
+   "zh": "adj. 年轻的；年幼的",
+   "papers": 19,
+   "count": 46
+  },
+  {
+   "w": "right",
+   "zh": "adj. 右边的；正确的；n. 权利；右边",
+   "papers": 19,
+   "count": 43
+  },
+  {
+   "w": "small",
+   "zh": "adj. 小的",
+   "papers": 19,
+   "count": 34
+  },
+  {
+   "w": "together",
+   "zh": "adv. 一起",
+   "papers": 19,
+   "count": 28
+  },
+  {
+   "w": "role",
+   "zh": "n. 角色；职能；作用",
+   "papers": 19,
+   "count": 28
+  },
+  {
+   "w": "several",
+   "zh": "pron. 几个；一些；adj. 不同的；各自的",
+   "papers": 19,
+   "count": 27
+  },
+  {
+   "w": "schools",
+   "zh": "n. 学校；“school”的复数",
+   "papers": 18,
+   "count": 57
+  },
+  {
+   "w": "words",
+   "zh": "n. 单词；字；话语；“word”的复数；v. 措辞；“word”的第三人称单数",
+   "papers": 18,
+   "count": 36
+  },
+  {
+   "w": "stay",
+   "zh": "v. 停留；保持；n. 停留；逗留",
+   "papers": 18,
+   "count": 29
+  },
+  {
+   "w": "whole",
+   "zh": "n. 整个；全部；adj. 全部的；整体的",
+   "papers": 18,
+   "count": 27
+  },
+  {
+   "w": "start",
+   "zh": "v. 开始；n. 开始",
+   "papers": 18,
+   "count": 27
+  },
+  {
+   "w": "seem",
+   "zh": "v. 似乎；好像；看起来",
+   "papers": 18,
+   "count": 26
+  },
+  {
+   "w": "science",
+   "zh": "n. 科学",
+   "papers": 17,
+   "count": 42
+  },
+  {
+   "w": "diet",
+   "zh": "n. 日常饮食；节食；v. 节制饮食",
+   "papers": 17,
+   "count": 35
+  },
+  {
+   "w": "successful",
+   "zh": "adj. 成功的；有成就的",
+   "papers": 17,
+   "count": 33
+  },
+  {
+   "w": "society",
+   "zh": "n. 社会；社交；社团",
+   "papers": 17,
+   "count": 29
+  },
+  {
+   "w": "came",
+   "zh": "v. 来；来到；“come”的过去式",
+   "papers": 17,
+   "count": 24
+  },
+  {
+   "w": "second",
+   "zh": "n. 第二；秒；片刻；adj. 第二的",
+   "papers": 17,
+   "count": 22
+  },
+  {
+   "w": "traditional",
+   "zh": "adj. 传统的",
+   "papers": 16,
+   "count": 39
+  },
+  {
+   "w": "terms",
+   "zh": "n. 学期；术语；措辞；期限；条款；v. 把…称作；把…叫做",
+   "papers": 16,
+   "count": 32
+  },
+  {
+   "w": "simple",
+   "zh": "adj. 简单的；朴素的；单纯的",
+   "papers": 16,
+   "count": 26
+  },
+  {
+   "w": "started",
+   "zh": "v. 开始；n. 开始",
+   "papers": 16,
+   "count": 21
+  },
+  {
+   "w": "women",
+   "zh": "n. 女人；妇女；“woman”的复数",
+   "papers": 15,
+   "count": 107
+  },
+  {
+   "w": "team",
+   "zh": "n. 队；团队；球队",
+   "papers": 15,
+   "count": 49
+  },
+  {
+   "w": "teachers",
+   "zh": "n. 教师",
+   "papers": 15,
+   "count": 44
+  },
+  {
+   "w": "term",
+   "zh": "n. 学期；术语；措辞；期限；条款；v. 把…称作；把…叫做",
+   "papers": 15,
+   "count": 41
+  },
+  {
+   "w": "strong",
+   "zh": "adj. 强壮的；强烈的",
+   "papers": 15,
+   "count": 26
+  },
+  {
+   "w": "travel",
+   "zh": "v. 旅游；旅行；n. 旅游；旅行",
+   "papers": 15,
+   "count": 24
+  },
+  {
+   "w": "wrong",
+   "zh": "adj. 错误的；n. 错误",
+   "papers": 15,
+   "count": 21
+  },
+  {
+   "w": "lost",
+   "zh": "adj. 丢失的；v. 丢失；输；“lose”的过去式和过去分词",
+   "papers": 15,
+   "count": 18
+  }
+ ]
+}

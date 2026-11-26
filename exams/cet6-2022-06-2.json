@@ -1,0 +1,606 @@
+{
+ "id": "cet6-2022-06-2",
+ "levelId": "cet6",
+ "title": "六级 2022 年 06 月 第 2 套",
+ "minutes": 130,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2022年6月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2022-06-2/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more people keep learning new skills to adapt to a fast-changing world.” You can make comments, cite examples, or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Thinking kind thoughts about yourself and your loved ones can prove beneficial for your overall wellbeing, empirical evidence has shown. Researchers carried out an investigation to explore the {{1}} between having kind thoughts and a person's psychological state. For the study, five groups of participants were presented with a different set of audio instructions, some of which encouraged the participants to think {{2}} about themselves and others which persuaded them to think in a self-critical manner. After listening to the audio instructions, the participants were asked to answer a series of questions. These included whether they felt agitated, how likely they were to show kindness to themselves and how {{3}} they felt to other individuals. The participants who were instructed to think kindly about themselves were more likely to exhibit a bodily response associated with being relaxed and feeling safe. Their heart rates also dropped, which is a healthy sign of a heart that can respond flexibly to situations. Yet, {{4}} , those who listened to the critical audio clips were noted as having a higher heart rate and sweat response afterwards, both of which {{5}} feelings of threat and distress. Having the ability to switch off the body's natural threat response can {{6}} a person's immune system. This, in turn, gives them a greater likelihood of recovering quickly from illness. These findings help us to further understand some of our clinical trials research findings, where we show that individuals with {{7}} depression benefit particularly from self-awareness-based {{8}} therapy. They essentially learn to become more sympathetic to themselves. The sense is that for people {{9}} to depression, meeting their negative thoughts and feelings with {{10}} is a radically different way; that these thoughts are not facts. It introduces a different way of being and knowing that is quite transformative for many people.",
+     "options": [
+      "adversely",
+      "amiably",
+      "boost",
+      "cognitive",
+      "compassion",
+      "connected",
+      "correlation",
+      "fascinated",
+      "indignantly",
+      "insulation",
+      "lavish",
+      "prone",
+      "recurrent",
+      "signify",
+      "surpass"
+     ],
+     "answers": [
+      6,
+      1,
+      5,
+      0,
+      13,
+      2,
+      12,
+      3,
+      11,
+      4
+     ],
+     "blankExplains": [
+      "【定位】Researchers carried out an investigation to explore the ____ between having kind thoughts and a person's psychological state.\n【依据】答案是 correlation：填回后与所在句 researchers、carried、out、investigation、explore、between 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】For the study, five groups of participants were presented with a different set of audio instructions, some of which encouraged the participants to think ____ about themselves and others which persuaded them to think in a self-critical manner.\n【依据】答案是 amiably：填回后与所在句 study、five、groups、participants、presented、different 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】These included whether they felt agitated, how likely they were to show kindness to themselves and how ____ they felt to other individuals.\n【依据】答案是 connected：填回后与所在句 included、whether、felt、agitated、how、likely 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Yet, ____ , those who listened to the critical audio clips were noted as having a higher heart rate and sweat response afterwards, both of which  … feelings of threat and distress.\n【依据】答案是 adversely：填回后与所在句 yet、who、listened、critical、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Yet,  … , those who listened to the critical audio clips were noted as having a higher heart rate and sweat response afterwards, both of which ____ feelings of threat and distress.\n【依据】答案是 signify：填回后与所在句 yet、who、listened、critical、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Having the ability to switch off the body's natural threat response can ____ a person's immune system.\n【依据】答案是 boost：填回后与所在句 having、ability、switch、off、body's、natural 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】These findings help us to further understand some of our clinical trials research findings, where we show that individuals with ____ depression benefit particularly from self-awareness-based  … therapy.\n【依据】答案是 recurrent：填回后与所在句 findings、help、further、understand、clinical、trials 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】These findings help us to further understand some of our clinical trials research findings, where we show that individuals with  … depression benefit particularly from self-awareness-based ____ therapy.\n【依据】答案是 cognitive：填回后与所在句 findings、help、further、understand、clinical、trials 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The sense is that for people ____ to depression, meeting their negative thoughts and feelings with  … is a radically different way; that these thoughts are not facts.\n【依据】答案是 prone：填回后与所在句 sense、people、depression、meeting、negative、thoughts 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The sense is that for people  … to depression, meeting their negative thoughts and feelings with ____ is a radically different way; that these thoughts are not facts.\n【依据】答案是 compassion：填回后与所在句 sense、people、depression、meeting、negative、thoughts 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Researchers carried out an investigation to explore the ____ between having kind thoughts and a person's psychological state.",
+       "why": "答案是 correlation：填回后与所在句 researchers、carried、out、investigation、explore、between 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlation 这个词性/语义，而不是 cognitive）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlation 这个词性/语义，而不是 compassion）。"
+       }
+      },
+      {
+       "locate": "For the study, five groups of participants were presented with a different set of audio instructions, some of which encouraged the participants to think ____ about themselves and others which persuaded them to think in a self-critical manner.",
+       "why": "答案是 amiably：填回后与所在句 study、five、groups、participants、presented、different 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 amiably 这个词性/语义，而不是 adversely）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 amiably 这个词性/语义，而不是 boost）。"
+       }
+      },
+      {
+       "locate": "These included whether they felt agitated, how likely they were to show kindness to themselves and how ____ they felt to other individuals.",
+       "why": "答案是 connected：填回后与所在句 included、whether、felt、agitated、how、likely 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 connected 这个词性/语义，而不是 cognitive）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 connected 这个词性/语义，而不是 compassion）。"
+       }
+      },
+      {
+       "locate": "Yet, ____ , those who listened to the critical audio clips were noted as having a higher heart rate and sweat response afterwards, both of which  … feelings of threat and distress.",
+       "why": "答案是 adversely：填回后与所在句 yet、who、listened、critical、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adversely 这个词性/语义，而不是 amiably）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adversely 这个词性/语义，而不是 boost）。"
+       }
+      },
+      {
+       "locate": "Yet,  … , those who listened to the critical audio clips were noted as having a higher heart rate and sweat response afterwards, both of which ____ feelings of threat and distress.",
+       "why": "答案是 signify：填回后与所在句 yet、who、listened、critical、audio、clips 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "O": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 signify 这个词性/语义，而不是 surpass）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 signify 这个词性/语义，而不是 adversely）。"
+       }
+      },
+      {
+       "locate": "Having the ability to switch off the body's natural threat response can ____ a person's immune system.",
+       "why": "答案是 boost：填回后与所在句 having、ability、switch、off、body's、natural 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 boost 这个词性/语义，而不是 adversely）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 boost 这个词性/语义，而不是 amiably）。"
+       }
+      },
+      {
+       "locate": "These findings help us to further understand some of our clinical trials research findings, where we show that individuals with ____ depression benefit particularly from self-awareness-based  … therapy.",
+       "why": "答案是 recurrent：填回后与所在句 findings、help、further、understand、clinical、trials 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recurrent 这个词性/语义，而不是 adversely）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recurrent 这个词性/语义，而不是 amiably）。"
+       }
+      },
+      {
+       "locate": "These findings help us to further understand some of our clinical trials research findings, where we show that individuals with  … depression benefit particularly from self-awareness-based ____ therapy.",
+       "why": "答案是 cognitive：填回后与所在句 findings、help、further、understand、clinical、trials 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cognitive 这个词性/语义，而不是 compassion）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cognitive 这个词性/语义，而不是 connected）。"
+       }
+      },
+      {
+       "locate": "The sense is that for people ____ to depression, meeting their negative thoughts and feelings with  … is a radically different way; that these thoughts are not facts.",
+       "why": "答案是 prone：填回后与所在句 sense、people、depression、meeting、negative、thoughts 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 prone 这个词性/语义，而不是 adversely）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 prone 这个词性/语义，而不是 amiably）。"
+       }
+      },
+      {
+       "locate": "The sense is that for people  … to depression, meeting their negative thoughts and feelings with ____ is a radically different way; that these thoughts are not facts.",
+       "why": "答案是 compassion：填回后与所在句 sense、people、depression、meeting、negative、thoughts 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 compassion 这个词性/语义，而不是 cognitive）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 compassion 这个词性/语义，而不是 connected）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "In the long view, the human relationship with forests has been one of brutal destruction, but even it carries elements of slow hope. In the Middle Ages, there was no shortage of timber in most parts of the world, and few saw cutting down forests as a problem. Yet in 1548 the people of Venice estimated that an important timber supply would last only 30 years at their current rate of usage—but different forest management would make it possible to meet the demand for many centuries to come. The idea of preserving resources came out of a concern for the future: a fear of using up resources faster than they could be replenished(补充)."
+      },
+      {
+       "id": "B",
+       "text": "Economic interests were at the core of this understanding of trees and forests. It would take more than three centuries before scientists began to understand that timber production is not the only, and possibly not the most important, function of forests. The late 19th and early 20th century saw an increasing recognition that forests serve as habitats for countless animal and plant species that all rely on each other. They take over protective functions against soil erosion and landslides(塌方); they make a significant contribution to the water balance as they prevent surface runoff; they filter dirt particles, greenhouse gases and radioactive substances from the air; they produce oxygen; they provide spaces for recreation and they preserve historic and prehistoric remains. As a result, forests around the world have been set aside as parks or wilderness areas."
+      },
+      {
+       "id": "C",
+       "text": "Recent years have seen a big change in our view of forests. Peter Wohlleben's book The Hidden Life of Trees (2015), an international bestseller, suggests that trees can warn each other of danger through a \"wood wide web\" of roots and fungi(真菌). They support each other through sharing of nutrients and information, and they even keep ancient stumps alive by feeding them solutions of sugars. Such insights have made us aware of deep ecological relationships between humans and the more-than-human world."
+      },
+      {
+       "id": "D",
+       "text": "Awareness of ecologies is a recent phenomenon. It was not until the 1940s that the concept of the \"environment\" embracing all living and nonliving things developed. In the 1970s, the term \"environment\" gained currency, becoming widely adopted in the English and Romance languages, and as \"Umwelt\" (\"surrounding world\") in German. The emergence of the idea led to the rise of environmental agencies, regulations and environmental studies, and to environmental science as new, integrated academic disciplines. It was in 1956 that the very first bachelor of science in environmental studies was awarded, at the State University of New York College of Forestry at Syracuse. Since the 1970s—with the rise of \"environmentalism\"—environmental studies programmes have sprung up at hundreds of universities. There is (slow) hope in the fact that scholars from many different disciplines have adopted the term \"environment\" over the past decades. They are exploring intricate connections within and between complex ecologies, as well as the impact that human environment-making (through techno-industrial, economic and other manipulative developments) has had on the biosphere."
+      },
+      {
+       "id": "E",
+       "text": "The rise of the idea of the environment and a scholarly understanding of ecological processes has influenced new technologies and also politics. We have come to ask questions about vulnerability and risk, world ecologies, and the relationship between nature and power. The search for an adequate response to climate change occupies centre stage in international diplomacy."
+      },
+      {
+       "id": "F",
+       "text": "Social and environmental activists, scientists and indigenous groups have called the Paris Agreement of the United Nations Climate Change Conference in December 2015 insufficient, weak, or compromised. To some extent, they are right: climate change has already destroyed tens of thousands of livelihoods, and the situation will worsen in the near future for millions of mostly poorer people, who will join the ranks of those who have already been displaced by climate change and extreme weather events. But the Paris Conference nevertheless marked a historic step toward the recognition of the need for action on climate change, the cutting of carbon emissions, and world cooperation. There were 195 nations that came to the table in Paris and agreed to limits on emissions. Historically, nothing comparable had happened prior to this. Before the 20th century, a handful of scientists had been interested in the theoretical relationship between greenhouse gases and climate change, but only the empirical evidence accumulated since the late 20th century established a clear connection between the burning of fossil fuels and a vastly accelerated rise in global temperatures."
+      },
+      {
+       "id": "G",
+       "text": "The current crisis is not the first that humans have encountered, and a look at the struggles with pollution in recent history reveals transformations that once seemed unimaginable. The \"London fog\" that came to define the capital through British novels and thrillers is in reality smog or smoke, a legacy of industrialisation. After a century of ignorance, London was hit by the Great Smog of December 1952—the worst air-pollution event in the history of the United Kingdom which caused the deaths of approximately 12,000 people. Shortly thereafter, public initiatives and political campaigns led to strict regulations and new laws, including the Clean Air Act (1956). Today, London has effectively reduced traffic emissions through the introduction of a Congestion Charge Zone in 2003, and an Ultra Low Emission Zone in 2019."
+      },
+      {
+       "id": "H",
+       "text": "Scientific evidence that we are living in an era of climate change, resource exhaustion and potential ecological disaster is overwhelming. How do we motivate a public exhausted by never-ending scenarios of doom and disaster, when the challenges seem so huge and so impossible to solve? Statistics about extinction and the gloom of decline will not in themselves get us out of our often self-created ecological traps: instead, they are more likely to result in paralysis and inaction."
+      },
+      {
+       "id": "I",
+       "text": "We need stories and histories of change and transformation: ecological stories that make us confront the fact that human power is potentially destructive, and that the survival of our species on this planet depends on the preservation of soil and water, and the habitats and ecological systems."
+      },
+      {
+       "id": "J",
+       "text": "It is time that we showed successes and accelerations in ecological awareness, action and restoration: stories that include past successes and future visions about the rise of urban gardening and of renaturalised riverscapes, of successful protests against polluted air and water, of the rise of regional markets and slow food, and the planting of trees around the globe, of initiatives and enterprises that work towards ecological restoration. The reality of ecological curses seems far greater than the power of the hopes left at the bottom of Pandora's box. But if we believe that nothing can be changed, then we are giving up our opportunity to act."
+      },
+      {
+       "id": "K",
+       "text": "Today's saving powers will not come from a deus ex machina(解围之神). In an ever-more complex and synthetic world, our saving powers won't come from a single source, and certainly not from a too-big-to-fail approach or from those who have been drawn into the whirlpool of our age of speed. Hope can work as a wakeup call. It acknowledges setbacks. The concept of slow hope suggests that we can't expect things to change overnight. If the ever-faster exhaustion of natural resources (in ecological terms) and the \"shrinking of the present\" (in social terms) are urgent problems of humans, then cutting down on exhaustive practices and working towards a \"stretching of the present\" will be ways to move forward."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Climate change has wrought havoc on the lives of tens of thousands of people."
+      },
+      {
+       "id": "s37",
+       "text": "It took scientists a long time to realise that the function of forests goes far beyond providing humans with timber."
+      },
+      {
+       "id": "s38",
+       "text": "There is abundant evidence that we are now facing a possible ecological disaster."
+      },
+      {
+       "id": "s39",
+       "text": "Environmental science became academic disciplines only some sixty years ago."
+      },
+      {
+       "id": "s40",
+       "text": "Things cannot change overnight, but reducing the consumption of natural resources will help solve the ecological crisis."
+      },
+      {
+       "id": "s41",
+       "text": "Human perception of forests has undergone a tremendous change in the past years."
+      },
+      {
+       "id": "s42",
+       "text": "Recent history shows reduction of pollution, once seemingly impossible, can actually be accomplished."
+      },
+      {
+       "id": "s43",
+       "text": "People began to consider preserving natural resources when they feared they would have nothing to use in the future."
+      },
+      {
+       "id": "s44",
+       "text": "If we doubt our ability to reverse ecological deterioration, we are throwing away the chance to take action."
+      },
+      {
+       "id": "s45",
+       "text": "How to respond effectively to climate change has become the focus of international diplomacy."
+      }
+     ],
+     "answers": [
+      "F",
+      "B",
+      "H",
+      "D",
+      "K",
+      "C",
+      "G",
+      "A",
+      "J",
+      "E"
+     ],
+     "statementExplains": [
+      "【定位】To some extent, they are right: climate change has already destroyed tens of thousands of livelihoods, and the situation will worsen in the near future for millions of mostly poorer people, who will join the ranks of those who have already been displaced by climate change and extreme weather events.\n【依据】陈述里的 climate、change、tens、thousands、people 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】It would take more than three centuries before scientists began to understand that timber production is not the only, and possibly not the most important, function of forests.\n【依据】陈述里的 scientists、function、forests、timber 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Scientific evidence that we are living in an era of climate change, resource exhaustion and potential ecological disaster is overwhelming.\n【依据】陈述里的 evidence、ecological、disaster 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】The emergence of the idea led to the rise of environmental agencies, regulations and environmental studies, and to environmental science as new, integrated academic disciplines.\n【依据】陈述里的 environmental、science、academic、disciplines 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】The concept of slow hope suggests that we can't expect things to change overnight.\n【依据】陈述里的 things、change、overnight 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Recent years have seen a big change in our view of forests.\n【依据】陈述里的 forests、change、years 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】The current crisis is not the first that humans have encountered, and a look at the struggles with pollution in recent history reveals transformations that once seemed unimaginable.\n【依据】陈述里的 recent、history、pollution、once 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】The idea of preserving resources came out of a concern for the future: a fear of using up resources faster than they could be replenished(补充).\n【依据】陈述里的 preserving、resources、future 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】It is time that we showed successes and accelerations in ecological awareness, action and restoration: stories that include past successes and future visions about the rise of urban gardening and of renaturalised riverscapes, of successful protests against polluted air and water, of the rise of regional markets and slow food, and the planting of trees around the globe, of initiatives and enterprises that work towards ecological restoration.\n【依据】陈述里的 ecological、action 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】The search for an adequate response to climate change occupies centre stage in international diplomacy.\n【依据】陈述里的 respond、climate、change、international、diplomacy 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "To some extent, they are right: climate change has already destroyed tens of thousands of livelihoods, and the situation will worsen in the near future for millions of mostly poorer people, who will join the ranks of those who have already been displaced by climate change and extreme weather events.",
+       "why": "陈述里的 climate、change、tens、thousands、people 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It would take more than three centuries before scientists began to understand that timber production is not the only, and possibly not the most important, function of forests.",
+       "why": "陈述里的 scientists、function、forests、timber 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Scientific evidence that we are living in an era of climate change, resource exhaustion and potential ecological disaster is overwhelming.",
+       "why": "陈述里的 evidence、ecological、disaster 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The emergence of the idea led to the rise of environmental agencies, regulations and environmental studies, and to environmental science as new, integrated academic disciplines.",
+       "why": "陈述里的 environmental、science、academic、disciplines 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The concept of slow hope suggests that we can't expect things to change overnight.",
+       "why": "陈述里的 things、change、overnight 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Recent years have seen a big change in our view of forests.",
+       "why": "陈述里的 forests、change、years 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The current crisis is not the first that humans have encountered, and a look at the struggles with pollution in recent history reveals transformations that once seemed unimaginable.",
+       "why": "陈述里的 recent、history、pollution、once 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The idea of preserving resources came out of a concern for the future: a fear of using up resources faster than they could be replenished(补充).",
+       "why": "陈述里的 preserving、resources、future 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It is time that we showed successes and accelerations in ecological awareness, action and restoration: stories that include past successes and future visions about the rise of urban gardening and of renaturalised riverscapes, of successful protests against polluted air and water, of the rise of regional markets and slow food, and the planting of trees around the globe, of initiatives and enterprises that work towards ecological restoration.",
+       "why": "陈述里的 ecological、action 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The search for an adequate response to climate change occupies centre stage in international diplomacy.",
+       "why": "陈述里的 respond、climate、change、international、diplomacy 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Since American idol star Taryn Southern started composing music with AI in 2017, musicians all over the world have begun wondering about the implications of AI and modern technology where music production is concerned. Using AI in the creation of music is perceived by some as a helpful tool and by others as almost \"the beginning of the end\". In Taryn's case, AI software enabled her to communicate melodies and chords that she didn't know how to put together herself. The end product was therefore a collaborative effort, rather than a piece entirely produced by technology. Taryn's story has a distinctly positive feel that highlights the advantages of using AI in music production. It can serve as a source of inspiration, and as an ideal jumping-off point should a musician be hit with writer's block(文思枯竭). Contrary to seeing AI as a tool, some musicians consider it to be hugely detrimental to the music scene. At the moment, because such technology is still so young, the music it's producing is not necessarily what we want to hear. In short, it's not of great quality. Those who have produced their own music, or even fans of authentic, artistic music, will also argue that a computer could never emulate the work (and human touch) of a true musician. Music has been an integral part of the story of humans for ages; in fact, the first known piece of music is believed to be around 3,400 years old. Songs have long been used as a means of communicating messages and folk stories, covering everything from societal ethics to world history. Since many people see music as such an inherently human expression, it is often considered as too precious to impart to technology. The thought of a computer generating a \"random\" piece of music that hasn't been painstakingly created by an artist is almost seen as sacrilegious(亵渎神圣的). Regardless of which side of the argument you fall on, it seems likely that the use of AI in music production will only become more frequent. Our modern world is preoccupied with technological advancements. Instead of shying away from the idea of this bleak future, the best approach to take is one of optimism and curiosity. While there are always bound to be stubborn old-school musicians who refuse to use tech, music producers should consider AI as something to be embraced. AI music software is still very much in its infancy, but with more investors interested in the development and outcomes of such technology, and considering the rapid growth rate of other tech advances in recent years, it's only a matter of time before AI-produced music is seen as the new norm.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "How do some musicians perceive using AI in creating music?",
+       "options": [
+        "It would help to produce more music idols.",
+        "It would be detrimental to music production.",
+        "It would hinder the understanding of authentic music.",
+        "It would be the beginning of a new era in music creation."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Using AI in the creation of music is perceived by some as a helpful tool and by others as almost \"the beginning of the end\".\n【依据】正确项的核心词 music 与定位句对得上；其余 detrimental、production 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Using AI in the creation of music is perceived by some as a helpful tool and by others as almost \"the beginning of the end\".",
+        "why": "正确项的核心词 music 与定位句对得上；其余 detrimental、production 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「help、produce、idols」全文未出现；把原文的「music」换成了「help、produce、idols」，主语或对象被调包。",
+         "C": "无中生有：「hinder、understanding」全文未出现；把原文的「music」换成了「hinder、understanding、authentic」，主语或对象被调包。",
+         "D": "偷换主体：「era」全文未出现；把原文的「beginning、music、creation」换成了「new、era」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does Taryn Southern's story illustrate?",
+       "options": [
+        "AI technology is conducive to music composition.",
+        "Musicians will be unable to create music without high tech.",
+        "Musicians are often at their wits' end in their creative effort.",
+        "AI technology is indispensable to creating melodies and chords."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Since American idol star Taryn Southern started composing music with AI in 2017, musicians all over the world have begun wondering about the implications of AI and modern technology where music production is concerned.\n【依据】正确项的核心词 technology、music、composition 与定位句对得上；其余 conducive 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Since American idol star Taryn Southern started composing music with AI in 2017, musicians all over the world have begun wondering about the implications of AI and modern technology where music production is concerned.",
+        "why": "正确项的核心词 technology、music、composition 与定位句对得上；其余 conducive 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「unable、create、without」全文未出现；把原文的「musicians、music」换成了「unable、create、without」，主语或对象被调包。",
+         "C": "偷换主体：「wits'、creative」全文未出现；把原文的「musicians」换成了「often、wits'、end」，主语或对象被调包。",
+         "D": "偷换主体：「indispensable、creating」全文未出现；把原文的「technology」换成了「indispensable、creating、melodies」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "Why are some musicians opposed to the use of AI in creating music?",
+       "options": [
+        "Music produced with AI technology lacks humanness.",
+        "Music created with AI technology is easily emulated.",
+        "It will depreciate humans' role in music composition.",
+        "It will deplete young musicians, creative inspiration."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】While there are always bound to be stubborn old-school musicians who refuse to use tech, music producers should consider AI as something to be embraced.\n【依据】正确项的核心词 music、produced 与定位句对得上；其余 technology、lacks、humanness 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "While there are always bound to be stubborn old-school musicians who refuse to use tech, music producers should consider AI as something to be embraced.",
+        "why": "正确项的核心词 music、produced 与定位句对得上；其余 technology、lacks、humanness 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「easily、emulated」全文未出现；把原文的「music」换成了「created、technology、easily」，主语或对象被调包。",
+         "C": "无中生有：「depreciate、humans'、role」全文未出现；把原文的「music」换成了「depreciate、humans'、role」，主语或对象被调包。",
+         "D": "偷换主体：「deplete、creative」全文未出现；把原文的「musicians」换成了「deplete、young、creative」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "Why do many people think music is too precious to impart to AI technology?",
+       "options": [
+        "It cannot be created without pains.",
+        "It cannot be produced at random.",
+        "It is part of human life.",
+        "It is human specific."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Since many people see music as such an inherently human expression, it is often considered as too precious to impart to technology.\n【依据】正确项的核心词 human 与定位句对得上；其余 specific 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Since many people see music as such an inherently human expression, it is often considered as too precious to impart to technology.",
+        "why": "正确项的核心词 human 与定位句对得上；其余 specific 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「cannot、without、pains」全文未出现。",
+         "B": "因果倒置：「cannot」全文未出现。",
+         "C": "偷换主体：「life」全文未出现；把原文的「human」换成了「part、life」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author think of the future of AI music?",
+       "options": [
+        "It will continue to arouse the interest of music investors.",
+        "It has the prospect of becoming the norm in the future.",
+        "It will be gradually accepted by old-school musicians.",
+        "It may eventually lose its freshness and appeal."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】At the moment, because such technology is still so young, the music it's producing is not necessarily what we want to hear.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 prospect、becoming、norm、future 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "At the moment, because such technology is still so young, the music it's producing is not necessarily what we want to hear.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 prospect、becoming、norm、future 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「continue、arouse、interest」全文未出现；把原文的「music」换成了「continue、arouse、interest」，主语或对象被调包。",
+         "C": "无中生有：「gradually、accepted」全文未出现；把原文的「musicians」换成了「gradually、accepted、old-school」，主语或对象被调包。",
+         "D": "无中生有：「eventually、lose、freshness」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 442 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "A few weeks ago, a well-meaning professor tried to explain the physiological process behind viruses and the human body in a tweet and was immediately criticized for a mistake in his information. He then issued an apology and deleted his erroneous tweet. Communicating science beyond the academic bubble is necessary to augmenting public understanding of health and environmental issues and helping individuals make well-informed personal decisions. However, scientists who engage in science communication must acknowledge that even in their area, their expertise is deep but narrow. They need to recognize the constraints in their own knowledge. That is not to suggest that they only write or present on their own research, but rather, that they consult with an expert if the topic is outside of their discipline. Fact-checking with a scientist who works in the specialty will prevent the unintentional spread of misinformation, and the process of doing so may yield tiny pieces of interesting new information that can be incorporated. Some have argued that the public is not educated enough to understand scientific information, especially for any complex phenomena, but this is absurd. Science instruction can be found at all levels of public education with most secondary schools offering classes on biology, physics, and chemistry. If anything, social media has shown that the public craves knowledge based on a solid scientific foundation. Even the public discourse that follows most scientific articles shows that online readers can understand even the most baffling of scientific principles. It is equally imperative to emphasize that being an expert on a topic does not automatically make a scholar qualified to communicate it to a nonscientific audience. A number of scientists recently have been offering public-aimed explanations of scientific phenomena. Even though they have appropriate credentials, they often do very little in the way of explaining. One biologist shared an intricate analogy involving a library, books, paper, a recipe, ingredients, and a cake to explain the process behind vaccines. Any explanation that requires a written key to keep track of what each item represents is not a clear example for public consumption. Science communication is a science in and of itself. It requires rigorous training and instruction. A scientist should take communication courses that can teach a person how to identify and eliminate jargon and how to develop effective analogies to explain complex concepts. One cannot assume communication expertise—imagine if someone just decided that they were a physicist and started trying to contribute to the field without the necessary background. Doing a poor job communicating science to the public will only create confusion and widen the gap between science and society, a gap that scientists are trying to close.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author say about communicating science to the general public?",
+       "options": [
+        "It will help them to keep abreast of the latest scientific developments.",
+        "It is a necessary means to improve their understanding of scientific issues.",
+        "It will get them more involved in academic debates on environmental problems.",
+        "It is an effective way to augment scientists' influence beyond the academic circle."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Communicating science beyond the academic bubble is necessary to augmenting public understanding of health and environmental issues and helping individuals make well-informed personal decisions.\n【依据】正确项的核心词 necessary、understanding、scientific、issues 与定位句对得上；其余 means、improve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Communicating science beyond the academic bubble is necessary to augmenting public understanding of health and environmental issues and helping individuals make well-informed personal decisions.",
+        "why": "正确项的核心词 necessary、understanding、scientific、issues 与定位句对得上；其余 means、improve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「help、abreast、latest」全文未出现；把原文的「scientific」换成了「help、keep、abreast」，主语或对象被调包。",
+         "C": "无中生有：「get、involved、debates」全文未出现；把原文的「academic、environmental」换成了「get、involved、debates」，主语或对象被调包。",
+         "D": "偷换主体：「influence、circle」全文未出现；把原文的「augment、scientists'、beyond」换成了「effective、way、influence」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does the author advise scientists to do to deal with topics outside of their specialty?",
+       "options": [
+        "Write or present on them from new angles.",
+        "Utilize information from diverse sources.",
+        "Turn to a specialist for professional help.",
+        "Fact-check with colleagues in their field."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Fact-checking with a scientist who works in the specialty will prevent the unintentional spread of misinformation, and the process of doing so may yield tiny pieces of interesting new information that can be incorporated.\n【依据】正确项的核心词 specialist 与定位句对得上；其余 turn、professional、help 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Fact-checking with a scientist who works in the specialty will prevent the unintentional spread of misinformation, and the process of doing so may yield tiny pieces of interesting new information that can be incorporated.",
+        "why": "正确项的核心词 specialist 与定位句对得上；其余 turn、professional、help 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「angles」全文未出现；把原文的「new」换成了「write、present、angles」，主语或对象被调包。",
+         "B": "无中生有：「utilize、diverse、sources」全文未出现；把原文的「information」换成了「utilize、diverse、sources」，主语或对象被调包。",
+         "D": "偷换主体：「colleagues」全文未出现；把原文的「fact-check」换成了「colleagues、field」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the author say we can learn from social media?",
+       "options": [
+        "A solid academic foundation is essential to understanding baffling scientific principles.",
+        "Modern technology has facilitated communication between scientists and the public.",
+        "Scientific articles have gained increasing popularity among the general public.",
+        "The public's understanding of science is much better than some have claimed."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】If anything, social media has shown that the public craves knowledge based on a solid scientific foundation.\n【依据】正确项的核心词 public's、science 与定位句对得上；其余 understanding、much、better、claimed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If anything, social media has shown that the public craves knowledge based on a solid scientific foundation.",
+        "why": "正确项的核心词 public's、science 与定位句对得上；其余 understanding、much、better、claimed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「essential」全文未出现；把原文的「solid、foundation、scientific」换成了「academic、essential、understanding」，主语或对象被调包。",
+         "B": "无中生有：「modern、technology、facilitated」全文未出现；把原文的「scientists、public」换成了「modern、technology、facilitated」，主语或对象被调包。",
+         "C": "无中生有：「gained、increasing、popularity」全文未出现；把原文的「scientific、public」换成了「articles、gained、increasing」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the example of the biologist who shared an intricate analogy show?",
+       "options": [
+        "It is helpful to use illustrations in explaining scientific phenomena.",
+        "It is imperative to have appropriate titles to explain scientific issues.",
+        "A learned scholar is not necessarily a qualified science communicator.",
+        "A nonscientific audience cannot duly understand principles of science."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】One biologist shared an intricate analogy involving a library, books, paper, a recipe, ingredients, and a cake to explain the process behind vaccines.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 learned、scholar、necessarily、qualified 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One biologist shared an intricate analogy involving a library, books, paper, a recipe, ingredients, and a cake to explain the process behind vaccines.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 learned、scholar、necessarily、qualified 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「helpful、use、illustrations」全文未出现；把原文的「explaining」换成了「helpful、use、illustrations」，主语或对象被调包。",
+         "B": "偷换主体：「titles」全文未出现；把原文的「explain」换成了「imperative、appropriate、titles」，主语或对象被调包。",
+         "D": "因果倒置：「duly」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author suggest scientists do to close the gap between science and society?",
+       "options": [
+        "Explain complex concepts scientifically.",
+        "Make appropriate use of scientific terms.",
+        "Take courses in public speaking.",
+        "Develop communication skills."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Doing a poor job communicating science to the public will only create confusion and widen the gap between science and society, a gap that scientists are trying to close.\n【依据】正确项的核心词 communication 与定位句对得上；其余 develop、skills 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Doing a poor job communicating science to the public will only create confusion and widen the gap between science and society, a gap that scientists are trying to close.",
+        "why": "正确项的核心词 communication 与定位句对得上；其余 develop、skills 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：把原文的「scientifically」换成了「explain、complex、concepts」，主语或对象被调包。",
+         "B": "偷换主体：「use、terms」全文未出现；把原文的「scientific」换成了「make、appropriate、use」，主语或对象被调包。",
+         "C": "偷换主体：「speaking」全文未出现；把原文的「public」换成了「take、courses、speaking」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 445 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "南京长江大桥是长江上首座由中国设计、采用国产材料建造的铁路、公路两用桥，上层的车道公路桥长米，下层的双轨道铁路桥长米。铁路桥连接原来的天津一浦口和上海南京两条铁路线，使火车过江从过去一个半小时缩短为现在的分钟。大桥是南北交通的重要枢纽，也是南京的著名景点之一。南京长江大桥的建成标志着中国桥梁建设的一个飞跃，大大方便了长江两岸的物资交流和人员来往，对促进经济发展和改善人民生活起到了巨大作用。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}
