@@ -156,3 +156,7 @@ A：不会自动同步。目前没有云同步功能，请把这当作本地单�
 
 - 网页版：刷新页面即可；若看到旧界面，强制刷新一次。
 - 安卓版：到 [Releases](https://github.com/shuzhiaa/AKUMA-MAX/releases/latest) 下载最新 APK 覆盖安装，学习记录会保留。
+
+---
+
+维护者与 AI 代理：更新、修改与发布流程见 [AGENTS.md](AGENTS.md)。
