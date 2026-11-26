@@ -1,0 +1,311 @@
+{
+ "generatedAt": "2026-11-12T06:46:19.806Z",
+ "source": "Akuma Max 自有题库：68 套真题（2020-12 → 2026-06）+ 21,430 词库 + 16,577 条例句",
+ "papers": {
+  "cet4": {
+   "sampleCount": 70,
+   "writing": {
+    "promptWords": {
+     "n": 35,
+     "min": 29,
+     "p25": 46,
+     "avg": 49.1,
+     "p75": 54,
+     "max": 62
+    },
+    "minWords": {
+     "n": 35,
+     "min": 120,
+     "p25": 120,
+     "avg": 120,
+     "p75": 120,
+     "max": 120
+    },
+    "maxWords": {
+     "n": 35,
+     "min": 180,
+     "p25": 180,
+     "avg": 180,
+     "p75": 180,
+     "max": 180
+    }
+   },
+   "reading": {
+    "passageWords": {
+     "n": 70,
+     "min": 326,
+     "p25": 343,
+     "avg": 345.1,
+     "p75": 349,
+     "max": 352
+    },
+    "passageSentences": {
+     "n": 70,
+     "min": 13,
+     "p25": 17,
+     "avg": 19.3,
+     "p75": 21,
+     "max": 31
+    },
+    "avgSentenceWords": {
+     "n": 70,
+     "min": 11,
+     "p25": 16,
+     "avg": 18.4,
+     "p75": 20,
+     "max": 27
+    },
+    "stemWords": {
+     "n": 350,
+     "min": 5,
+     "p25": 9,
+     "avg": 11,
+     "p75": 13,
+     "max": 21
+    },
+    "optionWords": {
+     "n": 1400,
+     "min": 1,
+     "p25": 6,
+     "avg": 7.8,
+     "p75": 9,
+     "max": 17
+    },
+    "questionsPerPassage": {
+     "n": 70,
+     "min": 5,
+     "p25": 5,
+     "avg": 5,
+     "p75": 5,
+     "max": 5
+    }
+   },
+   "cloze": {
+    "passageWords": {
+     "n": 35,
+     "min": 188,
+     "p25": 229,
+     "avg": 231.5,
+     "p75": 238,
+     "max": 266
+    },
+    "blanks": {
+     "n": 35,
+     "min": 10,
+     "p25": 10,
+     "avg": 10,
+     "p75": 10,
+     "max": 10
+    },
+    "optionCount": {
+     "n": 35,
+     "min": 15,
+     "p25": 15,
+     "avg": 15,
+     "p75": 15,
+     "max": 15
+    }
+   },
+   "match": {
+    "paragraphs": {
+     "n": 35,
+     "min": 9,
+     "p25": 11,
+     "avg": 12.4,
+     "p75": 13,
+     "max": 16
+    },
+    "paraWords": {
+     "n": 435,
+     "min": 19,
+     "p25": 56,
+     "avg": 81,
+     "p75": 101,
+     "max": 218
+    },
+    "statementWords": {
+     "n": 350,
+     "min": 7,
+     "p25": 13,
+     "avg": 15.9,
+     "p75": 18,
+     "max": 28
+    }
+   },
+   "translation": {
+    "zhChars": {
+     "n": 35,
+     "min": 126,
+     "p25": 137,
+     "avg": 140.1,
+     "p75": 145,
+     "max": 154
+    },
+    "refWords": null,
+    "keyPoints": null
+   }
+  },
+  "cet6": {
+   "sampleCount": 66,
+   "writing": {
+    "promptWords": {
+     "n": 33,
+     "min": 31,
+     "p25": 57,
+     "avg": 63.9,
+     "p75": 74,
+     "max": 87
+    },
+    "minWords": {
+     "n": 33,
+     "min": 150,
+     "p25": 150,
+     "avg": 150,
+     "p75": 150,
+     "max": 150
+    },
+    "maxWords": {
+     "n": 33,
+     "min": 210,
+     "p25": 210,
+     "avg": 210,
+     "p75": 210,
+     "max": 210
+    }
+   },
+   "reading": {
+    "passageWords": {
+     "n": 66,
+     "min": 431,
+     "p25": 443,
+     "avg": 445.7,
+     "p75": 449,
+     "max": 455
+    },
+    "passageSentences": {
+     "n": 66,
+     "min": 14,
+     "p25": 21,
+     "avg": 23,
+     "p75": 26,
+     "max": 31
+    },
+    "avgSentenceWords": {
+     "n": 66,
+     "min": 14,
+     "p25": 17,
+     "avg": 19.9,
+     "p75": 22,
+     "max": 32
+    },
+    "stemWords": {
+     "n": 330,
+     "min": 5,
+     "p25": 10,
+     "avg": 11.7,
+     "p75": 13,
+     "max": 24
+    },
+    "optionWords": {
+     "n": 1320,
+     "min": 1,
+     "p25": 7,
+     "avg": 8.5,
+     "p75": 10,
+     "max": 21
+    },
+    "questionsPerPassage": {
+     "n": 66,
+     "min": 5,
+     "p25": 5,
+     "avg": 5,
+     "p75": 5,
+     "max": 5
+    }
+   },
+   "cloze": {
+    "passageWords": {
+     "n": 33,
+     "min": 253,
+     "p25": 270,
+     "avg": 277.7,
+     "p75": 287,
+     "max": 295
+    },
+    "blanks": {
+     "n": 33,
+     "min": 10,
+     "p25": 10,
+     "avg": 10,
+     "p75": 10,
+     "max": 10
+    },
+    "optionCount": {
+     "n": 33,
+     "min": 15,
+     "p25": 15,
+     "avg": 15,
+     "p75": 15,
+     "max": 15
+    }
+   },
+   "match": {
+    "paragraphs": {
+     "n": 33,
+     "min": 11,
+     "p25": 12,
+     "avg": 13.7,
+     "p75": 16,
+     "max": 18
+    },
+    "paraWords": {
+     "n": 452,
+     "min": 15,
+     "p25": 63,
+     "avg": 87.8,
+     "p75": 109,
+     "max": 216
+    },
+    "statementWords": {
+     "n": 330,
+     "min": 8,
+     "p25": 14,
+     "avg": 17,
+     "p75": 19,
+     "max": 30
+    }
+   },
+   "translation": {
+    "zhChars": {
+     "n": 33,
+     "min": 169,
+     "p25": 173,
+     "avg": 175.8,
+     "p75": 179,
+     "max": 184
+    },
+    "refWords": null,
+    "keyPoints": null
+   }
+  }
+ },
+ "sentences": {
+  "count": 16577,
+  "enWords": {
+   "n": 16577,
+   "min": 3,
+   "p25": 4,
+   "avg": 6.9,
+   "p75": 8,
+   "max": 24
+  },
+  "zhChars": {
+   "n": 16577,
+   "min": 2,
+   "p25": 6,
+   "avg": 9.8,
+   "p75": 12,
+   "max": 41
+  }
+ }
+}

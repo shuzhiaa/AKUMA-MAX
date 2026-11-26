@@ -1,0 +1,1188 @@
+{
+ "id": "cet6-2022-12-2",
+ "levelId": "cet6",
+ "title": "六级 2022 年 12 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2022年12月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2022-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2022-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 欢迎收听《读书俱乐部》"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 我认为这是因为我传达的理念"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 你自己也曾陷入过那种循环"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 的确如此。我赚了几百万美元"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 那么，你是如何摆脱这种模式的？你又会建议其他人怎么做？"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 首先要改变的是我们的价值观"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 这要如何落实到实际行动上？你能不能举些例子"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 通常需要采取行动的主要方面是住房"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 听起来这都是很大的牺牲"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 但这并不是牺牲"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 的确如此。"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What message does the woman convey in her book?",
+       "options": [
+        "Prioritizing happiness over money.",
+        "Joining the club to get her new book.",
+        "Managing one's personal finances wisely.",
+        "Consuming more only when earning more."
+       ],
+       "optionsZh": [
+        "把幸福置于金钱之上。",
+        "加入俱乐部以获得她的新书。",
+        "明智地管理个人财务。",
+        "只有在挣得更多时才消费更多。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Prioritizing happiness over money.（把幸福置于金钱之上。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What do we learn about the woman before she became a writer?",
+       "options": [
+        "She was in debt.",
+        "She was a financial adviser.",
+        "She earned $30,000 a month.",
+        "She enjoyed a happy life."
+       ],
+       "optionsZh": [
+        "她负债累累。",
+        "她是一名理财顾问。",
+        "她每月挣3万美元。",
+        "她享有幸福的生活。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She was in debt.（她负债累累。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the woman say about one's financial behavior?",
+       "options": [
+        "It reflects one's earning power.",
+        "It varies with one's environment.",
+        "It mirrors one's sense of well-being.",
+        "It changes with one's goals in life."
+       ],
+       "optionsZh": [
+        "它反映一个人的挣钱能力。",
+        "它随一个人所处的环境而变化。",
+        "它反映一个人的幸福感。",
+        "它随一个人的人生目标而改变。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It changes with one's goals in life.（它随一个人的人生目标而改变。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the man say about sharing a home?",
+       "options": [
+        "It would give him more time to be with his loved ones.",
+        "It would be good for those who value relationships.",
+        "It would mean major sacrifices for him.",
+        "It would deprive him of his individuality."
+       ],
+       "optionsZh": [
+        "这会让他有更多时间陪伴所爱的人。",
+        "这对重视人际关系的人有好处。",
+        "这对他来说意味着重大牺牲。",
+        "这会剥夺他的个性。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It would mean major sacrifices for him.（这对他来说意味着重大牺牲。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn about one of the newest additions to the gallery's collection?",
+       "options": [
+        "It was the artist's first landscape.",
+        "It was a painting by Christopher.",
+        "It was donated by the artist herself.",
+        "It was displayed at a retirement party."
+       ],
+       "optionsZh": [
+        "这是该艺术家的第一幅风景画。",
+        "这是Christopher的一幅画作。",
+        "这是由艺术家本人捐赠的。",
+        "这在一次退休派对上展出过。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It was donated by the artist herself.（这是由艺术家本人捐赠的。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the man say about one of the most acclaimed paintings by Danielle Gregory?",
+       "options": [
+        "It was the painting that instantly made her rich.",
+        "It has cost him a lot of money to purchase it.",
+        "It was recently purchased by the gallery.",
+        "It is owned by an anonymous collector."
+       ],
+       "optionsZh": [
+        "正是这幅画让她立刻变得富有。",
+        "他花了很多钱来购买它。",
+        "这是画廊最近购入的。",
+        "它为一位匿名收藏家所有。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is owned by an anonymous collector.（它为一位匿名收藏家所有。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why does the woman say she can feel immersed in the scene in the painting?",
+       "options": [
+        "It reflects her emotions.",
+        "It contains ample details.",
+        "It appears perfectly symmetrical.",
+        "It depicts the beauty of desolation."
+       ],
+       "optionsZh": [
+        "它反映了她的情感。",
+        "它包含大量细节。",
+        "它看起来完全对称。",
+        "它描绘了荒凉之美。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It contains ample details.（它包含大量细节。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "How does the man describe Danielle Gregory?",
+       "options": [
+        "She is eccentric like any other artist.",
+        "She is a very nice and intelligent artist.",
+        "She is as lucky as any acclaimed artist.",
+        "She is one of the most productive artists."
+       ],
+       "optionsZh": [
+        "她像任何其他艺术家一样古怪。",
+        "她是一位非常好且聪明的艺术家。",
+        "她像任何受赞誉的艺术家一样幸运。",
+        "她是最多产的艺术家之一。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She is a very nice and intelligent artist.（她是一位非常好且聪明的艺术家。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the passage say about forgiveness?",
+       "options": [
+        "It is vital to one's mental health.",
+        "It leads to reconciliation and peace.",
+        "It promotes interpersonal relationship.",
+        "It keeps one from traumatic experience."
+       ],
+       "optionsZh": [
+        "它对一个人的心理健康至关重要。",
+        "它带来和解与和平。",
+        "它促进人际关系。",
+        "它使人免受创伤经历的困扰。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is vital to one's mental health.（它对一个人的心理健康至关重要。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "When is forgiveness especially challenging?",
+       "options": [
+        "When the offender has power over the victim.",
+        "When the offender is not willing to apologize.",
+        "When the offender is not duly penalized.",
+        "When the offender adds insult to injury."
+       ],
+       "optionsZh": [
+        "当冒犯者对受害者拥有权力时。",
+        "当冒犯者不愿意道歉时。",
+        "当冒犯者未受到应有的惩罚时。",
+        "当冒犯者雪上加霜时。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：When the offender is not willing to apologize.（当冒犯者不愿意道歉时。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What should one do in order to forgive the offender?",
+       "options": [
+        "Talk with the offender calmly.",
+        "Accept the offender's apology.",
+        "Find out why he committed the offense.",
+        "Determine how serious the offense was."
+       ],
+       "optionsZh": [
+        "平静地与冒犯者交谈。",
+        "接受冒犯者的道歉。",
+        "找出他为什么犯下过错。",
+        "确定过错有多严重。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Find out why he committed the offense.（找出他为什么犯下过错。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the passage say about the Glasgow subway in the 1960s?",
+       "options": [
+        "The number of passengers dropped sharply.",
+        "It served more and more commuters.",
+        "The number of stations increased to 50.",
+        "It became the longest in the United Kingdom."
+       ],
+       "optionsZh": [
+        "乘客数量急剧下降。",
+        "它服务的通勤者越来越多。",
+        "车站数量增加到50个。",
+        "它成为英国最长的地铁。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The number of passengers dropped sharply.（乘客数量急剧下降。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "Why was the Glasgow subway closed in 1977?",
+       "options": [
+        "To increase capacity to meet growing needs.",
+        "To make way for other means of transport.",
+        "To have its systems modernised.",
+        "To avoid further financial losses."
+       ],
+       "optionsZh": [
+        "为了增加运力以满足日益增长的需求。",
+        "为了给其他交通方式让路。",
+        "为了使其系统现代化。",
+        "为了避免进一步的财务损失。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To have its systems modernised.（为了使其系统现代化。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "Why does the Glasgow subway remain important today?",
+       "options": [
+        "It is generally recognised as a world heritage site.",
+        "It is the fastest way to reach the city's south side.",
+        "It constitutes a source of revenue for the city.",
+        "It helps reduce traffic jams in the city centre."
+       ],
+       "optionsZh": [
+        "它被普遍认可为世界遗产。",
+        "它是到达城市南部的最快方式。",
+        "它构成该城市的一项收入来源。",
+        "它有助于减少市中心的交通拥堵。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It helps reduce traffic jams in the city centre.（它有助于减少市中心的交通拥堵。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the passage say about all subway stations in Glasgow nowadays?",
+       "options": [
+        "They are usually crowded.",
+        "They use high-tech systems.",
+        "They accept smartcards only.",
+        "They are colourfully decorated."
+       ],
+       "optionsZh": [
+        "它们通常很拥挤。",
+        "它们使用高科技系统。",
+        "它们只接受智能卡。",
+        "它们装饰得色彩鲜艳。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They use high-tech systems.（它们使用高科技系统。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say about the bears in national parks now?",
+       "options": [
+        "They are quite friendly to humans.",
+        "They are shrinking in numbers.",
+        "They are unafraid of humans.",
+        "They are especially fond of garbage."
+       ],
+       "optionsZh": [
+        "它们对人类相当友好。",
+        "它们的数量正在减少。",
+        "它们不怕人类。",
+        "它们特别喜欢垃圾。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They are unafraid of humans.（它们不怕人类。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the speaker say about visitors feeding bears in national parks?",
+       "options": [
+        "It is strictly forbidden.",
+        "It is an uncommon sight.",
+        "It is a gesture of human generosity.",
+        "It is allowed only in certain areas."
+       ],
+       "optionsZh": [
+        "这是严格禁止的。",
+        "这是不常见的景象。",
+        "这是人类慷慨的表现。",
+        "只允许在特定区域这样做。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is strictly forbidden.（这是严格禁止的。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What is the speaker's advice to people who carry some food while hiking on a park trail?",
+       "options": [
+        "Share their food with the bear they see.",
+        "Be prepared to run into a hungry bear.",
+        "Try to be friendly with the bear they meet.",
+        "Refrain from teasing bears with cubs."
+       ],
+       "optionsZh": [
+        "与看到的熊分享食物。",
+        "做好遇到饥饿的熊的准备。",
+        "尽量与遇到的熊友好相处。",
+        "避免逗弄带幼崽的熊。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Be prepared to run into a hungry bear.（做好遇到饥饿的熊的准备。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about prejudice?",
+       "options": [
+        "It refers to opinions that are radical and widespread.",
+        "It means making judgments without adequate knowledge.",
+        "It refers to deep-rooted beliefs about someone or something.",
+        "It means sticking to one's judgments even when proved wrong."
+       ],
+       "optionsZh": [
+        "它指的是激进且广泛存在的观点。",
+        "它意味着在没有充分了解的情况下做出判断。",
+        "它指的是关于某人或某事的根深蒂固的信念。",
+        "它意味着即使被证明是错误的也坚持自己的判断。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It means making judgments without adequate knowledge.（它意味着在没有充分了解的情况下做出判断。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "Why does the speaker say prejudiced attitudes are dangerous?",
+       "options": [
+        "They often lead to war between religious groups.",
+        "They keep certain occupations from thriving.",
+        "They allow myths and half-truths to persist.",
+        "They prevent us from getting to the truth."
+       ],
+       "optionsZh": [
+        "它们常常导致宗教团体之间的战争。",
+        "它们阻碍某些职业的繁荣发展。",
+        "它们使神话和半真半假的说法长期存在。",
+        "它们阻止我们了解真相。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They prevent us from getting to the truth.（它们阻止我们了解真相。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "When does the speaker say we begin to develop prejudiced attitudes?",
+       "options": [
+        "When we start to feel superior.",
+        "When we mix with prejudiced people.",
+        "When we live in an isolated neighborhood.",
+        "When we try to keep up with those around us."
+       ],
+       "optionsZh": [
+        "当我们开始感到优越时。",
+        "当我们与有偏见的人交往时。",
+        "当我们生活在一个封闭的社区时。",
+        "当我们试图跟上周围的人时。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：When we start to feel superior.（当我们开始感到优越时。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "How did the speaker feel when he started high school?",
+       "options": [
+        "Motivated.",
+        "Disappointed.",
+        "Perplexed.",
+        "Shocked."
+       ],
+       "optionsZh": [
+        "有动力的。",
+        "失望的。",
+        "困惑的。",
+        "震惊的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Shocked.（震惊的。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What did the speaker once think of teenage friendships?",
+       "options": [
+        "They would change with the passage of time.",
+        "They would benefit young people's adult life.",
+        "They would help kids grow.",
+        "They would last a lifetime."
+       ],
+       "optionsZh": [
+        "它们会随着时间的流逝而改变。",
+        "它们会对年轻人的成年生活有益。",
+        "它们会帮助孩子们成长。",
+        "它们会持续一生。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They would last a lifetime.（它们会持续一生。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What do we learn about the speaker when he returned from the Vietnam War?",
+       "options": [
+        "He had become mature.",
+        "He suffered poor health.",
+        "He had lots of stories to tell.",
+        "He regretted leaving Vietnam."
+       ],
+       "optionsZh": [
+        "他已经变得成熟了。",
+        "他健康状况不佳。",
+        "他有很多故事要讲。",
+        "他后悔离开越南。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He had become mature.（他已经变得成熟了。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the speaker try to do as a teacher?",
+       "options": [
+        "Make friends with his students.",
+        "Show his students how to do their best.",
+        "Help his students get through the growing pains.",
+        "Share his personal experience with his students."
+       ],
+       "optionsZh": [
+        "与他的学生交朋友。",
+        "向他的学生展示如何尽力而为。",
+        "帮助他的学生度过成长的烦恼。",
+        "与他的学生分享他的个人经历。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Help his students get through the growing pains.（帮助他的学生度过成长的烦恼。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “In an era of information explosion, it is vitally important to develop the ability t o think critically and make rational choices.” You can make statements, give reasons, or cite examples to develop your essay.You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "The task of the global strategist of a business is to build a platform of capabilities derived from the resources, experiences and innovations of units operating in multiple locations, to transplant those capabilities wherever {{1}} , and then to systematically upgrade and renew them—ahead of the competition. Apple is an outstanding case of a company whose unique capabilities give it a worldwide {{2}} advantage, particularly with respect to its ability to build platforms from a product base that integrates functional and {{3}} design. Apple has been able to leverage and exploit its California-based design and marketing advantages successfully throughout the world. IKEA is another such case. The do-it-yourself furniture and houseware company first developed a compelling set of capabilities to design, manufacture and {{4}} furniture at low cost and sell it in a novel way in Sweden. Later, IKEA successfully {{5}} this formula in many other countries. By contrast, Telefonica, a Spanish telecommunications company that is now the world's fifth largest telecom by {{6}} , first developed its special advantage abroad. In 1989 and 1990, Telefonica had the opportunity to enter Chile and Argentina, countries that shared many institutional and cultural characteristics with its home country but that were {{7}} more rapid market reform. Throughout the 1990s, Telefonica took what it learned in Chile and Argentina about reconstructing former state-owned telecoms to other Latin American countries that were privatizing their state telecoms and deregulating their telecom markets. These examples might lead the reader to believe that creating a global advantage is an easy task. But many other {{8}} of expensive failed experiments suggest that creating a lasting global advantage actually requires a great deal of {{9}} and operational finesse(技巧). Our research suggests that global winners typically create and sustain their international presence through a systematic process of {{10}} , renewing and enhancing their core capabilities.",
+     "options": [
+      "aesthetic",
+      "appropriate",
+      "clusters",
+      "competitive",
+      "exploiting",
+      "fiscal",
+      "instances",
+      "rehabilitated",
+      "reproduced",
+      "revenues",
+      "safeguarding",
+      "ship",
+      "strategic",
+      "transcend",
+      "undergoing"
+     ],
+     "answers": [
+      1,
+      3,
+      0,
+      11,
+      8,
+      9,
+      14,
+      6,
+      12,
+      4
+     ],
+     "blankExplains": [
+      "【定位】The task of the global strategist of a business is to build a platform of capabilities derived from the resources, experiences and innovations of units operating in multiple locations, to transplant those capabilities wherever ____ , and then to systematically upgrade and renew them—ahead of the competition.\n【依据】答案是 appropriate：填回后与所在句 task、global、strategist、business、build、platform 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Apple is an outstanding case of a company whose unique capabilities give it a worldwide ____ advantage, particularly with respect to its ability to build platforms from a product base that integrates functional and  … design.\n【依据】答案是 competitive：填回后与所在句 apple、outstanding、case、company、whose、unique 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Apple is an outstanding case of a company whose unique capabilities give it a worldwide  … advantage, particularly with respect to its ability to build platforms from a product base that integrates functional and ____ design.\n【依据】答案是 aesthetic：填回后与所在句 apple、outstanding、case、company、whose、unique 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The do-it-yourself furniture and houseware company first developed a compelling set of capabilities to design, manufacture and ____ furniture at low cost and sell it in a novel way in Sweden.\n【依据】答案是 ship：填回后与所在句 do-it-yourself、furniture、houseware、company、first、developed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Later, IKEA successfully ____ this formula in many other countries.\n【依据】答案是 reproduced：填回后与所在句 later、ikea、successfully、formula、many、other 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】By contrast, Telefonica, a Spanish telecommunications company that is now the world's fifth largest telecom by ____ , first developed its special advantage abroad.\n【依据】答案是 revenues：填回后与所在句 contrast、telefonica、spanish、telecommunications、company、now 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In 1989 and 1990, Telefonica had the opportunity to enter Chile and Argentina, countries that shared many institutional and cultural characteristics with its home country but that were ____ more rapid market reform.\n【依据】答案是 undergoing：填回后与所在句 telefonica、opportunity、enter、chile、argentina、countries 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But many other ____ of expensive failed experiments suggest that creating a lasting global advantage actually requires a great deal of  … and operational finesse(技巧).\n【依据】答案是 instances：填回后与所在句 many、other、expensive、failed、experiments、suggest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But many other  … of expensive failed experiments suggest that creating a lasting global advantage actually requires a great deal of ____ and operational finesse(技巧).\n【依据】答案是 strategic：填回后与所在句 many、other、expensive、failed、experiments、suggest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Our research suggests that global winners typically create and sustain their international presence through a systematic process of ____ , renewing and enhancing their core capabilities.\n【依据】答案是 exploiting：填回后与所在句 research、suggests、global、winners、typically、create 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "The task of the global strategist of a business is to build a platform of capabilities derived from the resources, experiences and innovations of units operating in multiple locations, to transplant those capabilities wherever ____ , and then to systematically upgrade and renew them—ahead of the competition.",
+       "why": "答案是 appropriate：填回后与所在句 task、global、strategist、business、build、platform 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 appropriate 这个词性/语义，而不是 aesthetic）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 appropriate 这个词性/语义，而不是 clusters）。"
+       }
+      },
+      {
+       "locate": "Apple is an outstanding case of a company whose unique capabilities give it a worldwide ____ advantage, particularly with respect to its ability to build platforms from a product base that integrates functional and  … design.",
+       "why": "答案是 competitive：填回后与所在句 apple、outstanding、case、company、whose、unique 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 competitive 这个词性/语义，而不是 clusters）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 competitive 这个词性/语义，而不是 aesthetic）。"
+       }
+      },
+      {
+       "locate": "Apple is an outstanding case of a company whose unique capabilities give it a worldwide  … advantage, particularly with respect to its ability to build platforms from a product base that integrates functional and ____ design.",
+       "why": "答案是 aesthetic：填回后与所在句 apple、outstanding、case、company、whose、unique 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 aesthetic 这个词性/语义，而不是 appropriate）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 aesthetic 这个词性/语义，而不是 clusters）。"
+       }
+      },
+      {
+       "locate": "The do-it-yourself furniture and houseware company first developed a compelling set of capabilities to design, manufacture and ____ furniture at low cost and sell it in a novel way in Sweden.",
+       "why": "答案是 ship：填回后与所在句 do-it-yourself、furniture、houseware、company、first、developed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ship 这个词性/语义，而不是 safeguarding）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ship 这个词性/语义，而不是 strategic）。"
+       }
+      },
+      {
+       "locate": "Later, IKEA successfully ____ this formula in many other countries.",
+       "why": "答案是 reproduced：填回后与所在句 later、ikea、successfully、formula、many、other 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reproduced 这个词性/语义，而不是 rehabilitated）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reproduced 这个词性/语义，而不是 revenues）。"
+       }
+      },
+      {
+       "locate": "By contrast, Telefonica, a Spanish telecommunications company that is now the world's fifth largest telecom by ____ , first developed its special advantage abroad.",
+       "why": "答案是 revenues：填回后与所在句 contrast、telefonica、spanish、telecommunications、company、now 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 revenues 这个词性/语义，而不是 rehabilitated）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 revenues 这个词性/语义，而不是 reproduced）。"
+       }
+      },
+      {
+       "locate": "In 1989 and 1990, Telefonica had the opportunity to enter Chile and Argentina, countries that shared many institutional and cultural characteristics with its home country but that were ____ more rapid market reform.",
+       "why": "答案是 undergoing：填回后与所在句 telefonica、opportunity、enter、chile、argentina、countries 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 undergoing 这个词性/语义，而不是 aesthetic）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 undergoing 这个词性/语义，而不是 appropriate）。"
+       }
+      },
+      {
+       "locate": "But many other ____ of expensive failed experiments suggest that creating a lasting global advantage actually requires a great deal of  … and operational finesse(技巧).",
+       "why": "答案是 instances：填回后与所在句 many、other、expensive、failed、experiments、suggest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 instances 这个词性/语义，而不是 aesthetic）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 instances 这个词性/语义，而不是 appropriate）。"
+       }
+      },
+      {
+       "locate": "But many other  … of expensive failed experiments suggest that creating a lasting global advantage actually requires a great deal of ____ and operational finesse(技巧).",
+       "why": "答案是 strategic：填回后与所在句 many、other、expensive、failed、experiments、suggest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 strategic 这个词性/语义，而不是 safeguarding）。",
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 strategic 这个词性/语义，而不是 ship）。"
+       }
+      },
+      {
+       "locate": "Our research suggests that global winners typically create and sustain their international presence through a systematic process of ____ , renewing and enhancing their core capabilities.",
+       "why": "答案是 exploiting：填回后与所在句 research、suggests、global、winners、typically、create 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exploiting 这个词性/语义，而不是 aesthetic）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exploiting 这个词性/语义，而不是 appropriate）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "What do we lose when natural spaces and species disappear? Increasingly, research has shown that as species and ecosystems vanish, it also chips away at our ability to preserve what remains—because we no longer understand what we're losing."
+      },
+      {
+       "id": "B",
+       "text": "You probably see it all the time. The neighbor who puts pesticides on his lawn rather than deal with annoying bees. The politician who votes against wildlife protection because she's never seen a wolf in the wild. The corporation that wants to bulldoze(用推土机推平) the habitat of a rare frog."
+      },
+      {
+       "id": "C",
+       "text": "At best this can be termed \"the extinction of experience,\" where our cultural and natural histories fade from our memories and therefore our reality. At its worst it becomes something even more concerning: \"biophobia,\" the fear of living things and a complete aversion to nature."
+      },
+      {
+       "id": "D",
+       "text": "This isn't the fiction of living in a cold, empty dystopia(绝望的世界). Sadly, it's becoming a way of life for too many people—especially children. A recent study in Japan paints a striking portrait of this problem. A survey of more than 5,300 school children in the Tochigi Prefecture examined their perception of 14 local insect species and one spider. The results? A collective \"ew!\" Most of the students saw the species as things to dislike or fear, or even as sources of danger. The less experience the students had with nature, the more negative their feelings."
+      },
+      {
+       "id": "E",
+       "text": "The results were published earlier this year in the journal Biological Conservation. Lead researcher Masashi Soga with the University of Tokyo says the study stemmed from observations about today's nature-deficient children. \"Humans inherently avoid dangerous organisms such as bees, but children these days avoid even harmless insects such as butterflies and dragonflies(蜻蜓),\" he says. \"I have long wondered why so many of today's children react like this.\""
+      },
+      {
+       "id": "F",
+       "text": "Although the children's reactions were somewhat expected, the new study did contain an unexpected finding: Many of the surveyed children revealed that their parents also expressed fear or disgust of the same animals. In fact, these parental emotions were strong enough to overwhelm any positive experiences the children might have gained from direct experiences in nature. As Soga and his coauthors wrote in their paper, \"Our results suggest that there is likely a feedback loop in which an increase in people who have negative attitudes towards nature in one generation will lead to a further increase in people with similar attitudes in the next generation.\""
+      },
+      {
+       "id": "G",
+       "text": "And that's possibly the greater threat posed by extinction of experience. Soga suggests the generational loss—condition previously dubbed environmental generational amnesia(遗忘)—could chip away at our societal ability to preserve what we're losing. \"I believe that increased biophobia is a major, but invisible, threat to global biodiversity,\" Soga says. \"As the number of children who have biophobia increases, public interest and support for biodiversity conservation will gradually decline. Although many conservation biologists still consider that preventing the loss of wildlife habitat is the most important way to conserve biodiversity, I think preventing increased biophobia is also important for conservation.\""
+      },
+      {
+       "id": "H",
+       "text": "What's to be done about this? The paper makes several recommendations, the most obvious of which is that children should experience nature more often. The authors also suggest establishing policies to guide these natural experiences and increasing educational programs about the natural world."
+      },
+      {
+       "id": "I",
+       "text": "Helping parents to see species around them in a new light would make a difference, too. And, of course, maintaining support for preserving the wild spaces where these \"scary\" creatures live is the most important thing of all. That's a point reinforced by another recent study, which found that wild spaces located within urban areas—and the plants and animals that thrive in them—are particularly important for human health and well-being."
+      },
+      {
+       "id": "J",
+       "text": "Published in the journal Frontiers in Sustainable Cities, the study examined attitudes toward Discovery Park, the heavily forested 534-acre public park in Seattle, Washington. It found that the public had the most appreciation for—and gained the most value from—the wildest parts of the park. \"I have seen whales, seals, fish, eagles, shorebirds and many other sea creatures in their natural habitat,\" one survey participant wrote. \"Coming here with people has allowed me to connect and talk with them about conversation that simply does not happen in everyday life,\" wrote another."
+      },
+      {
+       "id": "K",
+       "text": "The participants reported that their most valuable experiences in the park included encountering wildlife, walking through open spaces, exploring the beach and finding beautiful views. \"We saw that a large majority of participants' interactions, especially their most meaningful interactions, depended on Discovery Park's relative wildness,\" says lead author Elizabeth Lev, a master's student in the University of Washington's Human Interaction with Nature Lab. This is only possible because the park is relatively wild. After all, you can't enjoy watching birds if there are no birds to follow, gaze at the sunset if it's obscured by skyscrapers, or stop and smell the flowers if they don't have room to grow."
+      },
+      {
+       "id": "L",
+       "text": "And yet even this long-protected space could someday become less hospitable to nature. Over the past few years a lot of people and organizations have suggested developing parts of Discovery Park or the neighboring area. Most recently a plan proposed building 34 acres of much-needed affordable housing and parking spaces adjacent to the park, bringing with them noise, traffic and pollution."
+      },
+      {
+       "id": "M",
+       "text": "If anything like that happened, both the park and the people of Seattle could lose something vital. And that would continue the trend of chipping away at Seattle's—and the world's—natural spaces, leaving just tiny pocket parks and green-but-empty spaces that offer little real value to wildlife, plants or people."
+      },
+      {
+       "id": "N",
+       "text": "\"It is true that any interaction with nature is better than none, but I don't want people to be satisfied with any small bit of grass and trees,\" Lev says. \"We have been in this cycle of environmental generational amnesia for a long time, where the baseline keeps shifting and we don't even realize what we're losing until it's gone. If we can get people to understand how much meaning and value can come from having more experiences with more wild forms of nature, then maybe we can stop this cycle and move toward conserving and restoring what we have left.\""
+      },
+      {
+       "id": "O",
+       "text": "Building this understanding in an ever-more fearful and disconnected world may be the biggest challenge. Peter Kahn, the senior author of Lev's paper and the director of the Human Interaction with Nature lab, made several suggestions for bridging this gap in this 2011 book, Technological Nature. They echo the recommendation about getting children into nature, but also include telling stories of how things used to be, imagining what things might be like in the future, and developing a common language about nature, \"a way of speaking about wild and domestic interaction patterns, and the meaningful, deep and often joyful feelings that they generate.\""
+      },
+      {
+       "id": "P",
+       "text": "No matter what techniques we use, this growing field of research illustrates that saving nature requires encouraging people to experience it more often and more deeply. That calls for additional research—Lev and her coauthors have published a toolkit that other municipalities can follow to study the value of their own wild spaces—and clear communication of the results. \"If we can continue to show people the benefits of these wild spaces,\" Lev says, \"maybe people will begin to see more value in keeping these areas undeveloped—for the sake of our mutual benefit.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "A new study found parents' aversion to certain animals would pass on to their children."
+      },
+      {
+       "id": "s37",
+       "text": "The disappearance of species and ecological systems erodes our ability to keep what is left."
+      },
+      {
+       "id": "s38",
+       "text": "A study showed that the wildest areas of Discovery Park appealed most to the public."
+      },
+      {
+       "id": "s39",
+       "text": "The fear of living organisms is becoming more worrisome."
+      },
+      {
+       "id": "s40",
+       "text": "Preventing the increase in children's fear of living creatures is also important for conserving biodiversity."
+      },
+      {
+       "id": "s41",
+       "text": "Research shows that more and deeper experience people have with nature will help save it."
+      },
+      {
+       "id": "s42",
+       "text": "Though humans naturally tend to avoid dangerous animals, today's children try to stay away from even harmless ones."
+      },
+      {
+       "id": "s43",
+       "text": "Development in and around Discovery Park could cause heavy losses to the park and the local residents."
+      },
+      {
+       "id": "s44",
+       "text": "A large survey of school children found that their negative feelings grew as their experience with nature diminished."
+      },
+      {
+       "id": "s45",
+       "text": "Elizabeth Lev believes increased contact with more wildlife helps conserve biodiversity."
+      }
+     ],
+     "answers": [
+      "F",
+      "A",
+      "J",
+      "C",
+      "G",
+      "P",
+      "E",
+      "M",
+      "D",
+      "N"
+     ],
+     "statementExplains": [
+      "【定位】Although the children's reactions were somewhat expected, the new study did contain an unexpected finding: Many of the surveyed children revealed that their parents also expressed fear or disgust of the same animals.\n【依据】陈述里的 new、study、parents'、animals、children 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】What do we lose when natural spaces and species disappear?\n【依据】陈述里的 disappearance、species、what 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Published in the journal Frontiers in Sustainable Cities, the study examined attitudes toward Discovery Park, the heavily forested 534-acre public park in Seattle, Washington.\n【依据】陈述里的 study、discovery、park、public 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】At its worst it becomes something even more concerning: \"biophobia,\" the fear of living things and a complete aversion to nature.\n【依据】陈述里的 fear、living、becoming 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Although many conservation biologists still consider that preventing the loss of wildlife habitat is the most important way to conserve biodiversity, I think preventing increased biophobia is also important for conservation.\"\n【依据】陈述里的 preventing、increase、important、conserving、biodiversity 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】No matter what techniques we use, this growing field of research illustrates that saving nature requires encouraging people to experience it more often and more deeply.\n【依据】陈述里的 research、experience、people、nature 在 P 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 P 段。",
+      "【定位】\"Humans inherently avoid dangerous organisms such as bees, but children these days avoid even harmless insects such as butterflies and dragonflies(蜻蜓),\" he says.\n【依据】陈述里的 humans、avoid、dangerous、children、even、harmless 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】If anything like that happened, both the park and the people of Seattle could lose something vital.\n【依据】陈述里的 park、park 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】The less experience the students had with nature, the more negative their feelings.\n【依据】陈述里的 negative、feelings、experience、nature 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】\"It is true that any interaction with nature is better than none, but I don't want people to be satisfied with any small bit of grass and trees,\" Lev says.\n【依据】陈述里的 lev 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。"
+     ],
+     "explain": "长篇阅读匹配：16 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Although the children's reactions were somewhat expected, the new study did contain an unexpected finding: Many of the surveyed children revealed that their parents also expressed fear or disgust of the same animals.",
+       "why": "陈述里的 new、study、parents'、animals、children 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "What do we lose when natural spaces and species disappear?",
+       "why": "陈述里的 disappearance、species、what 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Published in the journal Frontiers in Sustainable Cities, the study examined attitudes toward Discovery Park, the heavily forested 534-acre public park in Seattle, Washington.",
+       "why": "陈述里的 study、discovery、park、public 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "At its worst it becomes something even more concerning: \"biophobia,\" the fear of living things and a complete aversion to nature.",
+       "why": "陈述里的 fear、living、becoming 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Although many conservation biologists still consider that preventing the loss of wildlife habitat is the most important way to conserve biodiversity, I think preventing increased biophobia is also important for conservation.\"",
+       "why": "陈述里的 preventing、increase、important、conserving、biodiversity 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "No matter what techniques we use, this growing field of research illustrates that saving nature requires encouraging people to experience it more often and more deeply.",
+       "why": "陈述里的 research、experience、people、nature 在 P 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 P 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Humans inherently avoid dangerous organisms such as bees, but children these days avoid even harmless insects such as butterflies and dragonflies(蜻蜓),\" he says.",
+       "why": "陈述里的 humans、avoid、dangerous、children、even、harmless 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If anything like that happened, both the park and the people of Seattle could lose something vital.",
+       "why": "陈述里的 park、park 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The less experience the students had with nature, the more negative their feelings.",
+       "why": "陈述里的 negative、feelings、experience、nature 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"It is true that any interaction with nature is better than none, but I don't want people to be satisfied with any small bit of grass and trees,\" Lev says.",
+       "why": "陈述里的 lev 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need. One government proposition is to eliminate $10,000 of debt for 'economically distressed' students. Some in US Congress have gone so far as to suggest forgiving up to $50,000 in debt per student borrower, but does forgiving student debt necessarily correlate to helping the economically disadvantaged? The answer is no. This policy is just giving money away to universities and the most affluent students in attendance. Federal Reserve data reveals that the highest-income 40 percent of households owe approximately 60 percent of outstanding student debt, while the lowest 40 percent owe just under 20 percent. This could be due to a combination of factors: students from high-income households are more likely to go to expensive colleges, less likely to receive financial aid, and more likely to have high incomes post-graduation. Plus, the majority of student debt is held by graduate degree earners, who earn approximately 25 percent more than their undergraduate counterparts. Clearly, giving free reign to banks to forgive student debt is a step in the wrong direction. Other proposals for broader, long-term student loan plans have some fundamental problems. One idea is to cancel student debt only for undergraduate degrees and for students making less than $125,000. This attempts to address the fact that Congress' previously mentioned student loan forgiveness plan largely helps out the wealthy, but is an adverse incentive for universities to keep raising tuition and for students to choose to major in low-earning degree programs. Colleges have no reason to make their programs more affordable if they believe students will just take out more debt. And, students will feel more comfortable making the irresponsible decision to go tens of thousands of dollars in debt to major in impractical or idealistic subjects if they know their loans will be forgiven. This is especially concerning given the pandemic(大流行病) has rendered a college education practically worthless. Students are paying tens of thousands of dollars per year to live at home and be lectured on the Internet. Do we really want to tell colleges that they can get away with providing below-average service for an outrageous cost? In the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class. Plumbers and retail workers will be paying for the degrees of doctors and lawyers. The US government's effort to help those in debt is commendable but is this really the solution that will help the poor financially recover?",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "Why do some people advocate forgiving student loan debt?",
+       "options": [
+        "They assert it will narrow the gap between the wealthy and the poor.",
+        "They believe it will benefit both the economy and the underprivileged.",
+        "They claim it will eliminate economic distress among college students.",
+        "They think the cost of education is the responsibility of the government."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need.\n【依据】正确项的核心词 economy 与定位句对得上；其余 believe、benefit、both、underprivileged 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need.",
+        "why": "正确项的核心词 economy 与定位句对得上；其余 believe、benefit、both、underprivileged 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「narrow、gap、between」全文未出现；把原文的「assert」换成了「narrow、gap、between」，主语或对象被调包。",
+         "C": "无中生有：「claim、distress、among」全文未出现；把原文的「economic、students」换成了「claim、eliminate、distress」，主语或对象被调包。",
+         "D": "因果倒置：「think、responsibility」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we learn from the Federal Reserve data?",
+       "options": [
+        "Approximately 60% of student debt remains unpaid.",
+        "Cancelling student debt benefits wealthy families most.",
+        "Forgiving student debt provides little benefit to universities.",
+        "Low-income families owe the biggest amount of student debt."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Federal Reserve data reveals that the highest-income 40 percent of households owe approximately 60 percent of outstanding student debt, while the lowest 40 percent owe just under 20 percent.\n【依据】正确项的核心词 student、debt 与定位句对得上；其余 cancelling、benefits、wealthy、families 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Federal Reserve data reveals that the highest-income 40 percent of households owe approximately 60 percent of outstanding student debt, while the lowest 40 percent owe just under 20 percent.",
+        "why": "正确项的核心词 student、debt 与定位句对得上；其余 cancelling、benefits、wealthy、families 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「remains、unpaid」全文未出现；把原文的「approximately、student、debt」换成了「remains、unpaid」，主语或对象被调包。",
+         "C": "无中生有：「provides、little、benefit」全文未出现；把原文的「student、debt」换成了「forgiving、provides、little」，主语或对象被调包。",
+         "D": "无中生有：「low-income、families、biggest」全文未出现；把原文的「owe、student、debt」换成了「low-income、families、biggest」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the author say students are likely to do if they know they needn't repay their loans?",
+       "options": [
+        "They will choose to study subjects without considering their job prospects.",
+        "They will be free to pursue their goals without being burdened financially.",
+        "They will over-borrow and live beyond their means.",
+        "They will be able to enroll in expensive universities."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】And, students will feel more comfortable making the irresponsible decision to go tens of thousands of dollars in debt to major in impractical or idealistic subjects if they know their loans will be forgiven.\n【依据】正确项的核心词 subjects 与定位句对得上；其余 choose、study、without、considering 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "And, students will feel more comfortable making the irresponsible decision to go tens of thousands of dollars in debt to major in impractical or idealistic subjects if they know their loans will be forgiven.",
+        "why": "正确项的核心词 subjects 与定位句对得上；其余 choose、study、without、considering 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「pursue、goals、without」全文未出现。",
+         "C": "无中生有：「over-borrow、beyond、means」全文未出现。",
+         "D": "因果倒置：「able、enroll」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does the author imply about colleges offering online education?",
+       "options": [
+        "They cannot get away with the serious consequences.",
+        "They have suffered greatly from the current pandemic.",
+        "The tuition they charge is not justified by the quality of their service.",
+        "The tuition they charge has surged outrageously during the pandemic."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 tuition、charge、justified、quality 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 tuition、charge、justified、quality 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「cannot、serious、consequences」全文未出现。",
+         "B": "无中生有：「suffered、greatly、current」全文未出现。",
+         "D": "无中生有：「charge、surged、outrageously」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What will happen if any of the proposed student debt plans is implemented?",
+       "options": [
+        "Plumbers and retail workers will have a chance of becoming professionals.",
+        "Working-class students will have increasing access to subsidized education.",
+        "Blue-collar workers will have to bear the cost of educating would-be high-earners.",
+        "A growing number of students will be able to earn degrees in medicine and law."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class.\n【依据】正确项的核心词 educating 与定位句对得上；其余 blue-collar、workers、bear、cost 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class.",
+        "why": "正确项的核心词 educating 与定位句对得上；其余 blue-collar、workers、bear、cost 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「chance、becoming」全文未出现；把原文的「professionals」换成了「plumbers、retail、workers」，主语或对象被调包。",
+         "B": "无中生有：「increasing、access」全文未出现；把原文的「working-class、students、subsidized」换成了「increasing、access」，主语或对象被调包。",
+         "D": "无中生有：「growing、number、able」全文未出现；把原文的「students」换成了「growing、number、able」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 436 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "If there's one rule that most parents cling to in the confusing, fast-changing world of kids and media, it's \"No screens before age 2.\" As of today, that rule has been thrown out the window. The American Academy of Pediatrics (AAP), which first issued that recommendation back in 1999, has extensively updated and revised its guidelines for children and adolescents to reflect new research and new habits. The new guidelines, especially for very young children, shift the focus from WHAT is on the screen to WHO else is in the room. And in doing so, they raise some intriguing points about the future of learning from media. For babies younger than 18 months, AAP still says no screens at all are the best idea—with one notable exception: Live video chat. Surveys indicate that families already popularly believe that \"Face time doesn't count\", or at least that the benefit of virtual visits with grandparents or other relatives outweighs the potential cost of exposing babies to the laptop or smartphone. The AAP doesn't cite positive evidence that infants actually get something out of this kind of \"conversation\", the way that they clearly do from live social interaction. But there's some observational research that infants as young as six months old are emotionally engaged by playing live peekaboo(躲猫猫) with Grandma online. For infants and toddlers(学步儿童), ages 15 months to 2 years old, there's limited evidence from a couple of very small studies that they can learn new words from educational media, if and only if parents are watching alongside them, repeating what the video says and/or drawing attention to what is on the screen. In other words, treating a video or an app like a picture book is the best bet. The flip side of this is that many studies have actually shown poorer language skills correlated with earlier solo viewing of \"educational\" videos. There's also research that shows language delays in children who watch more TV and start watching earlier. In both cases, the problem seems to be media replacing interaction with people. For this reason, the new AAP guideline has changed from \"avoid all screens under age 2\" to \"avoid solo media use in this age group.\" For preschoolers ages 2 to 5, there's more evidence that they have the ability to transfer knowledge from screens to the real world, including early literacy and math. For this age group, AAP recommends no more than an hour a day of screen use. And, just as with younger children, they want care-givers to take part in screen time: \"Co-view with your children, help children understand what they are seeing, and help them apply what they learn to the world around them.\"",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn about the \"No screens under 2\" rule?",
+       "options": [
+        "It has met more and more resistance from parents.",
+        "It has proved helpful to children's healthy growth.",
+        "It confuses parents with regard to kids' education.",
+        "It has been discarded in line with recent research."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】And, just as with younger children, they want care-givers to take part in screen time: \"Co-view with your children, help children understand what they are seeing, and help them apply what they learn to the world around them.\"\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 discarded、line、recent、research 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "And, just as with younger children, they want care-givers to take part in screen time: \"Co-view with your children, help children understand what they are seeing, and help them apply what they learn to the world around them.\"",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 discarded、line、recent、research 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「met、resistance」全文未出现。",
+         "B": "无中生有：「proved、helpful、healthy」全文未出现；把原文的「children's」换成了「proved、helpful、healthy」，主语或对象被调包。",
+         "C": "无中生有：「confuses、regard、kids'」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What do the new AAP guidelines advocate?",
+       "options": [
+        "Young children should be accompanied by parents during screen time.",
+        "Parents should be emotionally involved in their children's upbringing.",
+        "Young children should watch videos carefully selected by parents.",
+        "Parents should protect their children from too much media exposure."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The new guidelines, especially for very young children, shift the focus from WHAT is on the screen to WHO else is in the room.\n【依据】正确项的核心词 young、children、screen 与定位句对得上；其余 accompanied、parents、during、time 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The new guidelines, especially for very young children, shift the focus from WHAT is on the screen to WHO else is in the room.",
+        "why": "正确项的核心词 young、children、screen 与定位句对得上；其余 accompanied、parents、during、time 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「involved、upbringing」全文未出现；把原文的「children's」换成了「parents、emotionally、involved」，主语或对象被调包。",
+         "C": "偷换主体：「carefully、selected」全文未出现；把原文的「young、children」换成了「watch、videos、carefully」，主语或对象被调包。",
+         "D": "无中生有：「protect、too、much」全文未出现；把原文的「children」换成了「parents、protect、too」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do families think of live video chat according to surveys?",
+       "options": [
+        "It should not be regarded as screen time.",
+        "It helps babies to develop their verbal skills.",
+        "It is not as harmful as playing games on laptops.",
+        "It is a good substitute for video viewing."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】For babies younger than 18 months, AAP still says no screens at all are the best idea—with one notable exception: Live video chat.\n【依据】正确项的核心词 screen 与定位句对得上；其余 regarded、time 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For babies younger than 18 months, AAP still says no screens at all are the best idea—with one notable exception: Live video chat.",
+        "why": "正确项的核心词 screen 与定位句对得上；其余 regarded、time 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「helps、develop、verbal」全文未出现；把原文的「babies」换成了「helps、develop、verbal」，主语或对象被调包。",
+         "C": "无中生有：「harmful、games、laptops」全文未出现。",
+         "D": "无中生有：「good、substitute」全文未出现；把原文的「video」换成了「good、substitute、viewing」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What do researchers find about kids solo viewing educational videos?",
+       "options": [
+        "It arouses their interest in language learning.",
+        "It works no better than reading picture books.",
+        "It hampers their development of language skills.",
+        "It helps them acquire independent learning skills."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The flip side of this is that many studies have actually shown poorer language skills correlated with earlier solo viewing of \"educational\" videos.\n【依据】正确项的核心词 language、skills 与定位句对得上；其余 hampers、development 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The flip side of this is that many studies have actually shown poorer language skills correlated with earlier solo viewing of \"educational\" videos.",
+        "why": "正确项的核心词 language、skills 与定位句对得上；其余 hampers、development 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「arouses、interest」全文未出现；把原文的「language」换成了「arouses、interest、learning」，主语或对象被调包。",
+         "B": "无中生有：「works、better、reading」全文未出现。",
+         "D": "无中生有：「helps、acquire、independent」全文未出现；把原文的「skills」换成了「helps、acquire、independent」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author say about preschoolers ages 2 to 5?",
+       "options": [
+        "They can understand pretty well what they see on the screen.",
+        "They can learn on their own without much parental guidance.",
+        "They can make use of educational videos to develop digital literacy.",
+        "They can relate what they learn on the screen to real life situations."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】For infants and toddlers(学步儿童), ages 15 months to 2 years old, there's limited evidence from a couple of very small studies that they can learn new words from educational media, if and only if parents are watching alongside them, repeating what the video says and/or drawing attention to what is on the screen.\n【依据】正确项的核心词 what、learn、screen 与定位句对得上；其余 relate、real、life、situations 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For infants and toddlers(学步儿童), ages 15 months to 2 years old, there's limited evidence from a couple of very small studies that they can learn new words from educational media, if and only if parents are watching alongside them, repeating what the video says and/or drawing attention to what is on the screen.",
+        "why": "正确项的核心词 what、learn、screen 与定位句对得上；其余 relate、real、life、situations 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「pretty、well、see」全文未出现；把原文的「what、screen」换成了「understand、pretty、well」，主语或对象被调包。",
+         "B": "无中生有：「own、without、much」全文未出现；把原文的「learn、parental」换成了「own、without、much」，主语或对象被调包。",
+         "C": "无中生有：「make、develop、digital」全文未出现；把原文的「educational、videos」换成了「make、use、develop」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 442 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "黄土高原是中国第三大高原，面积约万平方公里，平均海拔米，绝大部分覆盖着米厚的黄土，是世界上黄土分布最集中、覆盖厚度最大的区域。这是大自然创造的一个奇迹，在世界上也是绝无仅有的。黄土高原是中华民族的发祥地之一。早在年前，人们就已经在黄土高原上开始农耕。随着农耕业的持续发展，黄土高原人口不断增加，在秦汉时期就成为中国的政治和经济中心。如今，随着西部大开发战略的实施，黄土高原地区的经济得到了迅速发展。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

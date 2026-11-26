@@ -1,0 +1,626 @@
+{
+ "id": "cet6-2020-12-3",
+ "levelId": "cet6",
+ "title": "六级 2020 年 12 月 第 3 套",
+ "minutes": 130,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2020年12月英语六级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2020-12-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop the ability to meet challenges. You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Social distancing is putting people out of work, canceling school and tanking the stock market. It has been {{1}} by fear, and it is creating even more fear as money problems and uncertainty grow. However, at its core is love, and a sacrifice to protect those most {{2}} to the coronavirus(冠状病毒) effects—the elderly, people with compromised immune systems, and those whose life-saving resources would be used up by a {{3}} epidemic. Americans make life-saving decisions every day as a matter of course. We cut food into bite-sized pieces, we wear seatbelts, and we take care not to exceed the speed limit. But social distancing is {{4}} in that it is completely self-sacrificing. Those who will benefit may be the elderly relatives of the {{5}} person we didn't pass in Starbucks, on the subway, or in the elevator. Social distancing is millions of people making hundreds of sacrifices to keep the elderly alive. It doesn't include the {{6}} to run from society or make an excuse to avoid one's obligations—such as life-saving medical work or the parental obligation to buy groceries. What it does include is applying love through caution. And in doing so, it offers an {{7}} opportunity for those who care about the elderly to find new ways to love them. If we're not {{8}} as much in our normal work or school, we have extra time to call parents and grandparents. We can also ask elderly relatives how to best support them {{9}} and use our sacrifices as an opportunity to bring us, our community and the world {{10}} .",
+     "options": [
+      "amazing",
+      "closer",
+      "driven",
+      "engaged",
+      "malignant",
+      "oppressing",
+      "premises",
+      "random",
+      "sentimentally",
+      "spiritually",
+      "temptations",
+      "thriftier",
+      "tickled",
+      "unique",
+      "vulnerable"
+     ],
+     "answers": [
+      2,
+      14,
+      4,
+      13,
+      7,
+      10,
+      0,
+      3,
+      9,
+      1
+     ],
+     "blankExplains": [
+      "【定位】It has been ____ by fear, and it is creating even more fear as money problems and uncertainty grow.\n【依据】答案是 driven：填回后与所在句 fear、creating、even、fear、money、problems 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】However, at its core is love, and a sacrifice to protect those most ____ to the coronavirus(冠状病毒) effects—the elderly, people with compromised immune systems, and those whose life-saving resources would be used up by a  … epidemic.\n【依据】答案是 vulnerable：填回后与所在句 however、core、love、sacrifice、protect、coronavirus 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】However, at its core is love, and a sacrifice to protect those most  … to the coronavirus(冠状病毒) effects—the elderly, people with compromised immune systems, and those whose life-saving resources would be used up by a ____ epidemic.\n【依据】答案是 malignant：填回后与所在句 however、core、love、sacrifice、protect、coronavirus 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But social distancing is ____ in that it is completely self-sacrificing.\n【依据】答案是 unique：填回后与所在句 social、distancing、completely、self-sacrificing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Those who will benefit may be the elderly relatives of the ____ person we didn't pass in Starbucks, on the subway, or in the elevator.\n【依据】答案是 random：填回后与所在句 who、benefit、elderly、relatives、person、didn't 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It doesn't include the ____ to run from society or make an excuse to avoid one's obligations—such as life-saving medical work or the parental obligation to buy groceries.\n【依据】答案是 temptations：填回后与所在句 doesn't、include、run、society、make、excuse 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】And in doing so, it offers an ____ opportunity for those who care about the elderly to find new ways to love them.\n【依据】答案是 amazing：填回后与所在句 doing、offers、opportunity、who、care、about 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If we're not ____ as much in our normal work or school, we have extra time to call parents and grandparents.\n【依据】答案是 engaged：填回后与所在句 we're、much、normal、work、school、extra 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】We can also ask elderly relatives how to best support them ____ and use our sacrifices as an opportunity to bring us, our community and the world  … .\n【依据】答案是 spiritually：填回后与所在句 ask、elderly、relatives、how、best、support 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】We can also ask elderly relatives how to best support them  … and use our sacrifices as an opportunity to bring us, our community and the world ____ .\n【依据】答案是 closer：填回后与所在句 ask、elderly、relatives、how、best、support 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "It has been ____ by fear, and it is creating even more fear as money problems and uncertainty grow.",
+       "why": "答案是 driven：填回后与所在句 fear、creating、even、fear、money、problems 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 driven 这个词性/语义，而不是 amazing）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 driven 这个词性/语义，而不是 closer）。"
+       }
+      },
+      {
+       "locate": "However, at its core is love, and a sacrifice to protect those most ____ to the coronavirus(冠状病毒) effects—the elderly, people with compromised immune systems, and those whose life-saving resources would be used up by a  … epidemic.",
+       "why": "答案是 vulnerable：填回后与所在句 however、core、love、sacrifice、protect、coronavirus 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vulnerable 这个词性/语义，而不是 amazing）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vulnerable 这个词性/语义，而不是 closer）。"
+       }
+      },
+      {
+       "locate": "However, at its core is love, and a sacrifice to protect those most  … to the coronavirus(冠状病毒) effects—the elderly, people with compromised immune systems, and those whose life-saving resources would be used up by a ____ epidemic.",
+       "why": "答案是 malignant：填回后与所在句 however、core、love、sacrifice、protect、coronavirus 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 malignant 这个词性/语义，而不是 amazing）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 malignant 这个词性/语义，而不是 closer）。"
+       }
+      },
+      {
+       "locate": "But social distancing is ____ in that it is completely self-sacrificing.",
+       "why": "答案是 unique：填回后与所在句 social、distancing、completely、self-sacrificing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 unique 这个词性/语义，而不是 amazing）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 unique 这个词性/语义，而不是 closer）。"
+       }
+      },
+      {
+       "locate": "Those who will benefit may be the elderly relatives of the ____ person we didn't pass in Starbucks, on the subway, or in the elevator.",
+       "why": "答案是 random：填回后与所在句 who、benefit、elderly、relatives、person、didn't 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 random 这个词性/语义，而不是 amazing）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 random 这个词性/语义，而不是 closer）。"
+       }
+      },
+      {
+       "locate": "It doesn't include the ____ to run from society or make an excuse to avoid one's obligations—such as life-saving medical work or the parental obligation to buy groceries.",
+       "why": "答案是 temptations：填回后与所在句 doesn't、include、run、society、make、excuse 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 temptations 这个词性/语义，而不是 thriftier）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 temptations 这个词性/语义，而不是 tickled）。"
+       }
+      },
+      {
+       "locate": "And in doing so, it offers an ____ opportunity for those who care about the elderly to find new ways to love them.",
+       "why": "答案是 amazing：填回后与所在句 doing、offers、opportunity、who、care、about 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 amazing 这个词性/语义，而不是 closer）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 amazing 这个词性/语义，而不是 driven）。"
+       }
+      },
+      {
+       "locate": "If we're not ____ as much in our normal work or school, we have extra time to call parents and grandparents.",
+       "why": "答案是 engaged：填回后与所在句 we're、much、normal、work、school、extra 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 engaged 这个词性/语义，而不是 amazing）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 engaged 这个词性/语义，而不是 closer）。"
+       }
+      },
+      {
+       "locate": "We can also ask elderly relatives how to best support them ____ and use our sacrifices as an opportunity to bring us, our community and the world  … .",
+       "why": "答案是 spiritually：填回后与所在句 ask、elderly、relatives、how、best、support 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 spiritually 这个词性/语义，而不是 sentimentally）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 spiritually 这个词性/语义，而不是 amazing）。"
+       }
+      },
+      {
+       "locate": "We can also ask elderly relatives how to best support them  … and use our sacrifices as an opportunity to bring us, our community and the world ____ .",
+       "why": "答案是 closer：填回后与所在句 ask、elderly、relatives、how、best、support 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 closer 这个词性/语义，而不是 amazing）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 closer 这个词性/语义，而不是 driven）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Picture yourself at a college graduation day, with a fresh cohort(一群) of students about to set sail for new horizons. What are they thinking while they throw their caps in the air? What is it with this thin sheet of paper that makes it so precious? It's not only the proof of acquired knowledge but plays into the reputation game of where you were trained. Being a graduate from Harvard Law School carries that extra glamour, doesn't it? Yet take a closer look, and the diploma is the perfect ending to the modern tragedy of education."
+      },
+      {
+       "id": "B",
+       "text": "Why? Because universities and curricula are designed along the three unities of French classical tragedy: time, action, and place. Students meet at the university campus (unity of place) for classes (unity of action) during their 20s (unity of time). This classical model has traditionally produced prestigious universities, but it is now challenged by the digitalisation of society—which allows everybody who is connected to the internet to access learning—and by the need to acquire skills in step with a fast-changing world. Universities must realise that learning in your 20s won't be enough. If technological diffusion and implementation develop faster, workers will have to constantly refresh their skills."
+      },
+      {
+       "id": "C",
+       "text": "The university model needs to evolve. It must equip students with the right skills and knowledge to compete in a world 'where value will be derived largely from human interaction and the ability to invent and interpret things that machines cannot', as the English futurist Richard Watson puts it. By teaching foundational knowledge and up-to-date skills, universities will provide students with the future-proof skills of lifelong learning, not just get them 'job-ready'."
+      },
+      {
+       "id": "D",
+       "text": "Some universities already play a critical role in lifelong learning as they want to keep the value of their diplomas. This new role comes with a huge set of challenges, and needs largely to be invented. One way to start this transformation process could be to go beyond the 'five-year diploma model' to adapt curricula to lifelong learning. We call this model the lifelong passport."
+      },
+      {
+       "id": "E",
+       "text": "The Bachelor's degree could be your passport to lifelong learning. For the first few years, students would 'learn to learn' and get endowed with reasoning skills that remain with them for the rest of their lives. For instance, physics allows you to observe and rationalise the world, but also to integrate observations into models and, sometimes, models into theories or laws that can be used to make predictions. Mathematics is the language used to formulate the laws of physics or economy, and to make rigorous computations that turn into predictions. These two disciplines naturally form the foundational pillars of education in technical universities."
+      },
+      {
+       "id": "F",
+       "text": "Recent advances in computational methods and data science push us into rethinking science and engineering. Computers increasingly become principal actors in leveraging data to formulate questions, which requires radically new ways of reasoning. Therefore, a new discipline blending computer science, programming, statistics and machine learning should be added to the traditional foundational topics of mathematics and physics. These three pillars would allow you to keep learning complex technical subjects all your life because numeracy(计算) is the foundation upon which everything else is eventually built."
+      },
+      {
+       "id": "G",
+       "text": "According to this new model, the Master of Science (MSc) would become the first stamp in the lifelong learning journey. The MSc curriculum should prepare students for their professional career by allowing them to focus on acquiring practical skills through projects."
+      },
+      {
+       "id": "H",
+       "text": "Those projects are then interwoven with fast-paced technical modules(模块) learned 'on-the-fly' and 'at will' depending on the nature of the project. If, for instance, your project is developing an integrated circuit, you will have to take a module on advanced concepts in microelectronics. The most critical skills will be developed before the project even starts, in the form of boot camps(短期强化训练), while the rest can be fostered along with the project, putting them to immediate use and thus providing a rich learning context."
+      },
+      {
+       "id": "I",
+       "text": "In addition to technical capabilities, the very nature of projects develops social and entrepreneurial skills, such as design thinking, initiative taking, team leading, activity reporting or resource planning. Not only will those skills be actually integrated into the curriculum but they will be very important to have in the future because they are difficult to automate."
+      },
+      {
+       "id": "J",
+       "text": "After the MSc diploma is earned, there would be many more stamps of lifelong learning over the years. If universities decide to engage in this learning model, they will have to cope with many organisational challenges that might shake their unity of place and action. First, the number of students would be unpredictable. If all of a university's alumni(往届毕业生) were to become students again, the student body would be much bigger than it is now, and it could become unsustainable for the campus in terms of both size and resources. Second, freshly graduated students would mix with professionally experienced ones. This would change the classroom dynamics, perhaps for the best. Project-based learning with a mixed team reflects the reality of the professional world and could therefore be a better preparation for it."
+      },
+      {
+       "id": "K",
+       "text": "Sound like science fiction? In many countries, part-time studying is not exceptional: on average across OECD countries, part-time students in 2016 represented 20 per cent of enrolment in tertiary education. In many countries, this share is higher and can exceed 40 per cent in Australia, New Zealand and Sweden."
+      },
+      {
+       "id": "L",
+       "text": "If lifelong learning were to become a priority and the new norm, diplomas, just like passports, could be revalidated periodically. A time-determined revalidation would ease administration for everybody. Universities as well as employers and employees would know when they have to retrain. For instance, graduates from the year 2000 would have to come back in 2005."
+      },
+      {
+       "id": "M",
+       "text": "This could fix the main organisational challenges for the university, but not for the learners, due to lack of time, family obligations or funds. Here, online learning might be an option because it allows you to save your 'travel time', but it has its limits. So far, none of the major employers associated with online learning platforms such as Coursera and Udacity has committed to hire or even interview graduates of their new online programmes."
+      },
+      {
+       "id": "N",
+       "text": "Even if time were not an issue, who will pay for lifelong learning? That's the eternal debate: should it be the learner's responsibility, that of his employer, or of the state? For example, in Massachusetts, the healthcare professions require continuing education credits, which are carefully evidenced and documented. Yet the same state's lawyers don't require continuing legal education, although most lawyers do participate in it informally. One explanation is that technology is less of a factor in law than it is in healthcare."
+      },
+      {
+       "id": "O",
+       "text": "Europe has many scenarios, but the French and Swiss ones are interesting to compare. In France, every individual has a right to lifelong learning organised via a personal learning account that is credited as you work. In Switzerland, lifelong learning is a personal responsibility and not a government one. However, employers and the state encourage continuing education either by funding parts of it or by allowing employees to attend it."
+      },
+      {
+       "id": "P",
+       "text": "Universities have a fundamental role to play in this journey, and higher education is in for a change. Just like classical theatre, the old university model produced talent and value for society. We are not advocating its abolition but rather calling for the adaptation of its characteristics to meet the needs of today."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Students should develop the key skills before they start a project."
+      },
+      {
+       "id": "s37",
+       "text": "By acquiring reasoning skills in the first few years of college, students can lay a foundation for lifelong learning."
+      },
+      {
+       "id": "s38",
+       "text": "The easy access to learning and rapid technological changes have brought the traditional model of education under challenge."
+      },
+      {
+       "id": "s39",
+       "text": "Unbelievable as it may seem, part-time students constitute a considerable portion of the student body in many universities across the world."
+      },
+      {
+       "id": "s40",
+       "text": "Some social and managerial skills, which are not easily automated, will be of great importance to students' future careers."
+      },
+      {
+       "id": "s41",
+       "text": "A new model of college education should provide students with the knowledge and skills that will make them more inventive and capable of lifelong learning."
+      },
+      {
+       "id": "s42",
+       "text": "A mixed student body may change the classroom dynamics and benefit learning."
+      },
+      {
+       "id": "s43",
+       "text": "The question of who will bear the cost of lifelong learning is a topic of constant debate."
+      },
+      {
+       "id": "s44",
+       "text": "To the traditional subjects of math and physics should be added a new discipline which combines computer science with statistics and other components."
+      },
+      {
+       "id": "s45",
+       "text": "Students who are burdened with family duties might choose to take online courses."
+      }
+     ],
+     "answers": [
+      "H",
+      "E",
+      "B",
+      "K",
+      "I",
+      "C",
+      "J",
+      "N",
+      "F",
+      "M"
+     ],
+     "statementExplains": [
+      "【定位】The most critical skills will be developed before the project even starts, in the form of boot camps(短期强化训练), while the rest can be fostered along with the project, putting them to immediate use and thus providing a rich learning context.\n【依据】陈述里的 develop、skills、before、start、project 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】For the first few years, students would 'learn to learn' and get endowed with reasoning skills that remain with them for the rest of their lives.\n【依据】陈述里的 reasoning、skills、first、few、years、students 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】This classical model has traditionally produced prestigious universities, but it is now challenged by the digitalisation of society—which allows everybody who is connected to the internet to access learning—and by the need to acquire skills in step with a fast-changing world.\n【依据】陈述里的 access、learning、traditional、model、challenge 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】In many countries, part-time studying is not exceptional: on average across OECD countries, part-time students in 2016 represented 20 per cent of enrolment in tertiary education.\n【依据】陈述里的 part-time、students、student、many、across 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Not only will those skills be actually integrated into the curriculum but they will be very important to have in the future because they are difficult to automate.\n【依据】陈述里的 skills、automated、importance、future 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】By teaching foundational knowledge and up-to-date skills, universities will provide students with the future-proof skills of lifelong learning, not just get them 'job-ready'.\n【依据】陈述里的 provide、students、knowledge、skills、lifelong、learning 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】This would change the classroom dynamics, perhaps for the best.\n【依据】陈述里的 change、classroom、dynamics 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Even if time were not an issue, who will pay for lifelong learning?\n【依据】陈述里的 who、lifelong、learning 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+      "【定位】Therefore, a new discipline blending computer science, programming, statistics and machine learning should be added to the traditional foundational topics of mathematics and physics.\n【依据】陈述里的 traditional、physics、added、new、discipline、computer 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】So far, none of the major employers associated with online learning platforms such as Coursera and Udacity has committed to hire or even interview graduates of their new online programmes.\n【依据】陈述里的 online、courses 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。"
+     ],
+     "explain": "长篇阅读匹配：16 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "The most critical skills will be developed before the project even starts, in the form of boot camps(短期强化训练), while the rest can be fostered along with the project, putting them to immediate use and thus providing a rich learning context.",
+       "why": "陈述里的 develop、skills、before、start、project 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For the first few years, students would 'learn to learn' and get endowed with reasoning skills that remain with them for the rest of their lives.",
+       "why": "陈述里的 reasoning、skills、first、few、years、students 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This classical model has traditionally produced prestigious universities, but it is now challenged by the digitalisation of society—which allows everybody who is connected to the internet to access learning—and by the need to acquire skills in step with a fast-changing world.",
+       "why": "陈述里的 access、learning、traditional、model、challenge 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In many countries, part-time studying is not exceptional: on average across OECD countries, part-time students in 2016 represented 20 per cent of enrolment in tertiary education.",
+       "why": "陈述里的 part-time、students、student、many、across 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Not only will those skills be actually integrated into the curriculum but they will be very important to have in the future because they are difficult to automate.",
+       "why": "陈述里的 skills、automated、importance、future 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "By teaching foundational knowledge and up-to-date skills, universities will provide students with the future-proof skills of lifelong learning, not just get them 'job-ready'.",
+       "why": "陈述里的 provide、students、knowledge、skills、lifelong、learning 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This would change the classroom dynamics, perhaps for the best.",
+       "why": "陈述里的 change、classroom、dynamics 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Even if time were not an issue, who will pay for lifelong learning?",
+       "why": "陈述里的 who、lifelong、learning 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Therefore, a new discipline blending computer science, programming, statistics and machine learning should be added to the traditional foundational topics of mathematics and physics.",
+       "why": "陈述里的 traditional、physics、added、new、discipline、computer 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "So far, none of the major employers associated with online learning platforms such as Coursera and Udacity has committed to hire or even interview graduates of their new online programmes.",
+       "why": "陈述里的 online、courses 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Why does social media trigger feelings of loneliness and inadequacy? Because instead of being real life, it is, for the most part, impression management, a way of marketing yourself, carefully choosing and filtering the pictures and words to put your best face forward. Online \"friends\" made through social media do not follow the normal psychological progression of an interpersonal relationship. You share neither physical time nor emotional conversations over the Internet. You simply communicate photographs and catchy posts to a diverse group of people whom you have \"friended\" or \"followed\" based on an accidental interaction. This is not to say that your social media friends can't be real friends. They absolutely can, but the two are not synonymous. Generally speaking, there are no unfiltered comments or casually taken photos on our social media pages. And, rightfully so, because it wouldn't feel safe to be completely authentic and vulnerable with some of our \"friends\" whom we don't actually know or with whom trust has yet to be built. Social media can certainly be an escape from the daily grind, but we must be cautioned against the negative effects, such as addiction, on a person's overall psychological well-being. As humans, we yearn for social connection. Scrolling(滚动) through pages of pictures and comments, however, does not provide the same degree of fulfillment as face-to-face interactions do. Also, we tend to idealize others' lives and compare our downfalls to their greatest accomplishments, ending in feelings of loneliness and inadequacy. Social media can lead people on the unhealthy quest for perfection. Some people begin to attend certain events or travel to different places so that they can snap that \"perfect\" photo. They begin to seek validation through the number of people who \"like\" their posts. In order for it to play a psychologically healthy role in your social life, social media should supplement an already healthy social network. Pictures and posts should be byproducts of life's treasured moments and fun times, not the planned and calculated image that one is putting out into cyberspace in an attempt to fill insecurities or unmet needs. Ultimately, social media has increased our ability to connect with various types of people all over the globe. It has opened doors for businesses and allowed us to stay connected to people whom we may not otherwise get to follow. However, social media should feel like a fun experience, not one that contributes to negative thoughts and feelings. If the latter is the case, increasing face-to-face time with trusted friends, and minimizing time scrolling online, will prove to be a reminder that your social network is much more rewarding than any \"like,\" \"follow\" or \"share\" can be.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author imply social media may do to our life?",
+       "options": [
+        "It may facilitate our interpersonal relationships.",
+        "It may filter our negative impressions of others.",
+        "It may make us feel isolated and incompetent.",
+        "It may render us vulnerable and inauthentic."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In order for it to play a psychologically healthy role in your social life, social media should supplement an already healthy social network.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 make、feel、isolated、incompetent 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In order for it to play a psychologically healthy role in your social life, social media should supplement an already healthy social network.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 make、feel、isolated、incompetent 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「facilitate、relationships」全文未出现。",
+         "B": "无中生有：「filter、impressions、others」全文未出现。",
+         "D": "无中生有：「render、inauthentic」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "Why do people post comments selectively on social media?",
+       "options": [
+        "They do not find all their online friends trustworthy.",
+        "They want to avoid offending any of their audience.",
+        "They do not want to lose their followers.",
+        "They are eager to boost their popularity."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Online \"friends\" made through social media do not follow the normal psychological progression of an interpersonal relationship.\n【依据】正确项的核心词 online、friends 与定位句对得上；其余 find、trustworthy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Online \"friends\" made through social media do not follow the normal psychological progression of an interpersonal relationship.",
+        "why": "正确项的核心词 online、friends 与定位句对得上；其余 find、trustworthy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「want、avoid、offending」全文未出现。",
+         "C": "无中生有：「want、lose」全文未出现；把原文的「followers」换成了「want、lose」，主语或对象被调包。",
+         "D": "无中生有：「eager、boost、popularity」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What are humans inclined to do according to the passage?",
+       "options": [
+        "Exaggerate their life's accomplishments.",
+        "Strive for perfection regardless of the cost.",
+        "Paint a rosy picture of other people's lives.",
+        "Learn lessons from other people's downfalls."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】As humans, we yearn for social connection.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 paint、rosy、picture、other 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As humans, we yearn for social connection.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 paint、rosy、picture、other 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「exaggerate」全文未出现。",
+         "B": "无中生有：「strive、regardless、cost」全文未出现。",
+         "D": "无中生有：「learn、lessons、other」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What is the author's view of pictures and posts on social media?",
+       "options": [
+        "They should record the memorable moments in people's lives.",
+        "They should be carefully edited so as to present the best image.",
+        "They should be shown in a way that meets one's security needs.",
+        "They should keep people from the unhealthy quest for perfection."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Pictures and posts should be byproducts of life's treasured moments and fun times, not the planned and calculated image that one is putting out into cyberspace in an attempt to fill insecurities or unmet needs.\n【依据】正确项的核心词 moments 与定位句对得上；其余 record、memorable、people's、lives 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Pictures and posts should be byproducts of life's treasured moments and fun times, not the planned and calculated image that one is putting out into cyberspace in an attempt to fill insecurities or unmet needs.",
+        "why": "正确项的核心词 moments 与定位句对得上；其余 record、memorable、people's、lives 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「edited、present」全文未出现；把原文的「image」换成了「carefully、edited、present」，主语或对象被调包。",
+         "C": "无中生有：「shown、meets、one's」全文未出现；把原文的「needs」换成了「shown、way、meets」，主语或对象被调包。",
+         "D": "因果倒置：「keep」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author advise people to do when they find their online experience unconstructive?",
+       "options": [
+        "Use social media to increase their ability to connect with various types of people.",
+        "Stay connected to those whom they may not otherwise get to know and befriend.",
+        "Try to prevent negative thoughts and feelings from getting into the online pages.",
+        "Strengthen ties with real-life friends instead of caring about their online image."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】If the latter is the case, increasing face-to-face time with trusted friends, and minimizing time scrolling online, will prove to be a reminder that your social network is much more rewarding than any \"like,\" \"follow\" or \"share\" can be.\n【依据】正确项的核心词 friends、online 与定位句对得上；其余 strengthen、ties、real-life、instead 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If the latter is the case, increasing face-to-face time with trusted friends, and minimizing time scrolling online, will prove to be a reminder that your social network is much more rewarding than any \"like,\" \"follow\" or \"share\" can be.",
+        "why": "正确项的核心词 friends、online 与定位句对得上；其余 strengthen、ties、real-life、instead 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「use」全文未出现；把原文的「social、increase」换成了「use、media、ability」，主语或对象被调包。",
+         "B": "因果倒置：「befriend」全文未出现。",
+         "C": "偷换主体：「try、prevent、getting」全文未出现；把原文的「online」换成了「try、prevent、negative」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 445 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Imagine that an alien species landed on Earth and, through their mere presence, those aliens caused our art to vanish, our music to homogenize, and our technological know-how to disappear. That is effectively what humans have been doing to our closest relatives—chimps(大猩猩). Back in 1999, a team of scientists led by Andrew Whiten showed that chimps from different parts of Africa behave very differently from one another. Some groups would get each other's attention by rapping branches with their knuckles(指关节), while others did it by loudly ripping leaves with their teeth. The team identified 39 of these traditions that are practiced by some communities but not others—a pattern that, at the time, hadn't been seen in any animal except humans. It was evidence, the team said, that chimps have their own cultures. It took a long time to convince skeptics that such cultures exist, but now we have plenty of examples of animals learning local traditions from one another. But just when many scientists have come to accept the existence of animal cultures, many of those cultures might vanish. Ammie Kalan and her colleagues have shown, through years of intensive fieldwork, that the very presence of humans has eroded the diversity of chimp behavior. Where we flourish, their cultures wither. It is a bitterly ironic thing to learn on the 20th anniversary of Whiten's classic study. \"It's amazing to think that just 60 years ago, we knew next to nothing of the behavior of our sister species in the wild,\" Whiten says. \"But now, just as we are truly getting to know our primate(灵长类) cousins, the actions of humans are closing the window on all we have discovered.\" \"Sometimes in the rush to conserve the species, I think we forget about the individuals,\" says Cat Hobaiter, a professor at the University of St. Andrews. \"Each population, each community, even each generation of chimps is unique. An event might only have a small impact on the total population of chimps, but it may wipe out an entire community—an entire culture. No matter what we do to restore habitat or support population growth, we may never be able to restore that culture.\" No one knows whether the destruction of chimp culture is getting worse. Few places have tracked chimp behavior over long periods, and those that have are also more likely to have protected their animals from human influence. Obviously, conservationists need to think about saving species in a completely new way—by preserving animal traditions as well as bodies and genes. \"Instead of focusing only on the conservation of genetically based entities like species, we now need to also consider culturally based entities,\" says Andrew Whiten.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author say we humans have been doing to chimps?",
+       "options": [
+        "Ruining their culture.",
+        "Accelerating their extinction.",
+        "Treating them as alien species.",
+        "Homogenizing their living habits."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】That is effectively what humans have been doing to our closest relatives—chimps(大猩猩).\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 ruining、culture 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "That is effectively what humans have been doing to our closest relatives—chimps(大猩猩).",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 ruining、culture 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「accelerating、extinction」全文未出现。",
+         "C": "因果倒置：「treating」全文未出现。",
+         "D": "无中生有：「homogenizing、living、habits」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is the finding of Andrew Whiten's team?",
+       "options": [
+        "Chimps demonstrate highly developed skills of communication.",
+        "Chimps rely heavily upon their body language to communicate.",
+        "Chimps behave in ways quite similar to those of human beings.",
+        "Different chimp groups differ in their way of communication."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Back in 1999, a team of scientists led by Andrew Whiten showed that chimps from different parts of Africa behave very differently from one another.\n【依据】正确项的核心词 different、chimp、differ 与定位句对得上；其余 groups、way、communication 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Back in 1999, a team of scientists led by Andrew Whiten showed that chimps from different parts of Africa behave very differently from one another.",
+        "why": "正确项的核心词 different、chimp、differ 与定位句对得上；其余 groups、way、communication 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「demonstrate、highly、developed」全文未出现；把原文的「chimps」换成了「demonstrate、highly、developed」，主语或对象被调包。",
+         "B": "无中生有：「rely、heavily、upon」全文未出现；把原文的「chimps」换成了「rely、heavily、upon」，主语或对象被调包。",
+         "C": "无中生有：「ways、quite、similar」全文未出现；把原文的「chimps、behave」换成了「ways、quite、similar」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What did Ammie Kalan and her colleagues find through their intensive fieldwork?",
+       "options": [
+        "Whiten's classic study has little impact on the diversity of chimp behavior.",
+        "Chimp behavior becomes less varied with the increase of human activity.",
+        "Chimps alter their culture to quickly adapt to the changed environment.",
+        "It might already be too late to prevent animal cultures from extinction."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Ammie Kalan and her colleagues have shown, through years of intensive fieldwork, that the very presence of humans has eroded the diversity of chimp behavior.\n【依据】正确项的核心词 chimp、behavior、human 与定位句对得上；其余 becomes、less、varied、increase 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Ammie Kalan and her colleagues have shown, through years of intensive fieldwork, that the very presence of humans has eroded the diversity of chimp behavior.",
+        "why": "正确项的核心词 chimp、behavior、human 与定位句对得上；其余 becomes、less、varied、increase 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「little」全文未出现；把原文的「diversity、chimp、behavior」换成了「whiten's、classic、study」，主语或对象被调包。",
+         "C": "无中生有：「alter、quickly、adapt」全文未出现；把原文的「chimps」换成了「alter、culture、quickly」，主语或对象被调包。",
+         "D": "无中生有：「already、too、late」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does Cat Hobaiter think we should do for chimp conservation?",
+       "options": [
+        "Try to understand our sister species' behavior in the wild.",
+        "Make efforts to preserve each individual chimp community.",
+        "Study the unique characteristics of each generation of chimps.",
+        "Endeavor to restore chimp habitats to expand its total population."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】\"But now, just as we are truly getting to know our primate(灵长类) cousins, the actions of humans are closing the window on all we have discovered.\" \"Sometimes in the rush to conserve the species, I think we forget about the individuals,\" says Cat Hobaiter, a professor at the University of St.\n【依据】正确项的核心词 individual 与定位句对得上；其余 make、efforts、preserve、each 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"But now, just as we are truly getting to know our primate(灵长类) cousins, the actions of humans are closing the window on all we have discovered.\" \"Sometimes in the rush to conserve the species, I think we forget about the individuals,\" says Cat Hobaiter, a professor at the University of St.",
+        "why": "正确项的核心词 individual 与定位句对得上；其余 make、efforts、preserve、each 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「try、understand」全文未出现；把原文的「species'」换成了「try、understand、sister」，主语或对象被调包。",
+         "C": "因果倒置：「characteristics」全文未出现。",
+         "D": "因果倒置：「endeavor、habitats、expand」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author suggest conservationists do?",
+       "options": [
+        "Focus entirely on culturally-based entities rather than genetically-based ones.",
+        "Place more stress on animal traditions than on their physical conservation.",
+        "Conserve animal species in a novel and all-round way.",
+        "Explore the cultures of species before they vanish."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Obviously, conservationists need to think about saving species in a completely new way—by preserving animal traditions as well as bodies and genes.\n【依据】正确项的核心词 conserve、animal、species、way 与定位句对得上；其余 novel、all-round 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Obviously, conservationists need to think about saving species in a completely new way—by preserving animal traditions as well as bodies and genes.",
+        "why": "正确项的核心词 conserve、animal、species、way 与定位句对得上；其余 novel、all-round 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「focus、entirely、culturally-based」全文未出现。",
+         "B": "无中生有：「place、stress、physical」全文未出现；把原文的「animal、traditions、conservation」换成了「place、stress、physical」，主语或对象被调包。",
+         "D": "偷换主体：「explore、before」全文未出现；把原文的「species」换成了「explore、cultures、before」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 445 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "北京大兴国际机场位于天安门广场以南公里处，于年月日投入使用。该巨型工程于年开工建设，高峰时工地上有万多工人。航站楼设计紧凑，可以允许最大数量的飞机直接停靠在最靠近航站楼中心的位置，这给乘客提供了极大的方便。航站楼共有个登机口，但乘客通过安检后，只需不到分钟就能抵达任何一个登机口。机场的设计可确保每小时架次起降。机场年客运量年将达到亿人次，有望成为世界上最繁忙的机场。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

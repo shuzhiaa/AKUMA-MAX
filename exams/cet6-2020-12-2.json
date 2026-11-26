@@ -1,0 +1,1156 @@
+{
+ "id": "cet6-2020-12-2",
+ "levelId": "cet6",
+ "title": "六级 2020 年 12 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2020年12月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2020-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2020-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W：这真是难以置信。它和我以前玩过的任何电子游戏都不一样"
+      },
+      {
+       "idx": 2,
+       "zh": "M：我哥哥去年介绍给我的"
+      },
+      {
+       "idx": 3,
+       "zh": "W：是啊，我能看出来"
+      },
+      {
+       "idx": 4,
+       "zh": "M：我完全同意。我哥哥还给我介绍了一些视频"
+      },
+      {
+       "idx": 5,
+       "zh": "W：说实话，玩这个游戏让我产生了进一步了解这个行业的想法"
+      },
+      {
+       "idx": 6,
+       "zh": "M：哈，我还更进一步"
+      },
+      {
+       "idx": 7,
+       "zh": "W：我不确定这款电子游戏与现实情况相比有多准确"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 你说得对。这方面我确实需要多下些功夫"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What are the speakers mainly talking about?",
+       "options": [
+        "A driving test.",
+        "A video game.",
+        "Traffic routes.",
+        "Cargo logistics."
+       ],
+       "optionsZh": [
+        "驾驶考试。",
+        "电子游戏。",
+        "交通路线。",
+        "货物物流。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：A video game.（电子游戏。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the man say about the driving simulator?",
+       "options": [
+        "He found it instructive and realistic.",
+        "He bought it when touring Europe.",
+        "He was really drawn to its other versions.",
+        "He introduced it to his brother last year."
+       ],
+       "optionsZh": [
+        "他认为它富有指导意义且逼真。",
+        "他在欧洲旅行时买的。",
+        "他确实被它的其他版本所吸引。",
+        "他去年把它介绍给了他的兄弟。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He found it instructive and realistic.（他认为它富有指导意义且逼真。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the woman say she really appreciates?",
+       "options": [
+        "Traveling all over the country.",
+        "Driving from one city to another.",
+        "The details in the driving simulator.",
+        "The key role of the logistics industry."
+       ],
+       "optionsZh": [
+        "在全国各地旅行。",
+        "从一个城市开车到另一个城市。",
+        "驾驶模拟器中的细节。",
+        "物流行业的关键作用。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The details in the driving simulator.（驾驶模拟器中的细节。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What outcome does the woman expect from the driving simulator?",
+       "options": [
+        "Clearer road signs.",
+        "More people driving safely.",
+        "Stricter traffic rules.",
+        "More self-driving trucks on the road."
+       ],
+       "optionsZh": [
+        "更清晰的道路标志。",
+        "更多人安全驾驶。",
+        "更严格的交通规则。",
+        "路上有更多自动驾驶卡车。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：More people driving safely.（更多人安全驾驶。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the man say about his life of being self-employed?",
+       "options": [
+        "It isn't so enjoyable as he expected.",
+        "It isn't so motivating as he believed.",
+        "It doesn't enable him to earn as much money as he used to.",
+        "It doesn't seem to offer as much freedom as he anticipated."
+       ],
+       "optionsZh": [
+        "没有他预期的那么愉快。",
+        "没有他认为的那么有激励性。",
+        "无法让他赚到像以前那样多的钱。",
+        "似乎没有提供他预想的那么多自由。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It doesn't seem to offer as much freedom as he anticipated.（似乎没有提供他预想的那么多自由。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the man say about managers?",
+       "options": [
+        "Not all of them care about their employees' behaviors.",
+        "Few of them are aware of their employees' feelings.",
+        "Few of them offer praise and reward to their employees.",
+        "Not all of them know how to motivate their employees."
+       ],
+       "optionsZh": [
+        "并非所有管理者都关心员工的行为。",
+        "很少有管理者意识到员工的感受。",
+        "很少有管理者给予员工表扬和奖励。",
+        "并非所有管理者都知道如何激励员工。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Not all of them know how to motivate their employees.（并非所有管理者都知道如何激励员工。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What do both speakers value most about self-employment?",
+       "options": [
+        "Job satisfaction.",
+        "Self-awareness.",
+        "Autonomy.",
+        "Money."
+       ],
+       "optionsZh": [
+        "工作满意度。",
+        "自我意识。",
+        "自主权。",
+        "金钱。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Autonomy.（自主权。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "On what point does the man agree with the woman?",
+       "options": [
+        "The importance of cultivating close relationships with clients.",
+        "The need for getting recommendations from their managers.",
+        "The advantages of permanent full-time employment.",
+        "The way to explore employees' interests and talents."
+       ],
+       "optionsZh": [
+        "与客户培养密切关系的重要性。",
+        "需要从管理者那里获得推荐。",
+        "永久全职工作的优势。",
+        "探索员工兴趣和才能的方式。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The importance of cultivating close relationships with clients.（与客户培养密切关系的重要性。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What do we learn about the findings of the new study?",
+       "options": [
+        "Consumers visualize their activities in different weather.",
+        "Good weather triggers consumers' desire to go shopping.",
+        "Weather conditions influence consumers' buying behavior.",
+        "Consumers' mental states change with the prices of goods."
+       ],
+       "optionsZh": [
+        "消费者在不同天气下想象自己的活动。",
+        "好天气激发消费者的购物欲望。",
+        "天气状况影响消费者的购买行为。",
+        "消费者的心理状态随商品价格而变化。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Weather conditions influence consumers' buying behavior.（天气状况影响消费者的购买行为。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the passage say may increase the value of products for consumers?",
+       "options": [
+        "Active consumption.",
+        "Direct correlation.",
+        "Individual association.",
+        "Mental visualization."
+       ],
+       "optionsZh": [
+        "主动消费。",
+        "直接相关性。",
+        "个人联想。",
+        "心理想象。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Mental visualization.（心理想象。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "How can the findings of the new study benefit online sellers according to the researchers?",
+       "options": [
+        "Enabling them to simplify their mathematical formulas.",
+        "Helping them determine what to sell and at what price.",
+        "Enabling them to sell their products at a higher price.",
+        "Helping them advertise a greater variety of products."
+       ],
+       "optionsZh": [
+        "使他们能够简化数学公式。",
+        "帮助他们确定销售什么产品以及以什么价格销售。",
+        "使他们能够以更高的价格销售产品。",
+        "帮助他们宣传更多种类的产品。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Helping them determine what to sell and at what price.（帮助他们确定销售什么产品以及以什么价格销售。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What is the accepted wisdom concerning the office environment?",
+       "options": [
+        "A naturally ventilated office is more comfortable.",
+        "A cool office will boost employees' productivity.",
+        "Office air-conditioning should follow guidebooks.",
+        "Air-conditioning improves ventilation in the office."
+       ],
+       "optionsZh": [
+        "自然通风的办公室更加舒适。",
+        "凉爽的办公室会提高员工的生产力。",
+        "办公室空调应遵循指南手册。",
+        "空调改善了办公室的通风。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：A cool office will boost employees' productivity.（凉爽的办公室会提高员工的生产力。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What did researchers find from their review of all studies relating to air-conditioning and productivity?",
+       "options": [
+        "People in their comfort zone of temperature are more satisfied with their productivity.",
+        "People in different countries vary in their tolerance to uncomfortable temperatures.",
+        "Twenty-two degrees is the optimal temperature for office workers.",
+        "There is a range of temperatures for people to feel comfortable."
+       ],
+       "optionsZh": [
+        "处于温度舒适区的人对自己的生产力更满意。",
+        "不同国家的人对不舒适温度的耐受性各不相同。",
+        "22度是办公室工作人员的最佳温度。",
+        "人们感到舒适的温度有一个范围。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：There is a range of temperatures for people to feel comfortable.（人们感到舒适的温度有一个范围。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What do we learn about using a little less air-conditioning during hot weather?",
+       "options": [
+        "It will have no negative impact on work.",
+        "It will be immediately noticeable.",
+        "It will sharply decrease work efficiency.",
+        "It will cause a lot of discomfort."
+       ],
+       "optionsZh": [
+        "这不会对工作产生负面影响。",
+        "这会立即被注意到。",
+        "这会大幅降低工作效率。",
+        "这会造成很多不适。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It will have no negative impact on work.（这不会对工作产生负面影响。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What happens when people are used to an air-conditioned environment?",
+       "options": [
+        "They tend to favor lower temperatures.",
+        "They suffer from rapid temperature changes.",
+        "They are not bothered by temperature extremes.",
+        "They become less sensitive to high temperatures."
+       ],
+       "optionsZh": [
+        "他们倾向于喜欢更低的温度。",
+        "他们遭受快速温度变化的困扰。",
+        "他们不会被极端温度所困扰。",
+        "他们对高温变得不那么敏感。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They tend to favor lower temperatures.（他们倾向于喜欢更低的温度。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What is one of the criticisms directed at the early research on solitude?",
+       "options": [
+        "It overlooked the possibility that emotions may be controlled.",
+        "It ignored the fact that emotions are personal and subjective.",
+        "It classified emotions simply as either positive or negative.",
+        "It measured positive and negative emotions independently."
+       ],
+       "optionsZh": [
+        "它忽视了情绪可能被控制的可能性。",
+        "它忽略了情绪是个人的和主观的这一事实。",
+        "它简单地将情绪分为积极或消极两类。",
+        "它独立地测量了积极情绪和消极情绪。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It classified emotions simply as either positive or negative.（它简单地将情绪分为积极或消极两类。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What do we learn about the results of the new research?",
+       "options": [
+        "Sitting alone without doing anything seemed really distressing.",
+        "Solitude adversely affected the participants' mental well-being.",
+        "Sitting alone for 15 minutes made the participants restless.",
+        "Solitude had a reductive effect on high-arousal emotions."
+       ],
+       "optionsZh": [
+        "独自坐着什么都不做似乎真的令人痛苦。",
+        "独处对参与者的心理健康产生了不利影响。",
+        "独自坐15分钟使参与者感到焦躁不安。",
+        "独处对高唤醒情绪有减弱作用。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Solitude had a reductive effect on high-arousal emotions.（独处对高唤醒情绪有减弱作用。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What did the second experiment in the new research find about solitude?",
+       "options": [
+        "It proved hard to depict objectively.",
+        "It went hand in hand with sadness.",
+        "It helped increase low-arousal emotions.",
+        "It tended to intensify negative emotions."
+       ],
+       "optionsZh": [
+        "事实证明很难客观地描述它。",
+        "它与悲伤相伴而生。",
+        "它有助于增加低唤醒情绪。",
+        "它往往会加剧消极情绪。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It helped increase low-arousal emotions.（它有助于增加低唤醒情绪。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What do we learn about the brain when the body is at rest?",
+       "options": [
+        "It uses up much less energy than it does in deep thinking.",
+        "It remains inactive without burning calories noticeably.",
+        "It continues to burn up calories to help us stay in shape.",
+        "It consumes almost a quarter of the body's total energy."
+       ],
+       "optionsZh": [
+        "它消耗的能量比深度思考时少得多。",
+        "它保持不活跃状态，不会明显燃烧卡路里。",
+        "它继续燃烧卡路里以帮助我们保持体形。",
+        "它消耗身体总能量的近四分之一。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It consumes almost a quarter of the body's total energy.（它消耗身体总能量的近四分之一。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What does the speaker say about the consumption of the brain's energy?",
+       "options": [
+        "Much of the consumption has nothing to do with conscious activities.",
+        "It has something to do with the difficulty of the activities in question.",
+        "Energy usage devoted to active learning accounts for a big part of it.",
+        "A significant amount of it is for performing difficult cognitive tasks."
+       ],
+       "optionsZh": [
+        "大部分消耗与意识活动无关。",
+        "它与相关活动的难度有关。",
+        "用于主动学习的能量消耗占其中很大一部分。",
+        "其中相当大的一部分用于执行困难的认知任务。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Much of the consumption has nothing to do with conscious activities.（大部分消耗与意识活动无关。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do we learn about the overall energy availability in the brain?",
+       "options": [
+        "It is believed to remain basically constant.",
+        "It is a prerequisite for any mental activity.",
+        "It is conducive to relieving mental exhaustion.",
+        "It is thought to be related to food consumption."
+       ],
+       "optionsZh": [
+        "它被认为基本保持恒定。",
+        "它是任何心理活动的先决条件。",
+        "它有助于缓解精神疲劳。",
+        "它被认为与食物摄入有关。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is believed to remain basically constant.（它被认为基本保持恒定。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the speaker say about the job interview question \"tell me about yourself\"?",
+       "options": [
+        "Job candidates rarely take it seriously.",
+        "Job seekers tend to have a ready answer.",
+        "Job seekers often feel at a loss where to start in answering it.",
+        "Job candidates can respond freely due to its open-ended nature."
+       ],
+       "optionsZh": [
+        "求职者很少认真对待它。",
+        "求职者往往会有一个现成的答案。",
+        "求职者在回答时常常感到不知从何说起。",
+        "由于其开放性,求职者可以自由作答。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Job seekers often feel at a loss where to start in answering it.（求职者在回答时常常感到不知从何说起。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What will most people do when they come to a job interview?",
+       "options": [
+        "Follow their career coaches' guidelines.",
+        "Strive to take control of their narrative.",
+        "Do their best to impress the interviewer.",
+        "Repeat the information on their resume."
+       ],
+       "optionsZh": [
+        "遵循职业指导师的指导方针。",
+        "努力掌控自己的叙述。",
+        "尽最大努力给面试官留下深刻印象。",
+        "重复简历上的信息。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Repeat the information on their resume.（重复简历上的信息。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Why should job seekers talk with partners, friends and co-workers?",
+       "options": [
+        "To reflect on their past achievements as well as failures.",
+        "To produce examples for different interview questions.",
+        "To discuss important details they are going to present.",
+        "To identify a broad general strength to elaborate on."
+       ],
+       "optionsZh": [
+        "反思他们过去的成就和失败。",
+        "为不同的面试问题准备例子。",
+        "讨论他们将要呈现的重要细节。",
+        "确定一个可以详细阐述的宽泛的总体优势。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To produce examples for different interview questions.（为不同的面试问题准备例子。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What other important preparations should job seekers make before an interview?",
+       "options": [
+        "Getting acquainted with the human resources personnel.",
+        "Finding out why the company provides the job opening.",
+        "Figuring out what benefits the company is able to offer them.",
+        "Tailoring their expectations to the company's long-term goal."
+       ],
+       "optionsZh": [
+        "结识人力资源人员。",
+        "弄清楚公司为什么提供这个职位空缺。",
+        "弄清楚公司能够为他们提供什么福利。",
+        "使他们的期望与公司的长期目标相匹配。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Finding out why the company provides the job opening.（弄清楚公司为什么提供这个职位空缺。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to effective communication skills. You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Virtually every activity that entails or facilitates in-person human interaction seems to be in the midst of a total meltdown as the coronavirus(冠状病毒) outbreak erases Americans' desire to travel. Amtrak says bookings are down 50 percent and cancelations are up 300 percent. Hotels in San Francisco are experiencing {{1}} rates between 70 and 80 percent. Broadway goes dark on Thursday night. Universities, now emptying their campuses, have never tried online learning on this {{2}} . White-collar companies like Amazon, Apple, and the New York Times are asking employees to work from home for the {{3}} future. But what happens after the coronavirus? In some ways, the answer is: All the old normal stuff. The pandemic(大流行病) will take lives, {{4}} economies and destroy routines, but it will pass. Americans will never stop going to basketball games. They won't stop going on vacation. They'll meet to do business. No decentralizing technology so far—not telephones, not television, and not the internet—has dented that human desire to shake hands, despite technologists' {{5}} to the contrary. Yet there are real reasons to think that things will not return to the way they were last week. Small {{6}} create small societal shifts; big ones change things for good. The New York transit strike of 1980 is {{7}} with prompting several long-term changes in the city, including bus and bike lanes, and women wearing sports shoes to work. The Spanish flu pandemic of 1918 prompted the development of national health care in Europe. Here and now, this might not even be a question of {{8}} . It's not clear that the cruise industry will {{9}} . Or that public transit won't go broke without {{10}} assistance. The infrastructure might not even be in place to do what we were doing in 2019.",
+     "options": [
+      "credentials",
+      "credited",
+      "cumulative",
+      "disruptions",
+      "federal",
+      "foreseeable",
+      "predictions",
+      "preference",
+      "scale",
+      "strangle",
+      "subtle",
+      "summoned",
+      "survive",
+      "vacancy",
+      "wedge"
+     ],
+     "answers": [
+      13,
+      8,
+      5,
+      9,
+      6,
+      3,
+      1,
+      7,
+      12,
+      4
+     ],
+     "blankExplains": [
+      "【定位】Hotels in San Francisco are experiencing ____ rates between 70 and 80 percent.\n【依据】答案是 vacancy：填回后与所在句 hotels、san、francisco、experiencing、rates、between 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Universities, now emptying their campuses, have never tried online learning on this ____ .\n【依据】答案是 scale：填回后与所在句 universities、now、emptying、campuses、never、tried 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】White-collar companies like Amazon, Apple, and the New York Times are asking employees to work from home for the ____ future.\n【依据】答案是 foreseeable：填回后与所在句 white-collar、companies、like、amazon、apple、new 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The pandemic(大流行病) will take lives, ____ economies and destroy routines, but it will pass.\n【依据】答案是 strangle：填回后与所在句 pandemic、take、lives、economies、destroy、routines 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】No decentralizing technology so far—not telephones, not television, and not the internet—has dented that human desire to shake hands, despite technologists' ____ to the contrary.\n【依据】答案是 predictions：填回后与所在句 decentralizing、technology、far、telephones、television、internet 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Small ____ create small societal shifts; big ones change things for good.\n【依据】答案是 disruptions：填回后与所在句 small、create、small、societal、shifts、big 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The New York transit strike of 1980 is ____ with prompting several long-term changes in the city, including bus and bike lanes, and women wearing sports shoes to work.\n【依据】答案是 credited：填回后与所在句 new、york、transit、strike、prompting、several 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Here and now, this might not even be a question of ____ .\n【依据】答案是 preference：填回后与所在句 here、now、even、question 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It's not clear that the cruise industry will ____ .\n【依据】答案是 survive：填回后与所在句 it's、clear、cruise、industry 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Or that public transit won't go broke without ____ assistance.\n【依据】答案是 federal：填回后与所在句 public、transit、won't、broke、without、assistance 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Hotels in San Francisco are experiencing ____ rates between 70 and 80 percent.",
+       "why": "答案是 vacancy：填回后与所在句 hotels、san、francisco、experiencing、rates、between 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vacancy 这个词性/语义，而不是 credentials）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 vacancy 这个词性/语义，而不是 credited）。"
+       }
+      },
+      {
+       "locate": "Universities, now emptying their campuses, have never tried online learning on this ____ .",
+       "why": "答案是 scale：填回后与所在句 universities、now、emptying、campuses、never、tried 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 scale 这个词性/语义，而不是 strangle）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 scale 这个词性/语义，而不是 subtle）。"
+       }
+      },
+      {
+       "locate": "White-collar companies like Amazon, Apple, and the New York Times are asking employees to work from home for the ____ future.",
+       "why": "答案是 foreseeable：填回后与所在句 white-collar、companies、like、amazon、apple、new 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 foreseeable 这个词性/语义，而不是 federal）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 foreseeable 这个词性/语义，而不是 credentials）。"
+       }
+      },
+      {
+       "locate": "The pandemic(大流行病) will take lives, ____ economies and destroy routines, but it will pass.",
+       "why": "答案是 strangle：填回后与所在句 pandemic、take、lives、economies、destroy、routines 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 strangle 这个词性/语义，而不是 scale）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 strangle 这个词性/语义，而不是 subtle）。"
+       }
+      },
+      {
+       "locate": "No decentralizing technology so far—not telephones, not television, and not the internet—has dented that human desire to shake hands, despite technologists' ____ to the contrary.",
+       "why": "答案是 predictions：填回后与所在句 decentralizing、technology、far、telephones、television、internet 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "与 predictions 拼写相近（共同开头 pre），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 predictions 这个词性/语义，而不是 credentials）。"
+       }
+      },
+      {
+       "locate": "Small ____ create small societal shifts; big ones change things for good.",
+       "why": "答案是 disruptions：填回后与所在句 small、create、small、societal、shifts、big 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 disruptions 这个词性/语义，而不是 credentials）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 disruptions 这个词性/语义，而不是 credited）。"
+       }
+      },
+      {
+       "locate": "The New York transit strike of 1980 is ____ with prompting several long-term changes in the city, including bus and bike lanes, and women wearing sports shoes to work.",
+       "why": "答案是 credited：填回后与所在句 new、york、transit、strike、prompting、several 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "与 credited 拼写相近（共同开头 cred），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 credited 这个词性/语义，而不是 cumulative）。"
+       }
+      },
+      {
+       "locate": "Here and now, this might not even be a question of ____ .",
+       "why": "答案是 preference：填回后与所在句 here、now、even、question 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "与 preference 拼写相近（共同开头 pre），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 preference 这个词性/语义，而不是 credentials）。"
+       }
+      },
+      {
+       "locate": "It's not clear that the cruise industry will ____ .",
+       "why": "答案是 survive：填回后与所在句 it's、clear、cruise、industry 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 survive 这个词性/语义，而不是 subtle）。",
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 survive 这个词性/语义，而不是 summoned）。"
+       }
+      },
+      {
+       "locate": "Or that public transit won't go broke without ____ assistance.",
+       "why": "答案是 federal：填回后与所在句 public、transit、won't、broke、without、assistance 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 federal 这个词性/语义，而不是 foreseeable）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 federal 这个词性/语义，而不是 credentials）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Our world is full of—mostly untold—stories of slow hope, driven by the idea that change is possible. They are 'slow' in their unfolding, and they are slow because they come with setbacks."
+      },
+      {
+       "id": "B",
+       "text": "At the beginning of time—so goes the myth—humans suffered, shivering in the cold and dark until the titan(巨人) Prometheus stole fire from the gods. Just as in the myth, technology—first fire and stone tools, and later farming, the steam engine and industry, fossil fuels, chemicals and nuclear power—has allowed us to alter and control the natural world. The myth also reminds us that these advances have come at a price: as a punishment for Prometheus' crime, the gods created Pandora, and they gave her a box filled with evils and curses. When Pandora's box was opened, it unleashed swarms of diseases and disasters upon humankind."
+      },
+      {
+       "id": "C",
+       "text": "Today we can no longer ignore the ecological curses that we have released in our search for warmth and comfort. In engineering and exploiting and transforming our habitat, we have opened tens of thousands of Pandora's boxes. In recent decades, environmental threats have expanded beyond regional boundaries to have global reach and, most hauntingly, are multiplying at a dizzying rate. On a regular basis, we are reminded that we are running out of time. Year after year, faster and faster, consumption outpaces the biological capacity of our planet. Stories of accelerated catastrophe multiply. We fear the breakdown of the electric grid, the end of non-renewable resources, the expansion of deserts, the loss of islands, and the pollution of our air and water."
+      },
+      {
+       "id": "D",
+       "text": "Acceleration is the signature of our time. Populations and economic activity grew slowly for much of human history. For thousands of years and well into early modern times, world economies saw no growth at all, but from around the mid-19th century and again, in particular, since the mid-20th, the real GDP has increased at an enormous speed, and so has human consumption. In the Middle Ages, households in Central Europe might have owned fewer than 30 objects on average; in 1900, this number had increased to 400, and in 2020 to 15,000. The acceleration of human production, consumption and travel has changed the animate and inanimate spheres. It has echoed through natural processes on which humans depend. Species extinction, deforestation, damming of rivers, occurrence of floods, the depletion of ozone, the degradation of ocean systems and many other areas are all experiencing acceleration. If represented graphically, the curve for all these changes looks rather like that well-known hockey stick: with little change over millennia(数千年) and a dramatic upswing over the past decades."
+      },
+      {
+       "id": "E",
+       "text": "Some of today's narratives about the future seem to suggest that we too, like Prometheus, will be saved by a new Hercules, a divine engineer, someone who will mastermind, manoeuvre and manipulate our planet. They suggest that geoengineering, cold fusion or faster-than-light spaceships might transcend once and for all the terrestrial constraints of rising temperatures, lack of energy, scarcity of food, lack of space, mountains of waste, polluted water—you name it."
+      },
+      {
+       "id": "F",
+       "text": "Yet, if we envisage our salvation to come from a deus ex machina(解围之神), from a divine engineer or a tech solutionist who will miraculously conjure up a new source of energy or another cure-all with revolutionary potency, we might be looking in the wrong place. The fact that we now imagine our planet as a whole does not mean that the 'rescue' of our planet will come with one big global stroke of genius and technology. It will more likely come by many small acts. Global heating and environmental degradation are not technological problems. They are highly political issues that are informed by powerful interests. Moreover, if history is a guide, then we can assume that any major transformations will once again be followed by a huge set of unintended consequences. So what do we do?"
+      },
+      {
+       "id": "G",
+       "text": "This much is clear: we need to find ways that help us flatten the hockey-stick curves that reflect our ever-faster pace of ecological destruction and social acceleration. If we acknowledge that human manipulation of the Earth has been a destructive force, we can also imagine that human endeavours can help us build a less destructive world in the centuries to come. We might keep making mistakes. But we will also keep learning from our mistakes."
+      },
+      {
+       "id": "H",
+       "text": "To counter the fears of disaster, we need to identify stories, visions and actions that work quietly towards a more hopeful future. Instead of one big narrative, a story of unexpected rescue by a larger-than-life hero, we need multiple stories: we need stories, not only of what Rob Nixon of Princeton University has called the 'slow violence' of environmental degradation (that is, the damage that is often invisible at first and develops slowly and gradually), but also stories of what I call 'slow hope'."
+      },
+      {
+       "id": "I",
+       "text": "We need an acknowledgement of our present ecological plight but also a language of positive change, visions of a better future. In The Principle of Hope (1954-1959), Ernst Bloch, one of the leading philosophers of the future, wrote that 'the most tragic form of loss…is the loss of the capacity to imagine that things could be different'. We need to identify visions and paths that will help us imagine a different, more just and more ecological world. Hope, for Bloch, has its starting point in fear, in uncertainty, and in crisis: it is a creative force that goes hand in hand with utopian(乌托邦的) 'wishful images'. It can be found in cultural products of the past—in fairy tales, in fiction, in architecture, in music, in the movies—in products of the human mind that contain 'the outlines of a better world'. What makes us 'authentic' as humans are visions of our 'potential'. In other words: living in hope makes us human."
+      },
+      {
+       "id": "J",
+       "text": "The power of small, grassroots movements to make changes that spread beyond their place of origin can be seen with the Slow Food movement, which began in Italy in the 1980s. The rise of fast-food restaurants after the Second World War produced a society full of cheap, industrially made foodstuffs. Under the leadership of Carlo Petrini, the Slow Food movement began in Piedmont, a region of Italy with a long history of poverty, violence and resistance to oppression. The movement transformed it into a region hospitable to traditional food cultures—based on native plants and breeds of animals. Today, Slow Food operates in more than 160 countries, poor and rich. It has given rise to thousands of projects around the globe, representing democratic politics, food sovereignty, biodiversity and sustainable agriculture."
+      },
+      {
+       "id": "K",
+       "text": "The unscrupulous(无所顾忌的) commodification of food and the destruction of foodstuffs will continue to devastate soils, livelihoods and ecologies. Slow Food cannot undo the irresistible developments of the global food economy, but it can upset its theorists, it can 'speak differently', and it can allow people and their local food traditions and environments to flourish. Even in the United States—the fast-food nation—small farms and urban gardens are on the rise. The US Department of Agriculture provides an Urban Agriculture Toolkit and, according to a recent report, American millennials(千禧一代) are changing their diets. In 2017, 6 per cent of US consumers claimed to be strictly vegetarian, up from 1 per cent in 2014. As more people realise that 'eating is an agricultural act', as the US poet and environmental activist Wendell Berry put it in 1989, slow hope advances."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "It seems some people today dream that a cutting-edge new technology might save them from the present ecological disaster."
+      },
+      {
+       "id": "s37",
+       "text": "According to one great thinker, it is most unfortunate if we lose the ability to think differently."
+      },
+      {
+       "id": "s38",
+       "text": "Urgent attention should be paid to the ecological problems we have created in our pursuit of a comfortable life."
+      },
+      {
+       "id": "s39",
+       "text": "Even in the fast-food nation America, the number of vegetarians is on the rise."
+      },
+      {
+       "id": "s40",
+       "text": "The deterioration of the ecological system is accelerating because of the dramatic increase of human production and consumption."
+      },
+      {
+       "id": "s41",
+       "text": "It is obvious that solutions must be found to curb the fast worsening environment and social acceleration."
+      },
+      {
+       "id": "s42",
+       "text": "Many people believe changing the world is possible, though it may take time and involve setbacks."
+      },
+      {
+       "id": "s43",
+       "text": "It might be wrong to expect that our world would be saved at one stroke with some miraculous technology."
+      },
+      {
+       "id": "s44",
+       "text": "It is human nature to cherish hopes for a better world."
+      },
+      {
+       "id": "s45",
+       "text": "Technology has given us humans the power to change the natural world, but we have paid a price for the change."
+      }
+     ],
+     "answers": [
+      "E",
+      "I",
+      "C",
+      "K",
+      "D",
+      "G",
+      "A",
+      "F",
+      "I",
+      "B"
+     ],
+     "statementExplains": [
+      "【定位】Some of today's narratives about the future seem to suggest that we too, like Prometheus, will be saved by a new Hercules, a divine engineer, someone who will mastermind, manoeuvre and manipulate our planet.\n【依据】陈述里的 today、new 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】In The Principle of Hope (1954-1959), Ernst Bloch, one of the leading philosophers of the future, wrote that 'the most tragic form of loss…is the loss of the capacity to imagine that things could be different'.\n【依据】陈述里的 differently 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Today we can no longer ignore the ecological curses that we have released in our search for warmth and comfort.\n【依据】陈述里的 ecological、comfortable 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Even in the United States—the fast-food nation—small farms and urban gardens are on the rise.\n【依据】陈述里的 even、fast-food、nation、rise 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】The acceleration of human production, consumption and travel has changed the animate and inanimate spheres.\n【依据】陈述里的 accelerating、human、production、consumption 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】This much is clear: we need to find ways that help us flatten the hockey-stick curves that reflect our ever-faster pace of ecological destruction and social acceleration.\n【依据】陈述里的 social、acceleration 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】Our world is full of—mostly untold—stories of slow hope, driven by the idea that change is possible.\n【依据】陈述里的 changing、world、possible 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Yet, if we envisage our salvation to come from a deus ex machina(解围之神), from a divine engineer or a tech solutionist who will miraculously conjure up a new source of energy or another cure-all with revolutionary potency, we might be looking in the wrong place.\n【依据】陈述里的 wrong、miraculous 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】It can be found in cultural products of the past—in fairy tales, in fiction, in architecture, in music, in the movies—in products of the human mind that contain 'the outlines of a better world'.\n【依据】陈述里的 human、better、world 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Just as in the myth, technology—first fire and stone tools, and later farming, the steam engine and industry, fossil fuels, chemicals and nuclear power—has allowed us to alter and control the natural world.\n【依据】陈述里的 technology、power、natural、world 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Some of today's narratives about the future seem to suggest that we too, like Prometheus, will be saved by a new Hercules, a divine engineer, someone who will mastermind, manoeuvre and manipulate our planet.",
+       "why": "陈述里的 today、new 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In The Principle of Hope (1954-1959), Ernst Bloch, one of the leading philosophers of the future, wrote that 'the most tragic form of loss…is the loss of the capacity to imagine that things could be different'.",
+       "why": "陈述里的 differently 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Today we can no longer ignore the ecological curses that we have released in our search for warmth and comfort.",
+       "why": "陈述里的 ecological、comfortable 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Even in the United States—the fast-food nation—small farms and urban gardens are on the rise.",
+       "why": "陈述里的 even、fast-food、nation、rise 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The acceleration of human production, consumption and travel has changed the animate and inanimate spheres.",
+       "why": "陈述里的 accelerating、human、production、consumption 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This much is clear: we need to find ways that help us flatten the hockey-stick curves that reflect our ever-faster pace of ecological destruction and social acceleration.",
+       "why": "陈述里的 social、acceleration 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Our world is full of—mostly untold—stories of slow hope, driven by the idea that change is possible.",
+       "why": "陈述里的 changing、world、possible 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Yet, if we envisage our salvation to come from a deus ex machina(解围之神), from a divine engineer or a tech solutionist who will miraculously conjure up a new source of energy or another cure-all with revolutionary potency, we might be looking in the wrong place.",
+       "why": "陈述里的 wrong、miraculous 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It can be found in cultural products of the past—in fairy tales, in fiction, in architecture, in music, in the movies—in products of the human mind that contain 'the outlines of a better world'.",
+       "why": "陈述里的 human、better、world 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Just as in the myth, technology—first fire and stone tools, and later farming, the steam engine and industry, fossil fuels, chemicals and nuclear power—has allowed us to alter and control the natural world.",
+       "why": "陈述里的 technology、power、natural、world 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Vegetarians would prefer not to be compelled to eat meat. Yet the reverse compulsion(强迫) is hidden in the proposals for a new plant-based \"planetary diet.\" Nowhere is this more visible than in India. Earlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a global shift to a more plant-based diet and for \"substantially reducing consumption of animal source foods.\" In countries like India, that call could become a tool to aggravate an already tense political situation and stress already undernourished populations. The EAT report presumes that \"traditional diets\" in countries like India include little red meat, which might be consumed only on special occasions or as minor ingredients in mixed dishes. In India, however, there is a vast difference between what people would wish to consume and what they have to consume because of innumerable barriers around class, religion, culture, cost, geography, etc. Policymakers in India have traditionally pushed for a cereal-heavy \"vegetarian diet\" on a meat-eating population as a way of providing the cheapest sources of food. Currently, under an aggressive Hindu nationalist government, Muslims, Christians, disadvantaged classes and indigenous communities are being compelled to give up their traditional foods. None of these concerns seem to have been appreciated by the EAT-Lancet Commission's representative, Brent Loken, who said \"India has got such a great example\" in sourcing protein from plants. But how much of a model for the world is India's vegetarianism? In the Global Hunger Index 2019, the country ranks 102nd out of 117. Data from the National Family Health Survey indicate that only 10 percent of infants of 6 to 23 months are adequately fed. Which is why calls for a plant-based diet modeled on India risk offering another whip with which to beat already vulnerable communities in developing countries. A diet directed at the affluent West fails to recognize that in low-income countries undernourished children are known to benefit from the consumption of milk and other animal source foods, improving cognitive functions, while reducing the prevalence of nutritional deficiencies as well as mortality. EAT-Lancet claimed its intention was to \"spark conversations\" among all Indian stakeholders. Yet vocal critics of the food processing industry and food fortification strategies have been left out of the debate. But the most conspicuous omission may well be the absence of India's farmers. The government, however, seems to have given the report a thumbs-up. Rather than addressing chronic hunger and malnutrition through an improved access to wholesome and nutrient-dense foods, the government is opening the door for company-dependent solutions, ignoring the environmental and economic cost, which will destroy local food systems. It's a model full of danger for future generations.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What is more visible in India than anywhere else according to the passage?",
+       "options": [
+        "People's positive views on the proposals for a \"planetary diet\".",
+        "People's reluctance to be compelled to eat plant-based food.",
+        "People's preferences for the kind of food they consume.",
+        "People's unwillingness to give up their eating habits."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In India, however, there is a vast difference between what people would wish to consume and what they have to consume because of innumerable barriers around class, religion, culture, cost, geography, etc.\n【依据】正确项的核心词 people's 与定位句对得上；其余 reluctance、compelled、eat、plant-based 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In India, however, there is a vast difference between what people would wish to consume and what they have to consume because of innumerable barriers around class, religion, culture, cost, geography, etc.",
+        "why": "正确项的核心词 people's 与定位句对得上；其余 reluctance、compelled、eat、plant-based 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「positive、views」全文未出现；把原文的「people's」换成了「positive、views、proposals」，主语或对象被调包。",
+         "C": "无中生有：「preferences、kind」全文未出现；把原文的「people's、consume」换成了「preferences、kind、food」，主语或对象被调包。",
+         "D": "无中生有：「unwillingness、eating、habits」全文未出现；把原文的「people's」换成了「unwillingness、give、eating」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What would the EAT-Lancet Commission's report do to many people in countries like India?",
+       "options": [
+        "Radically change their dietary habits.",
+        "Keep them further away from politics.",
+        "Make them even more undernourished.",
+        "Substantially reduce their food choices."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Earlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a global shift to a more plant-based diet and for \"substantially reducing consumption of animal source foods.\" In countries like India, that call could become a tool to aggravate an already tense political situation and stress already undernourished populations.\n【依据】正确项的核心词 undernourished 与定位句对得上；其余 make、even 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Earlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a global shift to a more plant-based diet and for \"substantially reducing consumption of animal source foods.\" In countries like India, that call could become a tool to aggravate an already tense political situation and stress already undernourished populations.",
+        "why": "正确项的核心词 undernourished 与定位句对得上；其余 make、even 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「radically、change、dietary」全文未出现。",
+         "B": "无中生有：「keep、further、away」全文未出现；把原文的「politics」换成了「keep、further、away」，主语或对象被调包。",
+         "D": "偷换主体：「choices」全文未出现；把原文的「substantially、reduce」换成了「food、choices」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do we learn from the passage about food consumption in India?",
+       "options": [
+        "People's diet will not change due to the EAT-Lancet report.",
+        "Many people simply do not have access to foods they prefer.",
+        "There is a growing popularity of a cereal-heavy vegetarian diet.",
+        "Policymakers help remove the barriers to people's choice of food."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In India, however, there is a vast difference between what people would wish to consume and what they have to consume because of innumerable barriers around class, religion, culture, cost, geography, etc.\n【依据】正确项的核心词 people 与定位句对得上；其余 many、simply、access、foods 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In India, however, there is a vast difference between what people would wish to consume and what they have to consume because of innumerable barriers around class, religion, culture, cost, geography, etc.",
+        "why": "正确项的核心词 people 与定位句对得上；其余 many、simply、access、foods 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「change、due」全文未出现；把原文的「people's」换成了「diet、change、due」，主语或对象被调包。",
+         "C": "偷换主体：「growing、popularity」全文未出现；把原文的「there」换成了「growing、popularity、cereal-heavy」，主语或对象被调包。",
+         "D": "无中生有：「help、remove、choice」全文未出现；把原文的「barriers、people's」换成了「policymakers、help、remove」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does the passage say about a plant-based diet modeled on India?",
+       "options": [
+        "It may benefit populations whose traditional diet is meat-based.",
+        "It may be another blow to the economy in developing countries.",
+        "It may help narrow the gap between the rich and poor countries.",
+        "It may worsen the nourishment problem in low-income countries."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Which is why calls for a plant-based diet modeled on India risk offering another whip with which to beat already vulnerable communities in developing countries.\n【依据】正确项的核心词 countries 与定位句对得上；其余 worsen、nourishment、problem、low-income 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Which is why calls for a plant-based diet modeled on India risk offering another whip with which to beat already vulnerable communities in developing countries.",
+        "why": "正确项的核心词 countries 与定位句对得上；其余 worsen、nourishment、problem、low-income 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「whose、meat-based」全文未出现；把原文的「diet」换成了「benefit、populations、whose」，主语或对象被调包。",
+         "B": "无中生有：「blow、economy」全文未出现；把原文的「another、developing、countries」换成了「blow、economy」，主语或对象被调包。",
+         "C": "无中生有：「help、narrow、gap」全文未出现；把原文的「countries」换成了「help、narrow、gap」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "How does the Indian government respond to the EAT-Lancet Commission's proposals?",
+       "options": [
+        "It accepts them at the expense of the long-term interests of its people.",
+        "It intends them to spark conversations among all Indian stakeholders.",
+        "It gives them approval regardless of opposition from nutrition experts.",
+        "It welcomes them as a tool to address chronic hunger and malnutrition."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Earlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a global shift to a more plant-based diet and for \"substantially reducing consumption of animal source foods.\" In countries like India, that call could become a tool to aggravate an already tense political situation and stress already undernourished populations.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 accepts、expense、long-term、interests 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Earlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a global shift to a more plant-based diet and for \"substantially reducing consumption of animal source foods.\" In countries like India, that call could become a tool to aggravate an already tense political situation and stress already undernourished populations.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 accepts、expense、long-term、interests 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「intends」全文未出现；把原文的「indian」换成了「intends、spark、conversations」，主语或对象被调包。",
+         "C": "无中生有：「gives、approval、regardless」全文未出现；把原文的「nutrition」换成了「gives、approval、regardless」，主语或对象被调包。",
+         "D": "偷换主体：「welcomes、address」全文未出现；把原文的「tool」换成了「welcomes、address、chronic」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 439 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Back in 1964, in his book Games People Play, psychiatrist Eric Berne described a pattern of conversation he called \"Why Don't You—Yes But\", which remains one of the most irritating aspects of everyday social life. The person adopting the strategy is usually a chronic complainer. Something is terrible about their relationship, job, or other situation, and they moan about it ceaselessly, but find some excuse to dismiss any solution that's proposed. The reason, of course, is that on some level they don't want a solution; they want to be validated in their position that the world is out to get them. If they can \"win\" the game—dismissing every suggestion until their interlocutor(对话者) gives up in annoyance—they get to feel pleasurably righteous(正当的) in their resentments and excused from any obligation to change. Part of the trouble here is the so-called responsibility/fault fallacy(谬误). When you're feeling hard done by—taken for granted by your partner, say, or obliged to work for a half-witted boss—it's easy to become attached to the position that it's not your job to address the matter, and that doing so would be an admission of fault. But there's a confusion here. For example, if I were to discover a newborn at my front door, it wouldn't be my fault, but it most certainly would be my responsibility. There would be choices to make, and no possibility of avoiding them, since trying to ignore the matter would be a choice. The point is that what goes for the baby on the doorstep is true in all cases: even if the other person is 100% in the wrong, there's nothing to be gained, long-term, from using this as a justification to evade responsibility. Should you find yourself on the receiving end of this kind of complaining, there's an ingenious way to shut it down—which is to agree with it, ardently. Psychotherapist Lori Gottlieb describes this as \"over-validation\". For one thing, you'll be spared further moaning, since the other person's motivation was to confirm her beliefs, and now you're confirming them. But for another, as Gottlieb notes, people confronted with over-validation often hear their complaints afresh and start arguing back. The notion that they're utterly powerless suddenly seems unrealistic—not to mention rather annoying—so they're prompted instead to generate ideas about how they might change things. \"And then, sometimes, something magical might happen,\" Gottlieb writes. The other person \"might realise she's not as trapped as you are saying she is, or as she feels.\" Which illustrates the irony of the responsibility/fault fallacy: evading responsibility feels comfortable, but turns out to be a prison; whereas assuming responsibility feels unpleasant, but ends up being freeing.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What is characteristic of a chronic complainer, according to psychiatrist Eric Berne?",
+       "options": [
+        "They only feel angry about their ill treatment and resent whoever tries to help.",
+        "They are chronically unhappy and ceaselessly find fault with people around them.",
+        "They constantly dismiss others' proposals while taking no responsibility for tackling the problem.",
+        "They lack the knowledge and basic skills required for successful conversations with their interlocutors."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Back in 1964, in his book Games People Play, psychiatrist Eric Berne described a pattern of conversation he called \"Why Don't You—Yes But\", which remains one of the most irritating aspects of everyday social life.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 constantly、dismiss、others'、proposals 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Back in 1964, in his book Games People Play, psychiatrist Eric Berne described a pattern of conversation he called \"Why Don't You—Yes But\", which remains one of the most irritating aspects of everyday social life.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 constantly、dismiss、others'、proposals 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「only、angry、ill」全文未出现。",
+         "B": "偷换主体：「chronically、unhappy、around」全文未出现；把原文的「people」换成了「chronically、unhappy、ceaselessly」，主语或对象被调包。",
+         "D": "无中生有：「lack、knowledge、basic」全文未出现；把原文的「conversations」换成了「lack、knowledge、basic」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does the author try to illustrate with the example of the newborn on one's doorstep?",
+       "options": [
+        "People tend to think that one should not be held responsible for others' mistakes.",
+        "It is easy to become attached to the position of overlooking one's own fault.",
+        "People are often at a loss when confronted with a number of choices.",
+        "A distinction should be drawn between responsibility and fault."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】For example, if I were to discover a newborn at my front door, it wouldn't be my fault, but it most certainly would be my responsibility.\n【依据】正确项的核心词 responsibility、fault 与定位句对得上；其余 distinction、drawn、between 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For example, if I were to discover a newborn at my front door, it wouldn't be my fault, but it most certainly would be my responsibility.",
+        "why": "正确项的核心词 responsibility、fault 与定位句对得上；其余 distinction、drawn、between 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「tend、think、held」全文未出现；把原文的「responsible」换成了「people、tend、think」，主语或对象被调包。",
+         "B": "偷换主体：「overlooking、one's、own」全文未出现；把原文的「fault」换成了「easy、become、attached」，主语或对象被调包。",
+         "C": "因果倒置：「loss、number」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the author advise people to do to chronic complainers?",
+       "options": [
+        "Stop them from going further by agreeing with them.",
+        "Listen to their complaints ardently and sympathetically.",
+        "Ask them to validate their beliefs with further evidence.",
+        "Persuade them to clarify the confusion they have caused."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】But for another, as Gottlieb notes, people confronted with over-validation often hear their complaints afresh and start arguing back.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 stop、going、further、agreeing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But for another, as Gottlieb notes, people confronted with over-validation often hear their complaints afresh and start arguing back.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 stop、going、further、agreeing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「listen、sympathetically」全文未出现；把原文的「complaints」换成了「listen、ardently、sympathetically」，主语或对象被调包。",
+         "C": "无中生有：「ask、validate、evidence」全文未出现。",
+         "D": "无中生有：「persuade、clarify、caused」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What happens when chronic complainers receive over-validation?",
+       "options": [
+        "They are motivated to find ingenious ways to persuade their interlocutor.",
+        "They are prompted to come up with ideas for making possible changes.",
+        "They are stimulated to make more complaints.",
+        "They are encouraged to start arguing back."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The person adopting the strategy is usually a chronic complainer.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 prompted、come、ideas、making 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The person adopting the strategy is usually a chronic complainer.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 prompted、come、ideas、making 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「motivated、ways、persuade」全文未出现。",
+         "C": "偷换主体：「stimulated」全文未出现；把原文的「complaints」换成了「stimulated、make」，主语或对象被调包。",
+         "D": "因果倒置：「encouraged」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "How can one stop being a chronic complainer according to the author?",
+       "options": [
+        "Analysing the so-called responsibility/fault fallacy.",
+        "Avoiding hazardous traps in everyday social life.",
+        "Assuming responsibility to free oneself.",
+        "Awaiting something magical to happen."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The person adopting the strategy is usually a chronic complainer.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 assuming、responsibility、free、oneself 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The person adopting the strategy is usually a chronic complainer.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 assuming、responsibility、free、oneself 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「analysing」全文未出现。",
+         "B": "因果倒置：「hazardous、traps」全文未出现。",
+         "D": "因果倒置：「awaiting」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "港珠澳大桥全长公里，是我国一项不同寻常的工程壮举。大桥将三个城市连接起来，是世界上最长的跨海桥梁和隧道系统。大桥将三个城市之间的旅行时间从小时缩短到分钟。这座跨度巨大的钢筋混凝土大桥充分证明中国有能力建造创纪录的巨型建筑。它将助推区域一体化，促进经济增长。大桥是中国发展自己的大湾区总体规划的关键。中国希望将大湾区建成在技术创新和经济繁荣上能与旧金山、纽约和东京的湾区相媲美的地区。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1184 @@
+{
+ "id": "cet6-2021-12-2",
+ "levelId": "cet6",
+ "title": "六级 2021 年 12 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年12月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2021-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2021-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 早上好，欢迎收看《新闻人物》"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 你好，Brian"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 批评你这本书的人声称"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 我知道这些说法"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 但你难道不希望别人也采取你的生活方式吗？你为动物权利和环境问题奔走了几十年"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 如果人们选择像我这样生活"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 那么，在你书中的这段节选里"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 我的确写了这些"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 你还支持对肉类和其他动物制品征收高额税"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 但我建议的税率并不高"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 我认识的大多数成功人士都对自己的工作充满热情"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn about the woman's new book?",
+       "options": [
+        "It has given rise to much controversy.",
+        "It has been very favorably received.",
+        "It was primarily written for vegetarians.",
+        "It offends many environmentalists."
+       ],
+       "optionsZh": [
+        "它引起了很多争议。",
+        "它受到了非常好的评价。",
+        "它主要是为素食者写的。",
+        "它冒犯了许多环保人士。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It has given rise to much controversy.（它引起了很多争议。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What do some critics say about the author of the book?",
+       "options": [
+        "She neglects people's efforts in animal protection.",
+        "She tries to force people to accept her radical ideas.",
+        "She ignores the various benefits of public transport.",
+        "She insists vegetarians are harming the environment."
+       ],
+       "optionsZh": [
+        "她忽视了人们在动物保护方面的努力。",
+        "她试图强迫人们接受她的激进观点。",
+        "她忽视了公共交通的各种好处。",
+        "她坚持认为素食者正在危害环境。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She tries to force people to accept her radical ideas.（她试图强迫人们接受她的激进观点。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the woman claim about the diet changes she suggested?",
+       "options": [
+        "They are significant.",
+        "They are revolutionary.",
+        "They are rational.",
+        "They are modest."
+       ],
+       "optionsZh": [
+        "它们是重大的。",
+        "它们是革命性的。",
+        "它们是合理的。",
+        "它们是适度的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are modest.（它们是适度的。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the woman say about her suggested tax increase?",
+       "options": [
+        "It would help to protect the environment.",
+        "It would generate money for public health.",
+        "It would need support from the general public.",
+        "It would force poor people to change their diet."
+       ],
+       "optionsZh": [
+        "它将有助于保护环境。",
+        "它将为公共卫生筹集资金。",
+        "它需要公众的支持。",
+        "它会迫使穷人改变他们的饮食。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It would help to protect the environment.（它将有助于保护环境。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What has the woman revealed in her book?",
+       "options": [
+        "Where successful people's strengths come from.",
+        "Why many people fight so hard for success.",
+        "How she achieved her life's goal.",
+        "What makes people successful."
+       ],
+       "optionsZh": [
+        "成功人士的优势来自哪里。",
+        "为什么许多人如此努力地追求成功。",
+        "她如何实现了自己的人生目标。",
+        "是什么使人们成功。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：What makes people successful.（是什么使人们成功。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What do successful people attribute their achievements to?",
+       "options": [
+        "Having someone who has confidence in them.",
+        "Having someone who is ready to help them.",
+        "Having a firm belief in their own ability.",
+        "Having a realistic attitude towards life."
+       ],
+       "optionsZh": [
+        "有一个对他们有信心的人。",
+        "有一个随时准备帮助他们的人。",
+        "对自己的能力有坚定的信念。",
+        "对生活有现实的态度。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Having someone who has confidence in them.（有一个对他们有信心的人。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What do successful people do when faced with difficulties?",
+       "options": [
+        "They adjust their goals accordingly.",
+        "They try hard to appear optimistic.",
+        "They stay positive.",
+        "They remain calm."
+       ],
+       "optionsZh": [
+        "他们相应地调整自己的目标。",
+        "他们努力表现出乐观的样子。",
+        "他们保持积极。",
+        "他们保持冷静。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They stay positive.（他们保持积极。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What is one prerequisite for passion at work according to the woman?",
+       "options": [
+        "An understanding leadership.",
+        "A nurturing environment.",
+        "Mutual respect among colleagues.",
+        "Highly cooperative teammates."
+       ],
+       "optionsZh": [
+        "善解人意的领导。",
+        "培育性的环境。",
+        "同事之间的相互尊重。",
+        "高度合作的团队成员。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：A nurturing environment.（培育性的环境。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What do we learn about mega bats?",
+       "options": [
+        "They use their sense of hearing to capture their prey.",
+        "Their food mainly consists of small animals and fish.",
+        "They have big eyes and distinctive visual centers.",
+        "Their ancestor is different from that of micro bats."
+       ],
+       "optionsZh": [
+        "它们使用听觉捕捉猎物。",
+        "它们的食物主要由小型动物和鱼类组成。",
+        "它们有大眼睛和独特的视觉中枢。",
+        "它们的祖先与小型蝙蝠的祖先不同。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They have big eyes and distinctive visual centers.（它们有大眼睛和独特的视觉中枢。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "How do micro bats find their way and identify food?",
+       "options": [
+        "With the help of moonlight.",
+        "By means of echolocation.",
+        "With the aid of daylight vision.",
+        "By means of vision and smell."
+       ],
+       "optionsZh": [
+        "借助月光。",
+        "通过回声定位。",
+        "借助日光视觉。",
+        "通过视觉和嗅觉。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：By means of echolocation.（通过回声定位。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "Why do some species of bats use their sense of hearing more than their eyes?",
+       "options": [
+        "To make up for their natural absence of vision.",
+        "To adapt themselves to a particular lifestyle.",
+        "To facilitate their travel over long distances.",
+        "To survive in the ever-changing weather."
+       ],
+       "optionsZh": [
+        "为了弥补它们天生缺乏视觉。",
+        "为了适应特定的生活方式。",
+        "为了便于长距离飞行。",
+        "为了在不断变化的天气中生存。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To adapt themselves to a particular lifestyle.（为了适应特定的生活方式。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the passage say about children watching educational programs?",
+       "options": [
+        "They acquire knowledge not found in books.",
+        "They learn how to interact with their peers.",
+        "They become more emotionally aggressive.",
+        "They get much better prepared for school."
+       ],
+       "optionsZh": [
+        "他们获得了书本上找不到的知识。",
+        "他们学会了如何与同龄人互动。",
+        "他们在情感上变得更具攻击性。",
+        "他们为上学做了更充分的准备。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They become more emotionally aggressive.（他们在情感上变得更具攻击性。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "Why can't preschool children get the moral conveyed in the TV programs?",
+       "options": [
+        "They are far from emotionally prepared.",
+        "They tend to be more attracted by images.",
+        "They can't follow the conflicts in the show.",
+        "They lack the cognitive and memory skills."
+       ],
+       "optionsZh": [
+        "他们在情感上还远未做好准备。",
+        "他们往往更容易被画面吸引。",
+        "他们无法理解节目中的冲突。",
+        "他们缺乏认知和记忆技能。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They lack the cognitive and memory skills.（他们缺乏认知和记忆技能。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the passage suggest parents do?",
+       "options": [
+        "Choose appropriate programs for their children.",
+        "Help their children understand the program's plot.",
+        "Outline the program's plot for their children first.",
+        "Monitor their children's watching of TV programs."
+       ],
+       "optionsZh": [
+        "为孩子选择合适的节目。",
+        "帮助孩子理解节目的情节。",
+        "先为孩子概述节目的情节。",
+        "监督孩子观看电视节目。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Help their children understand the program's plot.（帮助孩子理解节目的情节。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What should parents do right after watching the TV program?",
+       "options": [
+        "Explain its message to their children.",
+        "Check if their children have enjoyed it.",
+        "Encourage their children to retell the story.",
+        "Ask their children to describe its characters."
+       ],
+       "optionsZh": [
+        "向孩子解释节目的寓意。",
+        "检查孩子是否喜欢这个节目。",
+        "鼓励孩子复述故事。",
+        "让孩子描述节目中的人物。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Explain its message to their children.（向孩子解释节目的寓意。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "Why don't many Westerners take off shoes before entering a house?",
+       "options": [
+        "They are afraid of injuring their feet.",
+        "They have never developed the habit.",
+        "They believe a little dirt harms no one.",
+        "They find it rather troublesome to do so."
+       ],
+       "optionsZh": [
+        "他们担心伤到自己的脚。",
+        "他们从未养成这个习惯。",
+        "他们认为一点脏东西不会伤害任何人。",
+        "他们觉得这样做相当麻烦。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They believe a little dirt harms no one.（他们认为一点脏东西不会伤害任何人。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What is the finding of one study by researchers at an American university?",
+       "options": [
+        "Different types of bacteria existed on public-toilet floors.",
+        "There were more bacteria on sidewalks than in the home.",
+        "Office carpets collected more bacteria than elsewhere.",
+        "A large number of bacteria collected on a single shoe."
+       ],
+       "optionsZh": [
+        "公共厕所地板上存在不同类型的细菌。",
+        "人行道上的细菌比家中的多。",
+        "办公室地毯比其他地方收集的细菌更多。",
+        "单只鞋子上收集了大量细菌。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：A large number of bacteria collected on a single shoe.（单只鞋子上收集了大量细菌。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What is the final reason the speaker gives for removing shoes before entering a house?",
+       "options": [
+        "The chemicals on shoes can deteriorate air quality.",
+        "Shoes can upset family members with their noise.",
+        "The marks left by shoes are hard to erase.",
+        "Shoes can leave scratches on the floor."
+       ],
+       "optionsZh": [
+        "鞋子上的化学物质会使空气质量恶化。",
+        "鞋子的噪音会打扰家庭成员。",
+        "鞋子留下的痕迹很难清除。",
+        "鞋子会在地板上留下划痕。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The chemicals on shoes can deteriorate air quality.（鞋子上的化学物质会使空气质量恶化。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about hiding one's emotions?",
+       "options": [
+        "It is sinful and immoral.",
+        "It is deemed uncivilized.",
+        "It is an uncontrollable behavior.",
+        "It is a violation of faith and trust."
+       ],
+       "optionsZh": [
+        "这是有罪的和不道德的。",
+        "这被认为是不文明的。",
+        "这是一种无法控制的行为。",
+        "这是对信念和信任的违背。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is a violation of faith and trust.（这是对信念和信任的违背。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What should we do first in dealing with emotions?",
+       "options": [
+        "Assess their consequences.",
+        "Guard against their harm.",
+        "Accept them as normal.",
+        "Find out their causes."
+       ],
+       "optionsZh": [
+        "评估它们的后果。",
+        "防范它们的危害。",
+        "接受它们是正常的。",
+        "找出它们的原因。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Accept them as normal.（接受它们是正常的。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What are we advised to do when emotions arise?",
+       "options": [
+        "Try to understand what messages they convey.",
+        "Pay attention to their possible consequences.",
+        "Consider them from different perspectives.",
+        "Make sure they are brought under control."
+       ],
+       "optionsZh": [
+        "试着理解它们传达了什么信息。",
+        "注意它们可能产生的后果。",
+        "从不同的角度考虑它们。",
+        "确保它们得到控制。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Try to understand what messages they convey.（试着理解它们传达了什么信息。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What is an urgent need for feeding the world's population in 2050, according to the speaker?",
+       "options": [
+        "Cultivation of new varieties of crops.",
+        "Measures to cope with climate change.",
+        "Development of more effective pesticides.",
+        "Application of more nitrogen-rich fertilizers."
+       ],
+       "optionsZh": [
+        "培育新品种作物。",
+        "应对气候变化的措施。",
+        "开发更有效的杀虫剂。",
+        "施用更多富氮肥料。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Cultivation of new varieties of crops.（培育新品种作物。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "Where should most of the money be invested to feed the ever-growing population?",
+       "options": [
+        "The expansion of farmland in developing countries.",
+        "The research on crop rotation in developing countries.",
+        "The cooperation of the world's agricultural scientists.",
+        "The improvement of agricultural infrastructure."
+       ],
+       "optionsZh": [
+        "发展中国家的农田扩张。",
+        "发展中国家的轮作研究。",
+        "世界各国农业科学家的合作。",
+        "农业基础设施的改善。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The improvement of agricultural infrastructure.（农业基础设施的改善。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Why does the speaker give credit to the world's agricultural scientists?",
+       "options": [
+        "For encouraging farmers to embrace new farming techniques.",
+        "For aligning their research with advances in farming technology.",
+        "For turning their focus to the needs of farmers in poorer countries.",
+        "For cooperating closely with policymakers in developing countries."
+       ],
+       "optionsZh": [
+        "因为鼓励农民接受新的耕作技术。",
+        "因为使他们的研究与农业技术进步保持一致。",
+        "因为将他们的重点转向较贫穷国家农民的需求。",
+        "因为与发展中国家的政策制定者密切合作。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：For turning their focus to the needs of farmers in poorer countries.（因为将他们的重点转向较贫穷国家农民的需求。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What makes China exceptional in comparison with the rest of the world?",
+       "options": [
+        "Rapid transition to become a food exporter.",
+        "Substantial funding in agricultural research.",
+        "Quick rise to become a leading grain producer.",
+        "Assumption of humanitarian responsibilities."
+       ],
+       "optionsZh": [
+        "快速转型成为粮食出口国。",
+        "农业研究方面的大量资金投入。",
+        "迅速崛起成为主要粮食生产国。",
+        "承担人道主义责任。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Substantial funding in agricultural research.（农业研究方面的大量资金投入。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay related to the short passage given below. In your essay, you are to comment on the phenomenon described in the passage and suggest measures to address the issue. You should write at least 150 words but no more than 200 words. Nowadays star chasing is prevalent among many teenagers. They take pop stars as their idols, imitating their way of talking, following their style of dressing9 and seeking every chance to meet them in person at great expenses.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "According to psychologist Sharon Draper, our clothing choices can absolutely affect our well-being. When we wear ill-fitting clothes, or feel over- or under-dressed for an event, it's natural to feel self-conscious or even stressed. Conversely, she says, opting for clothes that fit well and {{1}} with your sense of style can improve your confidence. But can you improve your health through your {{2}} clothing, without having to dash out and buy a whole new {{3}} ? \"Absolutely,\" says Draper. If your goal is to improve your thinking, she recommends picking clothes that fit well and are unlikely to encourage restlessness, so avoid bows, ties and unnecessary {{4}} . It also helps to opt for clothes you {{5}} as tying in with your goals, so if you want to perform better at work, select pieces you view as professional. Draper says this fits in with the concept of behavioral activation, whereby {{6}} in a behavior (in this case, selecting clothes) can set you on the path to then achieving your goals (working harder). Another way to improve your {{7}} of mind is to mix things up. Draper says we often feel stuck in a rut(常规) if we wear the same clothes—even if they're our favorites—thus opting for an item you don't wear often, or adding something different to an outfit, such as a hat, can {{8}} shift your mood. On days when you're really {{9}} to brave the world, Draper suggests selecting sentimental items of clothing, such as ones you wore on a special day, or given to you by a loved one, as clothes with {{10}} associations can help you tap into constructive emotions.",
+     "options": [
+      "accessories",
+      "align",
+      "concurrently",
+      "current",
+      "engaging",
+      "fond",
+      "frame",
+      "locations",
+      "perceive",
+      "positively",
+      "profile",
+      "prospering",
+      "reluctant",
+      "showcase",
+      "wardrobe"
+     ],
+     "answers": [
+      1,
+      3,
+      14,
+      0,
+      8,
+      4,
+      6,
+      9,
+      12,
+      5
+     ],
+     "blankExplains": [
+      "【定位】Conversely, she says, opting for clothes that fit well and ____ with your sense of style can improve your confidence.\n【依据】答案是 align：填回后与所在句 conversely、says、opting、clothes、fit、well 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But can you improve your health through your ____ clothing, without having to dash out and buy a whole new  … ?\n【依据】答案是 current：填回后与所在句 improve、health、through、clothing、without、having 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But can you improve your health through your  … clothing, without having to dash out and buy a whole new ____ ?\n【依据】答案是 wardrobe：填回后与所在句 improve、health、through、clothing、without、having 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If your goal is to improve your thinking, she recommends picking clothes that fit well and are unlikely to encourage restlessness, so avoid bows, ties and unnecessary ____ .\n【依据】答案是 accessories：填回后与所在句 goal、improve、thinking、recommends、picking、clothes 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It also helps to opt for clothes you ____ as tying in with your goals, so if you want to perform better at work, select pieces you view as professional.\n【依据】答案是 perceive：填回后与所在句 helps、opt、clothes、tying、goals、want 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Draper says this fits in with the concept of behavioral activation, whereby ____ in a behavior (in this case, selecting clothes) can set you on the path to then achieving your goals (working harder).\n【依据】答案是 engaging：填回后与所在句 draper、says、fits、concept、behavioral、activation 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Another way to improve your ____ of mind is to mix things up.\n【依据】答案是 frame：填回后与所在句 another、way、improve、mind、mix、things 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Draper says we often feel stuck in a rut(常规) if we wear the same clothes—even if they're our favorites—thus opting for an item you don't wear often, or adding something different to an outfit, such as a hat, can ____ shift your mood.\n【依据】答案是 positively：填回后与所在句 draper、says、often、feel、stuck、rut 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】On days when you're really ____ to brave the world, Draper suggests selecting sentimental items of clothing, such as ones you wore on a special day, or given to you by a loved one, as clothes with  … associations can help you tap into constructive emotions.\n【依据】答案是 reluctant：填回后与所在句 days、when、you're、really、brave、world 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】On days when you're really  … to brave the world, Draper suggests selecting sentimental items of clothing, such as ones you wore on a special day, or given to you by a loved one, as clothes with ____ associations can help you tap into constructive emotions.\n【依据】答案是 fond：填回后与所在句 days、when、you're、really、brave、world 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Conversely, she says, opting for clothes that fit well and ____ with your sense of style can improve your confidence.",
+       "why": "答案是 align：填回后与所在句 conversely、says、opting、clothes、fit、well 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 align 这个词性/语义，而不是 accessories）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 align 这个词性/语义，而不是 concurrently）。"
+       }
+      },
+      {
+       "locate": "But can you improve your health through your ____ clothing, without having to dash out and buy a whole new  … ?",
+       "why": "答案是 current：填回后与所在句 improve、health、through、clothing、without、having 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 current 这个词性/语义，而不是 concurrently）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 current 这个词性/语义，而不是 accessories）。"
+       }
+      },
+      {
+       "locate": "But can you improve your health through your  … clothing, without having to dash out and buy a whole new ____ ?",
+       "why": "答案是 wardrobe：填回后与所在句 improve、health、through、clothing、without、having 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 wardrobe 这个词性/语义，而不是 accessories）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 wardrobe 这个词性/语义，而不是 align）。"
+       }
+      },
+      {
+       "locate": "If your goal is to improve your thinking, she recommends picking clothes that fit well and are unlikely to encourage restlessness, so avoid bows, ties and unnecessary ____ .",
+       "why": "答案是 accessories：填回后与所在句 goal、improve、thinking、recommends、picking、clothes 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 accessories 这个词性/语义，而不是 align）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 accessories 这个词性/语义，而不是 concurrently）。"
+       }
+      },
+      {
+       "locate": "It also helps to opt for clothes you ____ as tying in with your goals, so if you want to perform better at work, select pieces you view as professional.",
+       "why": "答案是 perceive：填回后与所在句 helps、opt、clothes、tying、goals、want 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 perceive 这个词性/语义，而不是 positively）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 perceive 这个词性/语义，而不是 profile）。"
+       }
+      },
+      {
+       "locate": "Draper says this fits in with the concept of behavioral activation, whereby ____ in a behavior (in this case, selecting clothes) can set you on the path to then achieving your goals (working harder).",
+       "why": "答案是 engaging：填回后与所在句 draper、says、fits、concept、behavioral、activation 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 engaging 这个词性/语义，而不是 accessories）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 engaging 这个词性/语义，而不是 align）。"
+       }
+      },
+      {
+       "locate": "Another way to improve your ____ of mind is to mix things up.",
+       "why": "答案是 frame：填回后与所在句 another、way、improve、mind、mix、things 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 frame 这个词性/语义，而不是 fond）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 frame 这个词性/语义，而不是 accessories）。"
+       }
+      },
+      {
+       "locate": "Draper says we often feel stuck in a rut(常规) if we wear the same clothes—even if they're our favorites—thus opting for an item you don't wear often, or adding something different to an outfit, such as a hat, can ____ shift your mood.",
+       "why": "答案是 positively：填回后与所在句 draper、says、often、feel、stuck、rut 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 positively 这个词性/语义，而不是 perceive）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 positively 这个词性/语义，而不是 profile）。"
+       }
+      },
+      {
+       "locate": "On days when you're really ____ to brave the world, Draper suggests selecting sentimental items of clothing, such as ones you wore on a special day, or given to you by a loved one, as clothes with  … associations can help you tap into constructive emotions.",
+       "why": "答案是 reluctant：填回后与所在句 days、when、you're、really、brave、world 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reluctant 这个词性/语义，而不是 accessories）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reluctant 这个词性/语义，而不是 align）。"
+       }
+      },
+      {
+       "locate": "On days when you're really  … to brave the world, Draper suggests selecting sentimental items of clothing, such as ones you wore on a special day, or given to you by a loved one, as clothes with ____ associations can help you tap into constructive emotions.",
+       "why": "答案是 fond：填回后与所在句 days、when、you're、really、brave、world 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 fond 这个词性/语义，而不是 frame）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 fond 这个词性/语义，而不是 accessories）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "A recent analysis found that most research mischaracterizes the relationship between music and skills enhancement."
+      },
+      {
+       "id": "B",
+       "text": "In 2004, a paper appeared in the journal Psychological Science, titled \"Music Lessons Enhance IQ.\" The author, composer and psychologist Glenn Schellenberg had conducted an experiment with 144 children randomly assigned to four groups: one learned the keyboard for a year, one took singing lessons, one joined an acting class, and a control group had no extracurricular training. The IQ of the children in the two musical groups rose by an average of seven points in the course of a year; those in the other two groups gained an average of 4.3 points."
+      },
+      {
+       "id": "C",
+       "text": "Schellenberg had long been skeptical of the science supporting claims that music education enhances children's abstract reasoning, math, or language skills. If children who play the piano are smarter, he says, it doesn't necessarily mean they are smarter because they play the piano. It could be that the youngsters who play the piano also happen to be more ambitious or better at focusing on a task. Correlation, after all, does not prove causation."
+      },
+      {
+       "id": "D",
+       "text": "The 2004 paper was specifically designed to address those concerns. And as a passionate musician, Schellenberg was delighted when he turned up credible evidence that music has transfer effects on general intelligence. But nearly a decade later, in 2013, the Education Endowment Foundation funded a bigger study with more than 900 students. That study failed to confirm Schellenberg's findings, producing no evidence that music lessons improved math and literacy skills."
+      },
+      {
+       "id": "E",
+       "text": "Schellenberg took that news in stride while continuing to cast a skeptical eye on the research in his field. Recently, he decided to formally investigate just how often his fellow researchers in psychology and neuroscience make what he believes are erroneous—or at least premature—causal connections between music and intelligence. His results, published in May, suggest that many of his peers do just that."
+      },
+      {
+       "id": "F",
+       "text": "For his recent study, Schellenberg asked two research assistants to look for correlational studies on the effects of music education. They found a total of 114 papers published since 2000. To assess whether the authors claimed any causation, researchers then looked for telltale verbs in each paper's title and abstract, verbs like \"enhance,\" \"promote,\" \"facilitate,\" and \"strengthen.\" The papers were categorized as neuroscience if the study employed a brain imaging method like magnetic resonance, or if the study appeared in a journal that had \"brain,\" \"neuroscience,\" or a related term in its title. Otherwise the papers were categorized as psychology. Schellenberg didn't tell his assistants what exactly he was trying to prove."
+      },
+      {
+       "id": "G",
+       "text": "After computing their assessments, Schellenberg concluded that the majority of the articles erroneously claimed that music training had a causal effect. The overselling, he also found, was more prevalent among neuroscience studies, three quarters of which mischaracterized a mere association between music training and skills enhancement as a cause-and-effect relationship. This may come as a surprise to some. Psychologists have been battling charges that they don't do \"real\" science for some time—in large part because many findings from classic experiments have proved unreproducible. Neuroscientists, on the other hand, armed with brain scans and EEGs(脑电图), have not been subject to the same degree of critique."
+      },
+      {
+       "id": "H",
+       "text": "To argue for a cause-and-effect relationship, scientists must attempt to explain why and how a connection could occur. When it comes to transfer effects of music, scientists frequently point to brain plasticity—the fact that the brain changes according to how we use it. When a child learns to play the violin, for example, several studies have shown that the brain region responsible for the fine motor skills of the left hand's fingers is likely to grow. And many experiments have shown that musical training improves certain hearing capabilities, like filtering voices from background noise or distinguishing the difference between the consonants(辅音) 'b' and 'g'."
+      },
+      {
+       "id": "I",
+       "text": "But Schellenberg remains highly critical of how the concept of plasticity has been applied in his field. \"Plasticity has become an industry of its own,\" he wrote in his May paper. Practice does change the brain, he allows, but what is questionable is the assertion that these changes affect other brain regions, such as those responsible for spatial reasoning or math problems."
+      },
+      {
+       "id": "J",
+       "text": "Neuropsychologist Lutz Jancke agrees. \"Most of these studies don't allow for causal inferences,\" he said. For over two decades, Jancke has researched the effects of music lessons, and like Schellenberg, he believes that the only way to truly understand their effects is to run longitudinal studies. In such studies, researchers would need to follow groups of children with and without music lessons over a long period of time—even if the assignments are not completely random. Then they could compare outcomes for each group."
+      },
+      {
+       "id": "K",
+       "text": "Some researchers are starting to do just that. The neuroscientist Peter Schneider from Heidelberg University in Germany, for example, has been following a group of children for ten years now. Some of them were handed musical instruments and given lessons through a school-based program in the Ruhr region of Germany called Jedem Kind ein Instrument, or \"an instrument for every child,\" which was carried out with government funding. Among these children, Schneider has found that those who were enthusiastic about music and who practiced voluntarily showed improvements in hearing ability, as well as in more general competencies, such as the ability to concentrate."
+      },
+      {
+       "id": "L",
+       "text": "To establish whether effects such as improved concentration are caused by music participation itself, and not by investing time in an extracurricular activity of any kind, Assal Habibi, a psychology professor at the University of Southern California, is conducting a five-year longitudinal study with children from low-income communities in Los Angeles. The youngsters fall into three groups: those who take after-school music, those who do after-school sports, and those with no structured after-school program at all. After two years, Habibi and her colleagues reported seeing structural changes in the brains of the musically trained children, both locally and in the pathways connecting different parts of the brain."
+      },
+      {
+       "id": "M",
+       "text": "That may seem compelling, but Habibi's children were not selected randomly. Did the children who were drawn to music perhaps have something in them from the start that made them different but eluded the brain scanners? \"As somebody who started taking piano lessons at the age of five and got up every morning at seven to practice, that experience changed me and made me part of who I am today,\" Schellenberg said. \"The question is whether those kinds of experiences do so systematically across individuals and create exactly the same changes. And I think that is that huge leap of faith.\""
+      },
+      {
+       "id": "N",
+       "text": "Did he have a hidden talent that others didn't have? Or more endurance than his peers? Music researchers tend, like Schellenberg, to be musicians themselves, and as he noted in his recent paper, \"the idea of positive cognitive and neural side effects from music training (and other pleasurable activities) is inherently appealing.\" He also admits that if he had children of his own, he would encourage them to take music lessons and go to university. \"I would think that it makes them better people, more critical, just wiser in general,\" he said."
+      },
+      {
+       "id": "O",
+       "text": "But those convictions should be checked at the entrance to the lab, he added. Otherwise, the work becomes religion or faith. \"You have to let go of your faith if you want to be a scientist.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Glenn Schellenberg's latest research suggests many psychologists and neuroscientists wrongly believe in the causal relationship between music and IQ."
+      },
+      {
+       "id": "s37",
+       "text": "The belief in the positive effects of music training appeals to many researchers who are musicians themselves."
+      },
+      {
+       "id": "s38",
+       "text": "Glenn Schellenberg was doubtful about the claim that music education helps enhance children's intelligence."
+      },
+      {
+       "id": "s39",
+       "text": "Glenn Schellenberg came to the conclusion that most of the papers assessed made the wrong claim regarding music's effect on intelligence."
+      },
+      {
+       "id": "s40",
+       "text": "You must abandon your unverified beliefs before you become a scientist."
+      },
+      {
+       "id": "s41",
+       "text": "Lots of experiments have demonstrated that people with music training can better differentiate certain sounds."
+      },
+      {
+       "id": "s42",
+       "text": "Glenn Schellenberg's findings at the beginning of this century were not supported by a larger study carried out some ten years later."
+      },
+      {
+       "id": "s43",
+       "text": "One researcher shares Glenn Schellenberg's view that it is necessary to conduct long-term developmental studies to understand the effects of music training."
+      },
+      {
+       "id": "s44",
+       "text": "Glenn Schellenberg's research assistants had no idea what he was trying to prove in his new study."
+      },
+      {
+       "id": "s45",
+       "text": "Glenn Schellenberg admits that practice can change certain areas of the brain but doubts that the change can affect other areas."
+      }
+     ],
+     "answers": [
+      "E",
+      "N",
+      "C",
+      "G",
+      "O",
+      "H",
+      "D",
+      "J",
+      "F",
+      "I"
+     ],
+     "statementExplains": [
+      "【定位】Recently, he decided to formally investigate just how often his fellow researchers in psychology and neuroscience make what he believes are erroneous—or at least premature—causal connections between music and intelligence.\n【依据】陈述里的 research、psychologists、neuroscientists、believe、causal、between 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Music researchers tend, like Schellenberg, to be musicians themselves, and as he noted in his recent paper, \"the idea of positive cognitive and neural side effects from music training (and other pleasurable activities) is inherently appealing.\" He also admits that if he had children of his own, he would encourage them to take music lessons and go to university.\n【依据】陈述里的 positive、effects、music、training、appeals、researchers 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+      "【定位】Schellenberg had long been skeptical of the science supporting claims that music education enhances children's abstract reasoning, math, or language skills.\n【依据】陈述里的 schellenberg、claim、music、education、enhance、children's 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】After computing their assessments, Schellenberg concluded that the majority of the articles erroneously claimed that music training had a causal effect.\n【依据】陈述里的 schellenberg、conclusion、assessed、claim、music's、effect 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】Otherwise, the work becomes religion or faith.\n【依据】陈述里的 become 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+      "【定位】And many experiments have shown that musical training improves certain hearing capabilities, like filtering voices from background noise or distinguishing the difference between the consonants(辅音) 'b' and 'g'.\n【依据】陈述里的 experiments、music、training、differentiate、certain 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】That study failed to confirm Schellenberg's findings, producing no evidence that music lessons improved math and literacy skills.\n【依据】陈述里的 schellenberg's、findings、study 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】For over two decades, Jancke has researched the effects of music lessons, and like Schellenberg, he believes that the only way to truly understand their effects is to run longitudinal studies.\n【依据】陈述里的 researcher、schellenberg's、studies、understand、effects、music 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Schellenberg didn't tell his assistants what exactly he was trying to prove.\n【依据】陈述里的 schellenberg's、assistants、what、trying、prove 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Practice does change the brain, he allows, but what is questionable is the assertion that these changes affect other brain regions, such as those responsible for spatial reasoning or math problems.\n【依据】陈述里的 practice、change、brain、change、affect、other 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。"
+     ],
+     "explain": "长篇阅读匹配：15 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Recently, he decided to formally investigate just how often his fellow researchers in psychology and neuroscience make what he believes are erroneous—or at least premature—causal connections between music and intelligence.",
+       "why": "陈述里的 research、psychologists、neuroscientists、believe、causal、between 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Music researchers tend, like Schellenberg, to be musicians themselves, and as he noted in his recent paper, \"the idea of positive cognitive and neural side effects from music training (and other pleasurable activities) is inherently appealing.\" He also admits that if he had children of his own, he would encourage them to take music lessons and go to university.",
+       "why": "陈述里的 positive、effects、music、training、appeals、researchers 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Schellenberg had long been skeptical of the science supporting claims that music education enhances children's abstract reasoning, math, or language skills.",
+       "why": "陈述里的 schellenberg、claim、music、education、enhance、children's 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "After computing their assessments, Schellenberg concluded that the majority of the articles erroneously claimed that music training had a causal effect.",
+       "why": "陈述里的 schellenberg、conclusion、assessed、claim、music's、effect 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Otherwise, the work becomes religion or faith.",
+       "why": "陈述里的 become 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And many experiments have shown that musical training improves certain hearing capabilities, like filtering voices from background noise or distinguishing the difference between the consonants(辅音) 'b' and 'g'.",
+       "why": "陈述里的 experiments、music、training、differentiate、certain 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "That study failed to confirm Schellenberg's findings, producing no evidence that music lessons improved math and literacy skills.",
+       "why": "陈述里的 schellenberg's、findings、study 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For over two decades, Jancke has researched the effects of music lessons, and like Schellenberg, he believes that the only way to truly understand their effects is to run longitudinal studies.",
+       "why": "陈述里的 researcher、schellenberg's、studies、understand、effects、music 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Schellenberg didn't tell his assistants what exactly he was trying to prove.",
+       "why": "陈述里的 schellenberg's、assistants、what、trying、prove 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Practice does change the brain, he allows, but what is questionable is the assertion that these changes affect other brain regions, such as those responsible for spatial reasoning or math problems.",
+       "why": "陈述里的 practice、change、brain、change、affect、other 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "The trend toward rationality and enlightenment was endangered long before the advent of the World Wide Web. As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse: a gradual shift from a typographic(印刷的) culture to a photographic one, which in turn meant a shift from rationality to emotions, exposition to entertainment. In an image-centered and pleasure-driven world, Postman noted, there is no place for rational thinking, because you simply cannot think with images. It is text that enables us to \"uncover lies, confusions and overgeneralizations, and to detect abuses of logic and common sense. It also means to weigh ideas, to compare and contrast assertions, to connect one generalization to another.\" The dominance of television was not confined to our living rooms. It overturned all of those habits of mind, fundamentally changing our experience of the world, affecting the conduct of politics, religion, business, and culture. It reduced many aspects of modern life to entertainment, sensationalism, and commerce. \"Americans don't talk to each other, we entertain each other,\" Postman wrote. \"They don't exchange ideas, they exchange images. They do not argue with propositions, they argue with good looks, celebrities and commercials.\" At first, the web seemed to push against this trend. When it emerged towards the end of the 1980s as a purely text-based medium, it was seen as a tool to pursue knowledge, not pleasure. Reason and thought were most valued in this garden—all derived from the project of the Enlightenment. Universities around the world were among the first to connect to this new medium, which hosted discussion groups, informative personal or group blogs, electronic magazines, and academic mailing lists and forums. It was an intellectual project, not about commerce or control, created in a scientific research center in Switzerland. And for more than a decade, the web created an alternative space that threatened television's grip on society. Social networks, though, have since colonized the web for television's values. From Facebook to Instagram, the medium refocuses our attention on videos and images, rewarding emotional appeals—'like' buttons—over rational ones. Instead of a quest for knowledge, it engages us in an endless zest(热情) for instant approval from an audience, for which we are constantly but unconsciously performing. (It's telling that, while Google began life as a PhD thesis, Facebook started as a tool to judge classmates, appearances.) It reduces our curiosity by showing us exactly what we already want and think, based on our profiles and preferences. The Enlightenment's motto(座右铭) of 'Dare to know' has become 'Dare not to care to know.'",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What did Neil Postman say about the rise of television?",
+       "options": [
+        "It initiated a change from dominance of reason to supremacy of pleasure.",
+        "It brought about a gradual shift from cinema going to home entertainment.",
+        "It started a revolution in photographic technology.",
+        "It marked a new age in the entertainment industry."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse: a gradual shift from a typographic(印刷的) culture to a photographic one, which in turn meant a shift from rationality to emotions, exposition to entertainment.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 initiated、change、dominance、reason 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse: a gradual shift from a typographic(印刷的) culture to a photographic one, which in turn meant a shift from rationality to emotions, exposition to entertainment.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 initiated、change、dominance、reason 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「brought、cinema、going」全文未出现；把原文的「gradual、shift、entertainment」换成了「brought、about、cinema」，主语或对象被调包。",
+         "C": "无中生有：「revolution、technology」全文未出现；把原文的「photographic」换成了「started、revolution、technology」，主语或对象被调包。",
+         "D": "无中生有：「marked、age、industry」全文未出现；把原文的「new、entertainment」换成了「marked、age、industry」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "According to the passage, what is the advantage of text reading?",
+       "options": [
+        "It gives one access to huge amounts of information.",
+        "It allows more information to be processed quickly.",
+        "It is capable of enriching one's life.",
+        "It is conducive to critical thinking."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】(It's telling that, while Google began life as a PhD thesis, Facebook started as a tool to judge classmates, appearances.) It reduces our curiosity by showing us exactly what we already want and think, based on our profiles and preferences.\n【依据】正确项的核心词 thinking 与定位句对得上；其余 conducive、critical 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "(It's telling that, while Google began life as a PhD thesis, Facebook started as a tool to judge classmates, appearances.) It reduces our curiosity by showing us exactly what we already want and think, based on our profiles and preferences.",
+        "why": "正确项的核心词 thinking 与定位句对得上；其余 conducive、critical 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「gives、access、huge」全文未出现。",
+         "B": "无中生有：「allows、information、processed」全文未出现。",
+         "C": "无中生有：「capable、enriching、one's」全文未出现；把原文的「life」换成了「capable、enriching、one's」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "How has television impacted Americans?",
+       "options": [
+        "It has given them a lot more to argue about.",
+        "It has brought celebrities closer to their lives.",
+        "It has made them care more about what they say.",
+        "It has rendered their interactions more superficial."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse: a gradual shift from a typographic(印刷的) culture to a photographic one, which in turn meant a shift from rationality to emotions, exposition to entertainment.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 rendered、interactions、superficial 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse: a gradual shift from a typographic(印刷的) culture to a photographic one, which in turn meant a shift from rationality to emotions, exposition to entertainment.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 rendered、interactions、superficial 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「given、lot」全文未出现。",
+         "B": "无中生有：「brought、closer、lives」全文未出现。",
+         "C": "因果倒置：「made、say」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does the passage say about the World Wide Web?",
+       "options": [
+        "It was developed primarily for universities worldwide.",
+        "It was created to connect people in different countries.",
+        "It was viewed as a means to quest for knowledge.",
+        "It was designed as a discussion forum for university students."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The trend toward rationality and enlightenment was endangered long before the advent of the World Wide Web.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 viewed、means、quest、knowledge 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The trend toward rationality and enlightenment was endangered long before the advent of the World Wide Web.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 viewed、means、quest、knowledge 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「developed、primarily」全文未出现；把原文的「worldwide」换成了「developed、primarily、universities」，主语或对象被调包。",
+         "B": "无中生有：「people、different、countries」全文未出现。",
+         "D": "无中生有：「designed、forum、university」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What do we learn about users of social media?",
+       "options": [
+        "They are bent on looking for an alternative space for escape.",
+        "They are constantly seeking approval from their audience.",
+        "They are forever engaged in hunting for new information.",
+        "They are unable to focus their attention on tasks for long."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】It was an intellectual project, not about commerce or control, created in a scientific research center in Switzerland.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 constantly、seeking、approval、audience 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It was an intellectual project, not about commerce or control, created in a scientific research center in Switzerland.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 constantly、seeking、approval、audience 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「bent、looking、escape」全文未出现。",
+         "C": "无中生有：「forever、engaged、hunting」全文未出现。",
+         "D": "无中生有：「unable、focus、tasks」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 439 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "According to a recent study, a small but growing proportion of the workforce is affected to some degree by a sense of entitlement. Work is less about what they can contribute but more about what they can take. It can lead to workplace dysfunction and diminish their own job satisfaction. I'm not referring to employees who are legitimately dissatisfied with their employment conditions due to, say, being denied fair pay or flexible work practices. I'm talking about those who consistently believe they deserve special treatment and generous rewards. It's an expectation that exists irrespective of their abilities or levels of performance. As a result of that discrepancy between the privileges they feel they're owed and their inflated sense of self-worth, they don't work as hard for their employer. They prefer instead to slack off. It's a tendency which many scholars believe begins in childhood due to parents who overindulge their kids. This thereby leads them to expect the same kind of spoilt treatment throughout their adult lives. And yet despite how these employees feel, it's obviously important for their manager to nonetheless find out how to keep them motivated. And, by virtue of that heightened motivation, to perform well. The research team from several American universities surveyed more than 240 individuals. They sampled managers as well as team members. Employee entitlement was measured by statements such as \"I honestly feel I'm just more deserving than others.\" The respondents had to rate the extent of their agreement. Employee engagement, meanwhile, was assessed with statements like \"I really throw myself into my work.\" The findings revealed ethical leadership is precisely what alleviates the negative effects of employee entitlement. That's because rather than indulging employees or neglecting them, ethical leaders communicate very direct and clear expectations. They also hold employees accountable for their behaviors and are genuinely committed to doing the right thing. Additionally, these leaders are consistent in their standards. They're also less likely to deviate in how they treat employees. This means, when confronted by an entitled team member, an ethical leader is significantly disinclined to accommodate their demands. He or she will instead point out, constructively and tactfully, exactly how their inflated sense of deservingness is somewhat distorted. They'd then go further to explain the specific, and objective, criteria the employee must meet to receive their desired rewards. This shift away from unrealistic expectations is successful because entitled employees feel more confident that ethical leaders will deliver on their promises. This occurs because they're perceived to be fair and trustworthy. The researchers, however, exercise caution by warning no one single response is the perfect remedy. But there's no denying ethical leadership is at least a critical step in the right direction.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does a recent study find about a growing number of workers?",
+       "options": [
+        "They attempt to make more contributions.",
+        "They feel they deserve more than they get.",
+        "They attach importance to job satisfaction.",
+        "They try to diminish workplace dysfunction."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】According to a recent study, a small but growing proportion of the workforce is affected to some degree by a sense of entitlement.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 feel、deserve、get 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "According to a recent study, a small but growing proportion of the workforce is affected to some degree by a sense of entitlement.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 feel、deserve、get 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「attempt、make、contributions」全文未出现。",
+         "C": "因果倒置：「attach、importance」全文未出现。",
+         "D": "因果倒置：「try」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "Why don't some employees work hard according to many scholars?",
+       "options": [
+        "They lack a strong sense of self-worth.",
+        "They were spoiled when growing up.",
+        "They have received unfair treatment.",
+        "They are overindulged by their boss."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】As a result of that discrepancy between the privileges they feel they're owed and their inflated sense of self-worth, they don't work as hard for their employer.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 spoiled、when、growing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As a result of that discrepancy between the privileges they feel they're owed and their inflated sense of self-worth, they don't work as hard for their employer.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 spoiled、when、growing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「lack、strong」全文未出现；把原文的「sense、self-worth」换成了「lack、strong」，主语或对象被调包。",
+         "C": "无中生有：「received、unfair」全文未出现。",
+         "D": "无中生有：「overindulged、boss」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What is a manager supposed to do to enable workers to do a better job?",
+       "options": [
+        "Be aware of their emotions.",
+        "Give them timely promotions.",
+        "Keep a record of their performance.",
+        "Seek ways to sustain their motivation."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】And yet despite how these employees feel, it's obviously important for their manager to nonetheless find out how to keep them motivated.\n【依据】正确项的核心词 motivation 与定位句对得上；其余 seek、ways、sustain 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "And yet despite how these employees feel, it's obviously important for their manager to nonetheless find out how to keep them motivated.",
+        "why": "正确项的核心词 motivation 与定位句对得上；其余 seek、ways、sustain 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「aware、emotions」全文未出现。",
+         "B": "无中生有：「give、timely、promotions」全文未出现。",
+         "C": "偷换主体：「record」全文未出现；把原文的「keep」换成了「record、performance」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What do the research findings reveal about ethical leaders?",
+       "options": [
+        "They are held accountable by their employees.",
+        "They are always transparent in their likes and dislikes.",
+        "They convey their requirements in a straightforward way.",
+        "They make it a point to be on good terms with their employees."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Employee engagement, meanwhile, was assessed with statements like \"I really throw myself into my work.\" The findings revealed ethical leadership is precisely what alleviates the negative effects of employee entitlement.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 convey、requirements、straightforward、way 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Employee engagement, meanwhile, was assessed with statements like \"I really throw myself into my work.\" The findings revealed ethical leadership is precisely what alleviates the negative effects of employee entitlement.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 convey、requirements、straightforward、way 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「held」全文未出现；把原文的「employees」换成了「held、accountable」，主语或对象被调包。",
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「always、transparent、likes」全文未出现。",
+         "D": "无中生有：「make、good、terms」全文未出现；把原文的「employees」换成了「make、point、good」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What kind of leaders are viewed as ethical by entitled employees?",
+       "options": [
+        "Those who can be counted on to fulfill commitments.",
+        "Those who can do things beyond normal expectations.",
+        "Those who exercise caution in making major decisions.",
+        "Those who know how to satisfy their employees' needs."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Employee engagement, meanwhile, was assessed with statements like \"I really throw myself into my work.\" The findings revealed ethical leadership is precisely what alleviates the negative effects of employee entitlement.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 who、counted、fulfill、commitments 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Employee engagement, meanwhile, was assessed with statements like \"I really throw myself into my work.\" The findings revealed ethical leadership is precisely what alleviates the negative effects of employee entitlement.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 who、counted、fulfill、commitments 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「things、beyond、normal」全文未出现。",
+         "C": "因果倒置：「making、major、decisions」全文未出现。",
+         "D": "无中生有：「know、satisfy、needs」全文未出现；把原文的「employees'」换成了「who、know、how」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 450 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "延安位于陕西省北部，地处黄河中游，是中国革命的圣地。毛泽东等老一辈革命家曾在这里生活战斗了十三个春秋，领导了抗日战争和解放战争，培育了延安精神，为中国革命做出了巨大贡献。延安的革命旧址全国数量最大、分布最广，级别最高。延安是全国爱国主义、革命传统和延安精神教育基地。延安有个革命纪念馆，珍藏着中共中央和老一辈革命家在延安时期留存下来的大量重要物品，因此享有\"中国革命博物馆城\"的美誉。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1196 @@
+{
+ "id": "cet6-2020-12-1",
+ "levelId": "cet6",
+ "title": "六级 2020 年 12 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2020年12月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2020-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2020-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 早上好，这里是 Safe House Insurance"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 早上好。从我的处境来看"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 威尔逊女士，谢谢您再次来电"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 我是康沃尔郡南海路15号的梅·威尔逊女士"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 威尔逊女士，根据您账户上的记录"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 那笔钱已经从我们的账户里扣走了"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 合同确实规定，一年中任何一次漏缴都会影响保险合同的条款和条件"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 我已经和他谈过了"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 那不可能。人类甚至连一只蚊子都造不出来"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 一旦人工智能得到充分发展"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 我不太确定。计算机就是计算机"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What is the woman complaining about?",
+       "options": [
+        "Her house has not been repaired in time.",
+        "She has failed to reach the manager again.",
+        "Her claim has been completely disregarded.",
+        "She has not received any letter from the man."
+       ],
+       "optionsZh": [
+        "她的房子没有被及时修理。",
+        "她再次未能联系到经理。",
+        "她的索赔完全被忽视了。",
+        "她没有收到这位男士的任何信件。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Her claim has been completely disregarded.（她的索赔完全被忽视了。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What is the problem the woman's family encountered?",
+       "options": [
+        "The ground floor of their cottage was flooded.",
+        "Their caravan was washed away by the flood.",
+        "Their entire house was destroyed by the flood.",
+        "The roof of their cottage collapsed in the flood."
+       ],
+       "optionsZh": [
+        "他们小屋的一层被水淹了。",
+        "他们的旅行拖车被洪水冲走了。",
+        "他们的整座房子被洪水摧毁了。",
+        "他们小屋的屋顶在洪水中坍塌了。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The ground floor of their cottage was flooded.（他们小屋的一层被水淹了。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What has caused the so-called \"bizarre technical detail\" according to the man?",
+       "options": [
+        "The woman's misreading of the insurance company's letter.",
+        "The woman's ignorance of the insurance company's policy.",
+        "The woman's inaccurate description of the whole incident.",
+        "The woman's failure to pay her house insurance in time."
+       ],
+       "optionsZh": [
+        "这位女士对保险公司信件的误读。",
+        "这位女士对保险公司政策的不了解。",
+        "这位女士对整个事件的不准确描述。",
+        "这位女士未能及时支付房屋保险费。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The woman's failure to pay her house insurance in time.（这位女士未能及时支付房屋保险费。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the woman say she would do at the end of the conversation?",
+       "options": [
+        "File a lawsuit against the insurance company.",
+        "Talk to the manager of Safe House Insurance.",
+        "Consult her lawyer about the insurance policy.",
+        "Revise the terms and conditions of the contract."
+       ],
+       "optionsZh": [
+        "对保险公司提起诉讼。",
+        "与Safe House Insurance的经理交谈。",
+        "就保险政策咨询她的律师。",
+        "修改合同的条款和条件。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：File a lawsuit against the insurance company.（对保险公司提起诉讼。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn about the speakers from the conversation?",
+       "options": [
+        "They work in different fields of AI technology.",
+        "They disagree about the future of AI technology.",
+        "They differ greatly in their knowledge of modern technology.",
+        "They are both worried about the negative impact of technology."
+       ],
+       "optionsZh": [
+        "他们在人工智能技术的不同领域工作。",
+        "他们对人工智能技术的未来持不同看法。",
+        "他们在现代技术知识方面差异很大。",
+        "他们都担心技术的负面影响。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They disagree about the future of AI technology.（他们对人工智能技术的未来持不同看法。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What will new kinds of jobs be like, according to the woman?",
+       "options": [
+        "Simply writing AI software.",
+        "Stimulating and motivating.",
+        "Less time-consuming and focusing on creation.",
+        "More demanding and requiring special training."
+       ],
+       "optionsZh": [
+        "仅仅是编写人工智能软件。",
+        "令人兴奋且有激励性的。",
+        "更省时且专注于创造。",
+        "要求更高且需要特殊培训。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Less time-consuming and focusing on creation.（更省时且专注于创造。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What is the risk the man anticipates?",
+       "options": [
+        "There could be jobs nobody wants to do.",
+        "Digital life could replace human civilization.",
+        "Humans would be tired of communicating with one another.",
+        "Old people would be taken care of solely by unfeeling robots."
+       ],
+       "optionsZh": [
+        "可能会有没人愿意做的工作。",
+        "数字生活可能取代人类文明。",
+        "人类会厌倦彼此交流。",
+        "老年人将仅由没有感情的机器人照料。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Digital life could replace human civilization.（数字生活可能取代人类文明。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What is the man's concern about AI technology?",
+       "options": [
+        "Life will become like a science fiction film.",
+        "It will take away humans' jobs altogether.",
+        "Chips will be inserted in human brains.",
+        "It will be smarter than human beings."
+       ],
+       "optionsZh": [
+        "生活将变得像科幻电影一样。",
+        "它将完全取代人类的工作。",
+        "芯片将被植入人类大脑。",
+        "它将比人类更聪明。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It will be smarter than human beings.（它将比人类更聪明。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What are people under 30 advised to do to achieve financial security?",
+       "options": [
+        "Restrain themselves from high-risk investments.",
+        "Save one-fifth of their net monthly income.",
+        "Invest shrewdly in lucrative businesses.",
+        "Try to earn as much money as possible."
+       ],
+       "optionsZh": [
+        "克制自己不进行高风险投资。",
+        "储蓄月净收入的五分之一。",
+        "精明地投资盈利性业务。",
+        "尽可能多地赚钱。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Save one-fifth of their net monthly income.（储蓄月净收入的五分之一。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What should people do if they find it difficult to follow the speaker's advice on their financial plan?",
+       "options": [
+        "Start by doing something small.",
+        "Ask a close friend for advice.",
+        "Try to stick to their initial plan.",
+        "Cut 20% of their daily spending."
+       ],
+       "optionsZh": [
+        "从做一些小事开始。",
+        "向亲密朋友寻求建议。",
+        "尽量坚持最初的计划。",
+        "削减日常开支的20%。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Start by doing something small.（从做一些小事开始。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the speaker think is important for achieving financial security?",
+       "options": [
+        "An optimistic attitude.",
+        "An ambitious plan.",
+        "A proper mindset.",
+        "A keen interest."
+       ],
+       "optionsZh": [
+        "乐观的态度。",
+        "雄心勃勃的计划。",
+        "恰当的心态。",
+        "浓厚的兴趣。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：A proper mindset.（恰当的心态。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What do we learn about the speaker when she first started her job?",
+       "options": [
+        "She was uninterested in advertising.",
+        "She found her outfit inappropriate.",
+        "She was unhappy with fashion trends.",
+        "She often checked herself in a mirror."
+       ],
+       "optionsZh": [
+        "她对广告不感兴趣。",
+        "她觉得自己的着装不合适。",
+        "她对时尚潮流感到不满。",
+        "她经常对着镜子检查自己。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She found her outfit inappropriate.（她觉得自己的着装不合适。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "Why were uniforms invented according to the speaker?",
+       "options": [
+        "To save the trouble of choosing a unique outfit every day.",
+        "To meet the expectations of fashion-conscious clients.",
+        "To keep up with the current trends.",
+        "To save the expenses on clothing."
+       ],
+       "optionsZh": [
+        "为了省去每天选择独特着装的麻烦。",
+        "为了满足注重时尚的客户的期望。",
+        "为了跟上当前的潮流。",
+        "为了节省服装开支。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：To save the trouble of choosing a unique outfit every day.（为了省去每天选择独特着装的麻烦。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the speaker say about looking smarter?",
+       "options": [
+        "It enhances people's ability to work independently.",
+        "It helps people succeed in whatever they are doing.",
+        "It matters a lot in jobs involving interaction with others.",
+        "It boosts one's confidence when looking for employment."
+       ],
+       "optionsZh": [
+        "它增强了人们独立工作的能力。",
+        "它帮助人们在所做的任何事情上取得成功。",
+        "在涉及与他人互动的工作中,它非常重要。",
+        "它在求职时能提升一个人的自信心。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It matters a lot in jobs involving interaction with others.（在涉及与他人互动的工作中,它非常重要。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the speaker advise people to do in an image-obsessed world?",
+       "options": [
+        "Design their own uniform to appear unique.",
+        "Wear classic pieces to impress their clients.",
+        "Fight the ever-changing trends in fashion.",
+        "Do whatever is possible to look smart."
+       ],
+       "optionsZh": [
+        "设计自己的制服以显得与众不同。",
+        "穿经典款式以给客户留下深刻印象。",
+        "对抗不断变化的时尚潮流。",
+        "尽一切可能让自己看起来精明。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Do whatever is possible to look smart.（尽一切可能让自己看起来精明。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What has prevented Americans' happiness levels from increasing?",
+       "options": [
+        "Their obsession with consumption.",
+        "Their failure to accumulate wealth.",
+        "The ever-increasing costs of housing.",
+        "The deterioration of the environment."
+       ],
+       "optionsZh": [
+        "他们对消费的痴迷。",
+        "他们未能积累财富。",
+        "不断上涨的住房成本。",
+        "环境的恶化。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Their obsession with consumption.（他们对消费的痴迷。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What things should we possess according to the speaker?",
+       "options": [
+        "Things that are rare to find.",
+        "Things that cost less money.",
+        "Things that boost efficiency.",
+        "Things that we cherish most."
+       ],
+       "optionsZh": [
+        "难以找到的东西。",
+        "花费更少钱的东西。",
+        "提高效率的东西。",
+        "我们最珍视的东西。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Things that we cherish most.（我们最珍视的东西。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What do we learn about the items in the speaker's home?",
+       "options": [
+        "They serve multiple purposes.",
+        "They benefit the environment.",
+        "They are mostly durable.",
+        "They are easily disposable."
+       ],
+       "optionsZh": [
+        "它们有多种用途。",
+        "它们有益于环境。",
+        "它们大多经久耐用。",
+        "它们容易丢弃。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They serve multiple purposes.（它们有多种用途。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What did a team of scientists find in their study?",
+       "options": [
+        "All respondents were afraid of making a high expense claim.",
+        "A number of respondents gave an average answer of 400 miles.",
+        "Over 10% of the respondents lied about the distance they drove.",
+        "Most of the respondents got compensated for driving 384 miles."
+       ],
+       "optionsZh": [
+        "所有受访者都害怕提出高额费用报销。",
+        "一些受访者给出的平均答案是400英里。",
+        "超过10%的受访者谎报了他们驾驶的距离。",
+        "大多数受访者因驾驶384英里而获得了补偿。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Over 10% of the respondents lied about the distance they drove.（超过10%的受访者谎报了他们驾驶的距离。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "Why would people fabricate numbers to their own detriment according to the researchers?",
+       "options": [
+        "They responded to colleagues' suspicion.",
+        "They cared about other people's claims.",
+        "They wanted to protect their reputation.",
+        "They endeavored to actually be honest."
+       ],
+       "optionsZh": [
+        "他们回应了同事的怀疑。",
+        "他们在意其他人的报销申请。",
+        "他们想要保护自己的声誉。",
+        "他们努力做到真正诚实。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They wanted to protect their reputation.（他们想要保护自己的声誉。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does the speaker think of the researchers' findings?",
+       "options": [
+        "They seem positive.",
+        "They seem intuitive.",
+        "They are illustrative.",
+        "They are conclusive."
+       ],
+       "optionsZh": [
+        "它们似乎是积极的。",
+        "它们似乎是直观的。",
+        "它们具有说明性。",
+        "它们是结论性的。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They seem intuitive.（它们似乎是直观的。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the speaker mainly discuss in this talk?",
+       "options": [
+        "Deterioration in the quality of new music.",
+        "Insights into the features of good music.",
+        "Older people's changing musical tastes.",
+        "Older people's aversion to new music."
+       ],
+       "optionsZh": [
+        "新音乐质量的下降。",
+        "对好音乐特征的见解。",
+        "老年人不断变化的音乐品味。",
+        "老年人对新音乐的厌恶。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Older people's aversion to new music.（老年人对新音乐的厌恶。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What have studies found about most people by the time they turn 33?",
+       "options": [
+        "They no longer listen to new music.",
+        "They find all music sounds the same.",
+        "They can make subtle distinctions about music.",
+        "They seldom listen to songs released in their teens."
+       ],
+       "optionsZh": [
+        "他们不再听新音乐。",
+        "他们觉得所有音乐听起来都一样。",
+        "他们能够对音乐做出细微的区分。",
+        "他们很少听青少年时期发行的歌曲。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They no longer listen to new music.（他们不再听新音乐。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What do we learn from one of the most researched laws of social psychology?",
+       "options": [
+        "The more you are exposed to something, the more familiar it'll be to you.",
+        "The more you are exposed to something, the deeper you'll understand it.",
+        "The more you experience something, the longer you'll remember it.",
+        "The more you experience something, the better you'll appreciate it."
+       ],
+       "optionsZh": [
+        "你接触某事物越多,它对你就越熟悉。",
+        "你接触某事物越多,你对它的理解就越深。",
+        "你体验某事物越多,你记住它的时间就越长。",
+        "你体验某事物越多,你就越会欣赏它。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The more you experience something, the better you'll appreciate it.（你体验某事物越多,你就越会欣赏它。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What might explain the fact that songs people listen to in their teen years are memorable and beloved?",
+       "options": [
+        "Teenagers' memories are more lasting.",
+        "Teenagers' emotions are more intense.",
+        "Teenagers are much more sensitive.",
+        "Teenagers are much more sentimental."
+       ],
+       "optionsZh": [
+        "青少年的记忆更持久。",
+        "青少年的情感更强烈。",
+        "青少年要敏感得多。",
+        "青少年要多愁善感得多。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Teenagers' emotions are more intense.（青少年的情感更强烈。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop creativity.You should write at least 150 words but no more than 200 words.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "The idea of taxing things that are bad for society has a powerful allure. It offers the possibility of a double benefit— {{1}} harmful activities, while also providing the government with revenue. Take sin taxes. Taxes on alcohol make it more expensive to get drunk, which reduces excessive drinking and {{2}} driving. At the same time, they provide state and local governments with billions of dollars of revenue. Tobacco taxes, which generate more than twice as much, have proven {{3}} in the decline of smoking, which has saved millions of lives. Taxes can also be an important tool for environmental protection, and many economists say taxing carbon would be the best way to reduce greenhouse gas emissions. Economic theory says that unlike income or sales taxes, carbon taxes can actually increase economic efficiency; because companies that {{4}} carbon dioxide into the sky don't pay the costs of the climate change they cause, carbon taxes would restore the proper {{5}} to the market. In reality, carbon taxes alone won't be enough to halt global warming, but they would be a useful part of any climate plan. What's more, the revenue from this tax, which would {{6}} be hundreds of billions of dollars per year, could be handed out to citizens as a {{7}} or used to fund green infrastructure projects. Similarly, a wealth tax has been put forward as a way to reduce inequality while raising revenue. The revenue from this tax, which some experts {{8}} will be over $4 trillion per decade, would be designated for housing, child care, health care and other government benefits. If you believe, as many do, that wealth inequality is {{9}} bad, then these taxes improve society while also {{10}} government coffers(金库).",
+     "options": [
+      "discouraging",
+      "dividend",
+      "emotional",
+      "fragments",
+      "impaired",
+      "imprisoned",
+      "incentives",
+      "inherently",
+      "initially",
+      "instrumental",
+      "merging",
+      "predict",
+      "probably",
+      "pump",
+      "swelling"
+     ],
+     "answers": [
+      0,
+      4,
+      9,
+      13,
+      6,
+      12,
+      1,
+      11,
+      7,
+      14
+     ],
+     "blankExplains": [
+      "【定位】It offers the possibility of a double benefit— ____ harmful activities, while also providing the government with revenue.\n【依据】答案是 discouraging：填回后与所在句 offers、possibility、double、benefit、harmful、activities 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Taxes on alcohol make it more expensive to get drunk, which reduces excessive drinking and ____ driving.\n【依据】答案是 impaired：填回后与所在句 taxes、alcohol、make、expensive、get、drunk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Tobacco taxes, which generate more than twice as much, have proven ____ in the decline of smoking, which has saved millions of lives.\n【依据】答案是 instrumental：填回后与所在句 tobacco、taxes、which、generate、twice、much 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Economic theory says that unlike income or sales taxes, carbon taxes can actually increase economic efficiency; because companies that ____ carbon dioxide into the sky don't pay the costs of the climate change they cause, carbon taxes would restore the proper  … to the market.\n【依据】答案是 pump：填回后与所在句 economic、theory、says、unlike、income、sales 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Economic theory says that unlike income or sales taxes, carbon taxes can actually increase economic efficiency; because companies that  … carbon dioxide into the sky don't pay the costs of the climate change they cause, carbon taxes would restore the proper ____ to the market.\n【依据】答案是 incentives：填回后与所在句 economic、theory、says、unlike、income、sales 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】What's more, the revenue from this tax, which would ____ be hundreds of billions of dollars per year, could be handed out to citizens as a  … or used to fund green infrastructure projects.\n【依据】答案是 probably：填回后与所在句 what's、revenue、tax、which、hundreds、billions 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】What's more, the revenue from this tax, which would  … be hundreds of billions of dollars per year, could be handed out to citizens as a ____ or used to fund green infrastructure projects.\n【依据】答案是 dividend：填回后与所在句 what's、revenue、tax、which、hundreds、billions 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The revenue from this tax, which some experts ____ will be over $4 trillion per decade, would be designated for housing, child care, health care and other government benefits.\n【依据】答案是 predict：填回后与所在句 revenue、tax、which、experts、over、trillion 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If you believe, as many do, that wealth inequality is ____ bad, then these taxes improve society while also  … government coffers(金库).\n【依据】答案是 inherently：填回后与所在句 believe、many、wealth、inequality、bad、taxes 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】If you believe, as many do, that wealth inequality is  … bad, then these taxes improve society while also ____ government coffers(金库).\n【依据】答案是 swelling：填回后与所在句 believe、many、wealth、inequality、bad、taxes 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "It offers the possibility of a double benefit— ____ harmful activities, while also providing the government with revenue.",
+       "why": "答案是 discouraging：填回后与所在句 offers、possibility、double、benefit、harmful、activities 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 discouraging 这个词性/语义，而不是 dividend）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 discouraging 这个词性/语义，而不是 emotional）。"
+       }
+      },
+      {
+       "locate": "Taxes on alcohol make it more expensive to get drunk, which reduces excessive drinking and ____ driving.",
+       "why": "答案是 impaired：填回后与所在句 taxes、alcohol、make、expensive、get、drunk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "与 impaired 拼写相近（共同开头 imp），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 impaired 这个词性/语义，而不是 incentives）。"
+       }
+      },
+      {
+       "locate": "Tobacco taxes, which generate more than twice as much, have proven ____ in the decline of smoking, which has saved millions of lives.",
+       "why": "答案是 instrumental：填回后与所在句 tobacco、taxes、which、generate、twice、much 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 instrumental 这个词性/语义，而不是 incentives）。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 instrumental 这个词性/语义，而不是 inherently）。"
+       }
+      },
+      {
+       "locate": "Economic theory says that unlike income or sales taxes, carbon taxes can actually increase economic efficiency; because companies that ____ carbon dioxide into the sky don't pay the costs of the climate change they cause, carbon taxes would restore the proper  … to the market.",
+       "why": "答案是 pump：填回后与所在句 economic、theory、says、unlike、income、sales 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pump 这个词性/语义，而不是 predict）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pump 这个词性/语义，而不是 probably）。"
+       }
+      },
+      {
+       "locate": "Economic theory says that unlike income or sales taxes, carbon taxes can actually increase economic efficiency; because companies that  … carbon dioxide into the sky don't pay the costs of the climate change they cause, carbon taxes would restore the proper ____ to the market.",
+       "why": "答案是 incentives：填回后与所在句 economic、theory、says、unlike、income、sales 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 incentives 这个词性/语义，而不是 inherently）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 incentives 这个词性/语义，而不是 initially）。"
+       }
+      },
+      {
+       "locate": "What's more, the revenue from this tax, which would ____ be hundreds of billions of dollars per year, could be handed out to citizens as a  … or used to fund green infrastructure projects.",
+       "why": "答案是 probably：填回后与所在句 what's、revenue、tax、which、hundreds、billions 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 probably 这个词性/语义，而不是 predict）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 probably 这个词性/语义，而不是 pump）。"
+       }
+      },
+      {
+       "locate": "What's more, the revenue from this tax, which would  … be hundreds of billions of dollars per year, could be handed out to citizens as a ____ or used to fund green infrastructure projects.",
+       "why": "答案是 dividend：填回后与所在句 what's、revenue、tax、which、hundreds、billions 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 dividend 这个词性/语义，而不是 discouraging）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 dividend 这个词性/语义，而不是 emotional）。"
+       }
+      },
+      {
+       "locate": "The revenue from this tax, which some experts ____ will be over $4 trillion per decade, would be designated for housing, child care, health care and other government benefits.",
+       "why": "答案是 predict：填回后与所在句 revenue、tax、which、experts、over、trillion 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 predict 这个词性/语义，而不是 probably）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 predict 这个词性/语义，而不是 pump）。"
+       }
+      },
+      {
+       "locate": "If you believe, as many do, that wealth inequality is ____ bad, then these taxes improve society while also  … government coffers(金库).",
+       "why": "答案是 inherently：填回后与所在句 believe、many、wealth、inequality、bad、taxes 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inherently 这个词性/语义，而不是 incentives）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inherently 这个词性/语义，而不是 initially）。"
+       }
+      },
+      {
+       "locate": "If you believe, as many do, that wealth inequality is  … bad, then these taxes improve society while also ____ government coffers(金库).",
+       "why": "答案是 swelling：填回后与所在句 believe、many、wealth、inequality、bad、taxes 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 swelling 这个词性/语义，而不是 discouraging）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 swelling 这个词性/语义，而不是 dividend）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "A group of corn farmers stands huddled around an agronomist(农学家) and his computer on the side of an irrigation machine in central South Africa. The agronomist has just flown over the field with a hybrid unmanned aerial vehicle (UAV) that takes off and lands using propellers yet maintains distance and speed for scanning vast hectares of land through the use of its fixed wings."
+      },
+      {
+       "id": "B",
+       "text": "The UAV is fitted with a four spectral band precision sensor that conducts onboard processing immediately after the flight, allowing farmers and field staff to address, almost immediately, any crop abnormalities that the sensor may have recorded, making the data collection truly real-time."
+      },
+      {
+       "id": "C",
+       "text": "In this instance, the farmers and agronomist are looking to specialized software to give them an accurate plant population count. It's been 10 days since the corn emerged and the farmer wants to determine if there are any parts of the field that require replanting due to a lack of emergence or wind damage, which can be severe in the early stages of the summer rainy season."
+      },
+      {
+       "id": "D",
+       "text": "At this growth stage of the plant's development, the farmer has another 10 days to conduct any replanting before the majority of his fertilizer and chemical applications need to occur. Once these have been applied, it becomes economically unviable to take corrective action, making any further collected data historical and useful only to inform future practices for the season to come."
+      },
+      {
+       "id": "E",
+       "text": "The software completes its processing in under 15 minutes producing a plant population count map. It's difficult to grasp just how impressive this is, without understanding that just over a year ago it would have taken three to five days to process the exact same data set, illustrating the advancements that have been achieved in precision agriculture and remote sensing in recent years. With the software having been developed in the United States on the same variety of crops in seemingly similar conditions, the agronomist feels confident that the software will produce a nearly accurate result."
+      },
+      {
+       "id": "F",
+       "text": "As the map appears on the screen, the agronomist's face begins to drop. Having walked through the planted rows before the flight to gain a physical understanding of the situation on the ground, he knows the instant he sees the data on his screen that the plant count is not correct, and so do the farmers, even with their limited understanding of how to read remote sensing maps."
+      },
+      {
+       "id": "G",
+       "text": "Hypothetically, it is possible for machines to learn to solve any problem on earth relating to the physical interaction of all things within a defined or contained environment by using artificial intelligence and machine learning."
+      },
+      {
+       "id": "H",
+       "text": "Remote sensors enable algorithms(算法) to interpret a field's environment as statistical data that can be understood and useful to farmers for decision-making. Algorithms process the data, adapting and learning based on the data received. The more inputs and statistical information collected, the better the algorithm will be at predicting a range of outcomes. And the aim is that farmers can use this artificial intelligence to achieve their goal of a better harvest through making better decisions in the field."
+      },
+      {
+       "id": "I",
+       "text": "In 2011, IBM, through its R&D Headquarters in Haifa, Israel, launched an agricultural cloud-computing project. The project, in collaboration with a number of specialized IT and agricultural partners, had one goal in mind—to take a variety of academic and physical data sources from an agricultural environment and turn these into automatic predictive solutions for farmers that would assist them in making real-time decisions in the field."
+      },
+      {
+       "id": "J",
+       "text": "Interviews with some of the IBM project team members at the time revealed that the team believed it was entirely possible to \"algorithm\" agriculture, meaning that algorithms could solve any problem in the world. Earlier that year, IBM's cognitive learning system, Watson, competed in the game Jeopardy against former winners Brad Rutter and Ken Jennings with astonishing results. Several years later, Watson went on to produce ground-breaking achievements in the field of medicine."
+      },
+      {
+       "id": "K",
+       "text": "So why did the project have such success in medicine but not agriculture? Because it is one of the most difficult fields to contain for the purpose of statistical quantification. Even within a single field, conditions are always changing from one section to the next. There's unpredictable weather, changes in soil quality, and the ever-present possibility that pests and diseases may pay a visit. Growers may feel their prospects are good for an upcoming harvest, but until that day arrives, the outcome will always be uncertain."
+      },
+      {
+       "id": "L",
+       "text": "By comparison, our bodies are a contained environment. Agriculture takes place in nature, among ecosystems of interacting organisms and activity, and crop production takes place within that ecosystem environment. But these ecosystems are not contained. They are subject to climatic occurrences such as weather systems, which impact upon hemispheres as a whole, and from continent to continent. Therefore, understanding how to manage an agricultural environment means taking literally many hundreds if not thousands of factors into account."
+      },
+      {
+       "id": "M",
+       "text": "What may occur with the same seed and fertilizer program in the United States' Midwest region is almost certainly unrelated to what may occur with the same seed and fertilizer program in Australia or South Africa. A few factors that could impact on variation would typically include the measurement of rain per unit of a crop planted, soil type, patterns of soil degradation, daylight hours, temperature and so forth."
+      },
+      {
+       "id": "N",
+       "text": "So the problem with deploying machine learning and artificial intelligence in agriculture is not that scientists lack the capacity to develop programs and protocols to begin to address the biggest of growers' concerns; the problem is that in most cases, no two environments will be exactly alike, which makes the testing, validation and successful rollout of such technologies much more laborious than in most other industries."
+      },
+      {
+       "id": "O",
+       "text": "Practically, to say that AI and Machine Learning can be developed to solve all problems related to our physical environment is to basically say that we have a complete understanding of all aspects of the interaction of physical or material activity on the planet. After all, it is only through our understanding of \"the nature of things\" that protocols and processes are designed for the rational capabilities of cognitive systems to take place. And, although AI and Machine Learning are teaching us many things about how to understand our environment, we are still far from being able to predict critical outcomes in fields like agriculture purely through the cognitive ability of machines."
+      },
+      {
+       "id": "P",
+       "text": "Backed by the venture capital community, which is now investing billions of dollars in the sector, most agricultural technology startups today are pushed to complete development as quickly as possible and then encouraged to flood the market as quickly as possible with their products."
+      },
+      {
+       "id": "Q",
+       "text": "This usually results in a failure of a product, which leads to skepticism from the market and delivers a blow to the integrity of Machine Learning technology. In most cases, the problem is not that the technology does not work, the problem is that industry has not taken the time to respect that agriculture is one of the most uncontained environments to manage. For technology to truly make an impact on agriculture, more effort, skills, and funding is needed to test these technologies in farmers' fields."
+      },
+      {
+       "id": "R",
+       "text": "There is huge potential for artificial intelligence and machine learning to revolutionize agriculture by integrating these technologies into critical markets on a global scale. Only then can it make a difference to the grower, where it really counts."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Farmers will not profit from replanting once they have applied most of the fertilizer and other chemicals to their fields."
+      },
+      {
+       "id": "s37",
+       "text": "Agriculture differs from the medical science of the human body in that its environment is not a contained one."
+      },
+      {
+       "id": "s38",
+       "text": "The agronomist is sure that he will obtain a nearly accurate count of plant population with his software."
+      },
+      {
+       "id": "s39",
+       "text": "The application of artificial intelligence to agriculture is much more challenging than to most other industries."
+      },
+      {
+       "id": "s40",
+       "text": "Even the farmers know the data provided by the UAV is not correct."
+      },
+      {
+       "id": "s41",
+       "text": "The pressure for quick results leads to product failure, which, in turn, arouses doubts about the applicability of AI technology to agriculture."
+      },
+      {
+       "id": "s42",
+       "text": "Remote sensors are aimed to help farmers improve decision-making to increase yields."
+      },
+      {
+       "id": "s43",
+       "text": "The farmer expects the software to tell him whether he will have to replant any parts of his farm fields."
+      },
+      {
+       "id": "s44",
+       "text": "Agriculture proves very difficult to quantify because of the constantly changing conditions involved."
+      },
+      {
+       "id": "s45",
+       "text": "The same seed and fertilizer program may yield completely different outcomes in different places."
+      }
+     ],
+     "answers": [
+      "D",
+      "L",
+      "E",
+      "N",
+      "F",
+      "Q",
+      "H",
+      "C",
+      "K",
+      "M"
+     ],
+     "statementExplains": [
+      "【定位】At this growth stage of the plant's development, the farmer has another 10 days to conduct any replanting before the majority of his fertilizer and chemical applications need to occur.\n【依据】陈述里的 farmers、replanting、applied、fertilizer、chemicals 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】By comparison, our bodies are a contained environment.\n【依据】陈述里的 environment、contained 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】The software completes its processing in under 15 minutes producing a plant population count map.\n【依据】陈述里的 count、plant、population、software 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】So the problem with deploying machine learning and artificial intelligence in agriculture is not that scientists lack the capacity to develop programs and protocols to begin to address the biggest of growers' concerns; the problem is that in most cases, no two environments will be exactly alike, which makes the testing, validation and successful rollout of such technologies much more laborious than in most other industries.\n【依据】陈述里的 artificial、intelligence、agriculture、much、other、industries 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+      "【定位】Having walked through the planted rows before the flight to gain a physical understanding of the situation on the ground, he knows the instant he sees the data on his screen that the plant count is not correct, and so do the farmers, even with their limited understanding of how to read remote sensing maps.\n【依据】陈述里的 even、farmers、data、correct 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】This usually results in a failure of a product, which leads to skepticism from the market and delivers a blow to the integrity of Machine Learning technology.\n【依据】陈述里的 results、leads、product、failure、which、technology 在 Q 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 Q 段。",
+      "【定位】Remote sensors enable algorithms(算法) to interpret a field's environment as statistical data that can be understood and useful to farmers for decision-making.\n【依据】陈述里的 remote、sensors、farmers、decision-making 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】It's been 10 days since the corn emerged and the farmer wants to determine if there are any parts of the field that require replanting due to a lack of emergence or wind damage, which can be severe in the early stages of the summer rainy season.\n【依据】陈述里的 farmer、replant、parts、fields 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Because it is one of the most difficult fields to contain for the purpose of statistical quantification.\n【依据】陈述里的 difficult、quantify、because 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】What may occur with the same seed and fertilizer program in the United States' Midwest region is almost certainly unrelated to what may occur with the same seed and fertilizer program in Australia or South Africa.\n【依据】陈述里的 same、seed、fertilizer、program 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。"
+     ],
+     "explain": "长篇阅读匹配：18 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "At this growth stage of the plant's development, the farmer has another 10 days to conduct any replanting before the majority of his fertilizer and chemical applications need to occur.",
+       "why": "陈述里的 farmers、replanting、applied、fertilizer、chemicals 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "By comparison, our bodies are a contained environment.",
+       "why": "陈述里的 environment、contained 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The software completes its processing in under 15 minutes producing a plant population count map.",
+       "why": "陈述里的 count、plant、population、software 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "So the problem with deploying machine learning and artificial intelligence in agriculture is not that scientists lack the capacity to develop programs and protocols to begin to address the biggest of growers' concerns; the problem is that in most cases, no two environments will be exactly alike, which makes the testing, validation and successful rollout of such technologies much more laborious than in most other industries.",
+       "why": "陈述里的 artificial、intelligence、agriculture、much、other、industries 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Having walked through the planted rows before the flight to gain a physical understanding of the situation on the ground, he knows the instant he sees the data on his screen that the plant count is not correct, and so do the farmers, even with their limited understanding of how to read remote sensing maps.",
+       "why": "陈述里的 even、farmers、data、correct 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This usually results in a failure of a product, which leads to skepticism from the market and delivers a blow to the integrity of Machine Learning technology.",
+       "why": "陈述里的 results、leads、product、failure、which、technology 在 Q 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 Q 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Remote sensors enable algorithms(算法) to interpret a field's environment as statistical data that can be understood and useful to farmers for decision-making.",
+       "why": "陈述里的 remote、sensors、farmers、decision-making 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It's been 10 days since the corn emerged and the farmer wants to determine if there are any parts of the field that require replanting due to a lack of emergence or wind damage, which can be severe in the early stages of the summer rainy season.",
+       "why": "陈述里的 farmer、replant、parts、fields 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Because it is one of the most difficult fields to contain for the purpose of statistical quantification.",
+       "why": "陈述里的 difficult、quantify、because 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "What may occur with the same seed and fertilizer program in the United States' Midwest region is almost certainly unrelated to what may occur with the same seed and fertilizer program in Australia or South Africa.",
+       "why": "陈述里的 same、seed、fertilizer、program 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "What is the place of art in a culture of inattention? Recent visitors to the Louvre report that tourists can now spend only a minute in front of the Mona Lisa before being asked to move on. Much of that time, for some of them, is spent taking photographs not even of the painting but of themselves with the painting in the background. One view is that we have democratised tourism and gallery-going so much that we have made it effectively impossible to appreciate what we've travelled to see. In this oversubscribed society, experience becomes a commodity like any other. There are queues to climb Mt. Jolmo Lungma as well as to see famous paintings. Leisure, thus conceived, is hard labour, and returning to work becomes a well-earned break from the ordeal. What gets lost in this industrialised haste is the quality of looking. Consider an extreme example, the late philosopher Richard Wollheim. When he visited the Louvre he could spend as much as four hours sitting before a painting. The first hour, he claimed, was necessary for misperceptions to be eliminated. It was only then that the picture would begin to disclose itself. This seems unthinkable today, but it is still possible to organise. Even in the busiest museums there are many rooms and many pictures worth hours of contemplation which the crowds largely ignore. Sometimes the largest crowds are partly the products of bad management; the Mona Lisa is such a hurried experience today partly because the museum is being reorganised. The Uffizi in Florence, another site of cultural pilgrimage, has cut its entry queues down to seven minutes by clever management. And there are some forms of art, those designed to be spectacles as well as objects of contemplation, which can work perfectly well in the face of huge crowds. Olafur Eliasson's current Tate Modern show, for instance, might seem nothing more than an entertainment, overrun as it is with kids romping(喧闹地玩耍) in fog rooms and spray mist installations. But it's more than that: where Eliasson is at his most entertaining, he is at his most serious too, and his disorienting installations bring home the reality of the destructive effects we are having on the planet—not least what we are doing to the glaciers of Eliasson's beloved Iceland. Marcel Proust, another lover of the Louvre, wrote: \"It is only through art that we can escape from ourselves and know how another person sees the universe, whose landscapes would otherwise have remained as unknown as any on the moon.\" If any art remains worth seeing, it must lead us to such escapes. But a minute in front of a painting in a hurried crowd won't do that.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the scene at the Louvre demonstrate according to the author?",
+       "options": [
+        "The enormous appeal of a great piece of artistic work to tourists.",
+        "The near impossibility of appreciating art in an age of mass tourism.",
+        "The ever-growing commercial value of long-cherished artistic works.",
+        "The real difficulty in getting a glimpse at a masterpiece amid a crowd."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】One view is that we have democratised tourism and gallery-going so much that we have made it effectively impossible to appreciate what we've travelled to see.\n【依据】正确项的核心词 impossibility、appreciating、tourism 与定位句对得上；其余 near、art、age、mass 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One view is that we have democratised tourism and gallery-going so much that we have made it effectively impossible to appreciate what we've travelled to see.",
+        "why": "正确项的核心词 impossibility、appreciating、tourism 与定位句对得上；其余 near、art、age、mass 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「enormous、appeal、great」全文未出现；把原文的「tourists」换成了「enormous、appeal、great」，主语或对象被调包。",
+         "C": "无中生有：「ever-growing、commercial、value」全文未出现。",
+         "D": "无中生有：「real、difficulty、getting」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "Why did the late philosopher Richard Wollheim spend four hours before a picture?",
+       "options": [
+        "It takes time to appreciate a piece of art fully.",
+        "It is quite common to misinterpret artistic works.",
+        "The longer people contemplate a picture, the more likely they will enjoy it.",
+        "The more time one spends before a painting, the more valuable one finds it."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】When he visited the Louvre he could spend as much as four hours sitting before a painting.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 takes、time、appreciate、piece 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When he visited the Louvre he could spend as much as four hours sitting before a painting.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 takes、time、appreciate、piece 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「quite、common、misinterpret」全文未出现。",
+         "C": "无中生有：「longer、people、contemplate」全文未出现。",
+         "D": "无中生有：「valuable、finds」全文未出现；把原文的「spends、before、painting」换成了「time、valuable、finds」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the case of the Uffizi in Florence show?",
+       "options": [
+        "Art works in museums should be better taken care of.",
+        "Sites of cultural pilgrimage are always flooded with visitors.",
+        "Good management is key to handling large crowds of visitors.",
+        "Large crowds of visitors cause management problems for museums."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The Uffizi in Florence, another site of cultural pilgrimage, has cut its entry queues down to seven minutes by clever management.\n【依据】正确项的核心词 management 与定位句对得上；其余 good、key、handling、large 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The Uffizi in Florence, another site of cultural pilgrimage, has cut its entry queues down to seven minutes by clever management.",
+        "why": "正确项的核心词 management 与定位句对得上；其余 good、key、handling、large 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「works、better、taken」全文未出现。",
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「sites、always、flooded」全文未出现；把原文的「cultural、pilgrimage」换成了「sites、always、flooded」，主语或对象被调包。",
+         "D": "偷换主体：「large、cause、problems」全文未出现；把原文的「management」换成了「large、crowds、visitors」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What do we learn from Olafur Eliasson's current Tate Modern show?",
+       "options": [
+        "Children learn to appreciate art works most effectively while they are playing.",
+        "It is possible to combine entertainment with appreciation of serious art.",
+        "Art works about the environment appeal most to young children.",
+        "Some forms of art can accommodate huge crowds of visitors."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Olafur Eliasson's current Tate Modern show, for instance, might seem nothing more than an entertainment, overrun as it is with kids romping(喧闹地玩耍) in fog rooms and spray mist installations.\n【依据】正确项的核心词 entertainment 与定位句对得上；其余 possible、combine、appreciation、serious 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Olafur Eliasson's current Tate Modern show, for instance, might seem nothing more than an entertainment, overrun as it is with kids romping(喧闹地玩耍) in fog rooms and spray mist installations.",
+        "why": "正确项的核心词 entertainment 与定位句对得上；其余 possible、combine、appreciation、serious 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「children、learn、works」全文未出现。",
+         "C": "无中生有：「works、about、environment」全文未出现。",
+         "D": "因果倒置：「accommodate」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What can art do according to Marcel Proust?",
+       "options": [
+        "Enable us to live a much fuller life.",
+        "Allow us to escape the harsh reality.",
+        "Help us to see the world from a different perspective.",
+        "Urge us to explore the unknown domain of the universe."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Marcel Proust, another lover of the Louvre, wrote: \"It is only through art that we can escape from ourselves and know how another person sees the universe, whose landscapes would otherwise have remained as unknown as any on the moon.\" If any art remains worth seeing, it must lead us to such escapes.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 help、see、world、different 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Marcel Proust, another lover of the Louvre, wrote: \"It is only through art that we can escape from ourselves and know how another person sees the universe, whose landscapes would otherwise have remained as unknown as any on the moon.\" If any art remains worth seeing, it must lead us to such escapes.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 help、see、world、different 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「enable、live、fuller」全文未出现。",
+         "B": "无中生有：「allow、harsh」全文未出现；把原文的「escape」换成了「allow、harsh、reality」，主语或对象被调包。",
+         "D": "无中生有：「urge、explore、domain」全文未出现；把原文的「unknown、universe」换成了「urge、explore、domain」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 450 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Every five years, the government tries to tell Americans what to put in their bellies. Eat more vegetables. Dial back the fats. It's all based on the best available science for leading a healthy life. But the best available science also has a lot to say about what those food choices do to the environment, and some researchers are annoyed that new dietary recommendations of the USDA (United States Department of Agriculture) released yesterday seem to utterly ignore that fact. Broadly, the 2016–2020 dietary recommendations aim for balance: More vegetables, leaner meats and far less sugar. But Americans consume more calories per capita than almost any other country in the world. So the things Americans eat have a huge impact on climate change. Soil tilling releases carbon dioxide, and delivery vehicles emit exhaust. The government's dietary guidelines could have done a lot to lower that climate cost. Not just because of their position of authority: The guidelines drive billions of dollars of food production through federal programs like school lunches and nutrition assistance for the needy. On its own, plant and animal agriculture contributes 9 percent of all the country's greenhouse gas emissions. That's not counting the fuel burned in transportation, processing, refrigeration, and other waypoints between farm and belly. Red meats are among the biggest and most notorious emitters, but trucking a salad from California to Minnesota in January also carries a significant burden. And greenhouse gas emissions aren't the whole story. Food production is the largest user of fresh water, largest contributor to the loss of biodiversity, and a major contributor to using up natural resources. All of these points and more showed up in the Dietary Guidelines Advisory Committee's scientific report, released last February. Miriam Nelson chaired the subcommittee in charge of sustainability for the report, and is disappointed that eating less meat and buying local food aren't in the final product. \"Especially if you consider that eating less meat, especially red and processed, has health benefits,\" she says. So what happened? The official response is that sustainability falls too far outside the guidelines' official scope, which is to provide \"nutritional and dietary information.\" Possibly the agencies in charge of drafting the decisions are too close to the industries they are supposed to regulate. On one hand, the USDA is compiling dietary advice. On the other, their clients are US agriculture companies. The line about keeping the guidelines' scope to nutrition and diet doesn't ring quite right with researchers. David Wallinga, for example, says, \"In previous guidelines, they've always been concerned with things like food security—which is presumably the mission of the USDA. You absolutely need to be worried about climate impacts and future sustainability if you want secure food in the future.\"",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "Why are some researchers irritated at the USDA's 2016-2020 Dietary Guidelines?",
+       "options": [
+        "It ignores the harmful effect of red meat and processed food on health.",
+        "Too much emphasis is given to eating less meat and buying local food.",
+        "The dietary recommendations are not based on medical science.",
+        "It takes no notice of the potential impact on the environment."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】But the best available science also has a lot to say about what those food choices do to the environment, and some researchers are annoyed that new dietary recommendations of the USDA (United States Department of Agriculture) released yesterday seem to utterly ignore that fact.\n【依据】正确项的核心词 environment 与定位句对得上；其余 takes、notice、potential、impact 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But the best available science also has a lot to say about what those food choices do to the environment, and some researchers are annoyed that new dietary recommendations of the USDA (United States Department of Agriculture) released yesterday seem to utterly ignore that fact.",
+        "why": "正确项的核心词 environment 与定位句对得上；其余 takes、notice、potential、impact 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「harmful、effect」全文未出现；把原文的「ignores、food」换成了「harmful、effect、red」，主语或对象被调包。",
+         "B": "偷换主体：「much、emphasis、given」全文未出现；把原文的「food」换成了「too、much、emphasis」，主语或对象被调包。",
+         "C": "偷换主体：「medical」全文未出现；把原文的「dietary、recommendations、science」换成了「based、medical」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "Why does the author say the USDA could have contributed a lot to lowering the climate cost through its dietary guidelines?",
+       "options": [
+        "It has the capacity and the financial resources to do so.",
+        "Its researchers have already submitted relevant proposals.",
+        "Its agencies in charge of drafting the guidelines have the expertise.",
+        "It can raise students' environmental awareness through its programs."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The government's dietary guidelines could have done a lot to lower that climate cost.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 capacity、financial、resources 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The government's dietary guidelines could have done a lot to lower that climate cost.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 capacity、financial、resources 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「already、submitted、relevant」全文未出现。",
+         "C": "偷换主体：「expertise」全文未出现；把原文的「guidelines」换成了「agencies、charge、drafting」，主语或对象被调包。",
+         "D": "无中生有：「raise、students'、environmental」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do we learn from the Dietary Guidelines Advisory Committee's scientific report?",
+       "options": [
+        "Food is easily contaminated from farm to belly.",
+        "Greenhouse effect is an issue still under debate.",
+        "Modern agriculture has increased food diversity.",
+        "Farming consumes most of our natural resources."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】All of these points and more showed up in the Dietary Guidelines Advisory Committee's scientific report, released last February.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 farming、consumes、natural、resources 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "All of these points and more showed up in the Dietary Guidelines Advisory Committee's scientific report, released last February.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 farming、consumes、natural、resources 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「easily、contaminated」全文未出现。",
+         "B": "无中生有：「effect、issue、still」全文未出现。",
+         "C": "无中生有：「modern、increased、diversity」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What may account for the neglect of sustainability in the USDA's Dietary Guidelines according to the author?",
+       "options": [
+        "Its exclusive concern with Americans' food safety.",
+        "Its sole responsibility for providing dietary advice.",
+        "Its close ties with the agriculture companies.",
+        "Its alleged failure to regulate the industries."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The official response is that sustainability falls too far outside the guidelines' official scope, which is to provide \"nutritional and dietary information.\" Possibly the agencies in charge of drafting the decisions are too close to the industries they are supposed to regulate.\n【依据】正确项的核心词 close 与定位句对得上；其余 ties、agriculture、companies 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The official response is that sustainability falls too far outside the guidelines' official scope, which is to provide \"nutritional and dietary information.\" Possibly the agencies in charge of drafting the decisions are too close to the industries they are supposed to regulate.",
+        "why": "正确项的核心词 close 与定位句对得上；其余 ties、agriculture、companies 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「exclusive、concern、americans'」全文未出现。",
+         "B": "偷换主体：「sole」全文未出现；把原文的「responsibility、providing、dietary」换成了「sole、advice」，主语或对象被调包。",
+         "D": "无中生有：「alleged、failure」全文未出现；把原文的「regulate、industries」换成了「alleged、failure」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What should the USDA do to achieve food security according to David Wallinga?",
+       "options": [
+        "Give top priority to things like nutrition and food security.",
+        "Endeavor to ensure the sustainable development of agriculture.",
+        "Fulfill its mission by closely cooperating with the industries.",
+        "Study the long-term impact of climate change on food production."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】David Wallinga, for example, says, \"In previous guidelines, they've always been concerned with things like food security—which is presumably the mission of the USDA.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 endeavor、ensure、sustainable、development 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "David Wallinga, for example, says, \"In previous guidelines, they've always been concerned with things like food security—which is presumably the mission of the USDA.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 endeavor、ensure、sustainable、development 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「give、top、priority」全文未出现；把原文的「things、like、food」换成了「give、top、priority」，主语或对象被调包。",
+         "C": "无中生有：「fulfill、closely、cooperating」全文未出现；把原文的「mission」换成了「fulfill、closely、cooperating」，主语或对象被调包。",
+         "D": "偷换主体：「study、long-term」全文未出现；把原文的「food」换成了「study、long-term、impact」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 455 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "青藏铁路是世界上最高最长的高原铁路，全长公里，其中有公里在海拔多米之上，是连接西藏和中国其他地区的第一条铁路。由于铁路穿越世界上最脆弱的生态系统，在建设期间和建成后都采取了生态保护措施，以确保其成为一条\"绿色铁路\"。青藏铁路大大缩短了中国内地与西藏之间的旅行时间。更重要的是，它极大地促进了西藏的经济发展，改善了当地居民的生活。铁路开通后，愈来愈多的人选择乘火车前往西藏，这样还有机会欣赏沿线的美景。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

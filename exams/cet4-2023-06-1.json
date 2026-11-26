@@ -1,0 +1,1171 @@
+{
+ "id": "cet4-2023-06-1",
+ "levelId": "cet4",
+ "title": "四级 2023 年 06 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2023年6月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2023-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2023-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "一名女子被指控涉嫌违反罗德岛州某市禁止喂食野生动物的法律"
+      },
+      {
+       "idx": 2,
+       "zh": "新安装的摄像头拍摄到数只老鼠在白天活动"
+      },
+      {
+       "idx": 3,
+       "zh": "这名女子及其拥有该房产的父母告诉记者"
+      },
+      {
+       "idx": 4,
+       "zh": "她说:\"谁能想到仅仅是喜爱动物就会惹来这么大的麻烦。\""
+      },
+      {
+       "idx": 5,
+       "zh": "在罗德岛市,禁止喂食包括鸟类在内的任何野生动物"
+      },
+      {
+       "idx": 6,
+       "zh": "市政管理部门主任Anthony Moretti表示"
+      },
+      {
+       "idx": 7,
+       "zh": "另一位运动员高藤直寿说:\"如果这发生在我身上,我会哭的。我对待自己的金牌非常温柔,不会让它划伤。\""
+      },
+      {
+       "idx": 8,
+       "zh": "W: 嗯，我读到的研究表明"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 也许你说得对。我大多数晚上都很晚还在用电脑"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn from the report about the 55-year-old woman?",
+       "options": [
+        "She was involved in a conflict with bird lovers.",
+        "She was charged with mistreating animals.",
+        "She was on bad terms with her neighbors.",
+        "She was accused of violating a city law."
+       ],
+       "optionsZh": [
+        "她卷入了与爱鸟人士的冲突。",
+        "她被指控虐待动物。",
+        "她与邻居关系不睦。",
+        "她被指控违反了一项城市法律。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She was accused of violating a city law.（她被指控违反了一项城市法律。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What did the director of the city administration say at the end of the news report?",
+       "options": [
+        "It will take time to solve the rat problem.",
+        "All wild animals should be well protected.",
+        "The woman was not to blame for the situation.",
+        "No one should go unpunished for violating law."
+       ],
+       "optionsZh": [
+        "解决鼠患问题需要时间。",
+        "所有野生动物都应该得到良好保护。",
+        "这位女性对这种情况不应受到责备。",
+        "任何人违法都不应逍遥法外。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It will take time to solve the rat problem.（解决鼠患问题需要时间。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does NASA require the paid volunteers to do?",
+       "options": [
+        "Communicate with astronauts in Mars Dune Alpha.",
+        "Work in an environment resembling Mars.",
+        "Build a Martian habitat in Houston.",
+        "Send in applications before Friday."
+       ],
+       "optionsZh": [
+        "与Mars Dune Alpha中的宇航员交流。",
+        "在类似火星的环境中工作。",
+        "在休斯顿建造火星栖息地。",
+        "在周五之前提交申请。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Work in an environment resembling Mars.（在类似火星的环境中工作。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What will the participants in the project eat?",
+       "options": [
+        "Ready-made food.",
+        "Food that is organic.",
+        "Food they grow.",
+        "Potatoes mostly."
+       ],
+       "optionsZh": [
+        "现成的食物。",
+        "有机食物。",
+        "他们种植的食物。",
+        "主要是土豆。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Ready-made food.（现成的食物。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do the news reports say about the Japanese mayor Takashi Kawamura?",
+       "options": [
+        "He apologized for scratching an athlete's gold medal.",
+        "He was asked to present a gold medal to Miu Goto.",
+        "He bit a softball player's Olympic gold medal.",
+        "He attracted public attention at a media event."
+       ],
+       "optionsZh": [
+        "他为刮花一名运动员的金牌而道歉。",
+        "他被要求向后藤希友颁发一枚金牌。",
+        "他咬了一名垒球运动员的奥运金牌。",
+        "他在一场媒体活动中引起了公众关注。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He bit a softball player's Olympic gold medal.（他咬了一名垒球运动员的奥运金牌。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What did mayor Takashi Kawamura offer to do?",
+       "options": [
+        "Have another picture taken with the Olympic medalist.",
+        "Apologize to the International Olympic Committee.",
+        "Get the damaged medal repaired.",
+        "Pay for the cost of a new medal."
+       ],
+       "optionsZh": [
+        "与这名奥运奖牌获得者再拍一张照片。",
+        "向国际奥林匹克委员会道歉。",
+        "把损坏的奖牌修好。",
+        "支付一枚新奖牌的费用。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Pay for the cost of a new medal.（支付一枚新奖牌的费用。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What did some Olympians say they would do with their medals?",
+       "options": [
+        "Allow no one to touch them.",
+        "See them as symbols of honor.",
+        "Treat them as treasures.",
+        "Keep them in a safe place."
+       ],
+       "optionsZh": [
+        "不允许任何人触碰它们。",
+        "把它们视为荣誉的象征。",
+        "把它们当作珍宝对待。",
+        "把它们保存在安全的地方。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Treat them as treasures.（把它们当作珍宝对待。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What did the woman do to her computer?",
+       "options": [
+        "She covered its screen with a plastic sheet.",
+        "She connected it with her smartphone.",
+        "She decorated it with colorful stickers.",
+        "She bought some new software for it."
+       ],
+       "optionsZh": [
+        "她用塑料薄膜覆盖了屏幕。",
+        "她把电脑和智能手机连接起来了。",
+        "她用彩色贴纸装饰了电脑。",
+        "她为电脑购买了一些新软件。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She covered its screen with a plastic sheet.（她用塑料薄膜覆盖了屏幕。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the woman say about blue light?",
+       "options": [
+        "It may not be simply blue.",
+        "It includes unnatural light.",
+        "It is more harmful to young people.",
+        "It induces people to fall asleep."
+       ],
+       "optionsZh": [
+        "它可能不仅仅是蓝色的。",
+        "它包含非自然光。",
+        "它对年轻人的危害更大。",
+        "它促使人们入睡。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It includes unnatural light.（它包含非自然光。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "Why does the man say he hasn't slept enough for months?",
+       "options": [
+        "He has had much trouble falling asleep.",
+        "He has had some sort of health problems.",
+        "He has stayed up playing computer games.",
+        "He has been burdened with excessive work."
+       ],
+       "optionsZh": [
+        "他入睡一直很困难。",
+        "他有某种健康问题。",
+        "他熬夜玩电脑游戏。",
+        "他承受着过重的工作负担。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He has been burdened with excessive work.（他承受着过重的工作负担。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What has the woman learned from the research she has read?",
+       "options": [
+        "Exposure to blue light is the chief cause of obesity.",
+        "Sleep may be more important than people assumed.",
+        "Sleep may also be negatively affected by natural light.",
+        "Overuse of electronic devices may cause heart disease."
+       ],
+       "optionsZh": [
+        "接触蓝光是肥胖的主要原因。",
+        "睡眠可能比人们认为的更重要。",
+        "睡眠也可能受到自然光的负面影响。",
+        "过度使用电子设备可能导致心脏病。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Sleep may be more important than people assumed.（睡眠可能比人们认为的更重要。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What question were both speakers fed up with when they were kids?",
+       "options": [
+        "What they wanted to be when grown up.",
+        "What their favorite cartoon character was.",
+        "What they learned from computer games.",
+        "What they liked to do most after school."
+       ],
+       "optionsZh": [
+        "长大后想成为什么样的人。",
+        "他们最喜欢的卡通角色是什么。",
+        "他们从电脑游戏中学到了什么。",
+        "他们放学后最喜欢做什么。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：What they wanted to be when grown up.（长大后想成为什么样的人。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What occupation do adults see as both sensible and ambitious according to the woman?",
+       "options": [
+        "A stock broker.",
+        "A pop singer.",
+        "A mechanical engineer.",
+        "A basketball player."
+       ],
+       "optionsZh": [
+        "股票经纪人。",
+        "流行歌手。",
+        "机械工程师。",
+        "篮球运动员。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：A mechanical engineer.（机械工程师。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What kind of goal-setting does the woman like to see in children?",
+       "options": [
+        "Ambitious.",
+        "Sensible.",
+        "Imaginative.",
+        "Practical."
+       ],
+       "optionsZh": [
+        "有抱负的。",
+        "明智的。",
+        "富有想象力的。",
+        "切合实际的。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Imaginative.（富有想象力的。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the woman suggest adults should do?",
+       "options": [
+        "Relax their strict control of their kids.",
+        "Help their kids understand themselves.",
+        "Impose their own dreams on their kids.",
+        "Dismiss their high expectations of their kids."
+       ],
+       "optionsZh": [
+        "放松对孩子的严格控制。",
+        "帮助孩子了解自己。",
+        "将自己的梦想强加给孩子。",
+        "放弃对孩子的高期望。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Help their kids understand themselves.（帮助孩子了解自己。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What are a number of phone companies trying to do in Africa?",
+       "options": [
+        "Set up company branches.",
+        "Improve its infrastructure.",
+        "Introduce iPhones into its markets.",
+        "Promote Internet-ready phones."
+       ],
+       "optionsZh": [
+        "建立公司分支机构。",
+        "改善其基础设施。",
+        "将iPhone引入其市场。",
+        "推广支持互联网的手机。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Promote Internet-ready phones.（推广支持互联网的手机。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "How do KaiOS smartphones differ from smartphones of most other companies?",
+       "options": [
+        "They cater to Africans' needs.",
+        "They are more expensive models.",
+        "They are more powerful and capable",
+        "They boast the longest battery life."
+       ],
+       "optionsZh": [
+        "它们迎合非洲人的需求。",
+        "它们是更昂贵的型号。",
+        "它们更强大且功能更强。",
+        "它们拥有最长的电池续航时间。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They cater to Africans' needs.（它们迎合非洲人的需求。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What are KaiOS smartphones equipped with?",
+       "options": [
+        "A large touchscreen.",
+        "An old-school keypad.",
+        "A voice-response device.",
+        "A digitally-designed system."
+       ],
+       "optionsZh": [
+        "大型触摸屏。",
+        "老式键盘。",
+        "语音响应设备。",
+        "数字化设计系统。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：An old-school keypad.（老式键盘。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What is said about using recycled plastic to make plastic products in the past?",
+       "options": [
+        "It ensured sustainable economic growth.",
+        "It was strongly opposed by manufacturers.",
+        "It was cheaper than using fossil fuel plastic.",
+        "It satisfied consumer demands on the whole."
+       ],
+       "optionsZh": [
+        "它确保了可持续的经济增长。",
+        "它遭到制造商的强烈反对。",
+        "它比使用化石燃料塑料更便宜。",
+        "它总体上满足了消费者的需求。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It was cheaper than using fossil fuel plastic.（它比使用化石燃料塑料更便宜。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What has led to more competitive price for new plastic?",
+       "options": [
+        "The capacity to mass produce it.",
+        "The U.S. federal government's regulations.",
+        "A boom in market demand for clear plastic bottles.",
+        "A rapid increase in U.S. petroleum chemical production."
+       ],
+       "optionsZh": [
+        "大规模生产的能力。",
+        "美国联邦政府的法规。",
+        "透明塑料瓶市场需求的繁荣。",
+        "美国石油化工产量的快速增长。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：A rapid increase in U.S. petroleum chemical production.（美国石油化工产量的快速增长。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does the UK government plan to do about plastic?",
+       "options": [
+        "Require companies to use 30% of new plastic.",
+        "Increase the supply of new plastic in the market.",
+        "Reduce the amount of plastic pollution in local areas.",
+        "Take measures to promote the use of recycled plastic."
+       ],
+       "optionsZh": [
+        "要求企业使用30%的新塑料。",
+        "增加市场上新塑料的供应。",
+        "减少当地地区的塑料污染量。",
+        "采取措施促进回收塑料的使用。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Take measures to promote the use of recycled plastic.（采取措施促进回收塑料的使用。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do we learn about the Dreamery, a business in Manhattan?",
+       "options": [
+        "It studies dreams.",
+        "It rents a place for nap-takers.",
+        "It is a hotel for business people.",
+        "It is a nap research institute."
+       ],
+       "optionsZh": [
+        "它研究梦境。",
+        "它为午睡者出租场地。",
+        "它是一家为商务人士服务的酒店。",
+        "它是一家午睡研究机构。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It rents a place for nap-takers.（它为午睡者出租场地。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "Why does the speaker ask us to look at the world around us at 2:30 in the afternoon?",
+       "options": [
+        "To find out creative people's work performance.",
+        "To see how many people can go without napping.",
+        "To understand the obvious importance of napping.",
+        "To feel how difficult it is to get his idea across."
+       ],
+       "optionsZh": [
+        "为了了解有创造力的人的工作表现。",
+        "为了看看有多少人可以不午睡。",
+        "为了理解午睡的明显重要性。",
+        "为了感受让别人理解他的想法有多困难。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To understand the obvious importance of napping.（为了理解午睡的明显重要性。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What do we learn about the quantity and quality of the speaker's work?",
+       "options": [
+        "They decline due to pointless meetings.",
+        "They depend on his ability to concentrate.",
+        "They enable him to enjoy a creative career.",
+        "They are affected by the overuse of social media."
+       ],
+       "optionsZh": [
+        "它们因无意义的会议而下降。",
+        "它们取决于他的专注能力。",
+        "它们使他能够享受创造性的职业生涯。",
+        "它们受到社交媒体过度使用的影响。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They depend on his ability to concentrate.（它们取决于他的专注能力。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the speaker say he finds odd?",
+       "options": [
+        "Some bosses associate napping with laziness.",
+        "Many office workers nap during work hours.",
+        "Some bosses can concentrate without napping.",
+        "Many of his friends daydream in the office."
+       ],
+       "optionsZh": [
+        "一些老板把午睡与懒惰联系在一起。",
+        "许多办公室职员在工作时间午睡。",
+        "一些老板可以不午睡就能集中注意力。",
+        "他的许多朋友在办公室里做白日梦。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Some bosses associate napping with laziness.（一些老板把午睡与懒惰联系在一起。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence &quot;Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.&quot; You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Today there is a growing awareness that mental well-being needs to be given as much attention as physical\nhealth. This view deserves our serious attention, especially when modern life keeps us under constant pressure\nand quiet mental troubles often go unnoticed.\nTo begin with, ignoring our inner state can cost us dearly. Long-term stress and anxiety lead to sleeplessness\nand poor concentration, which in turn damage both our bodies and our performance. Take my own experience\nas an example: before an important exam, I was so anxious that I could not sleep for nights and ended up doing\nfar worse than usual. Only after I talked to my friends and kept a regular routine did my mind settle down and\nmy results recover. This taught me that the mind clearly deserves the same care we give the body.\nIn conclusion, we should value our minds as much as our bodies. Only when individuals pay attention to their\nfeelings and society offers more support can we truly live a healthy and balanced life."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "You probably haven't taken the time to think of all the work that went into creating the shirt on your back. I mean, how hard it could be to create fabric and {{1}} it into a shirt shape. Don't machines do all that? Well, creating fabric from cotton, which is the most {{2}} clothing material, is actually a process that involves a lot of water, 2,700 liters per shirt to be {{3}} . Take a look at the video below from National Geographic for some more mind-blowing {{4}} about cotton clothing production. Clean water is {{5}} becoming one of the most sought-after resources in the world. Given how large the {{6}} and cotton industries are, they take up a lot of our fresh water demands across the world, according to The Huffington Post. The video from National Geographic was created to spread {{7}} of how environmentally harmful cotton is. But the situation can be made better. Through better water management and farming practices, water usage in cotton production can be cut down by {{8}} 40 percent. Called \"Better Cotton\", this environmentally conscious product will save millions of liters of water a year simply from {{9}} the demands of cotton production. Cotton doesn't have to go, since it is, after all, one of the most useful cash crops across the globe. However, as water supplies {{10}} , farmers and consumers need to be more conscious of the effect that these products have on the environment as a whole.",
+     "options": [
+      "abstracts",
+      "abundant",
+      "awareness",
+      "conscience",
+      "exact",
+      "increasingly",
+      "intense",
+      "mend",
+      "nearly",
+      "reckoning",
+      "reducing",
+      "sew",
+      "shrink",
+      "statistics",
+      "textile"
+     ],
+     "answers": [
+      11,
+      1,
+      4,
+      13,
+      5,
+      14,
+      2,
+      8,
+      10,
+      12
+     ],
+     "blankExplains": [
+      "【定位】I mean, how hard it could be to create fabric and ____ it into a shirt shape.\n【依据】答案是 sew：填回后与所在句 mean、how、hard、create、fabric、into 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Well, creating fabric from cotton, which is the most ____ clothing material, is actually a process that involves a lot of water, 2,700 liters per shirt to be  … .\n【依据】答案是 abundant：填回后与所在句 well、creating、fabric、cotton、which、clothing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Well, creating fabric from cotton, which is the most  … clothing material, is actually a process that involves a lot of water, 2,700 liters per shirt to be ____ .\n【依据】答案是 exact：填回后与所在句 well、creating、fabric、cotton、which、clothing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Take a look at the video below from National Geographic for some more mind-blowing ____ about cotton clothing production.\n【依据】答案是 statistics：填回后与所在句 take、look、video、below、national、geographic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Clean water is ____ becoming one of the most sought-after resources in the world.\n【依据】答案是 increasingly：填回后与所在句 clean、water、becoming、sought-after、resources、world 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Given how large the ____ and cotton industries are, they take up a lot of our fresh water demands across the world, according to The Huffington Post.\n【依据】答案是 textile：填回后与所在句 given、how、large、cotton、industries、take 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The video from National Geographic was created to spread ____ of how environmentally harmful cotton is.\n【依据】答案是 awareness：填回后与所在句 video、national、geographic、created、spread、how 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Through better water management and farming practices, water usage in cotton production can be cut down by ____ 40 percent.\n【依据】答案是 nearly：填回后与所在句 through、better、water、management、farming、practices 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Called \"Better Cotton\", this environmentally conscious product will save millions of liters of water a year simply from ____ the demands of cotton production.\n【依据】答案是 reducing：填回后与所在句 called、better、cotton、environmentally、conscious、product 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】However, as water supplies ____ , farmers and consumers need to be more conscious of the effect that these products have on the environment as a whole.\n【依据】答案是 shrink：填回后与所在句 however、water、supplies、farmers、consumers、need 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "I mean, how hard it could be to create fabric and ____ it into a shirt shape.",
+       "why": "答案是 sew：填回后与所在句 mean、how、hard、create、fabric、into 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 sew 这个词性/语义，而不是 shrink）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 sew 这个词性/语义，而不是 statistics）。"
+       }
+      },
+      {
+       "locate": "Well, creating fabric from cotton, which is the most ____ clothing material, is actually a process that involves a lot of water, 2,700 liters per shirt to be  … .",
+       "why": "答案是 abundant：填回后与所在句 well、creating、fabric、cotton、which、clothing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 abundant 这个词性/语义，而不是 abstracts）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 abundant 这个词性/语义，而不是 awareness）。"
+       }
+      },
+      {
+       "locate": "Well, creating fabric from cotton, which is the most  … clothing material, is actually a process that involves a lot of water, 2,700 liters per shirt to be ____ .",
+       "why": "答案是 exact：填回后与所在句 well、creating、fabric、cotton、which、clothing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exact 这个词性/语义，而不是 abstracts）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exact 这个词性/语义，而不是 abundant）。"
+       }
+      },
+      {
+       "locate": "Take a look at the video below from National Geographic for some more mind-blowing ____ about cotton clothing production.",
+       "why": "答案是 statistics：填回后与所在句 take、look、video、below、national、geographic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 statistics 这个词性/语义，而不是 sew）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 statistics 这个词性/语义，而不是 shrink）。"
+       }
+      },
+      {
+       "locate": "Clean water is ____ becoming one of the most sought-after resources in the world.",
+       "why": "答案是 increasingly：填回后与所在句 clean、water、becoming、sought-after、resources、world 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 increasingly 这个词性/语义，而不是 intense）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 increasingly 这个词性/语义，而不是 abstracts）。"
+       }
+      },
+      {
+       "locate": "Given how large the ____ and cotton industries are, they take up a lot of our fresh water demands across the world, according to The Huffington Post.",
+       "why": "答案是 textile：填回后与所在句 given、how、large、cotton、industries、take 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 textile 这个词性/语义，而不是 abstracts）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 textile 这个词性/语义，而不是 abundant）。"
+       }
+      },
+      {
+       "locate": "The video from National Geographic was created to spread ____ of how environmentally harmful cotton is.",
+       "why": "答案是 awareness：填回后与所在句 video、national、geographic、created、spread、how 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 awareness 这个词性/语义，而不是 abstracts）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 awareness 这个词性/语义，而不是 abundant）。"
+       }
+      },
+      {
+       "locate": "Through better water management and farming practices, water usage in cotton production can be cut down by ____ 40 percent.",
+       "why": "答案是 nearly：填回后与所在句 through、better、water、management、farming、practices 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 nearly 这个词性/语义，而不是 abstracts）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 nearly 这个词性/语义，而不是 abundant）。"
+       }
+      },
+      {
+       "locate": "Called \"Better Cotton\", this environmentally conscious product will save millions of liters of water a year simply from ____ the demands of cotton production.",
+       "why": "答案是 reducing：填回后与所在句 called、better、cotton、environmentally、conscious、product 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reducing 这个词性/语义，而不是 reckoning）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reducing 这个词性/语义，而不是 abstracts）。"
+       }
+      },
+      {
+       "locate": "However, as water supplies ____ , farmers and consumers need to be more conscious of the effect that these products have on the environment as a whole.",
+       "why": "答案是 shrink：填回后与所在句 however、water、supplies、farmers、consumers、need 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shrink 这个词性/语义，而不是 sew）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shrink 这个词性/语义，而不是 statistics）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "We're growing more used to chatting to our computers, phones and smart speakers through voice assistants like Amazon's Alexa, Apple's Siri and Microsoft's Cortana. Blind and partially sighted people have been using text-to-speech converters for decades."
+      },
+      {
+       "id": "B",
+       "text": "Out of these assistants, Siri is the most well-known. The assistant uses voice inquiries and a natural-language user interface(界面) to answer questions. The software adapts to users' individual language usages, searches, and preferences, with continuing use."
+      },
+      {
+       "id": "C",
+       "text": "Some think voice could soon take over from typing and clicking as the main way to interact online. But what are the challenges of moving to \"the spoken web\"?"
+      },
+      {
+       "id": "D",
+       "text": "What use is written online content if you can't read? That is the situation facing illiterate(不识字的) African farmers. They are often denied crucial information the web offers many others. With a literacy rate in some parts of Africa at only 22.6%, farmers are often \"underpaid for their produce because they might be unaware of the prevailing prices,\" says Francis Dittoh, a researcher behind Mr Meteo, a speech-based weather information service."
+      },
+      {
+       "id": "E",
+       "text": "\"The most frequently heard complaint is about rainfall predictions,\" says Mr Dittoh, who lives in Tamale, northern Ghana. \"They tell us the methods their forefathers used to predict the weather don't seem to work as well these days.\" This is down to climate change, he believes. Yet knowing when it's going to rain is vital for farmers wanting to sow seeds, irrigate crops or take their animals out to the fields to feed on grass."
+      },
+      {
+       "id": "F",
+       "text": "Mr Dittoh says the idea of converting online weather reports into speech came from the farmers themselves, after a workshop in the village of Guabuligah. \"They came up with this,\" he says. Mr Meteo takes the online weather forecast, converts it to a short recording in the appropriate language and makes it available on a basic phone. Farmers ring up to receive the information. The local language Dagbani is spoken by 1.2 million people but is not served by any online translation applications. The service was designed to be cheap and easy to run, says Mr Dittoh. He plans to begin field tests this month, working with Tamale's Savanna Agricultural Research Institute."
+      },
+      {
+       "id": "G",
+       "text": "The spoken web could also help the one-in-five adults in Europe and the U.S. with poor reading skills. But building the spoken web—web-to-voice and voice-to-web—isn't straightforward. For software to understand that pizza is served at Italian restaurants is easy. To cover multiple domains and to be able to have a conversation with users on every single topic is still a long way off."
+      },
+      {
+       "id": "H",
+       "text": "So although many computer assistants can answer simple questions about the weather and play music for us, anything resembling a wide-ranging human conversation is decades away. Artificial intelligence just isn't smart enough yet. Even turning your voice into text—automatic speech recognition—is one of the hardest problems to solve, as there are as many ways to pronounce things as there are people on the planet."
+      },
+      {
+       "id": "I",
+       "text": "Siri has often been praised for its ability to interpret our casual language and deliver very specific and accurate results, sometimes even providing additional information. But it is still somewhat restricted, particularly when the language moves away from stiffer commands into more human interactions. In one example, the phrase \"Send a text to Jason, Clint, Sam, and Lee saying we're having dinner at Silver Cloud restaurant\" was interpreted as sending a message to Jason only, containing the text \"Clint Sam and Lee saying we're having dinner at Silver Cloud restaurant\". It has also been noted that Siri lacks a proper editing function, as saying \"Edit message to say: we're at Silver Cloud restaurant and you should come find us\" generates \"Clint Sam and Lee saying we're having dinner at Silver Cloud restaurant to say we're at Silver Cloud restaurant and you should come find us\"."
+      },
+      {
+       "id": "J",
+       "text": "Using voice interaction feels far more intimate than surfing the net the old-fashioned way. This is intentional as the informal tone of the assistant helps create an emotional attachment. But if something speaks, it must also listen. Our phones are always near us and they are collecting data about us all the time. This has already raised privacy concerns. The American Civil Liberties Union has stated that digital assistants create a threat to privacy from hackers. Some people have other concerns. They worry assistants will one day be used to deliver advertising directly to us."
+      },
+      {
+       "id": "K",
+       "text": "But digital voices need more personality to make them popular. Robots are not yet witty, Siri is boring. The benefits of using voice instead of tapping fingers obviously depend on the context. Doctors completing online forms about their patients by speech, for example, can dictate 150 words a minute, three times faster than typing on a keyboard. This enables them to spend less time on administration and more time with patients."
+      },
+      {
+       "id": "L",
+       "text": "Last year, speech recognition company Nuance helped a doctors' surgery in Dukinfield, near Manchester, set up a speech system for the practice's six doctors. Now they can dictate notes on a patient's health condition and treatment and a smart assistant automatically enters the information into the right fields on a web form. Previously, the doctors made voice recordings that were then transcribed by secretaries—a process that was costly and likely to cause delays. The new system means letters to patients now have more detail."
+      },
+      {
+       "id": "M",
+       "text": "Using voice also makes sense when you're doing other things with your hands. Think about when you're cooking, and you just want to know what the next step in the recipe is. Your hands are covered with oil; you're not going to get on the iPad, so it's a lot more natural to talk. And speech obviously makes sense when you're driving. In the U.S., 29% of drivers admit they surf behind the wheel, according to insurance firm State Farm. This is up from 13% in 2009. No wonder using mobile phones while driving causes more crashes a year than drink driving, says the U.S. National Safety Council."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "According to Francis Dittoh, their speech-based weather information service was meant to be inexpensive and easy to use."
+      },
+      {
+       "id": "s37",
+       "text": "Using voice instead of typing enables doctors to spend more time taking care of patients."
+      },
+      {
+       "id": "s38",
+       "text": "It is extremely difficult to convert voice into text because of different pronunciations."
+      },
+      {
+       "id": "s39",
+       "text": "African farmers unable to read often don't have access to important information conveyed online."
+      },
+      {
+       "id": "s40",
+       "text": "Some phone users worry advertisers will take advantage of voice assistants to send ads directly to them."
+      },
+      {
+       "id": "s41",
+       "text": "The spoken web is helpful when one's hands are occupied."
+      },
+      {
+       "id": "s42",
+       "text": "Some people believe online interaction would soon depend mainly on voice."
+      },
+      {
+       "id": "s43",
+       "text": "Setting up a spoken web is by no means an easy task."
+      },
+      {
+       "id": "s44",
+       "text": "Weather information is extremely important to farmers."
+      },
+      {
+       "id": "s45",
+       "text": "Some people are concerned about privacy because their phones are constantly collecting their personal information."
+      }
+     ],
+     "answers": [
+      "F",
+      "K",
+      "H",
+      "D",
+      "J",
+      "M",
+      "C",
+      "G",
+      "E",
+      "J"
+     ],
+     "statementExplains": [
+      "【定位】Mr Dittoh says the idea of converting online weather reports into speech came from the farmers themselves, after a workshop in the village of Guabuligah.\n【依据】陈述里的 dittoh、speech-based、weather 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】This enables them to spend less time on administration and more time with patients.\n【依据】陈述里的 enables、spend、time、patients 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Even turning your voice into text—automatic speech recognition—is one of the hardest problems to solve, as there are as many ways to pronounce things as there are people on the planet.\n【依据】陈述里的 voice、into、text 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】With a literacy rate in some parts of Africa at only 22.6%, farmers are often \"underpaid for their produce because they might be unaware of the prevailing prices,\" says Francis Dittoh, a researcher behind Mr Meteo, a speech-based weather information service.\n【依据】陈述里的 african、farmers、often、information 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】They worry assistants will one day be used to deliver advertising directly to us.\n【依据】陈述里的 worry、advertisers、assistants、directly 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Using voice also makes sense when you're doing other things with your hands.\n【依据】陈述里的 when、hands 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】Some think voice could soon take over from typing and clicking as the main way to interact online.\n【依据】陈述里的 online、interaction、soon、voice 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】The spoken web could also help the one-in-five adults in Europe and the U.S.\n【依据】陈述里的 spoken、web 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】\"They tell us the methods their forefathers used to predict the weather don't seem to work as well these days.\" This is down to climate change, he believes.\n【依据】陈述里的 weather 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Our phones are always near us and they are collecting data about us all the time.\n【依据】陈述里的 about、phones、collecting 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Mr Dittoh says the idea of converting online weather reports into speech came from the farmers themselves, after a workshop in the village of Guabuligah.",
+       "why": "陈述里的 dittoh、speech-based、weather 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This enables them to spend less time on administration and more time with patients.",
+       "why": "陈述里的 enables、spend、time、patients 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Even turning your voice into text—automatic speech recognition—is one of the hardest problems to solve, as there are as many ways to pronounce things as there are people on the planet.",
+       "why": "陈述里的 voice、into、text 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "With a literacy rate in some parts of Africa at only 22.6%, farmers are often \"underpaid for their produce because they might be unaware of the prevailing prices,\" says Francis Dittoh, a researcher behind Mr Meteo, a speech-based weather information service.",
+       "why": "陈述里的 african、farmers、often、information 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "They worry assistants will one day be used to deliver advertising directly to us.",
+       "why": "陈述里的 worry、advertisers、assistants、directly 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Using voice also makes sense when you're doing other things with your hands.",
+       "why": "陈述里的 when、hands 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Some think voice could soon take over from typing and clicking as the main way to interact online.",
+       "why": "陈述里的 online、interaction、soon、voice 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The spoken web could also help the one-in-five adults in Europe and the U.S.",
+       "why": "陈述里的 spoken、web 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"They tell us the methods their forefathers used to predict the weather don't seem to work as well these days.\" This is down to climate change, he believes.",
+       "why": "陈述里的 weather 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Our phones are always near us and they are collecting data about us all the time.",
+       "why": "陈述里的 about、phones、collecting 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "The United States is facing a housing crisis: Affordable housing is inadequate, while luxury homes abound(充裕), and homelessness remains a persistent problem. Despite this, popular culture and the housing industry market happiness as living with both more space and more amenities(便利设施). Big houses are advertised as a reward for hard work and diligence, turning housing from a basic necessity into a luxury. This is reflected in our homes. The average single-family home built in the United States before 1970 was less than 1,500 square feet in size. By 2016, the average size of a new, single-family home was 2,422 square feet. What's more, homes built in the 2000s were more likely than earlier models to have more of all types of spaces: bedrooms, bathrooms, living rooms, dining rooms, recreation rooms and garages. There are consequences of living big. As middle-class houses have grown larger, two things have happened. First, large houses take time to maintain, so cleaners and other low-wage service workers are required to keep these houses in order. Second, once-public spaces, where people from diverse backgrounds used to come together, have increasingly become privatized, leading to a reduction in the number of public facilities available to all, and a reduced quality of life for many. Take swimming pools. While in 1950, only 2,500 U.S. families owned pools, by 1999 this number was 4 million. At the same time, public municipal pools were often closed, leaving low-income people nowhere to swim. The trend for bigger housing thus poses ethical questions. Should Americans accept a system in which the middle and upper classes enjoy a luxurious lifestyle, using the low-wage labor of others? Are we willing to accept a system in which an increase in amenities purchased by the affluent means a reduction in amenities for the poor? I believe neither is acceptable. We must change the way we think: living well does not need to mean having more private spaces; instead, it could mean having more public spaces. A better goal than building bigger houses for some is to create more publicly accessible spaces and amenities for all.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What are big houses promoted to be in the United States?",
+       "options": [
+        "A luxury for the homeless.",
+        "A reward for industriousness.",
+        "An abundant source of comforts.",
+        "An absolute necessity for happiness."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Big houses are advertised as a reward for hard work and diligence, turning housing from a basic necessity into a luxury.\n【依据】正确项的核心词 reward 与定位句对得上；其余 industriousness 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Big houses are advertised as a reward for hard work and diligence, turning housing from a basic necessity into a luxury.",
+        "why": "正确项的核心词 reward 与定位句对得上；其余 industriousness 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「homeless」全文未出现；把原文的「luxury」换成了「homeless」，主语或对象被调包。",
+         "C": "无中生有：「abundant、source、comforts」全文未出现。",
+         "D": "偷换主体：「absolute」全文未出现；把原文的「necessity」换成了「absolute、happiness」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What is one of the consequences of living big?",
+       "options": [
+        "Many Americans' quality of life has become lower.",
+        "People from diverse backgrounds no longer socialize.",
+        "People no longer have access to public swimming pools.",
+        "Many Americans' private life has been negatively affected."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】There are consequences of living big.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 many、americans'、quality、life 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "There are consequences of living big.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 many、americans'、quality、life 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「longer、socialize」全文未出现。",
+         "C": "因果倒置：「longer、access、swimming」全文未出现。",
+         "D": "因果倒置：「americans'、negatively、affected」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What questions arise from living big?",
+       "options": [
+        "Questions related to moral principles.",
+        "Questions having to do with labor cost.",
+        "Questions about what lifestyle to promote.",
+        "Questions concerning housing development."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】There are consequences of living big.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 questions、related、moral、principles 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "There are consequences of living big.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 questions、related、moral、principles 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「cost」全文未出现。",
+         "C": "无中生有：「about、what、promote」全文未出现。",
+         "D": "因果倒置：「concerning、development」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What kind of social system does the author think is unacceptable?",
+       "options": [
+        "One in which the wealthy exploit the low-wage laborers building their houses.",
+        "One in which the rich purchase amenities at an increasingly unjustifiable price.",
+        "One in which the upper classes deprive the lower classes of affordable housing.",
+        "One in which the affluent enjoy a more comfortable life at the expense of the poor."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Are we willing to accept a system in which an increase in amenities purchased by the affluent means a reduction in amenities for the poor?\n【依据】正确项的核心词 which、affluent、poor 与定位句对得上；其余 enjoy、comfortable、life、expense 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Are we willing to accept a system in which an increase in amenities purchased by the affluent means a reduction in amenities for the poor?",
+        "why": "正确项的核心词 which、affluent、poor 与定位句对得上；其余 enjoy、comfortable、life、expense 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「wealthy、exploit、laborers」全文未出现；把原文的「which」换成了「wealthy、exploit、low-wage」，主语或对象被调包。",
+         "B": "无中生有：「rich、unjustifiable、price」全文未出现；把原文的「which、purchase、amenities」换成了「rich、unjustifiable、price」，主语或对象被调包。",
+         "C": "偷换主体：「deprive、lower」全文未出现；把原文的「which」换成了「upper、classes、deprive」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author advocate for people to live well?",
+       "options": [
+        "Finding ways to turn private spaces into public ones.",
+        "Building more houses affordable to those less affluent.",
+        "More public spaces created for everyone to enjoy.",
+        "All amenities made accessible to the rich and the poor alike."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Second, once-public spaces, where people from diverse backgrounds used to come together, have increasingly become privatized, leading to a reduction in the number of public facilities available to all, and a reduced quality of life for many.\n【依据】正确项的核心词 public、spaces 与定位句对得上；其余 created、everyone、enjoy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Second, once-public spaces, where people from diverse backgrounds used to come together, have increasingly become privatized, leading to a reduction in the number of public facilities available to all, and a reduced quality of life for many.",
+        "why": "正确项的核心词 public、spaces 与定位句对得上；其余 created、everyone、enjoy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「finding、ways、turn」全文未出现；把原文的「private、spaces、public」换成了「finding、ways、turn」，主语或对象被调包。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「made、rich、alike」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 342 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Most of us in the entrepreneurial community are blessed—or cursed—with higher-than-average ambition. Ambitious people strongly desire accomplishments and are willing to take more risks and spend more effort to get them. Overall, this is a positive quality, especially for people trying to build their own businesses. Apparently, if you're more naturally driven to set goals, you are more likely to succeed. Actually, this isn't always the case. In fact, in some cases, extreme ambition may end up doing more harm than good. One major side effect of excessive ambition is the tendency to focus too determinedly on one particular vision or end goal. This is problematic because it hinders your ability to adapt to new circumstances, which is vital if you want to be a successful entrepreneur. If a new competitor emerges to threaten your business, you may need to change direction, even if that means straying from your original vision. If you have too much ambition, you'll find this hard, if not impossible. Few people are successful when they try to build their first brand. Unfortunately, for the most ambitious entrepreneurs, a failure is seen as disastrous, and impossible to recover from. It's a clear departure from the intended plan toward the intended goal. For people with limited ambition, however, failure is viewed as something closer to reality. Remember, failure is inevitable, and every failure you survive is a learning experience. Ambitious people tend to be more materialistically successful than their non-ambitious counterparts. However, they're only slightly happier than their less-ambitious counterparts, and tend to live significantly shorter lives. This implies that even though ambitious people are more likely to achieve conventional \"success,\" such success means nothing for their health and happiness—and if you don't have health and happiness, what else could possibly matter? Clearly, some amount of ambition is good for your motivation. Without any ambition, you wouldn't start your own business, set or achieve goals and get far in life. But an excess of ambition can also be dangerous, putting you at risk of burnout, stubbornness and even a shorter life.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author think of most entrepreneurs?",
+       "options": [
+        "They are more willing to risk their own lives.",
+        "They are more ambitious than ordinary people.",
+        "They achieve greater nonconventional success.",
+        "They have more positive qualities than most of us."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】This implies that even though ambitious people are more likely to achieve conventional \"success,\" such success means nothing for their health and happiness—and if you don't have health and happiness, what else could possibly matter?\n【依据】正确项的核心词 ambitious、people 与定位句对得上；其余 ordinary 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This implies that even though ambitious people are more likely to achieve conventional \"success,\" such success means nothing for their health and happiness—and if you don't have health and happiness, what else could possibly matter?",
+        "why": "正确项的核心词 ambitious、people 与定位句对得上；其余 ordinary 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "无中生有：「greater、nonconventional」全文未出现；把原文的「achieve、success」换成了「greater、nonconventional」，主语或对象被调包。",
+         "D": "因果倒置：「qualities」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does the author imply by saying \"this isn't always the case\" (Line 1, Para. 3)?",
+       "options": [
+        "Ambitious people may not have a greater chance of success.",
+        "Ambitious people may not have more positive qualities.",
+        "Entrepreneurs' ambition does as much good as harm.",
+        "Entrepreneurs are more naturally driven to success."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Actually, this isn't always the case.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 ambitious、people、greater、chance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Actually, this isn't always the case.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 ambitious、people、greater、chance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「qualities」全文未出现。",
+         "C": "因果倒置：「entrepreneurs'」全文未出现。",
+         "D": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the author say is of extreme importance for one to become a successful entrepreneur?",
+       "options": [
+        "Holding on to one's original vision.",
+        "Being able to adapt to new situations.",
+        "Focusing determinedly on one particular goal.",
+        "Avoiding radical change in one's career direction."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】This is problematic because it hinders your ability to adapt to new circumstances, which is vital if you want to be a successful entrepreneur.\n【依据】正确项的核心词 adapt、new 与定位句对得上；其余 able、situations 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This is problematic because it hinders your ability to adapt to new circumstances, which is vital if you want to be a successful entrepreneur.",
+        "why": "正确项的核心词 adapt、new 与定位句对得上；其余 able、situations 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「holding、one's」全文未出现。",
+         "C": "因果倒置：「focusing」全文未出现。",
+         "D": "无中生有：「avoiding、radical、one's」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "How do the most ambitious entrepreneurs regard failure in their endeavor?",
+       "options": [
+        "It will awaken them to reality.",
+        "It is a lesson they have to learn.",
+        "It means the end of their career.",
+        "It will result in a slow recovery."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Unfortunately, for the most ambitious entrepreneurs, a failure is seen as disastrous, and impossible to recover from.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 means、end、career 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Unfortunately, for the most ambitious entrepreneurs, a failure is seen as disastrous, and impossible to recover from.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 means、end、career 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「awaken」全文未出现。",
+         "B": "无中生有：「lesson、learn」全文未出现。",
+         "D": "无中生有：「result、slow」全文未出现；把原文的「recovery」换成了「result、slow」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author advise us to do concerning ambition?",
+       "options": [
+        "Distinguish between conventional success and our life goal.",
+        "Follow the example of the most ambitious entrepreneurs.",
+        "Avoid taking unnecessary risks when starting a business.",
+        "Prioritize health and happiness over material success."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】This implies that even though ambitious people are more likely to achieve conventional \"success,\" such success means nothing for their health and happiness—and if you don't have health and happiness, what else could possibly matter?\n【依据】正确项的核心词 health、happiness、success 与定位句对得上；其余 prioritize、over、material 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This implies that even though ambitious people are more likely to achieve conventional \"success,\" such success means nothing for their health and happiness—and if you don't have health and happiness, what else could possibly matter?",
+        "why": "正确项的核心词 health、happiness、success 与定位句对得上；其余 prioritize、over、material 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「distinguish、between」全文未出现；把原文的「conventional、success」换成了「distinguish、between、life」，主语或对象被调包。",
+         "B": "无中生有：「follow、example」全文未出现；把原文的「ambitious」换成了「follow、example、entrepreneurs」，主语或对象被调包。",
+         "C": "因果倒置：「avoid、taking、unnecessary」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 347 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "中国越来越重视终身教育发展继续教育是构建终身教育体系的有效途径。高校作为人才培养的基地拥有先进的教学理念和优越的教学资源理应成为继续教育的办学主体。因此，近年来许多高校适应社会需求加强与用人单位沟通努力探索一条符合中国国情的继续教育发展新路以使继续教育在国家发展战略中发挥更大的作用。",
+     "reference": "Therefore, in recent years, many universities have been exploring a new path of continuing education that suits China's national conditions by adapting to social needs and strengthening communication with employers, so as to enable continuing education to play a greater role in the national development strategy.",
+     "keyPoints": [
+      "Therefore, in recent years, many universities have been exploring a new path of continuing education that suits China's national conditions by adapting to social needs and strengthening communication with employers, so as to enable continuing education to play a greater role in the national development strategy."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

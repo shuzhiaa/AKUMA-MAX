@@ -1,0 +1,1195 @@
+{
+ "id": "cet4-2023-12-2",
+ "levelId": "cet4",
+ "title": "四级 2023 年 12 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2023年12月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2023-12-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2023-12-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "美国一名警察拦下了一辆在高速公路上行驶缓慢并跨车道漂移的大型SUV"
+      },
+      {
+       "idx": 2,
+       "zh": "澳大利亚昆士兰阳光海岸大学的最新科学研究表明"
+      },
+      {
+       "idx": 3,
+       "zh": "经营其中一家酒吧的Lesley Harper说这只猫深受顾客喜爱"
+      },
+      {
+       "idx": 4,
+       "zh": "正在组织Wilbur派对的Sarah Godfrey告诉当地报纸:\"Wilbur是我们生活的一部分,对村里每个人来说都是如此。"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 确实。还记得我们就是在那儿看到电影明星 Brigette Clark 的"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 当然记得。我怎么可能忘记？当时一群人围着她要跟她合影"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 那汉堡怎么样？去购物中心路上有家美式餐厅"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 我喜欢那家店。他们的薯条很棒"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 没有，我没去过"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 好啊。你问过 Jeremy 想不想跟我们一起去吗？"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 我问过了。他说不行"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "Why did the police officer stop the SUV car?",
+       "options": [
+        "He noticed the driver was too young to drive.",
+        "He found there was no one sitting at the wheel.",
+        "He thought something must be wrong with the driver.",
+        "He saw the driver changing lanes much too frequently."
+       ],
+       "optionsZh": [
+        "他注意到驾驶员太年轻,不能开车。",
+        "他发现驾驶座上没有人。",
+        "他认为驾驶员一定出了什么问题。",
+        "他看到驾驶员变换车道过于频繁。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He thought something must be wrong with the driver.（他认为驾驶员一定出了什么问题。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What did the boy tell the police officers he was planning to do?",
+       "options": [
+        "Buy a sports car.",
+        "Drive across town.",
+        "Leave California.",
+        "Visit his sister."
+       ],
+       "optionsZh": [
+        "买一辆跑车。",
+        "开车穿过城镇。",
+        "离开California。",
+        "看望他的姐姐。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Buy a sports car.（买一辆跑车。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the report say we have not yet understood about mobile phones?",
+       "options": [
+        "How they change the way we shop.",
+        "How they alter human skeletons.",
+        "How they cause increased headaches.",
+        "How they affect our communication."
+       ],
+       "optionsZh": [
+        "手机如何改变我们的购物方式。",
+        "手机如何改变人类骨骼。",
+        "手机如何导致头痛增加。",
+        "手机如何影响我们的沟通。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：How they alter human skeletons.（手机如何改变人类骨骼。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What happens to the skin when rubbed or pressed constantly?",
+       "options": [
+        "It loosens.",
+        "It brightens.",
+        "It hardens.",
+        "It softens."
+       ],
+       "optionsZh": [
+        "它变松弛。",
+        "它变亮。",
+        "它变硬。",
+        "它变软。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It hardens.（它变硬。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the report say the village is going to do for the cat Wilbur?",
+       "options": [
+        "Create Internet pages for him.",
+        "Ask a local pet shop to adopt him.",
+        "Name an orange tree after him.",
+        "Hold a birthday party for him."
+       ],
+       "optionsZh": [
+        "为它创建网页。",
+        "请当地宠物店收养它。",
+        "用它的名字命名一棵橙树。",
+        "为它举办生日派对。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Hold a birthday party for him.（为它举办生日派对。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What do we learn from the report about the cat?",
+       "options": [
+        "He is a bold and aggressive pet.",
+        "He pays regular visits to village shops.",
+        "He once bit a doctor's receptionist.",
+        "He likes to sit on the hairdresser's chair."
+       ],
+       "optionsZh": [
+        "它是一只大胆好斗的宠物。",
+        "它定期光顾村里的商店。",
+        "它曾咬过一位医生的接待员。",
+        "它喜欢坐在理发师的椅子上。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He pays regular visits to village shops.（它定期光顾村里的商店。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the pub owner, Lesley Harper, say about the cat?",
+       "options": [
+        "He is fond of luxury cat food.",
+        "He likes to stay in villagers' houses.",
+        "He knows everybody in the village.",
+        "He often seeks food around her pub."
+       ],
+       "optionsZh": [
+        "它喜欢高档猫粮。",
+        "它喜欢待在村民家里。",
+        "它认识村里的每个人。",
+        "它经常在她的酒吧周围寻找食物。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He is fond of luxury cat food.（它喜欢高档猫粮。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What are the speakers talking about in this conversation?",
+       "options": [
+        "Who to order the food.",
+        "Whether to have sandwiches.",
+        "When to go for their meal.",
+        "Where to have their lunch."
+       ],
+       "optionsZh": [
+        "由谁来订餐。",
+        "是否吃三明治。",
+        "何时去用餐。",
+        "在哪里吃午餐。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Where to have their lunch.（在哪里吃午餐。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "Where did the speakers see Brigette Clark, the famous movie star?",
+       "options": [
+        "In the shopping center nearby.",
+        "In the expensive Italian style diner.",
+        "At the Sandwich Place on Camden Street.",
+        "At the American restaurant they frequent."
+       ],
+       "optionsZh": [
+        "在附近的购物中心。",
+        "在昂贵的意大利风格餐厅。",
+        "在Camden Street的三明治店。",
+        "在他们常去的美式餐厅。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：At the Sandwich Place on Camden Street.（在Camden Street的三明治店。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "Why does the woman say she needs to get back by 2:30?",
+       "options": [
+        "There is to be a conference call.",
+        "She has to meet with her boss then.",
+        "There will be crowds of people waiting for her.",
+        "She will have a photo taken with Brigette Clark."
+       ],
+       "optionsZh": [
+        "将有一个电话会议。",
+        "她那时必须与老板会面。",
+        "将有许多人等着她。",
+        "她将与Brigette Clark合影。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：There is to be a conference call.（将有一个电话会议。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "Why does the woman say Jeremy should throw his soup in the bin?",
+       "options": [
+        "She doesn't deem homemade soup tasty.",
+        "She doesn't think his wife cooks well.",
+        "She feels Jeremy would rather dine out.",
+        "She has found the soup smells terrible."
+       ],
+       "optionsZh": [
+        "她认为自制汤不好吃。",
+        "她认为他妻子厨艺不好。",
+        "她觉得Jeremy宁愿在外面吃饭。",
+        "她发现这汤闻起来很难闻。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She doesn't think his wife cooks well.（她认为他妻子厨艺不好。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "Who is the man talking to in the conversation?",
+       "options": [
+        "A landlady.",
+        "A waitress.",
+        "A receptionist.",
+        "A saleswoman."
+       ],
+       "optionsZh": [
+        "女房东。",
+        "女服务员。",
+        "接待员。",
+        "女销售员。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：A receptionist.（接待员。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What do we learn about the man's father-in-law from the conversation?",
+       "options": [
+        "He was involved in a terrible car accident last April.",
+        "He has much difficulty getting up and down stairs.",
+        "He is expected to undergo a knee operation.",
+        "He prefers to stay next door to the children."
+       ],
+       "optionsZh": [
+        "他去年四月遭遇了一场严重的车祸。",
+        "他上下楼梯非常困难。",
+        "他预计要接受膝关节手术。",
+        "他更愿意住在孩子们隔壁。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He has much difficulty getting up and down stairs.（他上下楼梯非常困难。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "Why does the man say they will explore all the options available?",
+       "options": [
+        "To please his parents-in-law.",
+        "To find the best trip for his kids.",
+        "To satisfy his curiosity.",
+        "To compare prices."
+       ],
+       "optionsZh": [
+        "为了取悦他的岳父母。",
+        "为了给他的孩子们找到最好的旅行。",
+        "为了满足他的好奇心。",
+        "为了比较价格。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：To compare prices.（为了比较价格。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the woman suggest the man and his family do close to the end of the conversation?",
+       "options": [
+        "Visit a local art gallery.",
+        "Go on a boat trip.",
+        "Take some photos of the islands.",
+        "Try her hand-made clothing."
+       ],
+       "optionsZh": [
+        "参观当地的美术馆。",
+        "进行一次乘船游览。",
+        "拍摄一些岛屿的照片。",
+        "试穿她手工制作的衣服。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Go on a boat trip.（进行一次乘船游览。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the passage say about artificial intelligence agents?",
+       "options": [
+        "They are more intelligent than many of us.",
+        "They have already become our new friends.",
+        "They have begun to affect our social behavior.",
+        "They play increasingly more important roles."
+       ],
+       "optionsZh": [
+        "它们比我们许多人更聪明。",
+        "它们已经成为我们的新朋友。",
+        "它们已经开始影响我们的社会行为。",
+        "它们发挥着越来越重要的作用。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They play increasingly more important roles.（它们发挥着越来越重要的作用。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the new study want to find out about using an artificial intelligence agent?",
+       "options": [
+        "Whether it might have any effect on the way we negotiate.",
+        "Whether it might actually outperform human negotiators.",
+        "Whether it can facilitate business transactions.",
+        "Whether it can speed up legal procedures."
+       ],
+       "optionsZh": [
+        "它是否可能对我们谈判的方式产生影响。",
+        "它是否可能实际上超越人类谈判者。",
+        "它能否促进商业交易。",
+        "它能否加快法律程序。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Whether it might have any effect on the way we negotiate.（它是否可能对我们谈判的方式产生影响。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What did participants tend to do when assigned an AI agent to negotiate on their behalf?",
+       "options": [
+        "Choose to be tough.",
+        "Sympathize with their opponent.",
+        "Use deceptive strategies.",
+        "Appear to be pleasant."
+       ],
+       "optionsZh": [
+        "选择表现强硬。",
+        "同情他们的对手。",
+        "使用欺骗性策略。",
+        "表现得令人愉快。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Use deceptive strategies.（使用欺骗性策略。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What do we learn about the benefits the participants gained from the healthy cooking course?",
+       "options": [
+        "They were perceived differently by some academics.",
+        "They still existed six months after the course ended.",
+        "They varied greatly among the course participants.",
+        "They were only measurable within seven weeks."
+       ],
+       "optionsZh": [
+        "它们被一些学者以不同方式看待。",
+        "它们在课程结束六个月后仍然存在。",
+        "它们在课程参与者之间差异很大。",
+        "它们只能在七周内测量。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They still existed six months after the course ended.（它们在课程结束六个月后仍然存在。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What do the new research findings suggest about mental health benefits?",
+       "options": [
+        "They can be easily seen among participants in a healthy weight range.",
+        "They should be attributed to participants' change in diet behaviors.",
+        "They are linked to cooking confidence and cooking satisfaction.",
+        "They actually result from eating more fruits and vegetables."
+       ],
+       "optionsZh": [
+        "它们可以在体重处于健康范围的参与者中轻易观察到。",
+        "它们应归因于参与者饮食行为的改变。",
+        "它们与烹饪信心和烹饪满意度相关。",
+        "它们实际上源于摄入更多水果和蔬菜。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They are linked to cooking confidence and cooking satisfaction.（它们与烹饪信心和烹饪满意度相关。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What plays a role in determining who benefits most from learning to cook?",
+       "options": [
+        "Gender.",
+        "Confidence.",
+        "Health.",
+        "Practice."
+       ],
+       "optionsZh": [
+        "性别。",
+        "信心。",
+        "健康。",
+        "实践。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Gender.（性别。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does research show about our personal space?",
+       "options": [
+        "It keeps others away.",
+        "It causes discomfort.",
+        "It remains visible.",
+        "It varies in size."
+       ],
+       "optionsZh": [
+        "它使他人保持距离。",
+        "它会引起不适。",
+        "它保持可见。",
+        "它的大小会变化。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It varies in size.（它的大小会变化。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What happens if a mere acquaintance enters our intimate space?",
+       "options": [
+        "It makes us feel uncomfortable.",
+        "It renders the acquaintance a stranger.",
+        "It brings the acquaintance closer to us.",
+        "It causes the bubble around us to vanish."
+       ],
+       "optionsZh": [
+        "它使我们感到不舒服。",
+        "它使这个熟人变成陌生人。",
+        "它使这个熟人与我们更亲近。",
+        "它导致我们周围的气泡消失。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It makes us feel uncomfortable.（它使我们感到不舒服。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Where do people feel comfortable interacting with new acquaintances or strangers?",
+       "options": [
+        "In personal space.",
+        "In social space.",
+        "Within a distance of 18 inches.",
+        "Over 2 feet away from one another."
+       ],
+       "optionsZh": [
+        "在个人空间。",
+        "在社交空间。",
+        "在18英寸距离内。",
+        "在相互距离超过2英尺的地方。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：In social space.（在社交空间。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "When are the sizes of our bubbles fixed?",
+       "options": [
+        "When we begin to feel fear.",
+        "When we develop a sense of space.",
+        "When we are 3 or 4 years old.",
+        "When we enter our teens."
+       ],
+       "optionsZh": [
+        "当我们开始感到恐惧时。",
+        "当我们形成空间意识时。",
+        "当我们3岁或4岁时。",
+        "当我们进入青少年时期时。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：When we enter our teens.（当我们进入青少年时期时。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose the university newspaper is inviting submissions from the students for its coming edition on the recent development in their hometown.You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Over the past few years, my hometown has undergone remarkable changes. As a student writing for our\nuniversity newspaper, I would like to share two of them that have impressed me the most: transportation and\nthe environment.\nIn the past, it used to take us hours of bumpy driving to reach the provincial capital. Now, however, a new\nhigh-speed railway gets us there in just two hours, and the widened roads have made daily travel far more\nconvenient. Another change worth mentioning is the environment. The small river that once smelled terrible\nhas been cleaned up, and several green parks have been built along its banks, where families now enjoy\nwalking after dinner.\nAll these changes have made my hometown a much better place to live in. As someone who grew up there, I\nfeel truly proud, and I firmly believe that it will become even more beautiful and livable in the years to come."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "A number of studies have looked at how family life can affect productivity and satisfaction in the workplace. However, there has been {{1}} little research on the influence of leisure activities. So Ciara Kelly and colleagues recruited 129 hobbyists to look at how the time spent on their hobbies {{2}} their work life. The researchers found that when participants spent longer than {{3}} on their leisure activity, their belief in their ability to perform their job was strengthened. But this was only the {{4}} when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it {{5}} . When their hobby was both serious and similar to their job, then spending more time on it actually decreased their work {{6}} . Why might that be? To maintain a serious hobby, people need to invest significant psychological resources, say the authors—so if the activity has the same kinds of demands as their work, they may be left {{7}} and unable to perform well at their job. But if their hobby is quite different from their career, it may not {{8}} in the same way but instead help them develop other knowledge and skills that can {{9}} their confidence at work. \"Consider a scientist who is a keen rock climber,\" says Kelly. \"Since climbing is so far {{10}} from their day-to-day work activities, they can still recover from the demands of their job with plenty of resources.\"",
+     "options": [
+      "boost",
+      "case",
+      "casually",
+      "efficiency",
+      "estate",
+      "exhausted",
+      "faculty",
+      "interfere",
+      "normal",
+      "prevalent",
+      "relative",
+      "removed",
+      "scratch",
+      "shaped",
+      "surprisingly"
+     ],
+     "answers": [
+      14,
+      13,
+      8,
+      1,
+      2,
+      3,
+      5,
+      7,
+      0,
+      11
+     ],
+     "blankExplains": [
+      "【定位】However, there has been ____ little research on the influence of leisure activities.\n【依据】答案是 surprisingly：填回后与所在句 however、there、little、research、influence、leisure 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】So Ciara Kelly and colleagues recruited 129 hobbyists to look at how the time spent on their hobbies ____ their work life.\n【依据】答案是 shaped：填回后与所在句 ciara、kelly、colleagues、recruited、hobbyists、look 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The researchers found that when participants spent longer than ____ on their leisure activity, their belief in their ability to perform their job was strengthened.\n【依据】答案是 normal：填回后与所在句 researchers、found、when、participants、spent、longer 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But this was only the ____ when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it  … .\n【依据】答案是 case：填回后与所在句 only、when、serious、hobby、dissimilar、job 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But this was only the  … when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it ____ .\n【依据】答案是 casually：填回后与所在句 only、when、serious、hobby、dissimilar、job 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】When their hobby was both serious and similar to their job, then spending more time on it actually decreased their work ____ .\n【依据】答案是 efficiency：填回后与所在句 when、hobby、both、serious、similar、job 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】To maintain a serious hobby, people need to invest significant psychological resources, say the authors—so if the activity has the same kinds of demands as their work, they may be left ____ and unable to perform well at their job.\n【依据】答案是 exhausted：填回后与所在句 maintain、serious、hobby、people、need、invest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But if their hobby is quite different from their career, it may not ____ in the same way but instead help them develop other knowledge and skills that can  … their confidence at work.\n【依据】答案是 interfere：填回后与所在句 hobby、quite、different、career、same、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But if their hobby is quite different from their career, it may not  … in the same way but instead help them develop other knowledge and skills that can ____ their confidence at work.\n【依据】答案是 boost：填回后与所在句 hobby、quite、different、career、same、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"Since climbing is so far ____ from their day-to-day work activities, they can still recover from the demands of their job with plenty of resources.\"\n【依据】答案是 removed：填回后与所在句 since、climbing、far、day-to-day、work、activities 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "However, there has been ____ little research on the influence of leisure activities.",
+       "why": "答案是 surprisingly：填回后与所在句 however、there、little、research、influence、leisure 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 surprisingly 这个词性/语义，而不是 scratch）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 surprisingly 这个词性/语义，而不是 shaped）。"
+       }
+      },
+      {
+       "locate": "So Ciara Kelly and colleagues recruited 129 hobbyists to look at how the time spent on their hobbies ____ their work life.",
+       "why": "答案是 shaped：填回后与所在句 ciara、kelly、colleagues、recruited、hobbyists、look 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shaped 这个词性/语义，而不是 scratch）。",
+        "O": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shaped 这个词性/语义，而不是 surprisingly）。"
+       }
+      },
+      {
+       "locate": "The researchers found that when participants spent longer than ____ on their leisure activity, their belief in their ability to perform their job was strengthened.",
+       "why": "答案是 normal：填回后与所在句 researchers、found、when、participants、spent、longer 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 normal 这个词性/语义，而不是 boost）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 normal 这个词性/语义，而不是 case）。"
+       }
+      },
+      {
+       "locate": "But this was only the ____ when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it  … .",
+       "why": "答案是 case：填回后与所在句 only、when、serious、hobby、dissimilar、job 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "与 case 拼写相近（共同开头 cas），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 case 这个词性/语义，而不是 boost）。"
+       }
+      },
+      {
+       "locate": "But this was only the  … when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it ____ .",
+       "why": "答案是 casually：填回后与所在句 only、when、serious、hobby、dissimilar、job 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "与 casually 拼写相近（共同开头 cas），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 casually 这个词性/语义，而不是 boost）。"
+       }
+      },
+      {
+       "locate": "When their hobby was both serious and similar to their job, then spending more time on it actually decreased their work ____ .",
+       "why": "答案是 efficiency：填回后与所在句 when、hobby、both、serious、similar、job 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 efficiency 这个词性/语义，而不是 estate）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 efficiency 这个词性/语义，而不是 exhausted）。"
+       }
+      },
+      {
+       "locate": "To maintain a serious hobby, people need to invest significant psychological resources, say the authors—so if the activity has the same kinds of demands as their work, they may be left ____ and unable to perform well at their job.",
+       "why": "答案是 exhausted：填回后与所在句 maintain、serious、hobby、people、need、invest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exhausted 这个词性/语义，而不是 efficiency）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 exhausted 这个词性/语义，而不是 estate）。"
+       }
+      },
+      {
+       "locate": "But if their hobby is quite different from their career, it may not ____ in the same way but instead help them develop other knowledge and skills that can  … their confidence at work.",
+       "why": "答案是 interfere：填回后与所在句 hobby、quite、different、career、same、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 interfere 这个词性/语义，而不是 boost）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 interfere 这个词性/语义，而不是 case）。"
+       }
+      },
+      {
+       "locate": "But if their hobby is quite different from their career, it may not  … in the same way but instead help them develop other knowledge and skills that can ____ their confidence at work.",
+       "why": "答案是 boost：填回后与所在句 hobby、quite、different、career、same、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 boost 这个词性/语义，而不是 case）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 boost 这个词性/语义，而不是 casually）。"
+       }
+      },
+      {
+       "locate": "\"Since climbing is so far ____ from their day-to-day work activities, they can still recover from the demands of their job with plenty of resources.\"",
+       "why": "答案是 removed：填回后与所在句 since、climbing、far、day-to-day、work、activities 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 removed 这个词性/语义，而不是 relative）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 removed 这个词性/语义，而不是 boost）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Attitudes towards paternity leave(陪产假) have drastically changed in America in the last five years as more fathers feel comfortable taking extended time off, but gender bias persists when it comes to career prospects and the home, according to a new study of working parents."
+      },
+      {
+       "id": "B",
+       "text": "Research by the Boston College Center for Work & Family, which surveyed new parents at four large US companies who were qualified for taking at least six weeks paid parental leave, found that 81% of the 1,240 employees surveyed said the notion of fathers taking leave has become more acceptable."
+      },
+      {
+       "id": "C",
+       "text": "Of those surveyed, 62% of fathers took the maximum amount of time off compared to 93% of mothers, and around three-quarters of workers said their employer was equally supportive of mothers and fathers taking parental leave and over half said leave policies had made workplace culture better."
+      },
+      {
+       "id": "D",
+       "text": "The US is one of only three countries in the world not to offer statutory(法定的) paid leave, but increasingly states and companies are starting to take up the issue. So far, eight states and the District of Columbia have their own paid family leave laws."
+      },
+      {
+       "id": "E",
+       "text": "Brad Harrington, executive director of the center and lead author of the study, estimates only 20% to 30% of companies in the US offer paid parental leave. He feels the research findings reflect an obvious change in corporate attitudes to new fathers taking time off."
+      },
+      {
+       "id": "F",
+       "text": "\"We did a study on paternity leave five years ago. Compared with those findings, these numbers were shocking to me. I did not expect 80% of people to say the organisation finds dads taking this leave acceptable and three-quarters to say it's equally supportive of women and men taking leave,\" Harrington said."
+      },
+      {
+       "id": "G",
+       "text": "The previous study found that nearly three-quarters of fathers saw two to four weeks as an appropriate duration for paternity leave and 76% said they would prefer not to take all their time off at once."
+      },
+      {
+       "id": "H",
+       "text": "Since then, there have been a number of legal cases against companies involving paternity leave—including cases against JPMorgan Chase and Estee Lauder—which have helped put pressure on companies to make their parental leave policies gender neutral."
+      },
+      {
+       "id": "I",
+       "text": "However, the study also shows how traditional gender roles endure both at work, where more women than men reported changes in their perceived career potential, and at home—even among workers who claim to have a strong desire for equality."
+      },
+      {
+       "id": "J",
+       "text": "The vast majority of men, 97%, said one of the top reasons to take leave was to share caregiving with their partner. But when they were asked about how caregiving and household tasks were divided, their answers painted a different picture. While about 75% of employees said both genders should give the same amount of care, the majority of men and nearly half of women admitted that in reality the female actually did most of it. A tiny fraction, 2%, of men said they did more of the childcare."
+      },
+      {
+       "id": "K",
+       "text": "Men and women's experiences of the return to work following parental leave were also considerably different. Of the women surveyed, 32% reported a downturn in their job satisfaction, while 14% said it increased. In comparison, 17% of men said their job satisfaction went down and 20% said it went up. Meanwhile, more women reported an increase in their responsibilities and manager expectations after childbirth. Half of the women said they used flexible work arrangements after becoming a parent, while just 27% of men did. Similar percentages of men and women said they enjoyed their careers and that it gave them a sense of achievement, while around half of women and 44% of men said it was a key part of their identity."
+      },
+      {
+       "id": "L",
+       "text": "On the subject of career advancement, 59% of women and 49% of men said leave could be limiting and both genders said they feared it would have an impact on their progress long-term. But on opportunity for promotion, more than double the number of women, 30% compared with 15% of men, believed their chances to be lower after becoming a parent. Despite progress, the struggle for women to reach the highest positions of power is demonstrated in this year's Fortune 500 list, which featured a record 33 female CEOs, but this still represents a tiny fraction of the total."
+      },
+      {
+       "id": "M",
+       "text": "Harrington said culture change depends on companies putting more focus on men and their responsibilities. \"By that I mean companies need to give men paternity leave and encourage men to take time off to be with their kids early on in the kids' life. They also need to recognise that men have to make significant adjustments when they become parents. Companies cannot do all these things to enhance women's advancement and then turn around and say, 'Oh, but we don't expect the men to take over for the women at home.'\""
+      },
+      {
+       "id": "N",
+       "text": "In May, the American Civil Liberties Union (ACLU) and Outten & Golden LLP announced a historic class-action $5m settlement with JPMorgan Chase on behalf of male employees who claim they were illegally denied access to paid parental leave. Derek Rotondo, 35, filed the discrimination charge against his company after he was allegedly told by his HR department that mothers were considered primary caregivers. Thus, they were allowed to take 16 weeks of paid parental leave. Fathers, however, could take just two weeks."
+      },
+      {
+       "id": "O",
+       "text": "The father of two from Columbus, Ohio, who still works at the company as an associate and investigator, said he has witnessed a \"domino effect(多米诺效应)\" across companies since the settlement, but that there is still substantial progress to be made towards changing attitudes towards paternity leave."
+      },
+      {
+       "id": "P",
+       "text": "\"I do think there's still some way to go…there's still going to be sort of the unstated expectation for new dads to essentially come right back to work, but I think the research is showing that's starting to change.\" He said equal parental leave is an essential component to creating gender equality in the workplace. \"The old standard of women staying home, having babies and cooking doesn't apply and hasn't applied for a long time.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "In the absence of Federal legislation, some states in the US have passed laws concerning paid family leave."
+      },
+      {
+       "id": "s37",
+       "text": "Most fathers admitted that even during their paternity leave they actually did much less childcare than the mother."
+      },
+      {
+       "id": "s38",
+       "text": "According to one father, equal parental leave is indispensable to achieving gender equality in the workplace."
+      },
+      {
+       "id": "s39",
+       "text": "One survey indicated there is now less objection to paternity leave."
+      },
+      {
+       "id": "s40",
+       "text": "Compared to five years ago, according to one researcher, many more people said their organisation gave the same support to men and women taking parental leave."
+      },
+      {
+       "id": "s41",
+       "text": "One study finds that even workers who claim to desire gender equality stick to traditional gender roles both at work and at home."
+      },
+      {
+       "id": "s42",
+       "text": "The majority of workers surveyed said parental leave policies had improved workplace culture."
+      },
+      {
+       "id": "s43",
+       "text": "In spite of progress, the number of women in top positions of big companies remains extremely small."
+      },
+      {
+       "id": "s44",
+       "text": "According to one estimate, less than one third of companies in the US provide paid parental leave."
+      },
+      {
+       "id": "s45",
+       "text": "A number of lawsuits have pressured companies to formulate gender neutral policies on parental leave."
+      }
+     ],
+     "answers": [
+      "D",
+      "J",
+      "P",
+      "B",
+      "F",
+      "I",
+      "C",
+      "L",
+      "E",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】So far, eight states and the District of Columbia have their own paid family leave laws.\n【依据】陈述里的 states、laws、paid、family、leave 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】While about 75% of employees said both genders should give the same amount of care, the majority of men and nearly half of women admitted that in reality the female actually did most of it.\n【依据】陈述里的 admitted、actually 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】\"I do think there's still some way to go…there's still going to be sort of the unstated expectation for new dads to essentially come right back to work, but I think the research is showing that's starting to change.\" He said equal parental leave is an essential component to creating gender equality in the workplace.\n【依据】陈述里的 equal、parental、leave、gender、equality、workplace 在 P 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 P 段。",
+      "【定位】Research by the Boston College Center for Work & Family, which surveyed new parents at four large US companies who were qualified for taking at least six weeks paid parental leave, found that 81% of the 1,240 employees surveyed said the notion of fathers taking leave has become more acceptable.\n【依据】陈述里的 survey、leave 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】I did not expect 80% of people to say the organisation finds dads taking this leave acceptable and three-quarters to say it's equally supportive of women and men taking leave,\" Harrington said.\n【依据】陈述里的 people、said、organisation、support、men、women 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】However, the study also shows how traditional gender roles endure both at work, where more women than men reported changes in their perceived career potential, and at home—even among workers who claim to have a strong desire for equality.\n【依据】陈述里的 study、even、workers、who、claim、desire 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Of those surveyed, 62% of fathers took the maximum amount of time off compared to 93% of mothers, and around three-quarters of workers said their employer was equally supportive of mothers and fathers taking parental leave and over half said leave policies had made workplace culture better.\n【依据】陈述里的 workers、surveyed、said、parental、leave、policies 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】But on opportunity for promotion, more than double the number of women, 30% compared with 15% of men, believed their chances to be lower after becoming a parent.\n【依据】陈述里的 number、women、companies 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】Brad Harrington, executive director of the center and lead author of the study, estimates only 20% to 30% of companies in the US offer paid parental leave.\n【依据】陈述里的 estimate、companies、paid、parental、leave 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Since then, there have been a number of legal cases against companies involving paternity leave—including cases against JPMorgan Chase and Estee Lauder—which have helped put pressure on companies to make their parental leave policies gender neutral.\n【依据】陈述里的 number、pressured、companies、gender、neutral、policies 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：16 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "So far, eight states and the District of Columbia have their own paid family leave laws.",
+       "why": "陈述里的 states、laws、paid、family、leave 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "While about 75% of employees said both genders should give the same amount of care, the majority of men and nearly half of women admitted that in reality the female actually did most of it.",
+       "why": "陈述里的 admitted、actually 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"I do think there's still some way to go…there's still going to be sort of the unstated expectation for new dads to essentially come right back to work, but I think the research is showing that's starting to change.\" He said equal parental leave is an essential component to creating gender equality in the workplace.",
+       "why": "陈述里的 equal、parental、leave、gender、equality、workplace 在 P 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 P 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Research by the Boston College Center for Work & Family, which surveyed new parents at four large US companies who were qualified for taking at least six weeks paid parental leave, found that 81% of the 1,240 employees surveyed said the notion of fathers taking leave has become more acceptable.",
+       "why": "陈述里的 survey、leave 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "I did not expect 80% of people to say the organisation finds dads taking this leave acceptable and three-quarters to say it's equally supportive of women and men taking leave,\" Harrington said.",
+       "why": "陈述里的 people、said、organisation、support、men、women 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "However, the study also shows how traditional gender roles endure both at work, where more women than men reported changes in their perceived career potential, and at home—even among workers who claim to have a strong desire for equality.",
+       "why": "陈述里的 study、even、workers、who、claim、desire 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Of those surveyed, 62% of fathers took the maximum amount of time off compared to 93% of mothers, and around three-quarters of workers said their employer was equally supportive of mothers and fathers taking parental leave and over half said leave policies had made workplace culture better.",
+       "why": "陈述里的 workers、surveyed、said、parental、leave、policies 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But on opportunity for promotion, more than double the number of women, 30% compared with 15% of men, believed their chances to be lower after becoming a parent.",
+       "why": "陈述里的 number、women、companies 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Brad Harrington, executive director of the center and lead author of the study, estimates only 20% to 30% of companies in the US offer paid parental leave.",
+       "why": "陈述里的 estimate、companies、paid、parental、leave 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Since then, there have been a number of legal cases against companies involving paternity leave—including cases against JPMorgan Chase and Estee Lauder—which have helped put pressure on companies to make their parental leave policies gender neutral.",
+       "why": "陈述里的 number、pressured、companies、gender、neutral、policies 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Having a rival can keep you committed to achieving your goals and enhance your overall performance. But before you go out and find an entrepreneur to outcompete, it's important to understand and avoid the traps that often come with rivalry. After all, competitive rivalry can also hinder effective decision-making and increase your willingness to take risks, behaviors that can ultimately hurt your venture's success. Finding someone you're committed to outcompeting can be a great way to stay focused on your goals and push your venture to the next level. But when you're intently focused on outperforming your rivals, you may begin to develop a \"win-at-all-costs\" mentality that causes you to ignore how you achieve success. One group of researchers, for example, examined the link between rivalry and unethical behavior. They found that when people compete against their rivals, they are more willing to behave unethically to win. But such behavior may stain your reputation and strain relationships important to your success. One way to avoid this trap is to stop and reflect on what's important. While outperforming your rivals may provide short-term benefits, the loss of your integrity will have long-term consequences. One reason having a rival can enhance your venture's performance is that it creates a level of excitement that drives you to work harder. But this eagerness to win may also hurt your venture's success, particularly when it causes you to make impulsive, insensible decisions. But it's possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the future of your venture. The sense of eagerness that comes with having a rival can not only cause you to make poorer decisions, but it can also lead you to take greater risks that put your venture in peril. One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "How can competitive rivalry benefit entrepreneurs according to the passage?",
+       "options": [
+        "By enabling them to outcompete other entrepreneurs.",
+        "By enabling them to make their venture a success.",
+        "By helping them to reach long-term goals.",
+        "By helping them to stay goal-oriented."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 helping、stay、goal-oriented 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 helping、stay、goal-oriented 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「enabling、other、entrepreneurs」全文未出现。",
+         "B": "偷换主体：「enabling」全文未出现；把原文的「venture、success」换成了「enabling、make」，主语或对象被调包。",
+         "C": "因果倒置：「helping、reach」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What is one of the traps entrepreneurs may often fall into when competing with rivals?",
+       "options": [
+        "They may adopt strategies that are bound to ruin their venture.",
+        "They may resort to unethical means to outperform their rivals.",
+        "They may be too eager to succeed while ignoring the huge labor cost.",
+        "They may be intently focused on winning at the current market level."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】But before you go out and find an entrepreneur to outcompete, it's important to understand and avoid the traps that often come with rivalry.\n【依据】正确项的核心词 rivals 与定位句对得上；其余 resort、unethical、means、outperform 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But before you go out and find an entrepreneur to outcompete, it's important to understand and avoid the traps that often come with rivalry.",
+        "why": "正确项的核心词 rivals 与定位句对得上；其余 resort、unethical、means、outperform 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「adopt、strategies、bound」全文未出现。",
+         "C": "无中生有：「too、eager、succeed」全文未出现。",
+         "D": "因果倒置：「winning、current、market」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What are entrepreneurs advised to do to avoid traps that often accompany rivalry?",
+       "options": [
+        "Deliberate on what really matters.",
+        "Prioritize reaping immediate benefits.",
+        "Estimate the long-term consequences.",
+        "Reflect on what successes are achievable."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】But before you go out and find an entrepreneur to outcompete, it's important to understand and avoid the traps that often come with rivalry.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 deliberate、what、really、matters 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But before you go out and find an entrepreneur to outcompete, it's important to understand and avoid the traps that often come with rivalry.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 deliberate、what、really、matters 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「prioritize、reaping、immediate」全文未出现。",
+         "C": "因果倒置：「estimate」全文未出现。",
+         "D": "无中生有：「what、successes、achievable」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "How can entrepreneurs avoid making impulsive and insensible decisions?",
+       "options": [
+        "By engaging themselves in critical reasoning.",
+        "By developing a habit of keeping their integrity.",
+        "By criticizing themselves for previous poor performances.",
+        "By refraining from being too excited about their successes."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】But it's possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the future of your venture.\n【依据】正确项的核心词 engaging、critical 与定位句对得上；其余 themselves、reasoning 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But it's possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the future of your venture.",
+        "why": "正确项的核心词 engaging、critical 与定位句对得上；其余 themselves、reasoning 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「developing、keeping」全文未出现；把原文的「habit」换成了「developing、keeping、integrity」，主语或对象被调包。",
+         "C": "无中生有：「themselves、previous、poor」全文未出现；把原文的「criticizing」换成了「themselves、previous、poor」，主语或对象被调包。",
+         "D": "无中生有：「refraining、too、excited」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "How can entrepreneurs overcome the risk-inducing effects of rivalry?",
+       "options": [
+        "By paying close attention to their current performance.",
+        "By taking steps that stand to endanger their rivals' success.",
+        "By monitoring how their decision-making impacts their mentality.",
+        "By keeping their emotions in check to avoid making poor decisions."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.\n【依据】正确项的核心词 emotions、decisions 与定位句对得上；其余 keeping、check、avoid、making 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.",
+        "why": "正确项的核心词 emotions、decisions 与定位句对得上；其余 keeping、check、avoid、making 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「paying、close、current」全文未出现；把原文的「attention」换成了「paying、close、current」，主语或对象被调包。",
+         "B": "无中生有：「taking、steps」全文未出现；把原文的「stand、endanger、rivals'」换成了「taking、steps」，主语或对象被调包。",
+         "C": "偷换主体：「impacts」全文未出现；把原文的「monitoring、how、decision-making」换成了「impacts、mentality」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 348 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "A multitasker is one who can perform two or more tasks effectively at the same time, which—apart from the obvious differences—is similar to what a computer does. The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. However, the question is: can a person really be a multitasker? For most scientists, the answer is no. So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well. As soon as two tasks require our attention, productivity suffers. What we call multitasking, therefore, is in reality the ability to move more or less quickly from one task to another. This requires two essential conditions: that one of the tasks needs to be automatic, like walking or eating, and that they both need different mental processes. Answering the phone and writing at the same time, for example. However, on the other side of the coin there are people who maintain that it is possible to be, or at least seem to be, multitasking. A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance. The business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame. Indeed, many companies look for people who are skilled in multitasking to improve their productivity. From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices. The benefits of multitasking are clear. Being quicker and more efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does a \"multitasker\" originally refer to?",
+       "options": [
+        "An operating system capable of doing several tasks at once.",
+        "A skilled worker executing more than one task at the same time.",
+        "A sophisticated technology doing several tasks effectively at once.",
+        "An efficient person able to perform multiple tasks at the same time."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time.\n【依据】正确项的核心词 operating、system、tasks 与定位句对得上；其余 capable、doing、several、once 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time.",
+        "why": "正确项的核心词 operating、system、tasks 与定位句对得上；其余 capable、doing、several、once 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「worker」全文未出现；把原文的「executing、same、time」换成了「skilled、worker、task」，主语或对象被调包。",
+         "C": "偷换主体：「sophisticated、doing」全文未出现；把原文的「technology、tasks」换成了「sophisticated、doing、several」，主语或对象被调包。",
+         "D": "偷换主体：「able」全文未出现；把原文的「multiple、tasks、same」换成了「efficient、person、able」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "Why can't people really be multitaskers according to neuroscientists?",
+       "options": [
+        "They are not sufficiently exposed to multitasking situations.",
+        "They are not comparable to mechanical operating systems.",
+        "Their brains do not allow them to multitask.",
+        "Their attention span cannot be expanded."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well.\n【依据】正确项的核心词 brains、multitask 与定位句对得上；其余 allow 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well.",
+        "why": "正确项的核心词 brains、multitask 与定位句对得上；其余 allow 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「sufficiently、exposed」全文未出现；把原文的「multitasking、situations」换成了「sufficiently、exposed」，主语或对象被调包。",
+         "B": "无中生有：「comparable、mechanical、systems」全文未出现。",
+         "D": "无中生有：「span、cannot、expanded」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do we learn from the conclusion of a recent study on multitasking?",
+       "options": [
+        "People make greater achievements by maintaining whatever they are doing is multitasking.",
+        "People's performance benefits from the perception of what they are doing as multitasking.",
+        "People's active mental processes exert a positive effect on their multitasking.",
+        "People can improve their capabilities by handling multitasking situations."
+       ],
+       "answer": 1,
+       "kind": "inference",
+       "explain": "【定位】A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance.\n【依据】正确项的核心词 people's、performance、perception、multitasking 与定位句对得上；其余 benefits、what、doing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance.",
+        "why": "正确项的核心词 people's、performance、perception、multitasking 与定位句对得上；其余 benefits、what、doing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「make、greater、achievements」全文未出现；把原文的「people、multitasking」换成了「make、greater、achievements」，主语或对象被调包。",
+         "C": "偷换主体：「exert」全文未出现；把原文的「people's、active、positive」换成了「mental、processes、exert」，主语或对象被调包。",
+         "D": "偷换主体：「capabilities」全文未出现；把原文的「people、handling、multitasking」换成了「improve、capabilities、situations」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "How does the business world view multitasking?",
+       "options": [
+        "It is a rare skill often found in fluid organisations.",
+        "It is an adaptable capability required of all workers.",
+        "It is an essential quality many employees lack.",
+        "It is a desirable ability that can be developed."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame.\n【依据】正确项的核心词 ability 与定位句对得上；其余 desirable、developed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame.",
+        "why": "正确项的核心词 ability 与定位句对得上；其余 desirable、developed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「rare、skill、often」全文未出现。",
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「capability、required、workers」全文未出现；把原文的「adaptable」换成了「capability、required、workers」，主语或对象被调包。",
+         "C": "无中生有：「quality、employees、lack」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author imply we should do if we have to focus on some task and do it well?",
+       "options": [
+        "Work in a flexible way.",
+        "Learn from mistakes.",
+        "Avoid multitasking.",
+        "Increase efficiency"
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】What we call multitasking, therefore, is in reality the ability to move more or less quickly from one task to another.\n【依据】正确项的核心词 multitasking 与定位句对得上；其余 avoid 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "What we call multitasking, therefore, is in reality the ability to move more or less quickly from one task to another.",
+        "why": "正确项的核心词 multitasking 与定位句对得上；其余 avoid 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「work、flexible、way」全文未出现。",
+         "B": "因果倒置：「learn」全文未出现。",
+         "D": "无中生有：「increase、efficiency」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 344 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "改革开放以来，中国人的饮食发生了显著变化。过去由于经济落后，食品种类有限、数量不足，人们仅仅满足于吃得饱。如今中国经济快速发展，食品不仅更加丰富多样，质量也大幅提高。随着生活水平不断提升，人们对饮食的要求越来越高，更加注重吃得营养健康。因此，目前市场上推出的低脂、低糖、有机食品受到人们的普遍欢迎。",
+     "reference": "Since the reform and opening-up, the diet of Chinese people has undergone significant changes. In the past, due to the backward economy, food was limited in variety and insufficient in quantity, so people were content with merely having enough to eat. Today, with China's economy developing rapidly, food is not only more abundant and diverse but also greatly improved in quality. As living standards keep rising, people have increasingly higher demands for their diet and pay more attention to eating in a nutritious and healthy way. Therefore, the low-fat, low-sugar and organic food launched on the market today is widely welcomed by people.",
+     "keyPoints": [
+      "Since the reform and opening-up, the diet of Chinese people has undergone significant changes.",
+      "In the past, due to the backward economy, food was limited in variety and insufficient in quantity, so people were content with merely having enough to eat.",
+      "Today, with China's economy developing rapidly, food is not only more abundant and diverse but also greatly improved in quality.",
+      "As living standards keep rising, people have increasingly higher demands for their diet and pay more attention to eating in a nutritious and healthy way.",
+      "Therefore, the low-fat, low-sugar and organic food launched on the market today is widely welcomed by people."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

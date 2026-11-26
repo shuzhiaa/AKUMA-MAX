@@ -1,0 +1,610 @@
+{
+ "id": "cet4-2026-06-3",
+ "levelId": "cet4",
+ "title": "四级 2026 年 06 月 第 3 套",
+ "minutes": 125,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2026年6月英语四级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2026-06-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose you are invited to put forward a proposal to the university on how to make students' campus life easier. You are now to write an essay to make your proposal. You will have 30 minutes to write the essay. You should write at least 120 words but not more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "I am honored to submit a proposal on how to make students' campus life easier. As daily routines grow more\ndemanding, small improvements in campus services can save students considerable time and energy.\nFirst, the university could develop a one-stop mobile app that integrates course schedules, room bookings, and\nexam arrangements. This would spare students the trouble of switching between multiple platforms. Second,\nextending library opening hours and adding more self-study spaces during examination periods would reduce\novercrowding. Third, improving shuttle-bus frequency between teaching buildings and dormitories would\nmake commuting less stressful.\nThese practical measures, if implemented, would significantly ease students' daily pressures. I sincerely hope\nthe university will consider this proposal and take steps toward a more convenient campus life."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Junk-food lovers who try to cut back on fries or chocolate may experience symptoms similar to drug withdrawal, a new study suggests. Researchers found that people attempting to cut down on eating highly processed foods experience some of the same {{1}} and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those {{2}} smoking cigarettes or using drugs, according to the study. The new study {{3}} the first evidence that these withdrawal-like symptoms can occur when people cut down on highly processed foods, said lead study author Erica Schulte. Based on the participants' self-reported symptoms, withdrawal symptoms were {{4}} more intense between the second and fifth days after attempting to reduce junk-food consumption, which {{5}} the time span people live through during drug withdrawal. The idea that food may be addictive after \"heavy\" use by some individuals is a {{6}} subject, Schulte said. Although prior studies in animals and humans have shown some biological and behavioral similarities between substance-use disorders and addictive-like consumption of highly processed foods, no studies have looked at whether reducing junk food can {{7}} withdrawal symptoms in people, she noted. Raising {{8}} that people may experience irritability(烦躁) or headaches when cutting down on junk food can help individuals {{9}} coping strategies in advance, Schulte noted. The findings may also {{10}} light on the barriers people face when changing eating habits—barriers that may play a role in people dropping out of treatments, she said.",
+     "options": [
+      "awareness",
+      "canceling",
+      "controversial",
+      "emptiness",
+      "monstrous",
+      "offers",
+      "parallels",
+      "permanently",
+      "physical",
+      "prepare",
+      "prospects",
+      "quitting",
+      "shed",
+      "significantly",
+      "trigger"
+     ],
+     "answers": [
+      8,
+      11,
+      5,
+      13,
+      6,
+      2,
+      14,
+      0,
+      9,
+      12
+     ],
+     "blankExplains": [
+      "【定位】Researchers found that people attempting to cut down on eating highly processed foods experience some of the same ____ and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those  … smoking cigarettes or using drugs, according to the study.\n【依据】答案是 physical：填回后与所在句 researchers、found、people、attempting、cut、down 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Researchers found that people attempting to cut down on eating highly processed foods experience some of the same  … and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those ____ smoking cigarettes or using drugs, according to the study.\n【依据】答案是 quitting：填回后与所在句 researchers、found、people、attempting、cut、down 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The new study ____ the first evidence that these withdrawal-like symptoms can occur when people cut down on highly processed foods, said lead study author Erica Schulte.\n【依据】答案是 offers：填回后与所在句 new、study、first、evidence、withdrawal-like、symptoms 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Based on the participants' self-reported symptoms, withdrawal symptoms were ____ more intense between the second and fifth days after attempting to reduce junk-food consumption, which  … the time span people live through during drug withdrawal.\n【依据】答案是 significantly：填回后与所在句 based、participants'、self-reported、symptoms、withdrawal、symptoms 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Based on the participants' self-reported symptoms, withdrawal symptoms were  … more intense between the second and fifth days after attempting to reduce junk-food consumption, which ____ the time span people live through during drug withdrawal.\n【依据】答案是 parallels：填回后与所在句 based、participants'、self-reported、symptoms、withdrawal、symptoms 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The idea that food may be addictive after \"heavy\" use by some individuals is a ____ subject, Schulte said.\n【依据】答案是 controversial：填回后与所在句 idea、food、addictive、after、heavy、use 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Although prior studies in animals and humans have shown some biological and behavioral similarities between substance-use disorders and addictive-like consumption of highly processed foods, no studies have looked at whether reducing junk food can ____ withdrawal symptoms in people, she noted.\n【依据】答案是 trigger：填回后与所在句 although、prior、studies、animals、humans、shown 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Raising ____ that people may experience irritability(烦躁) or headaches when cutting down on junk food can help individuals  … coping strategies in advance, Schulte noted.\n【依据】答案是 awareness：填回后与所在句 raising、people、experience、irritability、headaches、when 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Raising  … that people may experience irritability(烦躁) or headaches when cutting down on junk food can help individuals ____ coping strategies in advance, Schulte noted.\n【依据】答案是 prepare：填回后与所在句 raising、people、experience、irritability、headaches、when 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The findings may also ____ light on the barriers people face when changing eating habits—barriers that may play a role in people dropping out of treatments, she said.\n【依据】答案是 shed：填回后与所在句 findings、light、barriers、people、face、when 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Researchers found that people attempting to cut down on eating highly processed foods experience some of the same ____ and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those  … smoking cigarettes or using drugs, according to the study.",
+       "why": "答案是 physical：填回后与所在句 researchers、found、people、attempting、cut、down 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 physical 这个词性/语义，而不是 parallels）。",
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 physical 这个词性/语义，而不是 permanently）。"
+       }
+      },
+      {
+       "locate": "Researchers found that people attempting to cut down on eating highly processed foods experience some of the same  … and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those ____ smoking cigarettes or using drugs, according to the study.",
+       "why": "答案是 quitting：填回后与所在句 researchers、found、people、attempting、cut、down 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 quitting 这个词性/语义，而不是 awareness）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 quitting 这个词性/语义，而不是 canceling）。"
+       }
+      },
+      {
+       "locate": "The new study ____ the first evidence that these withdrawal-like symptoms can occur when people cut down on highly processed foods, said lead study author Erica Schulte.",
+       "why": "答案是 offers：填回后与所在句 new、study、first、evidence、withdrawal-like、symptoms 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 offers 这个词性/语义，而不是 awareness）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 offers 这个词性/语义，而不是 canceling）。"
+       }
+      },
+      {
+       "locate": "Based on the participants' self-reported symptoms, withdrawal symptoms were ____ more intense between the second and fifth days after attempting to reduce junk-food consumption, which  … the time span people live through during drug withdrawal.",
+       "why": "答案是 significantly：填回后与所在句 based、participants'、self-reported、symptoms、withdrawal、symptoms 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 significantly 这个词性/语义，而不是 shed）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 significantly 这个词性/语义，而不是 awareness）。"
+       }
+      },
+      {
+       "locate": "Based on the participants' self-reported symptoms, withdrawal symptoms were  … more intense between the second and fifth days after attempting to reduce junk-food consumption, which ____ the time span people live through during drug withdrawal.",
+       "why": "答案是 parallels：填回后与所在句 based、participants'、self-reported、symptoms、withdrawal、symptoms 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 parallels 这个词性/语义，而不是 permanently）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 parallels 这个词性/语义，而不是 physical）。"
+       }
+      },
+      {
+       "locate": "The idea that food may be addictive after \"heavy\" use by some individuals is a ____ subject, Schulte said.",
+       "why": "答案是 controversial：填回后与所在句 idea、food、addictive、after、heavy、use 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 controversial 这个词性/语义，而不是 canceling）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 controversial 这个词性/语义，而不是 awareness）。"
+       }
+      },
+      {
+       "locate": "Although prior studies in animals and humans have shown some biological and behavioral similarities between substance-use disorders and addictive-like consumption of highly processed foods, no studies have looked at whether reducing junk food can ____ withdrawal symptoms in people, she noted.",
+       "why": "答案是 trigger：填回后与所在句 although、prior、studies、animals、humans、shown 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 trigger 这个词性/语义，而不是 awareness）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 trigger 这个词性/语义，而不是 canceling）。"
+       }
+      },
+      {
+       "locate": "Raising ____ that people may experience irritability(烦躁) or headaches when cutting down on junk food can help individuals  … coping strategies in advance, Schulte noted.",
+       "why": "答案是 awareness：填回后与所在句 raising、people、experience、irritability、headaches、when 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 awareness 这个词性/语义，而不是 canceling）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 awareness 这个词性/语义，而不是 controversial）。"
+       }
+      },
+      {
+       "locate": "Raising  … that people may experience irritability(烦躁) or headaches when cutting down on junk food can help individuals ____ coping strategies in advance, Schulte noted.",
+       "why": "答案是 prepare：填回后与所在句 raising、people、experience、irritability、headaches、when 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 prepare 这个词性/语义，而不是 prospects）。",
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 prepare 这个词性/语义，而不是 parallels）。"
+       }
+      },
+      {
+       "locate": "The findings may also ____ light on the barriers people face when changing eating habits—barriers that may play a role in people dropping out of treatments, she said.",
+       "why": "答案是 shed：填回后与所在句 findings、light、barriers、people、face、when 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shed 这个词性/语义，而不是 significantly）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shed 这个词性/语义，而不是 awareness）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "These days, phone interviews are an unavoidable part of the job interview process, and for good reason: They save time and effort. But that doesn't mean that phone calls require zero energy on the part of the candidate. Many companies treat phone screening as the official first round of the hiring process. That means candidates are expected to go into them prepared with as much information as possible about the company, position, and their own skills and strengths."
+      },
+      {
+       "id": "B",
+       "text": "A big mistake people often make is talking about their personal lives. Don't talk about your personal life unless you're directly asked a question about what you like to do in your off-hours. \"The point of a phone interview is to focus on getting to know a candidate's professional experience and goals,\" says Mckenzie Roark, campus talent specialist at Lithko Contracting. \"A recruiter is trying to see if they are the best fit for a role, and learning about their personal life doesn't help. For example, when asked where you see yourself in five years, we don't want to know that you hope to be married or that you want to buy a new house. That is nice, but that isn't relative to anything professional.\""
+      },
+      {
+       "id": "C",
+       "text": "It might be tempting to cross something off your to-do list while on a phone interview, but recruiters and hiring managers can easily tell if your attention is elsewhere. Many interviewers are annoyed to see people who decide to multitask while on the phone interview. There are candidates who wash dishes, go for walks, or do grocery shopping during the interview. Needless to say, this doesn't reflect well on your level of interest in the position you're interviewing for."
+      },
+      {
+       "id": "D",
+       "text": "The question regarding pay is also best avoided. To be frank, it's simply too early in the process for you to be the one who brings up salary expectations. \"Chances are if a candidate is participating in a phone interview, this is the first time they have talked with the company, and the first call isn't the appropriate time to talk about 'what's in it for you,'\" says Justina Strnad, the Talent Acquisition Manager for Shiftgig. \"Trust me, if you are a great candidate and make it to the next step, the hiring team is going to be very transparent about what's in it for you later on.\""
+      },
+      {
+       "id": "E",
+       "text": "\"After wrapping up a phone interview, it is typical that the interviewer will ask the candidate if they have any questions. I can't stress this enough: ALWAYS ask questions,\" says Roark. \"If we have had a great phone interview and then we wrap up and they don't have any questions for me, it pretty much ruins the whole interview. It tells me that the candidate is uninterested in the role, which in reality might not be the case at all,\" she notes. But surely, if you're interested in a job, you can think of something to ask your interviewer."
+      },
+      {
+       "id": "F",
+       "text": "It seems basic, but surprisingly, a lot of people are late to phone interviews. \"About a quarter of the people with whom I schedule phone interviews aren't on time,\" says Sophie Cikovsky, who handles U.S. recruiting for Infinite Global. \"While this bothers me personally, it's also indicative of someone who isn't very detail-oriented,\" she explains. \"In order to identify this early in the hiring process, I started asking all candidates a few years ago to call me as opposed to calling them at an agreed-upon time. That way, if I hear from them at 1:13 p.m. or 12:49 p.m. instead of our planned 1:00 p.m. interview time, I have an early indicator that they might not be a great fit.\""
+      },
+      {
+       "id": "G",
+       "text": "\"Make sure you test your headset and connection before dialing in,\" recommends Roark. \"There is nothing more frustrating for a recruiter who has a structured interview guide in place having to repeatedly ask the same question over and over because they could not understand your answer due to dropped signals.\" Test-call a friend beforehand, or even call yourself from a landline if necessary; it will take less than a minute."
+      },
+      {
+       "id": "H",
+       "text": "You might be eager to get your point across or talk about your experience, but interrupting the interviewer is awkward and rude. \"Interviewing can be stressful, and sometimes that stress manifests itself in speaking too fast, speaking too loud, talking over the interviewer, or attempting to answer the interviewer's question before they have actually finished asking the question,\" says Chris Dardis, a recruiting expert. \"Don't do this.\" There's a big difference between being assertive(自信的) and being aggressive, and interviewers can always recognize it."
+      },
+      {
+       "id": "I",
+       "text": "It's tough not to say things like \"um,\" \"uh,\" and \"like\" in everyday speech, but these verbal habits become much more pronounced when speaking on the phone, says Dardis. \"In face-to-face interviews, they're not as noticeable, because there are other things like your hair, suit, or body language to distract people.\" But in a phone interview, the only thing you have to go on is what you say and how you say it. \"That's why it's so important to eliminate these words from your speech when doing a phone interview.\""
+      },
+      {
+       "id": "J",
+       "text": "Not knowing anything about the company or job you're interviewing for is way more obvious than you'd think. \"Many people think that they don't have to put as much effort into researching the role or the company,\" says Steve Pritchard, an HR consultant. And if you have your laptop in front of you during the interview to do a few quick searches, they won't know the difference, right? Not exactly. \"Seasoned interviewers will know whether an interviewee is researching while on the phone. The interviewer can often even hear the typing as they ask the question,\" he adds."
+      },
+      {
+       "id": "K",
+       "text": "\"The key to success during a phone interview is clear and concise answers,\" says Dardis. \"People's attention spans tend to be shorter over the phone. You don't want your future employer to lose interest in the conversation.\" He recommends practicing answers to questions you know will be asked ahead of time in order to be clear on what you're going to say. That way, you can prevent talking in an aimless manner."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Interviewees are advised not to ask questions about pay during a phone interview."
+      },
+      {
+       "id": "s37",
+       "text": "Experienced interviewers will know if an applicant is searching for information online while talking on the phone."
+      },
+      {
+       "id": "s38",
+       "text": "Many employers regard the phone interview as the first step of the official recruiting process."
+      },
+      {
+       "id": "s39",
+       "text": "Applicants who don't ask questions at the end of an interview most probably ruin their chance of getting the position."
+      },
+      {
+       "id": "s40",
+       "text": "The interviewee should test their phone connection before they call the interviewer."
+      },
+      {
+       "id": "s41",
+       "text": "It is annoying to the interviewer to find the applicant doing other tasks while being interviewed."
+      },
+      {
+       "id": "s42",
+       "text": "To pass a phone interview, the most important thing is to answer questions clearly and concisely."
+      },
+      {
+       "id": "s43",
+       "text": "If you fail to call the interviewer on time, they might not see you as a suitable candidate."
+      },
+      {
+       "id": "s44",
+       "text": "Applicants should avoid talking about their personal lives if the interviewer has only asked about their professional background and goals."
+      },
+      {
+       "id": "s45",
+       "text": "It is impolite for an interviewee to interrupt the interviewer in the phone conversation."
+      }
+     ],
+     "answers": [
+      "D",
+      "J",
+      "A",
+      "E",
+      "G",
+      "C",
+      "K",
+      "F",
+      "B",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】\"Chances are if a candidate is participating in a phone interview, this is the first time they have talked with the company, and the first call isn't the appropriate time to talk about 'what's in it for you,'\" says Justina Strnad, the Talent Acquisition Manager for Shiftgig.\n【依据】陈述里的 interviewees、about、phone、interview 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】\"Seasoned interviewers will know whether an interviewee is researching while on the phone.\n【依据】陈述里的 interviewers、know、while、phone 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Many companies treat phone screening as the official first round of the hiring process.\n【依据】陈述里的 many、phone、first、official、process 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】\"After wrapping up a phone interview, it is typical that the interviewer will ask the candidate if they have any questions.\n【依据】陈述里的 ask、questions、interview 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】\"There is nothing more frustrating for a recruiter who has a structured interview guide in place having to repeatedly ask the same question over and over because they could not understand your answer due to dropped signals.\" Test-call a friend beforehand, or even call yourself from a landline if necessary; it will take less than a minute.\n【依据】陈述里的 interviewee、before、call、interviewer 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】Many interviewers are annoyed to see people who decide to multitask while on the phone interview.\n【依据】陈述里的 annoying、interviewer、while、interviewed 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】\"The key to success during a phone interview is clear and concise answers,\" says Dardis.\n【依据】陈述里的 phone、interview、answer、clearly、concisely 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】\"In order to identify this early in the hiring process, I started asking all candidates a few years ago to call me as opposed to calling them at an agreed-upon time.\n【依据】陈述里的 call、time、candidate 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】A big mistake people often make is talking about their personal lives.\n【依据】陈述里的 talking、about、personal、lives、about 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】You might be eager to get your point across or talk about your experience, but interrupting the interviewer is awkward and rude.\n【依据】陈述里的 interviewee、interrupt、interviewer 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "\"Chances are if a candidate is participating in a phone interview, this is the first time they have talked with the company, and the first call isn't the appropriate time to talk about 'what's in it for you,'\" says Justina Strnad, the Talent Acquisition Manager for Shiftgig.",
+       "why": "陈述里的 interviewees、about、phone、interview 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Seasoned interviewers will know whether an interviewee is researching while on the phone.",
+       "why": "陈述里的 interviewers、know、while、phone 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Many companies treat phone screening as the official first round of the hiring process.",
+       "why": "陈述里的 many、phone、first、official、process 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"After wrapping up a phone interview, it is typical that the interviewer will ask the candidate if they have any questions.",
+       "why": "陈述里的 ask、questions、interview 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"There is nothing more frustrating for a recruiter who has a structured interview guide in place having to repeatedly ask the same question over and over because they could not understand your answer due to dropped signals.\" Test-call a friend beforehand, or even call yourself from a landline if necessary; it will take less than a minute.",
+       "why": "陈述里的 interviewee、before、call、interviewer 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Many interviewers are annoyed to see people who decide to multitask while on the phone interview.",
+       "why": "陈述里的 annoying、interviewer、while、interviewed 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"The key to success during a phone interview is clear and concise answers,\" says Dardis.",
+       "why": "陈述里的 phone、interview、answer、clearly、concisely 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"In order to identify this early in the hiring process, I started asking all candidates a few years ago to call me as opposed to calling them at an agreed-upon time.",
+       "why": "陈述里的 call、time、candidate 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "A big mistake people often make is talking about their personal lives.",
+       "why": "陈述里的 talking、about、personal、lives、about 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "You might be eager to get your point across or talk about your experience, but interrupting the interviewer is awkward and rude.",
+       "why": "陈述里的 interviewee、interrupt、interviewer 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Disgust is a universal human emotion. One type of disgust is called physical disgust, which protects us from eating or touching things that could be dangerous for us, such as raw meat or insects. Children experience physical disgust from a very early age, but do not achieve an understanding of the concept until they are around four years old. Some researchers maintain that there is another type of disgust, called moral disgust, that protects us from engaging in activities that can be perceived as morally wrong. Examples of moral disgust are stealing, lying or cheating. However, not all academics think that moral disgust really exists. Some say that when we refer to disgust in relation to moral issues, we are using disgust as a metaphor(隐喻), and what we are feeling is in reality anger. If moral disgust appears quite late in development, it makes sense to think that there is actually a social component to it. Children learn about emotions in many different ways. Of special relevance are parents-children conversations about emotions. Indeed, children whose parents talk about emotions often have a better emotional understanding than children whose parents do not discuss emotions often. However, there are no studies that have examined how parents and children talk about disgust. This is what we set up to examine in our study. We asked 68 English-speaking mothers and their four-, six- or eight-year-old children to discuss some stories about moral and physical disgust. Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust. When we asked mothers and children to discuss moral issues, such as whether it is OK to play with a child who has stolen someone else's snack, they linked this type of moral wrongdoing with the emotion of anger and not disgust. Does this mean that moral disgust does not exist? Some researchers suggest moral disgust exists in adults. Our findings suggest that moral disgust is either understood at a later age or is only used metaphorically, if at all, in children as old as eight years.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the passage tell us about physical disgust?",
+       "options": [
+        "It is an emotion as contrasted with thoughts.",
+        "It is a concept beyond children's understanding.",
+        "It is a mechanism to keep us from being harmed.",
+        "It is an experience gained from any form of danger."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 mechanism、keep、harmed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 mechanism、keep、harmed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「contrasted、thoughts」全文未出现。",
+         "B": "偷换主体：「beyond」全文未出现；把原文的「children's」换成了「concept、beyond、understanding」，主语或对象被调包。",
+         "D": "无中生有：「gained、form、danger」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "How do some researchers perceive moral disgust?",
+       "options": [
+        "It tends to appear in various forms of wrongdoing.",
+        "It is just as annoying to people as physical disgust.",
+        "It is a term used by common folk to describe anger.",
+        "It stops people from doing anything morally wrong."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Some researchers maintain that there is another type of disgust, called moral disgust, that protects us from engaging in activities that can be perceived as morally wrong.\n【依据】正确项的核心词 morally、wrong 与定位句对得上；其余 stops、people、doing、anything 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Some researchers maintain that there is another type of disgust, called moral disgust, that protects us from engaging in activities that can be perceived as morally wrong.",
+        "why": "正确项的核心词 morally、wrong 与定位句对得上；其余 stops、people、doing、anything 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「tends、appear、various」全文未出现；把原文的「wrongdoing」换成了「tends、appear、various」，主语或对象被调包。",
+         "B": "无中生有：「just、annoying、people」全文未出现；把原文的「disgust」换成了「just、annoying、people」，主语或对象被调包。",
+         "C": "无中生有：「term、common、folk」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "Why does moral disgust appear quite late in children's development?",
+       "options": [
+        "It needs to be learnt through social interactions.",
+        "They have little control over its learning process.",
+        "It is too complex for them to acquire.",
+        "Their parents seldom talk about emotions."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】If moral disgust appears quite late in development, it makes sense to think that there is actually a social component to it.\n【依据】正确项的核心词 social 与定位句对得上；其余 needs、learnt、through、interactions 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If moral disgust appears quite late in development, it makes sense to think that there is actually a social component to it.",
+        "why": "正确项的核心词 social 与定位句对得上；其余 needs、learnt、through、interactions 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「little、control、over」全文未出现。",
+         "C": "无中生有：「too、complex、acquire」全文未出现。",
+         "D": "因果倒置：「seldom」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What did the author and his colleagues want to examine in their experiment?",
+       "options": [
+        "What parents tell children against moral wrongdoing.",
+        "What parents and children link moral wrongdoing to.",
+        "How moral disgust is seen by children aged 4, 6 and 8.",
+        "How disgust is discussed between parents and children."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】However, there are no studies that have examined how parents and children talk about disgust.\n【依据】正确项的核心词 how、disgust、parents、children 与定位句对得上；其余 discussed、between 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "However, there are no studies that have examined how parents and children talk about disgust.",
+        "why": "正确项的核心词 how、disgust、parents、children 与定位句对得上；其余 discussed、between 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「tell、against」全文未出现；把原文的「parents、children」换成了「what、tell、against」，主语或对象被调包。",
+         "B": "偷换主体：「link」全文未出现；把原文的「parents、children」换成了「what、link、moral」，主语或对象被调包。",
+         "C": "无中生有：「seen、aged」全文未出现；把原文的「how、disgust、children」换成了「moral、seen、aged」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What can we infer about moral disgust from the author and his colleagues' findings?",
+       "options": [
+        "It is a notion hardly comprehensible to children.",
+        "It rarely exists in children younger than eight.",
+        "It is a term most parents use when talking to children.",
+        "It exists in adults with a strong sense of justice."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust.\n【依据】正确项的核心词 children 与定位句对得上；其余 notion、hardly、comprehensible 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust.",
+        "why": "正确项的核心词 children 与定位句对得上；其余 notion、hardly、comprehensible 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「rarely、younger」全文未出现；把原文的「children」换成了「rarely、exists、younger」，主语或对象被调包。",
+         "C": "无中生有：「term、use、talking」全文未出现；把原文的「children」换成了「term、parents、use」，主语或对象被调包。",
+         "D": "因果倒置：「strong、justice」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 350 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "After finding out details about a stranger, we mistakenly think that they also know about us. As a result, we act more honestly around them, according to a recent study in Nature. Past research has found that we tend to assume social relationships are reciprocal(相互的). Most of the time, this assumption is accurate: someone you think of as a friend will usually consider you a friend too. But sometimes our social ties are more one-sided: for example, you might learn something about a stranger who doesn't know you at all. Researchers Anuj Shah and Michael LaForest wondered whether our tendency to believe that social ties are reciprocal could lead us to mistakenly feel that a stranger does actually know us. In a series of lab-based studies, this is exactly what the researchers found. When we know about strangers, we erroneously think they also know about us. But the really interesting finding came when the researchers stepped out of the lab, to conduct a field experiment. The team developed leaflets(传单) containing fairly ordinary information about local community police officers, such as their favourite food, hobbies, or reasons for joining the police force. They then sent out these leaflets to every apartment in a number of housing developments in disadvantaged areas. The officers themselves also dropped off cards to local residents containing similar information. Two months later, the researchers surveyed residents at these housing developments as well as control areas that did not receive leaflets or outreach cards. Residents were asked to imagine that they had committed a crime and how likely it would be that local officers would find out about it. They also rated how well the officers in the area knew them. The team found that residents of the developments that had received the leaflets believed it more likely that local officers would find out about illegal activity than residents of the control areas. Even more strikingly, the team found that immediately after the leaflet distribution, there were fewer criminal complaints and arrests in the areas around the developments that had received the leaflets than around the control developments.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What is the finding of a recent study in Nature?",
+       "options": [
+        "People are more honest with those who know them than with total strangers.",
+        "People we want to have detailed information about are keen to know about us.",
+        "People who get to know about a person wrongly assume the person knows them too.",
+        "People who are familiar with each other tend to behave honestly in their everyday dealings."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】As a result, we act more honestly around them, according to a recent study in Nature.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 people、who、get、know 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As a result, we act more honestly around them, according to a recent study in Nature.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 people、who、get、know 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「people、total」全文未出现；把原文的「honest」换成了「people、who、know」，主语或对象被调包。",
+         "B": "因果倒置：「people、want、detailed」全文未出现。",
+         "D": "无中生有：「people、familiar、each」全文未出现；把原文的「honestly」换成了「people、who、familiar」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does the passage say about the assumption that social relationships are reciprocal?",
+       "options": [
+        "It is more the exception than the rule.",
+        "It does not hold true in every situation.",
+        "It does not apply to complex relationships.",
+        "It is more accurate in one-sided social ties."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Past research has found that we tend to assume social relationships are reciprocal(相互的).\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 hold、true、every、situation 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Past research has found that we tend to assume social relationships are reciprocal(相互的).",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 hold、true、every、situation 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「exception、rule」全文未出现。",
+         "C": "无中生有：「apply、complex」全文未出现；把原文的「relationships」换成了「apply、complex」，主语或对象被调包。",
+         "D": "偷换主体：把原文的「social」换成了「accurate、one-sided、ties」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What did Anuj Shah and Michael LaForest want to find out about the belief that social relationships are reciprocal?",
+       "options": [
+        "Whether it may resolve misunderstandings about social ties.",
+        "Whether it could help develop one's relationships with strangers.",
+        "Whether it could help strengthen interpersonal relationships.",
+        "Whether it may lead to false assumptions about a stranger."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Researchers Anuj Shah and Michael LaForest wondered whether our tendency to believe that social ties are reciprocal could lead us to mistakenly feel that a stranger does actually know us.\n【依据】正确项的核心词 whether、lead、stranger 与定位句对得上；其余 false、assumptions、about 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Researchers Anuj Shah and Michael LaForest wondered whether our tendency to believe that social ties are reciprocal could lead us to mistakenly feel that a stranger does actually know us.",
+        "why": "正确项的核心词 whether、lead、stranger 与定位句对得上；其余 false、assumptions、about 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「resolve、misunderstandings」全文未出现；把原文的「whether、social、ties」换成了「resolve、misunderstandings、about」，主语或对象被调包。",
+         "B": "无中生有：「help、develop、one's」全文未出现；把原文的「whether、strangers」换成了「help、develop、one's」，主语或对象被调包。",
+         "C": "无中生有：「help、strengthen、interpersonal」全文未出现；把原文的「whether」换成了「help、strengthen、interpersonal」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "When did Anuj Shah and Michael LaForest find something really interesting in their research?",
+       "options": [
+        "During lab-based studies.",
+        "During a field experiment.",
+        "While investigating local residents' crime.",
+        "While talking to police officers nearby."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】But the really interesting finding came when the researchers stepped out of the lab, to conduct a field experiment.\n【依据】正确项的核心词 field、experiment 与定位句对得上；其余 during 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But the really interesting finding came when the researchers stepped out of the lab, to conduct a field experiment.",
+        "why": "正确项的核心词 field、experiment 与定位句对得上；其余 during 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「during」全文未出现。",
+         "C": "无中生有：「while、investigating、residents'」全文未出现。",
+         "D": "无中生有：「while、talking、nearby」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What happened in the areas around the housing developments subjected to the studies?",
+       "options": [
+        "They saw fewer crimes than the control developments.",
+        "They witnessed a swifter elimination of illegal activities.",
+        "Local police responded more quickly to criminal complaints than before.",
+        "Local police related better to residents there than to those in other areas."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Even more strikingly, the team found that immediately after the leaflet distribution, there were fewer criminal complaints and arrests in the areas around the developments that had received the leaflets than around the control developments.\n【依据】正确项的核心词 fewer、control、developments 与定位句对得上；其余 saw、crimes 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Even more strikingly, the team found that immediately after the leaflet distribution, there were fewer criminal complaints and arrests in the areas around the developments that had received the leaflets than around the control developments.",
+        "why": "正确项的核心词 fewer、control、developments 与定位句对得上；其余 saw、crimes 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「witnessed、swifter、elimination」全文未出现。",
+         "C": "无中生有：「responded、quickly、before」全文未出现；把原文的「criminal、complaints」换成了「local、police、responded」，主语或对象被调包。",
+         "D": "偷换主体：「related、better、other」全文未出现；把原文的「there、areas」换成了「local、police、related」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 350 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "在中国传统文化中，亲朋好友之间互赠礼物是人际交往的一种重要礼节。赠送礼物不仅是物质的馈赠，更是情感的表达，是维系人际关系的重要纽带。一份精心挑选、符合接受者喜好的礼物，往往能加深彼此的感情。中国人遵循\"礼尚往来\"的传统，接受礼物时会表达谢意，并适时回赠礼物，以增进彼此的融洽关系。",
+     "reference": "In traditional Chinese culture, exchanging gifts among relatives and close friends is an important form of etiquette in interpersonal communication. Giving gifts is not only a material offering, but also an expression of affection, and an important bond that maintains interpersonal relationships. A carefully chosen gift that suits the recipient's preferences can often deepen mutual affection. 4 \" (mutually exchanging courtesies) Chinese people follow the tradition of reciprocity (mutually exchanging courtesies): when receiving gifts, they express their gratitude and return gifts at an appropriate time, so as to enhance their harmonious relationship.",
+     "keyPoints": [
+      "In traditional Chinese culture, exchanging gifts among relatives and close friends is an important form of etiquette in interpersonal communication.",
+      "Giving gifts is not only a material offering, but also an expression of affection, and an important bond that maintains interpersonal relationships. A carefully chosen gift that suits the recipient's preferences can often deepen mutual affection. 4 \" (mutually exchanging courtesies) Chinese people follow the tradition of reciprocity (mutually exchanging courtesies): when receiving gifts, they express their gratitude and return gifts at an appropriate time, so as to enhance their harmonious relationship."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

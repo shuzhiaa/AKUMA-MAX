@@ -1,0 +1,634 @@
+{
+ "id": "cet6-2025-12-3",
+ "levelId": "cet6",
+ "title": "六级 2025 年 12 月 第 3 套",
+ "minutes": 130,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年12月英语六级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2025-12-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "It's best to think of an accent as a distinct, systematic and rule-governed way of speaking. Accent is not a {{1}} for dialect, but it's related. Dialect is an umbrella term for the way a community pronounces words, creates words, and orders words; accent refers to that first part only. Many {{2}} presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is {{3}} the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a {{4}} . In other words, no one speaks \"standard English\"; rather, it is an imagined way of using language that exists only in grammar and style books. One reason linguists agree there is no one true standard is that, through the years, there have been {{5}} supposed standards, depending on time and place. The standard for English in British newsreels(新闻片) from the 1950s, for example, differs greatly from the standard found on American national news broadcasts today. In fact, there has never been a single standard that's been fully agreed upon — and broadcast outlets across the {{6}} have never consistently held to those standards anyway. Even so, this idea of a standard accent is {{7}} and many workplace and educational environments perpetuate the idea that accents that {{8}} from the current standard are less appropriate, or even inappropriate. Scholars have found that southern US accent features are more accepted in {{9}} such as government, law and service-oriented workplaces, but less accepted in the technology sector. The acceptability of nonstandard accents may {{10}} with differences in class and culture, with newer or higher prestige industries expecting more standard speech in the workplace.",
+     "options": [
+      "affix",
+      "correlate",
+      "deviate",
+      "domains",
+      "influential",
+      "inherently",
+      "laymen",
+      "multiple",
+      "properties",
+      "reality",
+      "reciprocally",
+      "specimen",
+      "spectrum",
+      "synonym",
+      "unanimous"
+     ],
+     "answers": [
+      13,
+      6,
+      5,
+      9,
+      7,
+      12,
+      4,
+      2,
+      3,
+      1
+     ],
+     "blankExplains": [
+      "【定位】Accent is not a ____ for dialect, but it's related.\n【依据】答案是 synonym：填回后与所在句 accent、dialect、it's、related 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Many ____ presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is  … the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a  … .\n【依据】答案是 laymen：填回后与所在句 many、presume、there、single、standard、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Many  … presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is ____ the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a  … .\n【依据】答案是 inherently：填回后与所在句 many、presume、there、single、standard、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Many  … presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is  … the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a ____ .\n【依据】答案是 reality：填回后与所在句 many、presume、there、single、standard、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】One reason linguists agree there is no one true standard is that, through the years, there have been ____ supposed standards, depending on time and place.\n【依据】答案是 multiple：填回后与所在句 reason、linguists、agree、there、true、standard 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In fact, there has never been a single standard that's been fully agreed upon — and broadcast outlets across the ____ have never consistently held to those standards anyway.\n【依据】答案是 spectrum：填回后与所在句 fact、there、never、single、standard、that's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Even so, this idea of a standard accent is ____ and many workplace and educational environments perpetuate the idea that accents that  … from the current standard are less appropriate, or even inappropriate.\n【依据】答案是 influential：填回后与所在句 even、idea、standard、accent、many、workplace 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Even so, this idea of a standard accent is  … and many workplace and educational environments perpetuate the idea that accents that ____ from the current standard are less appropriate, or even inappropriate.\n【依据】答案是 deviate：填回后与所在句 even、idea、standard、accent、many、workplace 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Scholars have found that southern US accent features are more accepted in ____ such as government, law and service-oriented workplaces, but less accepted in the technology sector.\n【依据】答案是 domains：填回后与所在句 scholars、found、southern、accent、features、accepted 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The acceptability of nonstandard accents may ____ with differences in class and culture, with newer or higher prestige industries expecting more standard speech in the workplace.\n【依据】答案是 correlate：填回后与所在句 acceptability、nonstandard、accents、differences、class、culture 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Accent is not a ____ for dialect, but it's related.",
+       "why": "答案是 synonym：填回后与所在句 accent、dialect、it's、related 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 synonym 这个词性/语义，而不是 specimen）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 synonym 这个词性/语义，而不是 spectrum）。"
+       }
+      },
+      {
+       "locate": "Many ____ presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is  … the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a  … .",
+       "why": "答案是 laymen：填回后与所在句 many、presume、there、single、standard、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 laymen 这个词性/语义，而不是 affix）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 laymen 这个词性/语义，而不是 correlate）。"
+       }
+      },
+      {
+       "locate": "Many  … presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is ____ the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a  … .",
+       "why": "答案是 inherently：填回后与所在句 many、presume、there、single、standard、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inherently 这个词性/语义，而不是 influential）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inherently 这个词性/语义，而不是 affix）。"
+       }
+      },
+      {
+       "locate": "Many  … presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is  … the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a ____ .",
+       "why": "答案是 reality：填回后与所在句 many、presume、there、single、standard、way 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reality 这个词性/语义，而不是 reciprocally）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reality 这个词性/语义，而不是 affix）。"
+       }
+      },
+      {
+       "locate": "One reason linguists agree there is no one true standard is that, through the years, there have been ____ supposed standards, depending on time and place.",
+       "why": "答案是 multiple：填回后与所在句 reason、linguists、agree、there、true、standard 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 multiple 这个词性/语义，而不是 affix）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 multiple 这个词性/语义，而不是 correlate）。"
+       }
+      },
+      {
+       "locate": "In fact, there has never been a single standard that's been fully agreed upon — and broadcast outlets across the ____ have never consistently held to those standards anyway.",
+       "why": "答案是 spectrum：填回后与所在句 fact、there、never、single、standard、that's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "与 spectrum 拼写相近（共同开头 spec），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 spectrum 这个词性/语义，而不是 synonym）。"
+       }
+      },
+      {
+       "locate": "Even so, this idea of a standard accent is ____ and many workplace and educational environments perpetuate the idea that accents that  … from the current standard are less appropriate, or even inappropriate.",
+       "why": "答案是 influential：填回后与所在句 even、idea、standard、accent、many、workplace 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 influential 这个词性/语义，而不是 inherently）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 influential 这个词性/语义，而不是 affix）。"
+       }
+      },
+      {
+       "locate": "Even so, this idea of a standard accent is  … and many workplace and educational environments perpetuate the idea that accents that ____ from the current standard are less appropriate, or even inappropriate.",
+       "why": "答案是 deviate：填回后与所在句 even、idea、standard、accent、many、workplace 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 deviate 这个词性/语义，而不是 domains）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 deviate 这个词性/语义，而不是 affix）。"
+       }
+      },
+      {
+       "locate": "Scholars have found that southern US accent features are more accepted in ____ such as government, law and service-oriented workplaces, but less accepted in the technology sector.",
+       "why": "答案是 domains：填回后与所在句 scholars、found、southern、accent、features、accepted 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 domains 这个词性/语义，而不是 deviate）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 domains 这个词性/语义，而不是 affix）。"
+       }
+      },
+      {
+       "locate": "The acceptability of nonstandard accents may ____ with differences in class and culture, with newer or higher prestige industries expecting more standard speech in the workplace.",
+       "why": "答案是 correlate：填回后与所在句 acceptability、nonstandard、accents、differences、class、culture 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlate 这个词性/语义，而不是 affix）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlate 这个词性/语义，而不是 deviate）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Timed traffic lights are set according to schedules that are supposed to coordinate with peak traffic hours. Cities need to monitor and update signal light time schedules at least every two years to keep these systems effective. In Los Angeles, California, an ambitious project to go a step further and synchronize(使同步) every red light in Los Angeles cost over 400 million dollars. Ask a resident of the city and they are likely to agree that saving time on the road is well worth it. If implemented nationwide, synchronization could shave 10% off traffic congestion(堵塞) and 20% off air pollution. Congestion costs time, money, and lives. Big data can help improve how millions of people safely share the road. However, none of this would be possible without the traffic light!"
+      },
+      {
+       "id": "B",
+       "text": "The first traffic light was invented in London in the 1860's, but it was hardly recognizable — or effective. It had been adapted from the railroad signal system by a railway manager, John Peak Knight, in 1868. The railroads used red gas lights at night to signal stops and green gas lights during the daytime. Knight installed a similar gas light, semaphore(臂板信号) system near London's Westminster Bridge in December of 1868."
+      },
+      {
+       "id": "C",
+       "text": "The life of the first traffic light signal was short-lived. A gas leak caused one of the signal lights to explode on its police officer operator within a month of being installed."
+      },
+      {
+       "id": "D",
+       "text": "Automating traffic signals stalled after the London incident. Forty years passed before cars crowding city streets urged the development of traffic lights in the United States. London would not see another traffic light until 1929."
+      },
+      {
+       "id": "E",
+       "text": "The United States is a car culture like no other country. Unlike most European cities that started urban planning when horses were high-tech, many cities in the United States were designed around urban sprawl, suburban tracts, and motor cars."
+      },
+      {
+       "id": "F",
+       "text": "As traffic and cities grew, so did the race to solve growing traffic problems. The first traffic signals were semaphores. Semaphores are towers with moving arms signaling for traffic to stop or go. They could be manual or automatic. There was no consistent design. Various models were invented and put into place in cities as the need arose."
+      },
+      {
+       "id": "G",
+       "text": "In 1912, Lester Wire was a police officer exhausted by traffic at Main Street and 200 South. He developed a manually switched stop light. The four-sided box, raised on a ten-foot pole, looked like a birdhouse and was operated manually by an officer. The officer would flip a switch to change between the dipped red and green lights."
+      },
+      {
+       "id": "H",
+       "text": "Like the 1910 semaphore, the first electric signal used words. However, the words were no longer written on arms that raised and fell. The words \"stop\" or \"move\" were on lights. The posts lit up on each of four corner-posts around an intersection(十字路口). It was not automated, though. A booth with an operator was required to flip the switches."
+      },
+      {
+       "id": "I",
+       "text": "The system allowed police officers to move from the middle of the street to a corner. From that vantage(有利地位), an officer could oversee the crowd. If an emergency vehicle came, the officer could flip a switch and clear the intersection by triggering all red lights. The emergency vehicle could now pass effortlessly. Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917."
+      },
+      {
+       "id": "J",
+       "text": "In 1920, the first three-color light system was introduced in Detroit — also known as Motor City, USA. The evolution of traffic light signals could not have a more appropriate context than Motor City. Ford Motor Company was founded in Detroit in 1903 (and other motor companies followed). Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production."
+      },
+      {
+       "id": "K",
+       "text": "Stop and go were insufficient for the new volumes of cars zooming through intersections. Streets were full of new numbers of cars in addition to delivery wagons, bustling crowds, bicycles, horse-drawn carriages, and street cars. The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights."
+      },
+      {
+       "id": "L",
+       "text": "Stop lights were incredibly important in chaotic city streets. Crosswalks weren't even introduced until 1951. The first pedestrian fatality in the United States was in 1899."
+      },
+      {
+       "id": "M",
+       "text": "The development of the modern traffic light may have started in London, but it grew up in the United States. In Cleveland, an African-American inventor named Garrett Morgan came up with an affordable, patented traffic signal. The yellow light made intersections safer than the old stop and go system. The new design was inexpensive enough that it allowed the installation of a lot more lights."
+      },
+      {
+       "id": "N",
+       "text": "Morgan sold the patent to General Electric — and the spread of the traffic light was green lighted. Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light. Yellow means slow down and prepare to stop. It does not mean full-throttle(全速) ahead. While you may get away with gunning it into the intersection, running a yellow can lead to tickets and dangerous accidents. Red lights are a clear and consistent warning to stop. Even where right turns are allowed on red lights, you must come to a complete stop before turning right. You must also yield to any through traffic, which has the right of way. In most states and cities, you can take a right on red unless otherwise indicated. New York City does not allow a right on red."
+      },
+      {
+       "id": "O",
+       "text": "Red arrows mean you cannot turn right on a red in most states. The green arrow, in these cases, is the only time you can make the turn. However, you can take a right on a red arrow after a full stop in the states of Illinois, Kansas, Louisiana, Maryland, Michigan, New Hampshire, North Dakota, Oregon, South Carolina, Utah, Washington State and Wyoming."
+      },
+      {
+       "id": "P",
+       "text": "Flashing Red is the same as a stop sign, generally used at four-way intersections where there is minimal traffic. When arriving at a flashing red light, make a full and complete stop. Flashing Red Arrows similarly mean to stop and then proceed to take the turn. Flashing Yellow lights mean yield or signal caution, like outside of a fire station. There are no all-direction flashing yellow lights, since it is prohibited in the United States. If you have a flashing yellow light, you are to yield to oncoming traffic."
+      },
+      {
+       "id": "Q",
+       "text": "Flashing Yellow Arrows are part of a four-signal traffic light. These are used in some states after a protected green turn signal, or arrow, but before a steady yellow arrow. When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic. Steady Yellow Arrows maintain the normal yellow light caution in three-light signals, meaning to stop or prepare to stop. In a four-signal system that has a flashing yellow arrow, the steady yellow arrow is a signal that the yield period is ending. The red arrow is about to start. Vehicles should stop if safely possible. Traffic tickets are possible for running a steady yellow arrow."
+      },
+      {
+       "id": "R",
+       "text": "Traffic light meaning is fairly consistent across the board with various deviations. Green means it's safe to proceed (though you should still exercise caution). Yellow means caution and yield. Red means danger and stop. Always drive defensively and obey traffic signals."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Upon seeing a flashing yellow arrow, a driver should let pedestrians and traffic pass first before taking the turn."
+      },
+      {
+       "id": "s37",
+       "text": "The red and green automatic traffic light system originated in an American city."
+      },
+      {
+       "id": "s38",
+       "text": "Residents of an American city tend to share the opinion that time saved on the road justifies the cost of upgrading its traffic light system."
+      },
+      {
+       "id": "s39",
+       "text": "Mass production of cars made it possible for ordinary people to buy them."
+      },
+      {
+       "id": "s40",
+       "text": "What a traffic light means is almost the same everywhere despite some variations."
+      },
+      {
+       "id": "s41",
+       "text": "Pedestrian crossings came into being only in the mid-twentieth century."
+      },
+      {
+       "id": "s42",
+       "text": "People raced to address increasing traffic problems along with the expansion of cities and traffic."
+      },
+      {
+       "id": "s43",
+       "text": "When the warning yellow light was introduced, driving became safer and traffic accidents reduced."
+      },
+      {
+       "id": "s44",
+       "text": "The signal system on the railroad served as the basis for the first traffic light."
+      },
+      {
+       "id": "s45",
+       "text": "Even though a green light signals \"go\", attention should be paid to traffic on either side in case some driver is being careless or ignoring a red light."
+      }
+     ],
+     "answers": [
+      "Q",
+      "I",
+      "A",
+      "J",
+      "R",
+      "L",
+      "F",
+      "K",
+      "B",
+      "N"
+     ],
+     "statementExplains": [
+      "【定位】When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic.\n【依据】陈述里的 flashing、yellow、arrow、pedestrians、traffic、turn 在 Q 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 Q 段。",
+      "【定位】Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917.\n【依据】陈述里的 red、green、automatic、light、system 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Ask a resident of the city and they are likely to agree that saving time on the road is well worth it.\n【依据】陈述里的 residents、city、time、road 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production.\n【依据】陈述里的 production、cars、made、people 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Traffic light meaning is fairly consistent across the board with various deviations.\n【依据】陈述里的 traffic、light 在 R 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 R 段。",
+      "【定位】Crosswalks weren't even introduced until 1951.\n【依据】陈述里的 crossings 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】As traffic and cities grew, so did the race to solve growing traffic problems.\n【依据】陈述里的 traffic、problems、cities、traffic 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights.\n【依据】陈述里的 yellow、light、introduced、accidents 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】The first traffic light was invented in London in the 1860's, but it was hardly recognizable — or effective.\n【依据】陈述里的 first、traffic、light 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Morgan sold the patent to General Electric — and the spread of the traffic light was green lighted.\n【依据】陈述里的 green、light、traffic、light 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。"
+     ],
+     "explain": "长篇阅读匹配：18 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic.",
+       "why": "陈述里的 flashing、yellow、arrow、pedestrians、traffic、turn 在 Q 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 Q 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917.",
+       "why": "陈述里的 red、green、automatic、light、system 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Ask a resident of the city and they are likely to agree that saving time on the road is well worth it.",
+       "why": "陈述里的 residents、city、time、road 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production.",
+       "why": "陈述里的 production、cars、made、people 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Traffic light meaning is fairly consistent across the board with various deviations.",
+       "why": "陈述里的 traffic、light 在 R 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 R 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Crosswalks weren't even introduced until 1951.",
+       "why": "陈述里的 crossings 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As traffic and cities grew, so did the race to solve growing traffic problems.",
+       "why": "陈述里的 traffic、problems、cities、traffic 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights.",
+       "why": "陈述里的 yellow、light、introduced、accidents 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The first traffic light was invented in London in the 1860's, but it was hardly recognizable — or effective.",
+       "why": "陈述里的 first、traffic、light 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Morgan sold the patent to General Electric — and the spread of the traffic light was green lighted.",
+       "why": "陈述里的 green、light、traffic、light 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Mindfulness has been shown to have a number of meaningful health benefits — it can help reduce anxiety and promote healing in those suffering from chronic illness. The practice is based on an insight first described in ancient Buddhist texts that human beings have the capacity to observe experience without being caught up in it. This means simply that it is possible to observe ourselves having a craving, or a happy thought, or even a scary emotion, without reacting in the moment in a way that amplifies the feeling or sends the mind spiraling off into thinking about old memories or anticipating events. This practice of mindfulness can help calm the mind and the body as we learn not to react to experience with likes and dislikes or judgments of good and bad. It does not make us cold or indifferent but more fully present. One of the challenges of practicing mindfulness in our contemporary world is that there has been a profound transformation in human attention. The artist Jenny Odell argues that in our \"attention economy\" human attention has been transformed into a commodity that big corporations buy and sell. This economy rests on a technological revolution of mobile phones and social media that makes it possible for corporations to target our attention with their content at every moment. The devices most people use are a perpetual diversion from the present moment. The result is that it can feel as though our ability to focus, and be fully present, has been stolen. But mindfulness can help us resist the attention economy and relish the things that make life special, like being together with those we love. Most mindfulness research focuses on the individual benefits of the practice, but some scholars assert that we can not only practice mindfulness for ourselves but also practice it for others. It can help us build stronger, healthier relationships. The sad truth is that living in the attention economy, most of us have become bad listeners. However, just as it is possible to watch ourselves having an experience without reacting, it's possible to watch another person have an experience without getting tied up in reactivity and judgment. The gift of mindfulness is a practice of listening with compassion to others describe their experiences. To give this gift means putting away your phone, turning off social media, and setting aside other common distractions. It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you. If we judge the value of gifts based on their price, this gift may seem worthless, but in a distracted world, it is a precious one.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn from the passage about practicing mindfulness?",
+       "options": [
+        "It triggers our mind to reflect on past experiences or anticipate future events.",
+        "It focuses our attention on the present moment without making judgments.",
+        "It concentrates our mind on our personal feelings, happy or scary.",
+        "It helps our mind to stay calm when facing judgments from others."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.\n【依据】正确项的核心词 attention、present、without、judgments 与定位句对得上；其余 focuses、moment、making 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.",
+        "why": "正确项的核心词 attention、present、without、judgments 与定位句对得上；其余 focuses、moment、making 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「triggers、reflect、past」全文未出现。",
+         "C": "偷换主体：「concentrates、feelings」全文未出现；把原文的「personal」换成了「concentrates、mind、feelings」，主语或对象被调包。",
+         "D": "偷换主体：「helps、stay、when」全文未出现；把原文的「judgments」换成了「helps、mind、stay」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we see in today's \"attention economy\" according to Jenny Odell?",
+       "options": [
+        "Focus on technological advances continuously updates products and services.",
+        "People's attention is turned into something that can be bought and sold.",
+        "Businesses profit from selling mobile phones and revolutionizing social media.",
+        "People tend to purchase products and services without careful thinking."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The artist Jenny Odell argues that in our \"attention economy\" human attention has been transformed into a commodity that big corporations buy and sell.\n【依据】正确项的核心词 attention、into 与定位句对得上；其余 people's、turned、something、bought 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The artist Jenny Odell argues that in our \"attention economy\" human attention has been transformed into a commodity that big corporations buy and sell.",
+        "why": "正确项的核心词 attention、into 与定位句对得上；其余 people's、turned、something、bought 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「advances、continuously、updates」全文未出现。",
+         "C": "因果倒置：「businesses、profit、selling」全文未出现。",
+         "D": "无中生有：「tend、purchase、products」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What happens with the prevalent use of mobile phones or social media?",
+       "options": [
+        "They keep distracting users from the here and now.",
+        "They render users incapable of resisting temptation.",
+        "They rob users of their ability to observe experience.",
+        "They tempt users to endorse the attention economy."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】This economy rests on a technological revolution of mobile phones and social media that makes it possible for corporations to target our attention with their content at every moment.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 keep、distracting、users、here 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This economy rests on a technological revolution of mobile phones and social media that makes it possible for corporations to target our attention with their content at every moment.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 keep、distracting、users、here 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「render、users、incapable」全文未出现。",
+         "C": "因果倒置：「rob、users」全文未出现。",
+         "D": "无中生有：「tempt、users、endorse」全文未出现；把原文的「attention、economy」换成了「tempt、users、endorse」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What benefit can practicing mindfulness bring to us according to some scholars?",
+       "options": [
+        "It prevents us from making arbitrary judgments about others.",
+        "It shifts our attention from material things to spiritual pursuits.",
+        "It is conducive to our forging better interpersonal relationships.",
+        "It is helpful in regaining our ability to enjoy what we have in life."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Most mindfulness research focuses on the individual benefits of the practice, but some scholars assert that we can not only practice mindfulness for ourselves but also practice it for others.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 conducive、forging、better、interpersonal 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Most mindfulness research focuses on the individual benefits of the practice, but some scholars assert that we can not only practice mindfulness for ourselves but also practice it for others.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 conducive、forging、better、interpersonal 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「prevents、making、arbitrary」全文未出现；把原文的「others」换成了「prevents、making、arbitrary」，主语或对象被调包。",
+         "B": "无中生有：「shifts、material、spiritual」全文未出现。",
+         "D": "无中生有：「helpful、regaining、enjoy」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author suggest we do in another person's presence?",
+       "options": [
+        "Share each other's experience frankly and compassionately.",
+        "Pay full attention to establishing close relationships with them.",
+        "Be attentive listeners while refraining from making judgments.",
+        "Remind them of the distraction from mobile phones and social media."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.\n【依据】正确项的核心词 attentive、listeners、while、judgments 与定位句对得上；其余 refraining、making 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.",
+        "why": "正确项的核心词 attentive、listeners、while、judgments 与定位句对得上；其余 refraining、making 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「share、each、other's」全文未出现。",
+         "B": "无中生有：「pay、full、establishing」全文未出现；把原文的「attention」换成了「pay、full、establishing」，主语或对象被调包。",
+         "D": "因果倒置：「remind、distraction」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 452 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "The other day I had to log into a service I hadn't used before. Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine. I was presented with an image of a roadside scene over which was laid a grid. My \"challenge\" was to click on each cell in the grid that contained a traffic sign. I did so, a bit irritated. Then I was presented with another image and another grid — also with a request to identify road signs. Like a lamb, I complied, after which the website accepted my input. And then I realised what I had been doing was adding to a dataset for training the machine-learning software that guides self-driving cars. So, to gain access to an automated service that will benefit financially from my input, I first have to do some unpaid labor to help improve the performance of autonomous vehicles. Neat, eh? But note also the delicious additional irony that the Captcha is described as an \"automated Turing test\". The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn't tell whether it was a human or a robot. So we have wandered into a world in which machines make us do tricks to prove that we are humans! The strangest aspect of this unparalleled shift is how under-discussed it has been. The metaphor of the boiling frog comes to mind. Have we become so subtly conditioned by digital technology that we don't see what's been happening to us? Have we been conditioned to accept a world governed by \"smart\" tech, trading convenience to the point where we become a bit like machines ourselves? In a recent startling and thoughtful book, two scholars — Brett Frischmann, a law professor, and Evan Selinger, a philosopher — argue that the answer to that question is \"yes\". And they're right. There's nothing technophobic(技术恐惧的) about that. We shape our tools and then our tools shape us. Technology is supposed to provide tools that serve human ends. But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours. In the process, they reduce us to the status of cheery rats running on treadmills(踏车) designed by people who do not have our interests at heart. So back to the frog metaphor. Are we smart enough to jump out before it's too late? You don't even have to Google it to know the answer.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "How did the author respond to the Captcha test?",
+       "options": [
+        "He clicked on the cells randomly.",
+        "He accepted the challenge readily.",
+        "He completed it confidently.",
+        "He worked on it submissively."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 worked、submissively 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 worked、submissively 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「clicked、cells、randomly」全文未出现。",
+         "B": "因果倒置：「readily」全文未出现。",
+         "C": "无中生有：「completed、confidently」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is ironic about the Captcha test?",
+       "options": [
+        "A machine can respond to the test as well as humans do.",
+        "A machine can outperform humans in object identification.",
+        "A test designed to test machines is now used by machines to test humans.",
+        "A test conceived to tell a human from a robot can now do tricks humans can't."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine.\n【依据】正确项的核心词 test、test、machines、machines、test 与定位句对得上；其余 designed、now、used、humans 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine.",
+        "why": "正确项的核心词 test、test、machines、machines、test 与定位句对得上；其余 designed、now、used、humans 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「well」全文未出现；把原文的「machine、test」换成了「respond、well、humans」，主语或对象被调包。",
+         "B": "无中生有：「outperform、object、identification」全文未出现；把原文的「machine」换成了「outperform、humans、object」，主语或对象被调包。",
+         "D": "偷换主体：「can't」全文未出现；把原文的「test、robot」换成了「conceived、tell、human」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "Why does the author use the metaphor of the boiling frog?",
+       "options": [
+        "To show that humans are unwilling to trade convenience for control by smart tech.",
+        "To show that humans are unaware of the potential danger brought by smart tech.",
+        "To question whether humans are conditioned to accept digital tech.",
+        "To question whether humans are as vulnerable as the boiling frog."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The metaphor of the boiling frog comes to mind.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 show、humans、unaware、potential 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The metaphor of the boiling frog comes to mind.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 show、humans、unaware、potential 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「show、unwilling、trade」全文未出现。",
+         "C": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "偷换主体：「vulnerable」全文未出现；把原文的「boiling、frog」换成了「question、whether、humans」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "Why does the author think that Brett Frischmann and Evan Selinger are right?",
+       "options": [
+        "A large part of digital tech is now making use of humans to meet its own ends.",
+        "Humans are now fast locked in a race against digital tech to control the world.",
+        "Digital tech can serve human needs in ways previously thought impossible.",
+        "Digital tech is now doing thinking while humans are doing repetitive work."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】In a recent startling and thoughtful book, two scholars — Brett Frischmann, a law professor, and Evan Selinger, a philosopher — argue that the answer to that question is \"yes\".\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 large、part、digital、tech 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In a recent startling and thoughtful book, two scholars — Brett Frischmann, a law professor, and Evan Selinger, a philosopher — argue that the answer to that question is \"yes\".",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 large、part、digital、tech 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「fast、locked、race」全文未出现。",
+         "C": "偷换主体：「needs、ways、previously」全文未出现；把原文的「thought」换成了「digital、tech、serve」，主语或对象被调包。",
+         "D": "因果倒置：「thinking、while、repetitive」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author imply by asking \"Are we smart enough to jump out before it's too late?\" at the end of the passage?",
+       "options": [
+        "It is not sensible to expect digital tech to take humans' interest to heart.",
+        "It is hard to say whether technology or humans will get the upper hand.",
+        "We may have to search the web to get the answer to the question.",
+        "We may not awake in time to the danger digital tech poses to us."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Are we smart enough to jump out before it's too late?\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 awake、time、danger、digital 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Are we smart enough to jump out before it's too late?",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 awake、time、danger、digital 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「sensible、expect、take」全文未出现。",
+         "B": "无中生有：「hard、say、get」全文未出现。",
+         "C": "无中生有：「search、web、get」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "节俭是中华民族的传统美德。在中国古代，生产力低下，先人们深知劳动成果来之不易，因而秉持节俭的理念。到了物质极大丰富的今天，中国人民依然坚持节俭的生活方式，体现了理性消费的生活理念和对劳动的尊重。近年来，中国政府持续加强节约型社会的建设，倡导\"光盘行动\"，减少食物浪费，提倡简约低碳的生活方式，推进资源循环利用，反对过度消费。节约型社会的建设有力地推动了中国经济的高质量发展。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

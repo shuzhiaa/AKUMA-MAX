@@ -1,0 +1,611 @@
+{
+ "id": "cet4-2024-12-3",
+ "levelId": "cet4",
+ "title": "四级 2024 年 12 月 第 3 套",
+ "minutes": 125,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2024年12月英语四级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2024-12-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose the university newspaper is inviting submissions from the students for its coming edition on how the students can contribute to a green campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "A green campus is no longer a slogan but a shared responsibility, and students play a key role in making it real.\nAs members of the campus, we can turn small daily habits into real changes.\nThere are several practical things we can do. First, we should sort our rubbish and recycle paper, bottles and\ncans, which cuts waste and saves resources. Second, saving water and switching off lights and computers when\nthey are not in use can greatly reduce the energy our campus consumes. Moreover, choosing to walk, cycle or\nshare bikes for short trips lowers carbon emissions, and passing used textbooks on to younger students gives\nthem a second life instead of being thrown away.\nIn short, a green campus grows out of these everyday actions rather than empty talk. If every student takes one\nsmall step, our campus will surely become cleaner, greener and more livable for us all."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Super realistic masks are made from flexible materials such as silicone and are designed to imitate real human face—down to every last detail. In a study by the Universities of York and Kyoto, researchers asked participants to look at pairs of photographs and decide which showed a {{1}} face and which showed a person wearing a mask. Surprisingly, participants made the wrong call in one-in-five cases. The 20% error rate {{2}} in the study likely underestimates the extent to which people would struggle to tell an {{3}} face from the real thing outside of the lab. The researchers collected data from participants from both the UK and Japan to {{4}} any differences according to race. When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less {{5}} . There are now dozens of criminal cases in which offenders have {{6}} themselves off as people of a different age, race or gender, sending police investigations down the wrong path. In one recent case, an international gang used an {{7}} realistic mask to pose as a French minister, {{8}} business executives out of millions of pounds. Dr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may {{9}} the key characteristics of a person's appearance to be {{10}} identified.\"",
+     "options": [
+      "accurate",
+      "allow",
+      "artificial",
+      "cheating",
+      "deserted",
+      "establish",
+      "extremely",
+      "immediately",
+      "incorrectly",
+      "normal",
+      "observed",
+      "passed",
+      "reminding",
+      "reparable",
+      "resolve"
+     ],
+     "answers": [
+      9,
+      10,
+      2,
+      5,
+      0,
+      11,
+      6,
+      3,
+      1,
+      8
+     ],
+     "blankExplains": [
+      "【定位】In a study by the Universities of York and Kyoto, researchers asked participants to look at pairs of photographs and decide which showed a ____ face and which showed a person wearing a mask.\n【依据】答案是 normal：填回后与所在句 study、universities、york、kyoto、researchers、asked 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The 20% error rate ____ in the study likely underestimates the extent to which people would struggle to tell an  … face from the real thing outside of the lab.\n【依据】答案是 observed：填回后与所在句 error、rate、study、likely、underestimates、extent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The 20% error rate  … in the study likely underestimates the extent to which people would struggle to tell an ____ face from the real thing outside of the lab.\n【依据】答案是 artificial：填回后与所在句 error、rate、study、likely、underestimates、extent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The researchers collected data from participants from both the UK and Japan to ____ any differences according to race.\n【依据】答案是 establish：填回后与所在句 researchers、collected、data、participants、both、japan 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less ____ .\n【依据】答案是 accurate：填回后与所在句 when、trial、participants、asked、choose、between 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】There are now dozens of criminal cases in which offenders have ____ themselves off as people of a different age, race or gender, sending police investigations down the wrong path.\n【依据】答案是 passed：填回后与所在句 there、now、dozens、criminal、cases、which 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In one recent case, an international gang used an ____ realistic mask to pose as a French minister,  … business executives out of millions of pounds.\n【依据】答案是 extremely：填回后与所在句 recent、case、international、gang、used、realistic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In one recent case, an international gang used an  … realistic mask to pose as a French minister, ____ business executives out of millions of pounds.\n【依据】答案是 cheating：填回后与所在句 recent、case、international、gang、used、realistic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Dr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may ____ the key characteristics of a person's appearance to be  … identified.\"\n【依据】答案是 allow：填回后与所在句 jet、sanders、who、worked、study、while 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Dr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may  … the key characteristics of a person's appearance to be ____ identified.\"\n【依据】答案是 incorrectly：填回后与所在句 jet、sanders、who、worked、study、while 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "In a study by the Universities of York and Kyoto, researchers asked participants to look at pairs of photographs and decide which showed a ____ face and which showed a person wearing a mask.",
+       "why": "答案是 normal：填回后与所在句 study、universities、york、kyoto、researchers、asked 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 normal 这个词性/语义，而不是 accurate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 normal 这个词性/语义，而不是 allow）。"
+       }
+      },
+      {
+       "locate": "The 20% error rate ____ in the study likely underestimates the extent to which people would struggle to tell an  … face from the real thing outside of the lab.",
+       "why": "答案是 observed：填回后与所在句 error、rate、study、likely、underestimates、extent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 observed 这个词性/语义，而不是 accurate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 observed 这个词性/语义，而不是 allow）。"
+       }
+      },
+      {
+       "locate": "The 20% error rate  … in the study likely underestimates the extent to which people would struggle to tell an ____ face from the real thing outside of the lab.",
+       "why": "答案是 artificial：填回后与所在句 error、rate、study、likely、underestimates、extent 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 artificial 这个词性/语义，而不是 accurate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 artificial 这个词性/语义，而不是 allow）。"
+       }
+      },
+      {
+       "locate": "The researchers collected data from participants from both the UK and Japan to ____ any differences according to race.",
+       "why": "答案是 establish：填回后与所在句 researchers、collected、data、participants、both、japan 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 establish 这个词性/语义，而不是 extremely）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 establish 这个词性/语义，而不是 accurate）。"
+       }
+      },
+      {
+       "locate": "When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less ____ .",
+       "why": "答案是 accurate：填回后与所在句 when、trial、participants、asked、choose、between 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 accurate 这个词性/语义，而不是 allow）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 accurate 这个词性/语义，而不是 artificial）。"
+       }
+      },
+      {
+       "locate": "There are now dozens of criminal cases in which offenders have ____ themselves off as people of a different age, race or gender, sending police investigations down the wrong path.",
+       "why": "答案是 passed：填回后与所在句 there、now、dozens、criminal、cases、which 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 passed 这个词性/语义，而不是 accurate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 passed 这个词性/语义，而不是 allow）。"
+       }
+      },
+      {
+       "locate": "In one recent case, an international gang used an ____ realistic mask to pose as a French minister,  … business executives out of millions of pounds.",
+       "why": "答案是 extremely：填回后与所在句 recent、case、international、gang、used、realistic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 extremely 这个词性/语义，而不是 establish）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 extremely 这个词性/语义，而不是 accurate）。"
+       }
+      },
+      {
+       "locate": "In one recent case, an international gang used an  … realistic mask to pose as a French minister, ____ business executives out of millions of pounds.",
+       "why": "答案是 cheating：填回后与所在句 recent、case、international、gang、used、realistic 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cheating 这个词性/语义，而不是 accurate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cheating 这个词性/语义，而不是 allow）。"
+       }
+      },
+      {
+       "locate": "Dr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may ____ the key characteristics of a person's appearance to be  … identified.\"",
+       "why": "答案是 allow：填回后与所在句 jet、sanders、who、worked、study、while 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 allow 这个词性/语义，而不是 accurate）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 allow 这个词性/语义，而不是 artificial）。"
+       }
+      },
+      {
+       "locate": "Dr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may  … the key characteristics of a person's appearance to be ____ identified.\"",
+       "why": "答案是 incorrectly：填回后与所在句 jet、sanders、who、worked、study、while 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 incorrectly 这个词性/语义，而不是 immediately）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 incorrectly 这个词性/语义，而不是 accurate）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Most people have a dream in life, a vision of who or what they'd like to be in the future. At a minimum, everyone has interests and values that determine what they want out of their lives. Even so, trying to set achievable goals that you'll work for over the course of many years can be extremely challenging. It can be hard to know where to even begin, and the things you hope to achieve may seem impossible. But, if you're well prepared you may be able to set goals for your life that are just as fulfilling to work toward as to achieve."
+      },
+      {
+       "id": "B",
+       "text": "We all have goals that we want to achieve in our lives. These goals may include learning a new language, eating healthier and losing weight, becoming a better parent, saving more money, and so on. It can be easy to assume that the gap between where you are now and where you want to be in the future is caused by a lack of knowledge. This is why we buy courses on how to start a business or how to lose weight fast or how to learn a new language in three months. We assume that if we knew about a better strategy, then we would get better results. We believe that a new result requires new knowledge."
+      },
+      {
+       "id": "C",
+       "text": "What I'm starting to realize, however, is that new knowledge does not necessarily drive new results. In fact, learning something new can actually be a waste of time if your goal is to make progress and not simply gain additional knowledge."
+      },
+      {
+       "id": "D",
+       "text": "It all comes down to the difference between learning and practicing. Thomas Sterner, in his book *The Practicing Mind*, explains the key difference between practicing and learning. He says: \"When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal.\" Here the words \"deliberate\" and \"intention\" are key, because they define the difference between actively practicing something and passively learning it."
+      },
+      {
+       "id": "E",
+       "text": "Learning something new and practicing something new may seem very similar, but these two methods can have profoundly different results. Here are some additional ways to think about the difference. Let's say your goal is to get stronger and more fit. You can research the best instructions on weight lifting technique, but the only way to build strength is to practice lifting weights. Let's say your goal is to grow your startup. You can learn about the best way to make a sales pitch, but the only way to actually land customers is to practice making sales calls. Let's say your goal is to write a book. You can talk to a best-selling author about writing, but the only way to become a better writer is to practice publishing consistently."
+      },
+      {
+       "id": "F",
+       "text": "Passive learning creates knowledge. Active practice creates skill. Let's consider a couple more reasons to prioritize active practice over passive learning. First, passive learning can be a stick that supports inaction. In many cases, learning is actually a way to avoid taking action on the goals and interests that we say are important to us. For example, let's say you want to learn a foreign language. Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (\"Hey, I'm figuring out the best way to do this!\"). Of course, you're not actually practicing the action that would deliver your desired outcome (speaking the foreign language)."
+      },
+      {
+       "id": "G",
+       "text": "In situations like this one, we often claim that we are preparing or researching the best method, but these rationalizations allow us to feel like we are moving forward when we are merely spinning our wheels. We make the mistake of being in motion rather than taking action. Learning is valuable until it becomes a form of procrastination(拖延)."
+      },
+      {
+       "id": "H",
+       "text": "Another point to consider is that practice is learning, but learning is not practice. Passive learning is not a form of practice because although you gain new knowledge, you are not discovering how to apply that knowledge. Active practice, meanwhile, is one of the greatest forms of learning because the mistakes you make while practicing reveal important insights."
+      },
+      {
+       "id": "I",
+       "text": "Even more importantly, practice is the only way to make a meaningful contribution with your knowledge. You can watch an online course about how to build a business or read an article about a terrible disaster in a developing nation, but that knowledge is unproductive unless you actually launch your business or donate to those in need. Learning by itself can be valuable for you, but if you want to be valuable to others, then you have to express your knowledge in some way."
+      },
+      {
+       "id": "J",
+       "text": "The last important point to consider is that practice focuses your energy on the process. Thomas Sterner once said, \"Progress is a natural result of staying focused on the process of doing anything.\" The state of your life right now is a result of the habits and beliefs that you have been practicing each day. When you realize this and begin to direct your focus toward practicing better habits day-in and day-out, continual progress will be the logical outcome. It is not the things we learn nor the dreams we visualize that determine our results, but rather the habits that we practice each day. Fall in love with boredom and focus your energy on the process, not the product."
+      },
+      {
+       "id": "K",
+       "text": "What does this all mean? Is passive learning useless? Of course not. In many cases, learning for the sake of learning can be a beautiful thing. Not to mention that soaking up new information can help you make more informed decisions when you do decide to take action. That said, the main point of this article is that learning by itself does not lead to progress. We often hide behind information and use learning as an excuse to delay the more difficult and more important choice of actually doing something. Spend less time passively learning and more time actively practicing. Stop thinking and start doing."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Acquisition of new knowledge may not guarantee the progress that you aim to make."
+      },
+      {
+       "id": "s37",
+       "text": "Your current situation in life is built on the beliefs and habits you have been practicing daily."
+      },
+      {
+       "id": "s38",
+       "text": "Knowing the best way to learn a foreign language will not enable you to speak it without actual practice."
+      },
+      {
+       "id": "s39",
+       "text": "People may find it demanding to create a goal which will take a long time to achieve."
+      },
+      {
+       "id": "s40",
+       "text": "Learning and practicing seem to be very much alike, but the two processes can lead to quite different outcomes."
+      },
+      {
+       "id": "s41",
+       "text": "Absorbing new information is helpful in making better decisions prior to action."
+      },
+      {
+       "id": "s42",
+       "text": "Sometimes we may feel like we are making progress by doing some research or making preparations, but actually we are staying at the starting point."
+      },
+      {
+       "id": "s43",
+       "text": "We are inclined to think that a lack of knowledge prevents us from advancing to a better future."
+      },
+      {
+       "id": "s44",
+       "text": "Learning can benefit you by itself, but only practice can turn what you learn into meaningful contributions."
+      },
+      {
+       "id": "s45",
+       "text": "Practice involves repeating a process intentionally to attain a particular objective."
+      }
+     ],
+     "answers": [
+      "C",
+      "J",
+      "F",
+      "A",
+      "E",
+      "K",
+      "G",
+      "B",
+      "I",
+      "D"
+     ],
+     "statementExplains": [
+      "【定位】In fact, learning something new can actually be a waste of time if your goal is to make progress and not simply gain additional knowledge.\n【依据】陈述里的 new、knowledge、progress、make 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Thomas Sterner once said, \"Progress is a natural result of staying focused on the process of doing anything.\" The state of your life right now is a result of the habits and beliefs that you have been practicing each day.\n【依据】陈述里的 life、beliefs、habits、practicing 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (\"Hey, I'm figuring out the best way to do this!\").\n【依据】陈述里的 best、way、learn、foreign、language 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Most people have a dream in life, a vision of who or what they'd like to be in the future.\n【依据】陈述里的 people 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Learning something new and practicing something new may seem very similar, but these two methods can have profoundly different results.\n【依据】陈述里的 learning、practicing、seem、very、two、different 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Not to mention that soaking up new information can help you make more informed decisions when you do decide to take action.\n【依据】陈述里的 new、information、decisions、action 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】In situations like this one, we often claim that we are preparing or researching the best method, but these rationalizations allow us to feel like we are moving forward when we are merely spinning our wheels.\n【依据】陈述里的 feel、like、research、preparations 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】It can be easy to assume that the gap between where you are now and where you want to be in the future is caused by a lack of knowledge.\n【依据】陈述里的 lack、knowledge、future 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Even more importantly, practice is the only way to make a meaningful contribution with your knowledge.\n【依据】陈述里的 only、practice、meaningful、contributions 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】He says: \"When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal.\" Here the words \"deliberate\" and \"intention\" are key, because they define the difference between actively practicing something and passively learning it.\n【依据】陈述里的 practice、involves、process、intentionally 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "In fact, learning something new can actually be a waste of time if your goal is to make progress and not simply gain additional knowledge.",
+       "why": "陈述里的 new、knowledge、progress、make 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Thomas Sterner once said, \"Progress is a natural result of staying focused on the process of doing anything.\" The state of your life right now is a result of the habits and beliefs that you have been practicing each day.",
+       "why": "陈述里的 life、beliefs、habits、practicing 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (\"Hey, I'm figuring out the best way to do this!\").",
+       "why": "陈述里的 best、way、learn、foreign、language 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Most people have a dream in life, a vision of who or what they'd like to be in the future.",
+       "why": "陈述里的 people 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Learning something new and practicing something new may seem very similar, but these two methods can have profoundly different results.",
+       "why": "陈述里的 learning、practicing、seem、very、two、different 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Not to mention that soaking up new information can help you make more informed decisions when you do decide to take action.",
+       "why": "陈述里的 new、information、decisions、action 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In situations like this one, we often claim that we are preparing or researching the best method, but these rationalizations allow us to feel like we are moving forward when we are merely spinning our wheels.",
+       "why": "陈述里的 feel、like、research、preparations 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It can be easy to assume that the gap between where you are now and where you want to be in the future is caused by a lack of knowledge.",
+       "why": "陈述里的 lack、knowledge、future 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Even more importantly, practice is the only way to make a meaningful contribution with your knowledge.",
+       "why": "陈述里的 only、practice、meaningful、contributions 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "He says: \"When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal.\" Here the words \"deliberate\" and \"intention\" are key, because they define the difference between actively practicing something and passively learning it.",
+       "why": "陈述里的 practice、involves、process、intentionally 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. Recent evidence points to drivers' limited understanding of what these systems can and cannot do as a contributing factor to system misuse. A recent study tackles the issue of over-trusting drivers and the resulting system misuse from a legal viewpoint. It looks at what the manufacturers of self-driving cars should legally do to ensure that drivers understand how to use the vehicles appropriately. One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products. But this is far from ideal. The agreement may not provide enough information to the driver, leading to confusion about the nature of the requests for agreement and their implications. Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading. Among young people, 97 percent agree without reviewing the terms. The issue is that, unlike using a smartphone app, operating a car has serious safety risks, whether the driver is human or software. And human drivers need to consent to take responsibility for the outcomes of the software and hardware. \"Warning fatigue\" and distracted driving are also causes for concern. For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. Or, if the message is presented while the vehicle is in motion, it could represent a distraction. Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction(发生故障) or an accident occur. Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. This needs to occur beyond the vehicle purchase. Recent evidence shows even relying on the information provided by the seller is not going to answer many questions. All of this considered, the road forward for self-driving cars is not going to be a smooth ride after all.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn from research in human-vehicle interaction?",
+       "options": [
+        "Automatic driving systems are by no means immune to errors.",
+        "Driverless vehicles are likely to be misused by some people.",
+        "Self-driving car manufacturers are not aware of the legal matters involved.",
+        "There is a long way to go before humans can interact with driverless vehicles."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof.\n【依据】正确项的核心词 automatic、driving、systems、errors 与定位句对得上；其余 means、immune 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof.",
+        "why": "正确项的核心词 automatic、driving、systems、errors 与定位句对得上；其余 means、immune 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「driverless、misused」全文未出现。",
+         "C": "因果倒置：「aware、matters、involved」全文未出现。",
+         "D": "无中生有：「there、long、way」全文未出现；把原文的「humans、interact」换成了「there、long、way」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What is the problem with requiring buyers to sign end-user license agreements?",
+       "options": [
+        "End users, young and old alike, find the terms complex to interpret.",
+        "Most end users sign them without bothering to read the terms.",
+        "Many people are often confused by the wording of the terms.",
+        "Most end users do not understand the terms after reading them through."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products.\n【依据】正确项的核心词 sign、terms 与定位句对得上；其余 end、users、without、bothering 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products.",
+        "why": "正确项的核心词 sign、terms 与定位句对得上；其余 end、users、without、bothering 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「old、alike、find」全文未出现；把原文的「terms」换成了「end、users、young」，主语或对象被调包。",
+         "C": "无中生有：「often、confused、wording」全文未出现；把原文的「terms」换成了「many、people、often」，主语或对象被调包。",
+         "D": "偷换主体：「through」全文未出现；把原文的「terms」换成了「end、users、understand」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What would drivers do when they suffer from \"warning fatigue\"?",
+       "options": [
+        "Waste no time keeping the car moving.",
+        "Rest a while to avoid fatigue driving.",
+        "Take no action despite repeated warnings.",
+        "Take note of the message though fatigued."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message.\n【依据】正确项的核心词 warnings 与定位句对得上；其余 take、action、despite、repeated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message.",
+        "why": "正确项的核心词 warnings 与定位句对得上；其余 take、action、despite、repeated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「waste、time、keeping」全文未出现。",
+         "B": "因果倒置：「rest、avoid」全文未出现。",
+         "D": "无中生有：「note、though、fatigued」全文未出现；把原文的「message」换成了「take、note、though」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does the author think of continuing to ask buyers to sign end-user license agreements?",
+       "options": [
+        "It will probably not guarantee the safety of drivers in case of accidents.",
+        "It likely won't ensure that the automatic driving system functions properly.",
+        "It likely won't fully protect automakers against accusations of deliberate cheating.",
+        "It will probably not provide manufacturers adequate protection from legal responsibilities."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 probably、provide、manufacturers、adequate 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 probably、provide、manufacturers、adequate 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「probably、guarantee、case」全文未出现。",
+         "B": "因果倒置：「automatic、functions、properly」全文未出现。",
+         "C": "因果倒置：「against、accusations、deliberate」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What should be done to help drivers fully understand system capabilities and limitations?",
+       "options": [
+        "Training them to be experts in vehicle automation.",
+        "Familiarizing them with the systems through training.",
+        "Broadening their knowledge of accident-prevention mechanisms.",
+        "Facilitating their access to the information provided by the seller."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations.\n【依据】正确项的核心词 systems、training 与定位句对得上；其余 familiarizing、through 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations.",
+        "why": "正确项的核心词 systems、training 与定位句对得上；其余 familiarizing、through 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「experts、automation」全文未出现；把原文的「training、vehicle」换成了「experts、automation」，主语或对象被调包。",
+         "C": "无中生有：「broadening、knowledge、accident-prevention」全文未出现。",
+         "D": "因果倒置：「facilitating、access」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 346 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Do you ever blend up a protein drink for breakfast, or grab a protein bar following an afternoon workout? If so, you are likely among the millions of people in search of more protein-rich diets. Protein-enriched products are found everywhere. But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need. Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. Global retail sales of protein supplement products reached an astonishing US$18.9 billion in 2020. But are we really in need of more protein? Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein. In fact, Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level. For example, if you're a dedicated athlete you might need to consume higher quantities of protein. Generally, though, a 140-pound person should not exceed 120 grams of protein per day, particularly because a high protein diet can strain kidney and liver function and increase risks of developing heart disease and cancer. While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite. In the 1970s through the 1990s, protein products remained visible but moved back somewhat with the dietary spotlight firmly fixed on low-calorie, low-fat, sugar-free snack foods and beverages following the publication of studies linking sugar and saturated(饱和的) fat consumption to heart disease. Later research in 2003, however, suggested high-protein diets could aid in weight loss, and protein quickly regained its former nutrient-superstar status. Now most people living in high-income nations are consuming enough protein. When we replace meals with a protein bar or drink, we also risk missing out on the rich sources of antioxidants(抗氧化剂), vitamins and many other benefits of real food.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn about publicity over protein in America?",
+       "options": [
+        "It has helped to create the myth of protein deficiency.",
+        "It has helped Americans in search of protein-rich diets.",
+        "It has raised a lot of health concerns among the public.",
+        "It has been funded by food companies and health experts."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need.\n【依据】正确项的核心词 protein 与定位句对得上；其余 helped、create、myth、deficiency 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need.",
+        "why": "正确项的核心词 protein 与定位句对得上；其余 helped、create、myth、deficiency 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「helped」全文未出现；把原文的「americans、protein-rich」换成了「helped、search、diets」，主语或对象被调包。",
+         "C": "无中生有：「raised、lot、concerns」全文未出现；把原文的「public」换成了「raised、lot、health」，主语或对象被调包。",
+         "D": "因果倒置：「funded」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "Why have physicians in the U.S. never actually examined a patient with protein deficiency?",
+       "options": [
+        "Americans can purchase many kinds of protein-rich foods everywhere.",
+        "Americans can absorb the number of calories recommended by food experts.",
+        "Americans can get sufficient protein just by eating adequate foods daily.",
+        "Americans can rely on food supplements to prevent protein deficiency."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein.\n【依据】正确项的核心词 protein、eating、adequate、daily 与定位句对得上；其余 americans、get、sufficient、just 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein.",
+        "why": "正确项的核心词 protein、eating、adequate、daily 与定位句对得上；其余 americans、get、sufficient、just 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「purchase、kinds」全文未出现；把原文的「protein-rich」换成了「americans、purchase、many」，主语或对象被调包。",
+         "B": "偷换主体：「absorb」全文未出现；把原文的「number、calories」换成了「americans、absorb、recommended」，主语或对象被调包。",
+         "D": "无中生有：「rely、supplements、prevent」全文未出现；把原文的「protein、deficiency」换成了「americans、rely、food」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What should people take into consideration in deciding on the most preferable protein intake?",
+       "options": [
+        "How healthy they are and what food they eat.",
+        "How old they are and what activities they do.",
+        "How much protein they consume and what their body weight is.",
+        "How serious their protein deficiency is and what remedies they use."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In fact, Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level.\n【依据】正确项的核心词 activities 与定位句对得上；其余 how、old、what 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In fact, Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level.",
+        "why": "正确项的核心词 activities 与定位句对得上；其余 how、old、what 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「how、healthy、what」全文未出现。",
+         "C": "无中生有：「how、what、body」全文未出现；把原文的「protein、consume」换成了「how、much、what」，主语或对象被调包。",
+         "D": "无中生有：「how、serious、what」全文未出现；把原文的「protein」换成了「how、serious、deficiency」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What foods have been largely out of favor for more than a century?",
+       "options": [
+        "Sugar-free snacks.",
+        "Protein-rich foods.",
+        "Both red and white meats.",
+        "Sugary and fatty foods."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite.\n【依据】正确项的核心词 sugary 与定位句对得上；其余 fatty、foods 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite.",
+        "why": "正确项的核心词 sugary 与定位句对得上；其余 fatty、foods 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「snacks」全文未出现；把原文的「sugar-free」换成了「snacks」，主语或对象被调包。",
+         "B": "偷换主体：把原文的「protein-rich」换成了「foods」，主语或对象被调包。",
+         "C": "无中生有：「both、red、white」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author imply people in developed countries should do to keep healthy?",
+       "options": [
+        "Enjoy natural food.",
+        "Eat vegetarian diets.",
+        "Consume enough protein daily.",
+        "Replace meals with protein bars."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts.\n【依据】正确项的核心词 food 与定位句对得上；其余 enjoy、natural 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts.",
+        "why": "正确项的核心词 food 与定位句对得上；其余 enjoy、natural 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「eat、vegetarian」全文未出现。",
+         "C": "偷换主体：把原文的「protein」换成了「consume、enough、daily」，主语或对象被调包。",
+         "D": "偷换主体：「bars」全文未出现；把原文的「protein」换成了「replace、meals、bars」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 345 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "敦煌莫高窟(Mogao Grottoes)数字展示中心于2014年开放启用,是莫高窟保护利用工程的重要组成部分。展示中心采用数字技术和多媒体展示手段,使游客进入洞窟参观之前就能了解莫高窟的历史文化,鉴赏莫高窟的艺术经典。这将减少开放洞窟的数量,缩短游客在洞窟内的逗留时间,减轻参观对莫高窟造成的影响,以使这一世界文化遗产得到妥善保护、长久利用。",
+     "reference": "The Mogao Grottoes Digital Exhibition Center, which opened in 2014, is an important part of the project for the protection and utilization of the Mogao Grottoes. The center adopts digital technology and multimedia means, enabling visitors to learn about the history and culture of the Mogao Grottoes and appreciate its artistic classics before they enter the caves. This will reduce the number of open caves, shorten the time visitors stay inside, and lessen the impact of visits on the Mogao Grottoes, so that this World Cultural Heritage site can be properly protected and used over the long term",
+     "keyPoints": [
+      "The Mogao Grottoes Digital Exhibition Center, which opened in 2014, is an important part of the project for the protection and utilization of the Mogao Grottoes.",
+      "The center adopts digital technology and multimedia means, enabling visitors to learn about the history and culture of the Mogao Grottoes and appreciate its artistic classics before they enter the caves.",
+      "This will reduce the number of open caves, shorten the time visitors stay inside, and lessen the impact of visits on the Mogao Grottoes, so that this World Cultural Heritage site can be properly protected and used over the long term"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1184 @@
+{
+ "id": "cet6-2025-06-2",
+ "levelId": "cet6",
+ "title": "六级 2025 年 06 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年6月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2025-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2025-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W: 现在只剩下两个候选人竞争一个职位了"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 是的，但这不是一个容易做出的选择"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 那我们就开始吧"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 我同意。或许唯一值得一提的区别是"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 确实，这一点值得注意"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 是的。她问了一些关于这个职位和公司的很好的问题"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 我也这么认为。现在我们来看看Peter的面试表现"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 没错。我在笔记中写道"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 有意思。所以我们都认为"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 把他们放在一起比较时"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 当然。也许他只是没那么紧张"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "Why does the man think it is difficult to make the decision?",
+       "options": [
+        "They have to make a choice by the end of the day.",
+        "Both candidates are very keen on getting the job.",
+        "They hold different views on the procedure.",
+        "Both candidates are quite competitive."
+       ],
+       "optionsZh": [
+        "他们必须在今天结束前做出选择。",
+        "两位候选人都非常渴望得到这份工作。",
+        "他们对程序持有不同看法。",
+        "两位候选人都很有竞争力。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Both candidates are quite competitive.（两位候选人都很有竞争力。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What do the speakers say may be worth noting?",
+       "options": [
+        "Both Rachel and Peter came across as respectful and professional.",
+        "Rachel scored moderately higher grades than Peter at school.",
+        "Both Rachel and Peter excelled in their academic pursuit.",
+        "Peter appeared slightly stronger than Rachel physically."
+       ],
+       "optionsZh": [
+        "Rachel和Peter都表现得既尊重他人又很专业。",
+        "Rachel在学校的成绩略高于Peter。",
+        "Rachel和Peter在学业追求上都很出色。",
+        "Peter在体格上似乎略强于Rachel。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Rachel scored moderately higher grades than Peter at school.（Rachel在学校的成绩略高于Peter。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "According to the man, what might account for Peter appearing somewhat more self-assured than Rachel?",
+       "options": [
+        "His use of body language.",
+        "His accumulation of experience.",
+        "His unusual state of mind.",
+        "His knowledge about the company."
+       ],
+       "optionsZh": [
+        "他对肢体语言的使用。",
+        "他积累的经验。",
+        "他不寻常的精神状态。",
+        "他对公司的了解。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：His use of body language.（他对肢体语言的使用。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the man say they will do if they can't reach an agreement?",
+       "options": [
+        "Compare the candidates side by side again.",
+        "Ask the board to cast the deciding vote.",
+        "Find a way to break the tie next time.",
+        "Let John make the final decision."
+       ],
+       "optionsZh": [
+        "再次并列比较候选人。",
+        "请董事会投决定性的一票。",
+        "下次找个办法打破平局。",
+        "让John做最终决定。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Let John make the final decision.（让John做最终决定。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What are the speakers mainly talking about?",
+       "options": [
+        "The private label \"L'Orange\".",
+        "The woman's latest collection.",
+        "This season's new fashion.",
+        "The head designer's role."
+       ],
+       "optionsZh": [
+        "自有品牌\"L'Orange\"",
+        "女士的最新系列",
+        "本季的新时尚",
+        "首席设计师的角色"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The woman's latest collection.（女士的最新系列）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the woman say she always tries to incorporate into her aesthetic?",
+       "options": [
+        "Something reflecting the social norms.",
+        "Something meeting public expectations.",
+        "Something slightly absurd.",
+        "Something a bit ambiguous."
+       ],
+       "optionsZh": [
+        "反映社会规范的东西",
+        "符合公众期望的东西",
+        "略微荒诞的东西",
+        "有点模糊的东西"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Something slightly absurd.（略微荒诞的东西）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the woman say she likes to do?",
+       "options": [
+        "Merge styles often at opposite ends of the fashion spectrum.",
+        "Learn from the designs of the Asian rural mountain villagers.",
+        "Make velvet capes look both majestic and masculine.",
+        "Draw intricate patterns onto a traditional power suit."
+       ],
+       "optionsZh": [
+        "融合通常处于时尚光谱两端的风格",
+        "向亚洲乡村山区村民的设计学习",
+        "让天鹅绒斗篷看起来既威严又阳刚",
+        "在传统正装西服上绘制复杂的图案"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Merge styles often at opposite ends of the fashion spectrum.（融合通常处于时尚光谱两端的风格）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What is the man looking forward to?",
+       "options": [
+        "Obtaining the woman's signature.",
+        "Seeing the woman's new creations.",
+        "Incorporating indigenous aspects into his work.",
+        "Sharing more ideas with the woman next time."
+       ],
+       "optionsZh": [
+        "获得女士的签名",
+        "看到女士的新作品",
+        "将本土元素融入他的作品",
+        "下次与女士分享更多想法"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Seeing the woman's new creations.（看到女士的新作品）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the passage say about 80% of participating dogs in the new study?",
+       "options": [
+        "They could readily recognize their owner simply by looking.",
+        "They could understand the implications of human commands.",
+        "They could be domesticated to act as our companions.",
+        "They could follow pointing gestures without training."
+       ],
+       "optionsZh": [
+        "它们仅通过观察就能轻易识别出自己的主人。",
+        "它们能够理解人类指令的含义。",
+        "它们能够被驯化成为我们的伴侣。",
+        "它们无需训练就能跟随指向手势。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They could follow pointing gestures without training.（它们无需训练就能跟随指向手势。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What may help alleviate the problem caused by stray dogs?",
+       "options": [
+        "Cultivating them to be intelligent creatures.",
+        "Training them to behave like domesticated dogs.",
+        "Understanding how humans impact their behavior.",
+        "Taking measures to reduce their numbers."
+       ],
+       "optionsZh": [
+        "培养它们成为聪明的生物。",
+        "训练它们像驯化犬一样行事。",
+        "理解人类如何影响它们的行为。",
+        "采取措施减少它们的数量。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Understanding how humans impact their behavior.（理解人类如何影响它们的行为。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What do the researchers suggest we do to reduce conflicts between stray dogs and humans?",
+       "options": [
+        "Tame them through repeated training.",
+        "Treat them with sensitivity and respect.",
+        "Make them responsive to our commands.",
+        "Watch their behavior and try to improve it."
+       ],
+       "optionsZh": [
+        "通过反复训练驯服它们。",
+        "以敏感和尊重的态度对待它们。",
+        "使它们对我们的指令做出反应。",
+        "观察它们的行为并尝试改善。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Treat them with sensitivity and respect.（以敏感和尊重的态度对待它们。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "Why is food product placement within the fridge very important?",
+       "options": [
+        "The temperature inside it varies from place to place.",
+        "Proper placement facilitates access to food products.",
+        "Its different shelves are designed for different purposes.",
+        "The space in an average fridge changes from top to bottom."
+       ],
+       "optionsZh": [
+        "冰箱内部各处温度不同。",
+        "恰当的摆放便于取用食品。",
+        "冰箱不同的搁板是为不同目的设计的。",
+        "普通冰箱从上到下的空间各不相同。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The temperature inside it varies from place to place.（冰箱内部各处温度不同。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the passage say is the whole purpose of the modern refrigerator?",
+       "options": [
+        "To slow the rising of temperature in it.",
+        "To provide a big box of evenly cold air.",
+        "To prevent germs from growing quickly.",
+        "To keep the food cold as long as possible."
+       ],
+       "optionsZh": [
+        "减缓冰箱内温度上升。",
+        "提供一个温度均匀的低温大空间。",
+        "防止细菌快速生长。",
+        "尽可能长时间地保持食物低温。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To prevent germs from growing quickly.（防止细菌快速生长。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "Where in the fridge should we store foods already cooked?",
+       "options": [
+        "On the top shelf.",
+        "In the middle section.",
+        "On the inside of its doors.",
+        "At the back of its bottom shelf."
+       ],
+       "optionsZh": [
+        "最上层搁板。",
+        "中间部分。",
+        "冰箱门内侧。",
+        "冰箱底层搁板后部。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：On the top shelf.（最上层搁板。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "Why should we never store foods with high water content at the back of the bottom shelf?",
+       "options": [
+        "They will be extra-chilly.",
+        "They will be hard to defrost.",
+        "They will be contaminated.",
+        "They will be ruined."
+       ],
+       "optionsZh": [
+        "它们会变得格外冰冷。",
+        "它们会难以解冻。",
+        "它们会被污染。",
+        "它们会被毁坏。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They will be ruined.（它们会被毁坏。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say is quite common among older people?",
+       "options": [
+        "Chronic depression.",
+        "Growing feebleness.",
+        "Hip fracture.",
+        "Fatal infections."
+       ],
+       "optionsZh": [
+        "慢性抑郁症。",
+        "日益虚弱。",
+        "髋部骨折。",
+        "致命性感染。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Hip fracture.（髋部骨折。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the speaker think excites her most about her research?",
+       "options": [
+        "It feels real and relevant.",
+        "It contributes to psychology.",
+        "It outcompetes lots of academics' research.",
+        "It wins recognition outside of Birmingham."
+       ],
+       "optionsZh": [
+        "它让人感觉真实且切题。",
+        "它对心理学有贡献。",
+        "它胜过许多学者的研究。",
+        "它在Birmingham之外赢得认可。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It feels real and relevant.（它让人感觉真实且切题。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "How does the speaker approach her research project?",
+       "options": [
+        "By bringing together experts old and young.",
+        "By counting on advanced modern technology.",
+        "By making full use of her expertise.",
+        "By combining multiple perspectives."
+       ],
+       "optionsZh": [
+        "通过把年长和年轻的专家聚集在一起。",
+        "通过依靠先进的现代技术。",
+        "通过充分利用她的专业知识。",
+        "通过结合多种视角。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：By combining multiple perspectives.（通过结合多种视角。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about most colleges and graduate schools in America?",
+       "options": [
+        "They don't teach basic organization.",
+        "They don't focus on teaching techniques.",
+        "They attach little importance to recipes.",
+        "They hire very few distinguished chefs."
+       ],
+       "optionsZh": [
+        "它们不教授基本的组织方法。",
+        "它们不注重教学技巧。",
+        "它们不重视配方。",
+        "它们雇用的杰出厨师很少。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They don't teach basic organization.（它们不教授基本的组织方法。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "How do students of the culinary institute of America view \"mise-en-place\" or \"put in place\"?",
+       "options": [
+        "It's unique to celebrity chefs.",
+        "It's a way of transformation.",
+        "It's too demanding for them.",
+        "It's a way of life to them."
+       ],
+       "optionsZh": [
+        "这是名厨独有的。",
+        "这是一种转变方式。",
+        "这对他们要求过高。",
+        "对他们来说这是一种生活方式。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It's a way of life to them.（对他们来说这是一种生活方式。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does the speaker advise us to do at the end of the talk?",
+       "options": [
+        "Respect others so as to be respected.",
+        "Use time and resources in a wise way.",
+        "Cultivate a habit of self-discipline.",
+        "Learn from philosophers earnestly."
+       ],
+       "optionsZh": [
+        "尊重他人以获得尊重。",
+        "明智地使用时间和资源。",
+        "培养自律的习惯。",
+        "认真向哲学家学习。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Use time and resources in a wise way.（明智地使用时间和资源。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What should self-acceptance be used as according to the speaker?",
+       "options": [
+        "The motive for hard work.",
+        "The reason for stagnation.",
+        "The basis for self-improvement.",
+        "The justification for self-confidence."
+       ],
+       "optionsZh": [
+        "努力工作的动机。",
+        "停滞不前的理由。",
+        "自我提升的基础。",
+        "自信的正当理由。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The basis for self-improvement.（自我提升的基础。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What do people tend to do when they have reached midlife?",
+       "options": [
+        "Feel confidence, happiness and satisfaction.",
+        "Believe they have achieved their life goals.",
+        "Use a key tool for setting ambitious goals.",
+        "Stop imagining further progress in life."
+       ],
+       "optionsZh": [
+        "感到自信、幸福和满足。",
+        "相信他们已经实现了人生目标。",
+        "使用一个关键工具来设定雄心勃勃的目标。",
+        "停止想象人生中的进一步进步。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Stop imagining further progress in life.（停止想象人生中的进一步进步。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Why do we find ourselves irritated for not achieving the goal?",
+       "options": [
+        "We feel we are always falling behind others.",
+        "We have to adapt to the ever-changing goal.",
+        "There are various misconceptions about goal setting.",
+        "There are always problems with the goal originally set."
+       ],
+       "optionsZh": [
+        "我们觉得自己总是落后于他人。",
+        "我们必须适应不断变化的目标。",
+        "关于目标设定存在各种误解。",
+        "最初设定的目标总是存在问题。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：We have to adapt to the ever-changing goal.（我们必须适应不断变化的目标。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the speaker say has an immediate positive impact on our thinking?",
+       "options": [
+        "A noticeable change in the number of goals to achieve.",
+        "Measuring always against the gap rather than the gain.",
+        "Measuring where we've come from instead of measuring against the goal.",
+        "A proper conception of what we fail to notice in trying to achieve our goals."
+       ],
+       "optionsZh": [
+        "要实现的目标数量发生明显变化。",
+        "总是根据差距而非收获来衡量。",
+        "衡量我们从哪里来而不是根据目标来衡量。",
+        "对我们在努力实现目标时未能注意到的事物有恰当的理解。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Measuring where we've come from instead of measuring against the goal.（衡量我们从哪里来而不是根据目标来衡量。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "No beast on Earth is tougher than the tiny tardigrade(缓步类动物). It can {{1}} being frozen at -272° Celsius, being exposed to the vacuum of outer space and even being {{2}} with 500 times the dose of X-rays that would kill a human. In other words, the creature can endure conditions that don't even exist on Earth. And researchers are looking to the microscopic animals to learn how to prepare humans and crops to handle the {{3}} of space travel. The tardigrade's indestructibility stems from its {{4}} to its environment—which may seem surprising, since it lives in {{5}} comfortable places, like the cool, wet patches of moss(青苔) that dot a garden wall. But it turns out that a tardigrade's damp, mossy home can dry out many times each year. Drying is pretty {{6}} for most living things. It does damage to cells in some of the same ways that freezing, vacuum and radiation do. Tardigrades, however, have {{7}} special strategies for dealing with these kinds of damage. As a tardigrade dries out, its cells produce several strange proteins that are unlike anything found in other animals. In water, the proteins are shapeless. But as water disappears, the proteins self-assemble into long fibers that fill the cell's {{8}} . The fibers support the cell's membranes(细胞膜) and proteins, preventing them from breaking or {{9}} . Emulating tardigrades could one day help humans colonize outer space. Food crops could be engineered to produce tardigrade proteins, allowing these organisms to grow more efficiently on spacecraft where levels of radiation are elevated compared with on Earth. So if humans ever succeed in reaching the stars, they may accomplish this {{10}} , in part, by standing on the shoulders of the tiny eight-legged endurance specialists in your backyard.",
+     "options": [
+      "adaptations",
+      "blasted",
+      "catastrophic",
+      "evolved",
+      "feat",
+      "interior",
+      "probing",
+      "recurrence",
+      "rigors",
+      "seemingly",
+      "survive",
+      "tempt",
+      "thrill",
+      "unanimously",
+      "unfolding"
+     ],
+     "answers": [
+      10,
+      1,
+      8,
+      0,
+      9,
+      2,
+      3,
+      5,
+      14,
+      4
+     ],
+     "blankExplains": [
+      "【定位】It can ____ being frozen at -272° Celsius, being exposed to the vacuum of outer space and even being  … with 500 times the dose of X-rays that would kill a human.\n【依据】答案是 survive：填回后与所在句 frozen、celsius、exposed、vacuum、outer、space 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It can  … being frozen at -272° Celsius, being exposed to the vacuum of outer space and even being ____ with 500 times the dose of X-rays that would kill a human.\n【依据】答案是 blasted：填回后与所在句 frozen、celsius、exposed、vacuum、outer、space 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】And researchers are looking to the microscopic animals to learn how to prepare humans and crops to handle the ____ of space travel.\n【依据】答案是 rigors：填回后与所在句 researchers、looking、microscopic、animals、learn、how 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The tardigrade's indestructibility stems from its ____ to its environment—which may seem surprising, since it lives in  … comfortable places, like the cool, wet patches of moss(青苔) that dot a garden wall.\n【依据】答案是 adaptations：填回后与所在句 tardigrade's、indestructibility、stems、environment、which、seem 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The tardigrade's indestructibility stems from its  … to its environment—which may seem surprising, since it lives in ____ comfortable places, like the cool, wet patches of moss(青苔) that dot a garden wall.\n【依据】答案是 seemingly：填回后与所在句 tardigrade's、indestructibility、stems、environment、which、seem 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Drying is pretty ____ for most living things.\n【依据】答案是 catastrophic：填回后与所在句 drying、pretty、living、things 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Tardigrades, however, have ____ special strategies for dealing with these kinds of damage.\n【依据】答案是 evolved：填回后与所在句 tardigrades、however、special、strategies、dealing、kinds 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But as water disappears, the proteins self-assemble into long fibers that fill the cell's ____ .\n【依据】答案是 interior：填回后与所在句 water、disappears、proteins、self-assemble、into、long 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The fibers support the cell's membranes(细胞膜) and proteins, preventing them from breaking or ____ .\n【依据】答案是 unfolding：填回后与所在句 fibers、support、cell's、membranes、proteins、preventing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】So if humans ever succeed in reaching the stars, they may accomplish this ____ , in part, by standing on the shoulders of the tiny eight-legged endurance specialists in your backyard.\n【依据】答案是 feat：填回后与所在句 humans、ever、succeed、reaching、stars、accomplish 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "It can ____ being frozen at -272° Celsius, being exposed to the vacuum of outer space and even being  … with 500 times the dose of X-rays that would kill a human.",
+       "why": "答案是 survive：填回后与所在句 frozen、celsius、exposed、vacuum、outer、space 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 survive 这个词性/语义，而不是 seemingly）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 survive 这个词性/语义，而不是 adaptations）。"
+       }
+      },
+      {
+       "locate": "It can  … being frozen at -272° Celsius, being exposed to the vacuum of outer space and even being ____ with 500 times the dose of X-rays that would kill a human.",
+       "why": "答案是 blasted：填回后与所在句 frozen、celsius、exposed、vacuum、outer、space 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 blasted 这个词性/语义，而不是 adaptations）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 blasted 这个词性/语义，而不是 catastrophic）。"
+       }
+      },
+      {
+       "locate": "And researchers are looking to the microscopic animals to learn how to prepare humans and crops to handle the ____ of space travel.",
+       "why": "答案是 rigors：填回后与所在句 researchers、looking、microscopic、animals、learn、how 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 rigors 这个词性/语义，而不是 recurrence）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 rigors 这个词性/语义，而不是 adaptations）。"
+       }
+      },
+      {
+       "locate": "The tardigrade's indestructibility stems from its ____ to its environment—which may seem surprising, since it lives in  … comfortable places, like the cool, wet patches of moss(青苔) that dot a garden wall.",
+       "why": "答案是 adaptations：填回后与所在句 tardigrade's、indestructibility、stems、environment、which、seem 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adaptations 这个词性/语义，而不是 blasted）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adaptations 这个词性/语义，而不是 catastrophic）。"
+       }
+      },
+      {
+       "locate": "The tardigrade's indestructibility stems from its  … to its environment—which may seem surprising, since it lives in ____ comfortable places, like the cool, wet patches of moss(青苔) that dot a garden wall.",
+       "why": "答案是 seemingly：填回后与所在句 tardigrade's、indestructibility、stems、environment、which、seem 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 seemingly 这个词性/语义，而不是 survive）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 seemingly 这个词性/语义，而不是 adaptations）。"
+       }
+      },
+      {
+       "locate": "Drying is pretty ____ for most living things.",
+       "why": "答案是 catastrophic：填回后与所在句 drying、pretty、living、things 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 catastrophic 这个词性/语义，而不是 adaptations）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 catastrophic 这个词性/语义，而不是 blasted）。"
+       }
+      },
+      {
+       "locate": "Tardigrades, however, have ____ special strategies for dealing with these kinds of damage.",
+       "why": "答案是 evolved：填回后与所在句 tardigrades、however、special、strategies、dealing、kinds 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 evolved 这个词性/语义，而不是 adaptations）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 evolved 这个词性/语义，而不是 blasted）。"
+       }
+      },
+      {
+       "locate": "But as water disappears, the proteins self-assemble into long fibers that fill the cell's ____ .",
+       "why": "答案是 interior：填回后与所在句 water、disappears、proteins、self-assemble、into、long 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 interior 这个词性/语义，而不是 adaptations）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 interior 这个词性/语义，而不是 blasted）。"
+       }
+      },
+      {
+       "locate": "The fibers support the cell's membranes(细胞膜) and proteins, preventing them from breaking or ____ .",
+       "why": "答案是 unfolding：填回后与所在句 fibers、support、cell's、membranes、proteins、preventing 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 unfolding 这个词性/语义，而不是 unanimously）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 unfolding 这个词性/语义，而不是 adaptations）。"
+       }
+      },
+      {
+       "locate": "So if humans ever succeed in reaching the stars, they may accomplish this ____ , in part, by standing on the shoulders of the tiny eight-legged endurance specialists in your backyard.",
+       "why": "答案是 feat：填回后与所在句 humans、ever、succeed、reaching、stars、accomplish 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 feat 这个词性/语义，而不是 adaptations）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 feat 这个词性/语义，而不是 blasted）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "As the scale and impacts of climate change become increasingly alarming, meat is a popular target for action. Advocates for the protection of the natural environment from destruction or pollution urge the public to eat less meat. Some activists have even called for taxing meat to reduce consumption of it."
+      },
+      {
+       "id": "B",
+       "text": "A key claim underlying these arguments holds that globally, meat production generates more greenhouse gases than the entire transportation sector. However, this claim is demonstrably wrong, as I will show. And its persistence has led to false assumptions about the linkage between meat and climate change."
+      },
+      {
+       "id": "C",
+       "text": "My recent research focuses on ways in which animal agriculture affects air quality and climate change. In my view, there are many reasons for either choosing animal protein or opting for a vegetarian selection. However, abandoning meat and meat products is not the environmental panacea(万灵药) many would have us believe. And if taken to an extreme, it also could have harmful nutritional consequences."
+      },
+      {
+       "id": "D",
+       "text": "A healthy portion of meat's negative reputation centers on the assertion that livestock is the largest source of greenhouse gases worldwide. For example, an analysis published in 2009 by the World Watch Institute based in Washington, D.C. asserted that 51 percent of global greenhouse gas emissions come from rearing and processing livestock. According to the U.S. Environmental Protection Agency, the largest sources of U.S. greenhouse gas emissions in 2016 were electricity production (28 percent of total emissions), transportation (28 percent) and industry (22 percent). All of agriculture accounted for a total of 9 percent, but all of animal agriculture contributes less than half of this amount, representing 3.9 percent of the total greenhouse emission in the U.S. That is very different from claiming that livestock represents as much as or more than transportation."
+      },
+      {
+       "id": "E",
+       "text": "Why is there such a misconception? In 2006 the United Nations Food and Agriculture Organization (FAO) published a study titled \"Livestock's Long Shadow,\" which received widespread international attention. It stated that livestock produced a staggering 18 percent of the world's greenhouse gas emissions. The agency drew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation combined. This latter claim was wrong, and has since been corrected by Henning Stenfeld, the report's senior author."
+      },
+      {
+       "id": "F",
+       "text": "The problem was that analysts from the FAO used a comprehensive life-cycle assessment to study the climate impact of livestock, but a different method when they analyzed transportation. For livestock, they considered every factor associated with producing meat. This included emissions from fertilizer production, converting land from forests to pastures, growing feed, and direct emissions from animals (manure as well as expelling of gas from the stomach) from birth to death."
+      },
+      {
+       "id": "G",
+       "text": "However, when they looked at transportation's carbon footprint, they ignored impacts on the climate from manufacturing vehicle materials and parts, assembling vehicles and maintaining roads, bridges and airports. Instead, they only considered the exhaust smoke emitted by finished cars, trucks, trains and planes. As a result, the FAO's comparison of greenhouse gas emissions from livestock to those from transportation was greatly distorted."
+      },
+      {
+       "id": "H",
+       "text": "I pointed out this flaw during a speech to fellow scientists in San Francisco on March 22, 2010, which led to a flood of media coverage. To its credit, the FAO immediately owned up to its error. Unfortunately, the agency's initial claim that livestock was responsible for the lion's share of world greenhouse gas emissions had already received wide coverage. To this day, we struggle to \"unring\" the bell. In its most recent assessment report, the FAO estimated that livestock produces 14.5 percent of global greenhouse gas emissions from human activities. There is no comparable full life-cycle assessment for transportation. However, as Stenfeld has pointed out, direct emissions from transportation versus livestock can be compared and amount to 14 versus 5 percent, respectively."
+      },
+      {
+       "id": "I",
+       "text": "Many people continue to think that avoiding meat as infrequently as once a week will make a significant difference to the climate. But according to one recent study, even if Americans eliminated all animal protein from their diets, they would reduce U.S. greenhouse gas emissions by only 2.6 percent. According to our research at the University of California, Davis, if the practice of Meatless Monday were to be adopted by all Americans, we'd see a reduction of only 0.5 percent."
+      },
+      {
+       "id": "J",
+       "text": "Moreover, technological, genetic and management changes that have taken place in U.S. agriculture over the past 70 years have made livestock production more efficient and less greenhouse gas-intensive. According to the FAO's statistical database, total direct greenhouse gas emissions from U.S. livestock have declined by 11.3 percent since 1961, while production of livestock meat has more than doubled."
+      },
+      {
+       "id": "K",
+       "text": "Demand for meat is rising in developing and emerging economies, especially in the Middle East, North Africa and Southeast Asia. For example, raising livestock such as goats in Kenya is an important source of food and income for many small-scale farmers and herders. But meat consumption per person in these regions still lags that of developed countries. In 2015, average annual meat consumption per person in developed countries was 92 kilograms, compared to 24 kilograms in the Middle East and North Africa and 18 kilograms in Southeast Asia. Still, given projected population growth in the developing world, there will certainly be an opportunity for countries such as the United States to bring their sustainable livestock rearing practices to the table."
+      },
+      {
+       "id": "L",
+       "text": "Removing animals from U.S. agriculture would lower national greenhouse gas emissions to a small degree, but it would also make it harder to meet people's nutritional requirements. Many critics of animal agriculture are quick to point out that if farmers raised only plants, they could produce more pounds of food and more calories per person. But humans also need many essential micro- and macro-nutrients for good health. It's hard to make a compelling argument that the United States has a calorie deficit, given its high national rates of adult and child obesity. Moreover, not all plant parts are edible or desirable. Raising livestock is a way to add nutritional and economic value to plant agriculture."
+      },
+      {
+       "id": "M",
+       "text": "As one example, the energy in plants that livestock consume is most often contained in cellulose(纤维素), which is indigestible for humans and many other mammals. But cows, sheep and other ruminant(反刍的) animals can break cellulose down and release the solar energy contained in this vast resource. According to the FAO, as much as 70 percent of all agricultural land globally is range land that can only be utilized as grazing land for ruminant livestock."
+      },
+      {
+       "id": "N",
+       "text": "The world population is currently projected to reach 9.8 billion by 2050. Feeding this many people will raise immense challenges. Meat is more calorie-dense per serving than vegetarian options, and ruminant animals largely thrive on feed that is not suitable for humans. Raising livestock also offers much-needed income for small-scale farmers in developing nations. Worldwide, livestock provides a livelihood for 1 billion people."
+      },
+      {
+       "id": "O",
+       "text": "Climate change demands urgent attention, and the livestock industry has a large overall environmental footprint that affects air, water and land. These, combined with a rapidly rising world population, give us plenty of compelling reasons to continue to work for greater efficiencies in animal agriculture. I believe the place to start is with science-based facts."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "The FAO concluded that farm animals were producing more greenhouse gases than all modes of transportation combined."
+      },
+      {
+       "id": "s37",
+       "text": "Consumption of meat per person in developing countries is much less than that in countries like the U.S."
+      },
+      {
+       "id": "s38",
+       "text": "The FAO was worthy of praise in that it admitted its mistake once it was pointed out."
+      },
+      {
+       "id": "s39",
+       "text": "Environmentalists try hard to make people consume less meat to combat climate change."
+      },
+      {
+       "id": "s40",
+       "text": "Recent research has shown that even if Americans quit eating meat altogether, the resulting reduction of greenhouse gases in the U.S. would be slight."
+      },
+      {
+       "id": "s41",
+       "text": "More than half of the world's farmland is suitable only for animals like cows to graze on."
+      },
+      {
+       "id": "s42",
+       "text": "The allegation that farm animals produce the world's largest portion of greenhouse gases is responsible for meat's bad reputation."
+      },
+      {
+       "id": "s43",
+       "text": "Raising farm animals makes it easier to meet people's nutritional needs."
+      },
+      {
+       "id": "s44",
+       "text": "The author doesn't believe giving up meat and meat products will be a cure-all for the environmental problem."
+      },
+      {
+       "id": "s45",
+       "text": "Changes in America's farming technology and management in the past decades have increased efficiency and reduced greenhouse gas emissions in meat production."
+      }
+     ],
+     "answers": [
+      "E",
+      "K",
+      "H",
+      "A",
+      "I",
+      "M",
+      "D",
+      "L",
+      "C",
+      "J"
+     ],
+     "statementExplains": [
+      "【定位】The agency drew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation combined.\n【依据】陈述里的 concluded、modes、transportation、combined 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】But meat consumption per person in these regions still lags that of developed countries.\n【依据】陈述里的 consumption、meat、per、person、developing、countries 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】I pointed out this flaw during a speech to fellow scientists in San Francisco on March 22, 2010, which led to a flood of media coverage.\n【依据】陈述里的 pointed、out 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】As the scale and impacts of climate change become increasingly alarming, meat is a popular target for action.\n【依据】陈述里的 meat、climate、change 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】But according to one recent study, even if Americans eliminated all animal protein from their diets, they would reduce U.S.\n【依据】陈述里的 recent、even、americans、reduction 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】But cows, sheep and other ruminant(反刍的) animals can break cellulose down and release the solar energy contained in this vast resource.\n【依据】陈述里的 animals、cows 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】A healthy portion of meat's negative reputation centers on the assertion that livestock is the largest source of greenhouse gases worldwide.\n【依据】陈述里的 world's、largest、portion、greenhouse、gases、meat's 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】agriculture would lower national greenhouse gas emissions to a small degree, but it would also make it harder to meet people's nutritional requirements.\n【依据】陈述里的 meet、people's、nutritional 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】However, abandoning meat and meat products is not the environmental panacea(万灵药) many would have us believe.\n【依据】陈述里的 believe、meat、meat、products、environmental 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】agriculture over the past 70 years have made livestock production more efficient and less greenhouse gas-intensive.\n【依据】陈述里的 past、efficiency、greenhouse、production 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。"
+     ],
+     "explain": "长篇阅读匹配：15 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "The agency drew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation combined.",
+       "why": "陈述里的 concluded、modes、transportation、combined 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But meat consumption per person in these regions still lags that of developed countries.",
+       "why": "陈述里的 consumption、meat、per、person、developing、countries 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "I pointed out this flaw during a speech to fellow scientists in San Francisco on March 22, 2010, which led to a flood of media coverage.",
+       "why": "陈述里的 pointed、out 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As the scale and impacts of climate change become increasingly alarming, meat is a popular target for action.",
+       "why": "陈述里的 meat、climate、change 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But according to one recent study, even if Americans eliminated all animal protein from their diets, they would reduce U.S.",
+       "why": "陈述里的 recent、even、americans、reduction 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But cows, sheep and other ruminant(反刍的) animals can break cellulose down and release the solar energy contained in this vast resource.",
+       "why": "陈述里的 animals、cows 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "A healthy portion of meat's negative reputation centers on the assertion that livestock is the largest source of greenhouse gases worldwide.",
+       "why": "陈述里的 world's、largest、portion、greenhouse、gases、meat's 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "agriculture would lower national greenhouse gas emissions to a small degree, but it would also make it harder to meet people's nutritional requirements.",
+       "why": "陈述里的 meet、people's、nutritional 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "However, abandoning meat and meat products is not the environmental panacea(万灵药) many would have us believe.",
+       "why": "陈述里的 believe、meat、meat、products、environmental 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "agriculture over the past 70 years have made livestock production more efficient and less greenhouse gas-intensive.",
+       "why": "陈述里的 past、efficiency、greenhouse、production 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Why are we so worried about our careers? Partly it's to do with money, but there's a psychological aspect to our fears as well. We worry because we suspect—not wrongly—that the world is full of a frightening sort of person ready to judge us ruthlessly and swiftly: a person we can call a snob. A snob is anyone who takes a relatively small part of us and uses it to come to a rigid conclusion about how much of their attention we deserve. In the past, that might be your ancestry and royal connections. Nowadays, the snob cares about one thing only: what you do for a living. This explains why the first question we will be asked in any new social context is 'What do you do?' and according to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold. And that is why we are fired up by such a desperate urge to achieve and impress. Sometimes our behaviour is mistaken for greed and vanity, but it is more than this. A lot of our interest in fancy cars, jobs and houses has nothing to do with materialism. It has to do with a hunger for the respect and esteem that is only available in our societies through the acquisition of material goods. It isn't the goods themselves we seek, it is the love we stand to gain through our possession of them. The next time we see someone driving a Ferrari, we shouldn't condemn them for their greed, we should pity them for the intensity of their need for love from the world. At the root of snobbery is a lack of imagination and confidence about how to decide who in the world is valuable. The snobs are brutally misguided and slavish in their beliefs about how the superior individuals can be identified. For snobs, it is the already acclaimed and already successful who are the only ones worthy of respect. There is no room in their timid regimented minds to imagine that someone might be clever, kind or good—and yet somehow have been overlooked entirely by society, their qualities lying hidden beneath an unfamiliar veil, and having as yet discovered no obvious outlet. The true answer to snobbery is not to say that there is no such thing as a better or worse person, but to insist that better or worse exist in constantly unexpected places and carry none of the outward signs of distinction. And because we are such poor judges of the worth of others, our ultimate duty remains to be kind, good, curious and imaginative about pretty much everyone who ever crosses our path.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What gives rise to our worry about careers apart from money?",
+       "options": [
+        "Fear of being judged in a snobbish manner.",
+        "The prospect of facing fault-finding managers.",
+        "The ruthless way employees are often treated.",
+        "Fright at the difficulty in hunting for a job."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Nowadays, the snob cares about one thing only: what you do for a living.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 fear、judged、snobbish、manner 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Nowadays, the snob cares about one thing only: what you do for a living.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 fear、judged、snobbish、manner 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「prospect、facing、fault-finding」全文未出现。",
+         "C": "无中生有：「ruthless、way、employees」全文未出现。",
+         "D": "无中生有：「fright、difficulty、hunting」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do we learn from the passage about today's snobs?",
+       "options": [
+        "They try hard to dig into a person's past.",
+        "They draw a rigid conclusion about people.",
+        "They judge a person by their occupation.",
+        "They tend to place people in a social context."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】This explains why the first question we will be asked in any new social context is 'What do you do?' and according to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 judge、person、occupation 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This explains why the first question we will be asked in any new social context is 'What do you do?' and according to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 judge、person、occupation 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「try、hard、dig」全文未出现。",
+         "B": "因果倒置：「draw、people」全文未出现。",
+         "D": "无中生有：「tend、place、people」全文未出现；把原文的「social、context」换成了「tend、place、people」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the author say about people's interest in material goods?",
+       "options": [
+        "It is the cause for condemnation of their greed.",
+        "It has a lot to do with the comforts they provide.",
+        "It arouses pity rather than respect from the wealthy.",
+        "It arises from their craving for social recognition."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】This explains why the first question we will be asked in any new social context is 'What do you do?' and according to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold.\n【依据】正确项的核心词 social 与定位句对得上；其余 arises、craving、recognition 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This explains why the first question we will be asked in any new social context is 'What do you do?' and according to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold.",
+        "why": "正确项的核心词 social 与定位句对得上；其余 arises、craving、recognition 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「cause、condemnation」全文未出现。",
+         "B": "无中生有：「comforts、provide」全文未出现。",
+         "C": "无中生有：「arouses、rather、wealthy」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What kind of people do snobs deem worth respect and esteem?",
+       "options": [
+        "Those with fame and fortune.",
+        "Those with regimented minds.",
+        "Those with intelligence and imagination.",
+        "Those with qualities lying hidden in disguise."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】For snobs, it is the already acclaimed and already successful who are the only ones worthy of respect.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 fame、fortune 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For snobs, it is the already acclaimed and already successful who are the only ones worthy of respect.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 fame、fortune 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "因果倒置：「intelligence」全文未出现。",
+         "D": "因果倒置：「disguise」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author imply we should do to avoid being snobbish?",
+       "options": [
+        "Be aware there has never been such a thing as a better or worse person.",
+        "Be kind to and curious about those who we happen to meet in our lives.",
+        "Realize that better or worse keeps changing in unexpected ways.",
+        "Judge people on the basis of their distinctive character traits."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】At the root of snobbery is a lack of imagination and confidence about how to decide who in the world is valuable.\n【依据】正确项的核心词 about、who 与定位句对得上；其余 kind、curious、happen、meet 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "At the root of snobbery is a lack of imagination and confidence about how to decide who in the world is valuable.",
+        "why": "正确项的核心词 about、who 与定位句对得上；其余 kind、curious、happen、meet 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「aware、never」全文未出现。",
+         "C": "因果倒置：「realize、keeps、changing」全文未出现。",
+         "D": "无中生有：「people、basis、distinctive」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 451 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Women have historically been paid less. But in the US in the 1980s, they began to catch up—fast. During that decade, the gender pay gap closed by about one percentage point a year. Had that trend continued, the gender wage gap would have been closed by 2017. But the trend didn't continue, and the gap remains yawning. According to a new study from academics at Harvard, the stagnation can be put down, perhaps counterintuitively, to the introduction of state and federal family leave policies. The academics argue that during the 1990s, as governments began to introduce leave policies, it was mainly women who took advantage of them. Though the leave policies might have helped those women to stay in the workplace—instead of dropping out to have families—those who returned saw their wages had increased at lower rates than the men. After family leave was introduced in the US, in fact, the rate of gender wage convergence fell to just 0.03 percentage points per year, and has remained there ever since. Those monitoring the process towards salary equity at work have long watched as progress slowed in many countries around the world. In fact, that progress began to reverse during the pandemic(大流行病). The gender pay gap is one of the most outstanding examples of that lack of parity(平等), and still exists just about everywhere. The motherhood penalty has become a shorthand for describing why: In many places, especially rich countries, women earn the same as men until they reach their childbearing years. Women who have children begin to see their salaries slip behind their male counterparts. Part of this is because women take on more of the unpaid labor at home, which can eat into time available for work and energy for career advancement. But it's also because mothers are passed over for raises and promotion, and because time out of the workplace sets women back, even if that time is taken voluntarily, and supported by company or government policy. What would have happened if leave policies hadn't been introduced? The study doesn't go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now. It's possible, however, that the journey towards wage parity would have stalled either way. If women's gains in the 1980s were made through the erasure of things like bias, once those less uncontrollable problems had been addressed, there would still have been an issue with women—who are the ones to bear children and take care of them in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks, whether or not those breaks were mandated.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn about the gender pay gap in the US during the 1980s?",
+       "options": [
+        "It was being slowly closed.",
+        "It was shrinking rapidly.",
+        "It started to yawn.",
+        "It remained substantial."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】During that decade, the gender pay gap closed by about one percentage point a year.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 shrinking、rapidly 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "During that decade, the gender pay gap closed by about one percentage point a year.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 shrinking、rapidly 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「slowly」全文未出现；把原文的「closed」换成了「slowly」，主语或对象被调包。",
+         "C": "无中生有：「started、yawn」全文未出现。",
+         "D": "因果倒置：「substantial」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What happened with the introduction of state and federal family leave policies?",
+       "options": [
+        "The process towards salary equity at work began to reverse.",
+        "The rate of gender wage convergence started to fall noticeably.",
+        "The trend of women returning to work after childbirth started.",
+        "The narrowing of the gender pay gap attracted more attention."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】According to a new study from academics at Harvard, the stagnation can be put down, perhaps counterintuitively, to the introduction of state and federal family leave policies.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 rate、gender、wage、convergence 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "According to a new study from academics at Harvard, the stagnation can be put down, perhaps counterintuitively, to the introduction of state and federal family leave policies.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 rate、gender、wage、convergence 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "因果倒置：「returning、childbirth、started」全文未出现。",
+         "D": "因果倒置：「narrowing、attracted、attention」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What partly accounts for the slip in women's salaries?",
+       "options": [
+        "The insufficient motivation women generally have for career advancement.",
+        "The opportunities numerous women give up for pay raise and promotion.",
+        "The huge amounts of time and energy women spend taking care of the family.",
+        "The lack of policy support from government and business corporations."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Women who have children begin to see their salaries slip behind their male counterparts.\n【依据】正确项的核心词 women 与定位句对得上；其余 huge、amounts、time、energy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Women who have children begin to see their salaries slip behind their male counterparts.",
+        "why": "正确项的核心词 women 与定位句对得上；其余 huge、amounts、time、energy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「insufficient、motivation、generally」全文未出现；把原文的「women」换成了「insufficient、motivation、generally」，主语或对象被调包。",
+         "B": "无中生有：「opportunities、numerous、give」全文未出现；把原文的「women」换成了「opportunities、numerous、give」，主语或对象被调包。",
+         "D": "因果倒置：「support、business、corporations」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the new study say about wage parity?",
+       "options": [
+        "It would have stalled if those controllable problems had not been addressed.",
+        "It would have halted if company and government had not worked together.",
+        "It would have been achieved with the complete erasure of gender biases.",
+        "It would have been attained with the continuation of the 1980s trend."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The study doesn't go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now.\n【依据】正确项的核心词 continuation、trend 与定位句对得上；其余 attained 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The study doesn't go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now.",
+        "why": "正确项的核心词 continuation、trend 与定位句对得上；其余 attained 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「controllable」全文未出现。",
+         "B": "无中生有：「halted、worked、together」全文未出现。",
+         "C": "无中生有：「achieved、complete、biases」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What prevents women from achieving parity with men in the final analysis?",
+       "options": [
+        "Ignoring biases against women in the workplace.",
+        "Giving birth to children and taking care of them.",
+        "Failing to mandate breaks for childbirth and care.",
+        "Lacking resources to address biological problems."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The motherhood penalty has become a shorthand for describing why: In many places, especially rich countries, women earn the same as men until they reach their childbearing years.\n【依据】正确项的核心词 children 与定位句对得上；其余 giving、birth、taking、care 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The motherhood penalty has become a shorthand for describing why: In many places, especially rich countries, women earn the same as men until they reach their childbearing years.",
+        "why": "正确项的核心词 children 与定位句对得上；其余 giving、birth、taking、care 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「ignoring、biases、against」全文未出现；把原文的「women」换成了「ignoring、biases、against」，主语或对象被调包。",
+         "C": "偷换主体：「failing、mandate」全文未出现；把原文的「childbirth」换成了「failing、mandate、breaks」，主语或对象被调包。",
+         "D": "无中生有：「lacking、resources、address」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "粤港澳大湾区具有得天独厚的地理位置拥有完善的交通基础设施和丰富的产业资源。大湾区是中国开放程度最高、经济活力最强的区域之一在国家经济发展中具有重要的战略地位。大湾区不仅将建成充满活力的世界级城市群和具有全球影响力的国际科技创新中心还将打造成适合工作、购物、旅游的优质生活圈。随着改革开放的不断深入大湾区的建设将进一步推动区域经济发展。到年大湾区将实现成为国际一流湾区的目标。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

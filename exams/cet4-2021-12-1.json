@@ -1,0 +1,1179 @@
+{
+ "id": "cet4-2021-12-1",
+ "levelId": "cet4",
+ "title": "四级 2021 年 12 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年12月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2021-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2021-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "美国联合航空公司为误将一个美国家庭的宠物狗运送到数千英里外的日本方向而道歉"
+      },
+      {
+       "idx": 2,
+       "zh": "狗主人心爱的10岁狗狗名叫Buddy"
+      },
+      {
+       "idx": 3,
+       "zh": "狗主人一家目前正在搬家过程中"
+      },
+      {
+       "idx": 4,
+       "zh": "但当他们到达美国南部州的美国联合航空公司货运设施时"
+      },
+      {
+       "idx": 5,
+       "zh": "这两只狗都在丹佛转机时被送到了错误的目的地"
+      },
+      {
+       "idx": 6,
+       "zh": "Buddy抵达东京国际机场后接受了身体检查"
+      },
+      {
+       "idx": 7,
+       "zh": "\"我太高兴了,它还活着并且很快就要回家了!\"如释重负的狗主人说"
+      },
+      {
+       "idx": 8,
+       "zh": "\"在丹佛转机期间发生了一个错误。我们已通知客户他们的宠物安全抵达。我们将尽快安排将宠物送还给他们。\"美国联合航空公司发言人表示"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 其实,鸭子从来都不受像我祖父这样的农民欢迎"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 这倒不让我意外"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 没错。"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What does the news report say about United Airlines?",
+       "options": [
+        "It found a pet dog on board a plane to a city in Texas.",
+        "It had one of its cargo planes land at a wrong airport.",
+        "It sent two dogs to the wrong destinations.",
+        "It had two of its domestic flights mixed up."
+       ],
+       "optionsZh": [
+        "在一架飞往德克萨斯州某城市的飞机上发现了一只宠物狗。",
+        "其中一架货运飞机降落在了错误的机场。",
+        "将两只狗送到了错误的目的地。",
+        "将其两个国内航班搞混了。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It sent two dogs to the wrong destinations.（将两只狗送到了错误的目的地。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What did the spokesperson for United Airlines say they would do after the incident?",
+       "options": [
+        "Correct their mistake as soon as possible.",
+        "Give the two pets a physical checkup.",
+        "Hire a charter jet to bring the pets back.",
+        "Send another plane to continue the flight."
+       ],
+       "optionsZh": [
+        "尽快纠正他们的错误。",
+        "给这两只宠物做身体检查。",
+        "租用包机把宠物送回来。",
+        "派另一架飞机继续该航班。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Correct their mistake as soon as possible.（尽快纠正他们的错误。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What do we learn about the mother elephant Semba?",
+       "options": [
+        "She weighs 130 kilograms.",
+        "She has had babies before.",
+        "She was brought from Africa.",
+        "She has a big family of six."
+       ],
+       "optionsZh": [
+        "她体重130公斤。",
+        "她以前生过小象。",
+        "她是从非洲带来的。",
+        "她有一个六口之家的大家庭。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She has had babies before.（她以前生过小象。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the report say about the birth of the new baby elephant?",
+       "options": [
+        "It took 22 hours.",
+        "It had some complications.",
+        "It was smooth.",
+        "It was monitored by Dr. Sue Tygielski."
+       ],
+       "optionsZh": [
+        "花了22小时。",
+        "有一些并发症。",
+        "很顺利。",
+        "由Sue Tygielski博士监护。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It was smooth.（很顺利。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn about the restaurant?",
+       "options": [
+        "It enjoyed great popularity.",
+        "It started business three years ago.",
+        "It was frequented by newly-weds.",
+        "It was built above the sea-water."
+       ],
+       "optionsZh": [
+        "它非常受欢迎。",
+        "它三年前开始营业。",
+        "它经常有新婚夫妇光顾。",
+        "它建在海面上。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It was built above the sea-water.（它建在海面上。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What did the restaurant manager decide to do recently?",
+       "options": [
+        "Expand his business on the beach.",
+        "Replace the restaurant's wooden deck.",
+        "Post a picture of his restaurant online.",
+        "Celebrate his silver wedding anniversary."
+       ],
+       "optionsZh": [
+        "在海滩上扩展他的生意。",
+        "更换餐厅的木质平台。",
+        "在网上发布他餐厅的照片。",
+        "庆祝他的银婚纪念日。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Replace the restaurant's wooden deck.（更换餐厅的木质平台。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What did the waitress do about the recovered ring?",
+       "options": [
+        "She sold it for two thousand dollars.",
+        "She took it to the restaurant manager.",
+        "She posted its picture on Facebook.",
+        "She returned it to its owner right away."
+       ],
+       "optionsZh": [
+        "她以两千美元的价格把它卖了。",
+        "她把它交给了餐厅经理。",
+        "她在Facebook上发布了它的照片。",
+        "她立即把它归还给了失主。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：She posted its picture on Facebook.（她在Facebook上发布了它的照片。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What does the woman find unbelievable?",
+       "options": [
+        "The number of ducks has declined sharply in recent years.",
+        "Climate change has little effect on the lives of wild ducks.",
+        "Duck meat is not eaten in Australia, Canada and the U.S.",
+        "Duck hunting remains legal in many parts of the world."
+       ],
+       "optionsZh": [
+        "近年来鸭子的数量急剧下降。",
+        "气候变化对野鸭的生活影响甚微。",
+        "在澳大利亚、加拿大和美国不吃鸭肉。",
+        "在世界许多地方捕猎鸭子仍然是合法的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Duck hunting remains legal in many parts of the world.（在世界许多地方捕猎鸭子仍然是合法的。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the woman say has caused the shrinking of ducks' habitats in Australia?",
+       "options": [
+        "Droughts.",
+        "Bushfires.",
+        "Farming.",
+        "Hunting."
+       ],
+       "optionsZh": [
+        "干旱。",
+        "丛林火灾。",
+        "农业耕作。",
+        "捕猎。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Droughts.（干旱。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "Why is there no commercial farming of ducks and geese in Western countries?",
+       "options": [
+        "They are not easy to domesticate.",
+        "Their meat is not that popular.",
+        "It is not environmentally friendly.",
+        "It is not considered cost-effective."
+       ],
+       "optionsZh": [
+        "它们不容易驯化。",
+        "它们的肉不那么受欢迎。",
+        "这不环保。",
+        "这被认为不具成本效益。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Their meat is not that popular.（它们的肉不那么受欢迎。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the woman say about farmers in her grandfather's time?",
+       "options": [
+        "They hunted ducks as a traditional sport.",
+        "They killed wild ducks and geese for food.",
+        "They raised ducks and geese for their eggs.",
+        "They poisoned wild ducks in large numbers."
+       ],
+       "optionsZh": [
+        "他们把捕猎鸭子作为一项传统运动。",
+        "他们猎杀野鸭和野鹅作为食物。",
+        "他们饲养鸭子和鹅以获取蛋。",
+        "他们大量毒杀野鸭。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They poisoned wild ducks in large numbers.（他们大量毒杀野鸭。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What is the woman planning to do?",
+       "options": [
+        "Have her house repainted.",
+        "Replace some of her old furniture.",
+        "Move into a newly-painted house.",
+        "Calculate the cost of the paint job."
+       ],
+       "optionsZh": [
+        "让人重新粉刷她的房子。",
+        "更换她的一些旧家具。",
+        "搬进一所新粉刷的房子。",
+        "计算粉刷工作的费用。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Have her house repainted.（让人重新粉刷她的房子。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What is the woman's chief concern?",
+       "options": [
+        "How long the work will take.",
+        "How much the work will cost.",
+        "How the paint job is to be done.",
+        "How many workers are needed."
+       ],
+       "optionsZh": [
+        "这项工作需要多长时间。",
+        "这项工作需要花费多少钱。",
+        "粉刷工作将如何进行。",
+        "需要多少工人。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：How much the work will cost.（这项工作需要花费多少钱。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the woman have to do while the paint job is being done?",
+       "options": [
+        "Cover up her furniture.",
+        "Ask some friends for help.",
+        "Stay somewhere else.",
+        "Oversee the work herself."
+       ],
+       "optionsZh": [
+        "把她的家具盖起来。",
+        "请一些朋友帮忙。",
+        "待在别的地方。",
+        "亲自监督工作。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Stay somewhere else.（待在别的地方。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What has the woman come to realize at the end of the conversation?",
+       "options": [
+        "She could have asked a friend for help with the paint job.",
+        "Painting a house involves more trouble than she thought.",
+        "She should have repainted her house much earlier.",
+        "Moving her furniture is harder than the paint job."
+       ],
+       "optionsZh": [
+        "她本可以请朋友帮忙做粉刷工作。",
+        "粉刷房子涉及的麻烦比她想象的多。",
+        "她应该早得多就重新粉刷她的房子。",
+        "搬动她的家具比粉刷工作更困难。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Painting a house involves more trouble than she thought.（粉刷房子涉及的麻烦比她想象的多。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What is the main aim of homework for primary school kids?",
+       "options": [
+        "To cultivate good habits.",
+        "To prepare for secondary school.",
+        "To review what is learned in class.",
+        "To stimulate interest in learning."
+       ],
+       "optionsZh": [
+        "培养良好的习惯。",
+        "为中学做准备。",
+        "复习课堂上学到的内容。",
+        "激发学习兴趣。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：To cultivate good habits.（培养良好的习惯。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the passage suggest parents do to help their children?",
+       "options": [
+        "Discuss their academic achievements with them.",
+        "Create an ideal study environment for them.",
+        "Allow them to learn independently.",
+        "Check their homework promptly."
+       ],
+       "optionsZh": [
+        "与孩子讨论他们的学业成绩。",
+        "为孩子创造理想的学习环境。",
+        "允许孩子独立学习。",
+        "及时检查孩子的家庭作业。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Create an ideal study environment for them.（为孩子创造理想的学习环境。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What should children do to deal with multiple assignments?",
+       "options": [
+        "Finish them before they get tired.",
+        "Tackle the most difficult task first.",
+        "Start with something they enjoy.",
+        "Focus on the most important ones."
+       ],
+       "optionsZh": [
+        "在感到疲劳之前完成作业。",
+        "先处理最困难的任务。",
+        "从自己喜欢的内容开始。",
+        "专注于最重要的作业。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Start with something they enjoy.（从自己喜欢的内容开始。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "Who will qualify for the bonus in Mexican oil company?",
+       "options": [
+        "Workers who meet its body weight standards.",
+        "Workers who can lose 30 pounds in a year.",
+        "Workers who try the hardest to lose weight.",
+        "Workers who are in the top 10% of the slimmest."
+       ],
+       "optionsZh": [
+        "符合其体重标准的员工。",
+        "一年内能减掉30磅的员工。",
+        "最努力减肥的员工。",
+        "体重最轻的前10%的员工。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Workers who meet its body weight standards.（符合其体重标准的员工。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What do critics think of Mexican oil company's bonus policy?",
+       "options": [
+        "Impractical.",
+        "Inconsistent.",
+        "Unmanageable.",
+        "Unfair."
+       ],
+       "optionsZh": [
+        "不切实际。",
+        "前后矛盾。",
+        "难以管理。",
+        "不公平。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Unfair.（不公平。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do experts propose companies do about workers' wellbeing?",
+       "options": [
+        "Offer them much fatter bonuses.",
+        "Improve working environment.",
+        "Encourage healthy behaviors.",
+        "Provide free lunch and snacks."
+       ],
+       "optionsZh": [
+        "向他们提供更丰厚的奖金。",
+        "改善工作环境。",
+        "鼓励健康行为。",
+        "提供免费午餐和零食。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Encourage healthy behaviors.（鼓励健康行为。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "Why are some people criticizing the British government?",
+       "options": [
+        "It has not done enough to help left-handed children.",
+        "It has treated left-handed children as being disabled.",
+        "It has not built facilities specially for the left-handed.",
+        "It has ignored campaigns on behalf of the left-handed."
+       ],
+       "optionsZh": [
+        "英国政府在帮助左撇子儿童方面做得不够。",
+        "英国政府把左撇子儿童当作残疾人对待。",
+        "英国政府没有专门为左撇子建造设施。",
+        "英国政府忽视了代表左撇子的运动。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It has not done enough to help left-handed children.（英国政府在帮助左撇子儿童方面做得不够。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What do studies in recent years show about left-handed children?",
+       "options": [
+        "They are as intelligent as other children.",
+        "They have a distinctive style of handwriting.",
+        "They sometimes have psychological problems.",
+        "They tend to have more difficulties in learning."
+       ],
+       "optionsZh": [
+        "他们和其他儿童一样聪明。",
+        "他们有独特的书写风格。",
+        "他们有时会有心理问题。",
+        "他们在学习方面往往有更多困难。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They tend to have more difficulties in learning.（他们在学习方面往往有更多困难。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What do the campaigners demand the department of education do?",
+       "options": [
+        "Punish teachers discriminating against left-handed students.",
+        "Lay more emphasis on improving children's mental health.",
+        "Encourage students to develop various professional skills.",
+        "Keep track of left-handed children's school performance."
+       ],
+       "optionsZh": [
+        "惩罚歧视左撇子学生的教师。",
+        "更加重视改善儿童的心理健康。",
+        "鼓励学生发展各种专业技能。",
+        "跟踪左撇子儿童的学业表现。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Keep track of left-handed children's school performance.（跟踪左撇子儿童的学业表现。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What do the campaigners want to know about left-handed prisoners?",
+       "options": [
+        "How they can be reduced in number.",
+        "Why their numbers are so high.",
+        "What percentage they account for.",
+        "If their percentage keeps increasing."
+       ],
+       "optionsZh": [
+        "如何减少他们的数量。",
+        "为什么他们的数量如此之高。",
+        "他们占的百分比是多少。",
+        "他们的百分比是否持续增加。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Why their numbers are so high.（为什么他们的数量如此之高。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose your school is organizing an orientation program to help the freshmen adapt to the new environment and academic studies. You are now to write a proposal, which may include its aim, duration, participants and activities. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "A Proposal for the Freshmen Orientation Program Our school is planning an orientation program for this year's\nfreshmen, and its main arrangements are proposed below. The program aims to help new students adapt to the\nnew environment and academic studies as smoothly and quickly as possible.\nIn terms of duration, the program will last for one week, starting from the day of registration. As for the\nparticipants, it is open to all incoming freshmen, and it will be organized by the Student Union together with\nvolunteer seniors and several advisers from each department.\nA variety of activities will be arranged during the week. First, campus tours and library workshops will help\nnewcomers find their way around. Second, group meetings with academic advisers will introduce course\nselection and effective study methods. Finally, evening social parties will give students a chance to make new\nfriends and relax.\nWe are confident that this program will give every freshman a warm and confident start. Your approval and\nsupport would be highly appreciated. The Student Union"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Many people believe that passion and commitment are the foundations of strong romantic relationships. But a relationship is made of two {{1}} individuals. And the personality traits(特性) these individuals {{2}} or lack can often make a relationship more or less likely to {{3}} . Recent research has found that one trait in particular—humility(谦逊)—is an important indicator of successful relationships. Humility can sometimes be {{4}} with a lack of confidence. But researchers have come to realize that being humble generally indicates the {{5}} of deeply admirable personal qualities. Being humble means you have the ability to accurately {{6}} your deficiencies without denying your skills and strengths. For example, you might recognize that you are intelligent, but realize that you are not a {{7}} . Thus, humility leads to an honest view of one's own advantages and shortcomings. Humble people do not ignore, avoid, or try to deny their limits or deficiencies. They can {{8}} mistakes, see value in things that are far from perfect and identify areas for improvement. Perhaps it is not {{9}} , then, that humility appears to be a huge asset to relationships. One study found that people tend to rate this quality {{10}} in their spouse. The study also found that someone who is humble is more likely to initiate a romantic relationship, perhaps because they are less likely to see themselves as \"too good\" for someone else. Thus, a humble partner might be your ideal partner.",
+     "options": [
+      "acknowledge",
+      "assess",
+      "confused",
+      "endure",
+      "extremely",
+      "genius",
+      "highly",
+      "permanent",
+      "possess",
+      "presence",
+      "puzzled",
+      "status",
+      "surprising",
+      "thoroughly",
+      "unique"
+     ],
+     "answers": [
+      14,
+      8,
+      3,
+      2,
+      9,
+      1,
+      5,
+      0,
+      12,
+      6
+     ],
+     "blankExplains": [
+      "【定位】But a relationship is made of two ____ individuals.\n【依据】答案是 unique：填回后与所在句 relationship、made、two、individuals 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】And the personality traits(特性) these individuals ____ or lack can often make a relationship more or less likely to  … .\n【依据】答案是 possess：填回后与所在句 personality、traits、individuals、lack、often、make 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】And the personality traits(特性) these individuals  … or lack can often make a relationship more or less likely to ____ .\n【依据】答案是 endure：填回后与所在句 personality、traits、individuals、lack、often、make 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Humility can sometimes be ____ with a lack of confidence.\n【依据】答案是 confused：填回后与所在句 humility、sometimes、lack、confidence 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But researchers have come to realize that being humble generally indicates the ____ of deeply admirable personal qualities.\n【依据】答案是 presence：填回后与所在句 researchers、come、realize、humble、generally、indicates 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Being humble means you have the ability to accurately ____ your deficiencies without denying your skills and strengths.\n【依据】答案是 assess：填回后与所在句 humble、means、ability、accurately、deficiencies、without 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】For example, you might recognize that you are intelligent, but realize that you are not a ____ .\n【依据】答案是 genius：填回后与所在句 example、recognize、intelligent、realize 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】They can ____ mistakes, see value in things that are far from perfect and identify areas for improvement.\n【依据】答案是 acknowledge：填回后与所在句 mistakes、see、value、things、far、perfect 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Perhaps it is not ____ , then, that humility appears to be a huge asset to relationships.\n【依据】答案是 surprising：填回后与所在句 perhaps、humility、appears、huge、asset、relationships 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】One study found that people tend to rate this quality ____ in their spouse.\n【依据】答案是 highly：填回后与所在句 study、found、people、tend、rate、quality 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "But a relationship is made of two ____ individuals.",
+       "why": "答案是 unique：填回后与所在句 relationship、made、two、individuals 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 unique 这个词性/语义，而不是 acknowledge）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 unique 这个词性/语义，而不是 assess）。"
+       }
+      },
+      {
+       "locate": "And the personality traits(特性) these individuals ____ or lack can often make a relationship more or less likely to  … .",
+       "why": "答案是 possess：填回后与所在句 personality、traits、individuals、lack、often、make 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 possess 这个词性/语义，而不是 permanent）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 possess 这个词性/语义，而不是 presence）。"
+       }
+      },
+      {
+       "locate": "And the personality traits(特性) these individuals  … or lack can often make a relationship more or less likely to ____ .",
+       "why": "答案是 endure：填回后与所在句 personality、traits、individuals、lack、often、make 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 endure 这个词性/语义，而不是 extremely）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 endure 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "Humility can sometimes be ____ with a lack of confidence.",
+       "why": "答案是 confused：填回后与所在句 humility、sometimes、lack、confidence 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 confused 这个词性/语义，而不是 acknowledge）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 confused 这个词性/语义，而不是 assess）。"
+       }
+      },
+      {
+       "locate": "But researchers have come to realize that being humble generally indicates the ____ of deeply admirable personal qualities.",
+       "why": "答案是 presence：填回后与所在句 researchers、come、realize、humble、generally、indicates 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 presence 这个词性/语义，而不是 permanent）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 presence 这个词性/语义，而不是 possess）。"
+       }
+      },
+      {
+       "locate": "Being humble means you have the ability to accurately ____ your deficiencies without denying your skills and strengths.",
+       "why": "答案是 assess：填回后与所在句 humble、means、ability、accurately、deficiencies、without 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 assess 这个词性/语义，而不是 acknowledge）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 assess 这个词性/语义，而不是 confused）。"
+       }
+      },
+      {
+       "locate": "For example, you might recognize that you are intelligent, but realize that you are not a ____ .",
+       "why": "答案是 genius：填回后与所在句 example、recognize、intelligent、realize 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 genius 这个词性/语义，而不是 acknowledge）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 genius 这个词性/语义，而不是 assess）。"
+       }
+      },
+      {
+       "locate": "They can ____ mistakes, see value in things that are far from perfect and identify areas for improvement.",
+       "why": "答案是 acknowledge：填回后与所在句 mistakes、see、value、things、far、perfect 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 acknowledge 这个词性/语义，而不是 assess）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 acknowledge 这个词性/语义，而不是 confused）。"
+       }
+      },
+      {
+       "locate": "Perhaps it is not ____ , then, that humility appears to be a huge asset to relationships.",
+       "why": "答案是 surprising：填回后与所在句 perhaps、humility、appears、huge、asset、relationships 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 surprising 这个词性/语义，而不是 status）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 surprising 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "One study found that people tend to rate this quality ____ in their spouse.",
+       "why": "答案是 highly：填回后与所在句 study、found、people、tend、rate、quality 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 highly 这个词性/语义，而不是 acknowledge）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 highly 这个词性/语义，而不是 assess）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "\"I used to work very hard. I love to create things, grow them and solve problems,\" said Meng Li, a successful app developer in San Francisco. \"I didn't really care about my mind and my body until they decided to go on strike.\""
+      },
+      {
+       "id": "B",
+       "text": "Ms. Li said her stress led to sleeplessness. When she did sleep, she experienced \"problem-solving dreams,\" which left her feeling unrested when she woke up. \"After I became a first-time mother, I quickly realized I was so busy caring for other people and work that I felt like I'd lost myself,\" she said."
+      },
+      {
+       "id": "C",
+       "text": "It's a common story—one we frequently ridicule and readily dismiss, for example, by claiming that women tend to complain more than men, despite the growing sum of research that underlines the problem. Women are twice as likely to suffer from severe stress and anxiety as men, according to a 2016 study published in The Journal of Brain & Behavior. The American Psychological Association reports a gender gap year after year showing that women consistently report higher stress levels. Clearly, a stress gap exists."
+      },
+      {
+       "id": "D",
+       "text": "\"The difference is not really news to me, as a clinical psychologist,\" said Erin Joyce, a women and couples therapist in Los Angeles. \"It's been well documented in extensive research over the years that prevalence rates for the majority of the anxiety disorders are higher in women than men.\" Some people may argue that this is merely reported data, and they say many men feel the same pressures as women in terms of fulfilling responsibilities at work and home. In other words, we're all really, really stressed."
+      },
+      {
+       "id": "E",
+       "text": "\"The difference, however, is in the nature and scope of these responsibilities in the home environment in particular,\" Dr. Joyce said. For example, the United Nations reported that women do nearly three times as much unpaid domestic work as men. The problem is, housework is often overlooked as work, even though it is often as laborious (or in some cases, more so) as any paid job. As the scholar Silvia Federici put it in 1975, the unpaid nature of domestic work reinforces the assumption that \"housework is not work, thus preventing women from struggling against it.\""
+      },
+      {
+       "id": "F",
+       "text": "It's not just inside the home, though. Research from Nova Southeastern University found that female managers were more likely than male managers to display \"surface acting,\" or forcing emotions that are not wholly felt. \"They expressed optimism, calmness and sympathy even when these were not the emotions that they were actually feeling,\" the study said."
+      },
+      {
+       "id": "G",
+       "text": "Surface acting is a prime example of \"emotional labor,\" a concept that the writer Jess Zimmerman made familiar in a 2015 essay. The essay sparked a massive thread on the internet community blog MetaFilter. Hundreds of women spoke up about their own experience with emotional labor: the duties that are expected of them, but go unnoticed. These invisible duties become apparent only when you don't do them. Like domestic labor, emotional labor is generally dismissed and not labeled work. But research shows it can be just as exhausting as paid work. Emotional labor can lead to difficulty in sleeping and family conflict. Sure, circumstantial stress, like losing a job, may lead to these same issues. But emotional labor is not circumstantial. It's an enduring responsibility based on the socialized gender role of women."
+      },
+      {
+       "id": "H",
+       "text": "Like Ms. Li, many women try to manage the added stress to reach what Dr. Joyce said was an unattainable ideal. \"Some professional women aim to do it all. They want to reach the top of the corporate ladder and fly like supermom,\" she said. When women don't reach this ideal, they feel guilty; and even more stressed. After her own struggle with this, Ms. Li took a step back and used her experience to build Sanity & Self, a self-care app and platform for overworked women. \"The realizations I had in that process helped me gain insights and ultimately got me ready to integrate self-care into my daily life,\" she said."
+      },
+      {
+       "id": "I",
+       "text": "The stress problem extends beyond mental health when you consider the link between stress, anxiety and heart health. Worse, most of what we know about heart disease comes from studies involving men. However, \"there are many reasons to think that it's different in women,\" Harvard Medical School reported. For example, women are more likely to experience disturbed sleep, anxiety and unusual fatigue before a heart attack. Stress is so normalized that it is easy for women to shrug off those symptoms as simply the consequences of stress. Many women also do not experience chest pain before a heart attack the way men do, which leads to fewer women discovering problematic heart issues. Harvard reports that women are \"much more likely than men to die within a year of having a heart attack\" and \"many women say their physicians sometimes don't even recognize the symptoms.\""
+      },
+      {
+       "id": "J",
+       "text": "The good news is, women are more likely than men to take charge of their stress and manage it, the American Psychological Association reports. The concept of self-care, at its core, is quite simple. \"The basics of adequate sleep, healthy diet and exercise are a good place to start,\" Dr. Joyce said. \"Support from trusted relationships is vital. This includes professional support from various health and wellness providers if stress is becoming increasingly overwhelming.\""
+      },
+      {
+       "id": "K",
+       "text": "Disconnecting from work and home responsibilities is also obviously important. But it's much easier said than done. It is important to understand what causes your stress in the first place. \"Get really specific with what's stressing you out,\" Ms. Li said. \"We often chalk up our stress to broad experiences like work. But work stress can take many different forms. Is a colleague being disrespectful of your time? Is a boss undermining your day-to-day control over decision making? These are different causes of stress and can benefit from different kinds of self-care.\""
+      },
+      {
+       "id": "L",
+       "text": "Ideally, your spouse or partner will be supportive, rather than dismissive, of your stress. It is important to talk through these issues before they come to a head. \"Women working outside of the home should make an effort to have a conscious conversation with their partners about more equitable sharing of household and family responsibilities,\" Dr. Joyce said."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Some career women who aim high tend to feel guilty if they fail to achieve their goals."
+      },
+      {
+       "id": "s37",
+       "text": "The unpaid housework done by women is triple that done by men."
+      },
+      {
+       "id": "s38",
+       "text": "It is reported that women consistently suffer more from severe stress than men."
+      },
+      {
+       "id": "s39",
+       "text": "Women are advised to identify the specific causes of their stress so that steps can be taken to deal with it."
+      },
+      {
+       "id": "s40",
+       "text": "One study showed that women managers often expressed positive emotions that they didn't really feel."
+      },
+      {
+       "id": "s41",
+       "text": "Women tend to mistake signs of heart attacks for symptoms of stress."
+      },
+      {
+       "id": "s42",
+       "text": "For a time an app developer in America was so busy attending to work and family that she suffered from sleeplessness."
+      },
+      {
+       "id": "s43",
+       "text": "The emotional labor women do is noticed only when it is not done."
+      },
+      {
+       "id": "s44",
+       "text": "Dr. Joyce suggests that apart from self-care, women should seek professional support if they experience severe stress."
+      },
+      {
+       "id": "s45",
+       "text": "Some people believe that there may not exist a stress gap between men and women."
+      }
+     ],
+     "answers": [
+      "H",
+      "E",
+      "C",
+      "K",
+      "F",
+      "I",
+      "B",
+      "G",
+      "J",
+      "D"
+     ],
+     "statementExplains": [
+      "【定位】When women don't reach this ideal, they feel guilty; and even more stressed.\n【依据】陈述里的 women、feel、guilty 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】For example, the United Nations reported that women do nearly three times as much unpaid domestic work as men.\n【依据】陈述里的 unpaid、women、men 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Women are twice as likely to suffer from severe stress and anxiety as men, according to a 2016 study published in The Journal of Brain & Behavior.\n【依据】陈述里的 women、suffer、severe、stress、men 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】It is important to understand what causes your stress in the first place.\n【依据】陈述里的 causes、stress 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】\"They expressed optimism, calmness and sympathy even when these were not the emotions that they were actually feeling,\" the study said.\n【依据】陈述里的 study、expressed、emotions 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Harvard reports that women are \"much more likely than men to die within a year of having a heart attack\" and \"many women say their physicians sometimes don't even recognize the symptoms.\"\n【依据】陈述里的 women、heart、attacks、symptoms 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】\"After I became a first-time mother, I quickly realized I was so busy caring for other people and work that I felt like I'd lost myself,\" she said.\n【依据】陈述里的 busy、work 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Hundreds of women spoke up about their own experience with emotional labor: the duties that are expected of them, but go unnoticed.\n【依据】陈述里的 emotional、labor、women 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】This includes professional support from various health and wellness providers if stress is becoming increasingly overwhelming.\"\n【依据】陈述里的 professional、support、stress 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】\"It's been well documented in extensive research over the years that prevalence rates for the majority of the anxiety disorders are higher in women than men.\" Some people may argue that this is merely reported data, and they say many men feel the same pressures as women in terms of fulfilling responsibilities at work and home.\n【依据】陈述里的 people、men、women 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "When women don't reach this ideal, they feel guilty; and even more stressed.",
+       "why": "陈述里的 women、feel、guilty 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For example, the United Nations reported that women do nearly three times as much unpaid domestic work as men.",
+       "why": "陈述里的 unpaid、women、men 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Women are twice as likely to suffer from severe stress and anxiety as men, according to a 2016 study published in The Journal of Brain & Behavior.",
+       "why": "陈述里的 women、suffer、severe、stress、men 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "It is important to understand what causes your stress in the first place.",
+       "why": "陈述里的 causes、stress 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"They expressed optimism, calmness and sympathy even when these were not the emotions that they were actually feeling,\" the study said.",
+       "why": "陈述里的 study、expressed、emotions 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Harvard reports that women are \"much more likely than men to die within a year of having a heart attack\" and \"many women say their physicians sometimes don't even recognize the symptoms.\"",
+       "why": "陈述里的 women、heart、attacks、symptoms 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"After I became a first-time mother, I quickly realized I was so busy caring for other people and work that I felt like I'd lost myself,\" she said.",
+       "why": "陈述里的 busy、work 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Hundreds of women spoke up about their own experience with emotional labor: the duties that are expected of them, but go unnoticed.",
+       "why": "陈述里的 emotional、labor、women 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This includes professional support from various health and wellness providers if stress is becoming increasingly overwhelming.\"",
+       "why": "陈述里的 professional、support、stress 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"It's been well documented in extensive research over the years that prevalence rates for the majority of the anxiety disorders are higher in women than men.\" Some people may argue that this is merely reported data, and they say many men feel the same pressures as women in terms of fulfilling responsibilities at work and home.",
+       "why": "陈述里的 people、men、women 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "As many office workers adapt to remote work, cities may undergo fundamental change if offices remain under-utilized. Who will benefit if working from home becomes the norm? Employers argue they make considerable savings on real estate when workers shift from office to home work. However, these savings result from passing costs on to workers. Unless employees are fully compensated, this could become a variant of parasitic(寄生的) capitalism, whereby corporate profits increasingly rely on extracting value from the public—and now personal—realm, rather than on generating new value. Though employers are backed by a chorus of remote work advocates, others note the loneliness, reduced productivity and inefficiencies of extended remote work. If working from home becomes permanent, employees will have to dedicate part of their private space to work. This requires purchasing desks, chairs and office equipment. It also means having private space dedicated to work: the space must be heated, cleaned, maintained and paid for. That depends on many things, but for purposes of illustration, I have run some estimates for Montreal. The exercise is simple but important, since it brings these costs out of the realm of speculation into the realm of meaningful discussion. Rough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home. What does this mean for offices in cities? One of two things may happen: Employers pass these costs onto employees. This would be a form of expropriation(侵占), with employees absorbing production costs that have traditionally been paid by the employer. This represents a considerable transfer of value from employees to employers. When employees are properly compensated, employers' real estate savings will be modest. If savings are modest, then the many advantages of working in offices—such as lively atmosphere, rapidity of communication, team-building and acclimatization(适应环境) of new employees—will encourage employers to shelve the idea of remote work and, like Yahoo in 2013, encourage employees to work most of the time from corporate office space.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author say about working from home?",
+       "options": [
+        "It will become the norm sooner or later.",
+        "It requires employees to adapt promptly.",
+        "It benefits employers at the expense of employees.",
+        "It will force cities to transform their infrastructure."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】If working from home becomes permanent, employees will have to dedicate part of their private space to work.\n【依据】正确项的核心词 employers、employees 与定位句对得上；其余 benefits、expense 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If working from home becomes permanent, employees will have to dedicate part of their private space to work.",
+        "why": "正确项的核心词 employers、employees 与定位句对得上；其余 benefits、expense 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「sooner、later」全文未出现；把原文的「become」换成了「norm、sooner、later」，主语或对象被调包。",
+         "B": "偷换主体：「promptly」全文未出现；把原文的「employees」换成了「requires、adapt、promptly」，主语或对象被调包。",
+         "D": "无中生有：「force、transform、infrastructure」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "Why do some people oppose working from home?",
+       "options": [
+        "It discourages team spirit.",
+        "It invades employees' privacy.",
+        "It undermines traditional values.",
+        "It negatively impacts productivity."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】If working from home becomes permanent, employees will have to dedicate part of their private space to work.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 negatively、impacts、productivity 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If working from home becomes permanent, employees will have to dedicate part of their private space to work.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 negatively、impacts、productivity 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「discourages、team、spirit」全文未出现。",
+         "B": "无中生有：「invades」全文未出现；把原文的「employees'、privacy」换成了「invades」，主语或对象被调包。",
+         "C": "无中生有：「undermines、traditional、values」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "Why did the author run the estimates for Montreal?",
+       "options": [
+        "To provide convincing data for serious discussion.",
+        "To illustrate the ongoing change in working patterns.",
+        "To show the impact of remote working on productivity.",
+        "To exemplify how remote working affects the economy."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】That depends on many things, but for purposes of illustration, I have run some estimates for Montreal.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 provide、convincing、data、serious 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "That depends on many things, but for purposes of illustration, I have run some estimates for Montreal.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 provide、convincing、data、serious 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「ongoing、patterns」全文未出现；把原文的「illustrate」换成了「ongoing、change、working」，主语或对象被调包。",
+         "C": "因果倒置：「impact」全文未出现。",
+         "D": "无中生有：「exemplify、how、affects」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What can we conclude from the author's calculations?",
+       "options": [
+        "There is no point in transferring office work to working from home.",
+        "Employees can benefit as much from remote working as their employers.",
+        "Employers' gain from remote working should go to employees as compensation.",
+        "Effective measures should be taken to motivate employees to set up offices at home."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Rough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home.\n【依据】正确项的核心词 employers'、employees、compensation 与定位句对得上；其余 gain、remote、working 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Rough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home.",
+        "why": "正确项的核心词 employers'、employees、compensation 与定位句对得上；其余 gain、remote、working 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「there、point、transferring」全文未出现；把原文的「office、home」换成了「there、point、transferring」，主语或对象被调包。",
+         "B": "偷换主体：「much」全文未出现；把原文的「employees、employers」换成了「benefit、much、remote」，主语或对象被调包。",
+         "D": "无中生有：「effective、measures、taken」全文未出现；把原文的「employees、offices、home」换成了「effective、measures、taken」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What is the author's opinion on working from home?",
+       "options": [
+        "It should be avoided if possible.",
+        "It is only a temporary measure.",
+        "It can reduce companies' real estate costs.",
+        "It may affect employees' corporate loyalty."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】If working from home becomes permanent, employees will have to dedicate part of their private space to work.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 avoided、possible 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If working from home becomes permanent, employees will have to dedicate part of their private space to work.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 avoided、possible 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「only、temporary、measure」全文未出现。",
+         "C": "因果倒置：「reduce、companies'」全文未出现。",
+         "D": "无中生有：「affect、loyalty」全文未出现；把原文的「employees'」换成了「affect、corporate、loyalty」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 341 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "The human thirst for knowledge is the driving force behind our successful development as a species. But curiosity can also be dangerous, leading to setbacks or even downfalls. Given curiosity's complexity, scientists have found it hard to define. While pinning down a definition has proven tricky, the general consensus is it's some means of information gathering. Psychologists also agree curiosity is intrinsically(内在地) motivated. Curiosity covers such a large set of behaviors that there probably isn't any single \"curiosity gene\" that makes humans wonder about and explore their environment. That said, curiosity does have a genetic component. Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity. Regardless of their genetic makeup, infants have to learn an incredible amount of information in a short time, and curiosity is one of the tools humans have found to accomplish that gigantic task. Hundreds of studies show that infants prefer novelty. It's what motivates non-human animals, human infants and probably human adults to explore and seek out new things before growing less interested in them after continued exposure. But curiosity often comes with a cost. In some situations, the stakes are low and failure is a healthy part of growth. For instance, many babies are perfectly proficient crawlers, but they decide to try walking because there's more to see and do when they stand upright. But this milestone comes at a small cost. A study of 12- to 19-month-olds learning how to walk documented that these children fell down a lot. Seventeen times per hour, to be exact. But walking is faster than crawling, so this motivates expert crawlers to transition to walking. Sometimes, however, testing out a new idea can lead to disaster. For instance, the Inuit people of the Arctic regions have created incredible modes to deal with the challenges of living in northern climates, but what we forget about are the tens of thousands of people that tried and failed to make it in those challenging landscapes.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What does the author say about curiosity?",
+       "options": [
+        "It is too complex for non-scientists to understand.",
+        "It is the force that pushes human society forward.",
+        "It is a unique trait specific to the human race.",
+        "It is often the major cause for human failures."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Curiosity covers such a large set of behaviors that there probably isn't any single \"curiosity gene\" that makes humans wonder about and explore their environment.\n【依据】正确项的核心词 human 与定位句对得上；其余 force、pushes、society、forward 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Curiosity covers such a large set of behaviors that there probably isn't any single \"curiosity gene\" that makes humans wonder about and explore their environment.",
+        "why": "正确项的核心词 human 与定位句对得上；其余 force、pushes、society、forward 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「too、non-scientists、understand」全文未出现。",
+         "C": "无中生有：「unique、trait、specific」全文未出现；把原文的「human」换成了「unique、trait、specific」，主语或对象被调包。",
+         "D": "无中生有：「major、cause、failures」全文未出现；把原文的「human」换成了「often、major、cause」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is the general understanding of curiosity?",
+       "options": [
+        "It motivates people to seek information.",
+        "It is destined to transform human genes.",
+        "It does people more good than harm.",
+        "It underlies all human behaviors."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】It's what motivates non-human animals, human infants and probably human adults to explore and seek out new things before growing less interested in them after continued exposure.\n【依据】正确项的核心词 motivates、seek 与定位句对得上；其余 people、information 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It's what motivates non-human animals, human infants and probably human adults to explore and seek out new things before growing less interested in them after continued exposure.",
+        "why": "正确项的核心词 motivates、seek 与定位句对得上；其余 people、information 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「destined、transform」全文未出现；把原文的「human」换成了「destined、transform、genes」，主语或对象被调包。",
+         "C": "无中生有：「good、harm」全文未出现。",
+         "D": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「underlies」全文未出现；把原文的「human」换成了「underlies、behaviors」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do we learn about how genes shape people's behavior?",
+       "options": [
+        "They determine people's way of thinking.",
+        "They account for age differences in learning.",
+        "They enable people to undertake massive tasks.",
+        "They work in conjunction with the environment."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity.\n【依据】正确项的核心词 environment 与定位句对得上；其余 work、conjunction 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity.",
+        "why": "正确项的核心词 environment 与定位句对得上；其余 work、conjunction 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「determine、people's、way」全文未出现。",
+         "B": "无中生有：「account、age、differences」全文未出现。",
+         "C": "无中生有：「enable、undertake、massive」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What do numerous studies show about infants?",
+       "options": [
+        "They are far more curious than adults.",
+        "They prefer to go after all that is novel.",
+        "They have different interests than adults.",
+        "They show non-human animal behaviors."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Hundreds of studies show that infants prefer novelty.\n【依据】正确项的核心词 prefer、novel 与定位句对得上；其余 after 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Hundreds of studies show that infants prefer novelty.",
+        "why": "正确项的核心词 prefer、novel 与定位句对得上；其余 after 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「far、curious」全文未出现。",
+         "C": "无中生有：「different、interests」全文未出现。",
+         "D": "偷换主体：「animal」全文未出现；把原文的「show」换成了「non-human、animal、behaviors」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the example of the Inuit people of the Arctic regions illustrate?",
+       "options": [
+        "The cost of humans' curiosity to explore.",
+        "The incredible harshness of cold weather.",
+        "The innovative ideas stemming from curiosity.",
+        "The importance of learning from past failures."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】For instance, the Inuit people of the Arctic regions have created incredible modes to deal with the challenges of living in northern climates, but what we forget about are the tens of thousands of people that tried and failed to make it in those challenging landscapes.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 cost、humans'、curiosity、explore 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For instance, the Inuit people of the Arctic regions have created incredible modes to deal with the challenges of living in northern climates, but what we forget about are the tens of thousands of people that tried and failed to make it in those challenging landscapes.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 cost、humans'、curiosity、explore 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「harshness、cold、weather」全文未出现；把原文的「incredible」换成了「harshness、cold、weather」，主语或对象被调包。",
+         "C": "无中生有：「innovative、ideas、stemming」全文未出现。",
+         "D": "无中生有：「importance、past、failures」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 334 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "大运河(Grand Canal)是世界上最长的人工河，北起北京，南至杭州。它是中国历史上最宏伟的工程之一。大运河始建于公元前4世纪，公元13世纪末建成。修建之初是为了运输粮食，后来也用于运输其他商品。大运河沿线区域逐渐发展成为中国的工商业中心。长久以来，大运河对中国的经济发展发挥了重要作用，有力地促进了南北地区之间的人员往来和文化交流。",
+     "reference": "The Grand Canal is the longest man-made river in the world, running from Beijing in the north to Hangzhou in the south. It is one of the most magnificent projects in Chinese history. The construction of the Grand Canal was started in the 4th century BC and completed in the late 13th century It was originally built to transport grain and was later used to transport other goods as well. The areas along the Grand Canal gradually developed into industrial and commercial centers of China. For a long time, the Grand Canal has played an important role in China's economic development, greatly promoting personnel exchanges and cultural communication between the north and the south.",
+     "keyPoints": [
+      "The Grand Canal is the longest man-made river in the world, running from Beijing in the north to Hangzhou in the south.",
+      "It is one of the most magnificent projects in Chinese history.",
+      "The construction of the Grand Canal was started in the 4th century BC and completed in the late 13th century It was originally built to transport grain and was later used to transport other goods as well.",
+      "The areas along the Grand Canal gradually developed into industrial and commercial centers of China.",
+      "For a long time, the Grand Canal has played an important role in China's economic development, greatly promoting personnel exchanges and cultural communication between the north and the south."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

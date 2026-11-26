@@ -1,0 +1,613 @@
+{
+ "id": "cet4-2021-06-3",
+ "levelId": "cet4",
+ "title": "四级 2021 年 06 月 第 3 套",
+ "minutes": 125,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年6月英语四级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2021-06-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay titled “Doviolent video games lead to violence?”. The statement given below is for your reference. You should write at least 120 words but no more than 180 words . A growing body of research finds that violent video games can make kids act aggressively in their real world relationships, causing an increase in violence.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Do violent video games lead to violence? While a growing body of research suggests such games can make\nplayers more aggressive, I believe they do not directly cause real violence; rather, their influence depends on\nthe individual and the surrounding environment.\nTo begin with, exposure to violent scenes may indeed shape behavior. First, children who spend hours shooting\nand fighting on screen can gradually treat aggression as normal, and some may copy what they see when they\nlose their temper. However, most players clearly separate games from reality. A well-supervised teenager, for\ninstance, can enjoy an action game after homework and still behave kindly toward classmates, because family\nguidance and self-control matter far more than the game itself.\nIn conclusion, violent video games alone do not turn ordinary people into violent ones. What truly counts is\nproper parental supervision and healthy habits. Therefore, rather than simply blaming the games, parents and\nschools should teach children to play in moderation and to tell fantasy from real life."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Nowadays you can't buy anything without being asked to provide a rating of a company's performance on a five-star scale. I've been asked to rate my \"store {{1}} \" on the EFTPOS terminal before I can pay. Even the most {{2}} activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys asking, \"How did we do?\" Online purchases are {{3}} followed up by a customer satisfaction survey. Companies are so {{4}} for a hit of stars that if you delete the survey the company sends you another one. We're {{5}} to rate our apps when we've barely had a chance to use them. One online course provider I use asks you what you think of the course after you've only completed {{6}} 2 per cent of it. Economist Jason Murphy says that companies use customer satisfaction ratings because a {{7}} display of star feedback has become the nuclear power source of the modern economy. However, you can't help but {{8}} if these companies are basing their business on fabrications(捏造的东西). I {{9}} that with online surveys I just click the {{10}} that's closest to my mouse cursor(光标) to get the damn thing off my screen. Often the star rating I give has far more to do with the kind of day I'm having than the purchase I just made.",
+     "options": [
+      "announce",
+      "commonplace",
+      "confess",
+      "desperate",
+      "experience",
+      "fascinated",
+      "option",
+      "prompted",
+      "roughly",
+      "routinely",
+      "shining",
+      "showering",
+      "variety",
+      "voyage",
+      "wonder"
+     ],
+     "answers": [
+      4,
+      1,
+      9,
+      3,
+      7,
+      8,
+      10,
+      14,
+      2,
+      6
+     ],
+     "blankExplains": [
+      "【定位】I've been asked to rate my \"store ____ \" on the EFTPOS terminal before I can pay.\n【依据】答案是 experience：填回后与所在句 i've、asked、rate、store、eftpos、terminal 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Even the most ____ activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys asking, \"How did we do?\" Online purchases are  … followed up by a customer satisfaction survey.\n【依据】答案是 commonplace：填回后与所在句 even、activities、calling、telstra、picking、parcel 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Even the most  … activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys asking, \"How did we do?\" Online purchases are ____ followed up by a customer satisfaction survey.\n【依据】答案是 routinely：填回后与所在句 even、activities、calling、telstra、picking、parcel 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Companies are so ____ for a hit of stars that if you delete the survey the company sends you another one.\n【依据】答案是 desperate：填回后与所在句 companies、hit、stars、delete、survey、company 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】We're ____ to rate our apps when we've barely had a chance to use them.\n【依据】答案是 prompted：填回后与所在句 we're、rate、apps、when、we've、barely 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】One online course provider I use asks you what you think of the course after you've only completed ____ 2 per cent of it.\n【依据】答案是 roughly：填回后与所在句 online、course、provider、use、asks、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Economist Jason Murphy says that companies use customer satisfaction ratings because a ____ display of star feedback has become the nuclear power source of the modern economy.\n【依据】答案是 shining：填回后与所在句 economist、jason、murphy、says、companies、use 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】However, you can't help but ____ if these companies are basing their business on fabrications(捏造的东西).\n【依据】答案是 wonder：填回后与所在句 however、can't、help、companies、basing、business 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】I ____ that with online surveys I just click the  … that's closest to my mouse cursor(光标) to get the damn thing off my screen.\n【依据】答案是 confess：填回后与所在句 online、surveys、just、click、that's、closest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】I  … that with online surveys I just click the ____ that's closest to my mouse cursor(光标) to get the damn thing off my screen.\n【依据】答案是 option：填回后与所在句 online、surveys、just、click、that's、closest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "I've been asked to rate my \"store ____ \" on the EFTPOS terminal before I can pay.",
+       "why": "答案是 experience：填回后与所在句 i've、asked、rate、store、eftpos、terminal 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 experience 这个词性/语义，而不是 announce）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 experience 这个词性/语义，而不是 commonplace）。"
+       }
+      },
+      {
+       "locate": "Even the most ____ activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys asking, \"How did we do?\" Online purchases are  … followed up by a customer satisfaction survey.",
+       "why": "答案是 commonplace：填回后与所在句 even、activities、calling、telstra、picking、parcel 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 commonplace 这个词性/语义，而不是 confess）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 commonplace 这个词性/语义，而不是 announce）。"
+       }
+      },
+      {
+       "locate": "Even the most  … activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys asking, \"How did we do?\" Online purchases are ____ followed up by a customer satisfaction survey.",
+       "why": "答案是 routinely：填回后与所在句 even、activities、calling、telstra、picking、parcel 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "与 routinely 拼写相近（共同开头 rou），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 routinely 这个词性/语义，而不是 announce）。"
+       }
+      },
+      {
+       "locate": "Companies are so ____ for a hit of stars that if you delete the survey the company sends you another one.",
+       "why": "答案是 desperate：填回后与所在句 companies、hit、stars、delete、survey、company 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 desperate 这个词性/语义，而不是 announce）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 desperate 这个词性/语义，而不是 commonplace）。"
+       }
+      },
+      {
+       "locate": "We're ____ to rate our apps when we've barely had a chance to use them.",
+       "why": "答案是 prompted：填回后与所在句 we're、rate、apps、when、we've、barely 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 prompted 这个词性/语义，而不是 announce）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 prompted 这个词性/语义，而不是 commonplace）。"
+       }
+      },
+      {
+       "locate": "One online course provider I use asks you what you think of the course after you've only completed ____ 2 per cent of it.",
+       "why": "答案是 roughly：填回后与所在句 online、course、provider、use、asks、what 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "与 roughly 拼写相近（共同开头 rou），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 roughly 这个词性/语义，而不是 announce）。"
+       }
+      },
+      {
+       "locate": "Economist Jason Murphy says that companies use customer satisfaction ratings because a ____ display of star feedback has become the nuclear power source of the modern economy.",
+       "why": "答案是 shining：填回后与所在句 economist、jason、murphy、says、companies、use 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shining 这个词性/语义，而不是 showering）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shining 这个词性/语义，而不是 announce）。"
+       }
+      },
+      {
+       "locate": "However, you can't help but ____ if these companies are basing their business on fabrications(捏造的东西).",
+       "why": "答案是 wonder：填回后与所在句 however、can't、help、companies、basing、business 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 wonder 这个词性/语义，而不是 announce）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 wonder 这个词性/语义，而不是 commonplace）。"
+       }
+      },
+      {
+       "locate": "I ____ that with online surveys I just click the  … that's closest to my mouse cursor(光标) to get the damn thing off my screen.",
+       "why": "答案是 confess：填回后与所在句 online、surveys、just、click、that's、closest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 confess 这个词性/语义，而不是 commonplace）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 confess 这个词性/语义，而不是 announce）。"
+       }
+      },
+      {
+       "locate": "I  … that with online surveys I just click the ____ that's closest to my mouse cursor(光标) to get the damn thing off my screen.",
+       "why": "答案是 option：填回后与所在句 online、surveys、just、click、that's、closest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 option 这个词性/语义，而不是 announce）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 option 这个词性/语义，而不是 commonplace）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "How do early career setbacks affect our long-term success? Failures can help us learn and overcome our fears. But disasters can still wound us. They can screw us up and set us back. Wouldn't it be nice if there was genuine, scientifically documented truth to the expression \"what doesn't kill you makes you stronger\"?"
+      },
+      {
+       "id": "B",
+       "text": "One way social scientists have probed the effects of career setbacks is to look at scientists of very similar qualifications. These scientists, for reasons that are mostly arbitrary, either just missed getting a research grant or just barely made it. In social sciences, this is known as examining \"near misses\" and \"narrow wins\" in areas where merit is subjective. That allows researchers to measure only the effects of being chosen or not. Studies in this area have found conflicting results. In the competitive game of biomedical science, research has been done on scientists who narrowly lost or won grant money. It suggests that narrow winners become even bigger winners down the line. In other words, the rich get richer."
+      },
+      {
+       "id": "C",
+       "text": "A 2018 study published in the Proceedings of the National Academy of Sciences, for example, followed researchers in the Netherlands. Researchers concluded that those who just barely qualified for a grant were able to get twice as much money within the next eight years as those who just missed out. And the narrow winners were 50 percent more likely to be given a professorship."
+      },
+      {
+       "id": "D",
+       "text": "Others in the US have found similar effects with National Institutes of Health early-career fellowships launching narrow winners far ahead of close losers. The phenomenon is often referred to as the Matthew effect, inspired by the Bible's wisdom that to those who have, more will be given. There's a good explanation for the phenomenon in the book The Formula: The Universal Laws of Success by Albert Laszlo Barabasi. According to Barabasi, it's easier and less risky for those in positions of power to choose to hand awards and funding to those who've already been so recognized."
+      },
+      {
+       "id": "E",
+       "text": "This is bad news for the losers. Small early career setbacks seem to have a disproportionate effect down the line. What didn't kill them made them weaker. But other studies using the same technique have shown there's sometimes no penalty to a near miss. Students who just miss getting into top high schools or universities do just as well later in life as those who just manage to get accepted. In this case, what didn't kill them simply didn't matter. So is there any evidence that setbacks might actually improve our career prospects? There is now."
+      },
+      {
+       "id": "F",
+       "text": "In a study published in Nature Communications, Northwestern University sociologist Dashun Wang tracked more than 1,100 scientists who were on the border between getting a grant and missing out between 1990 and 2005. He followed various measures of performance over the next decade. These included how many papers they authored and how influential those papers were, as measured by the number of subsequent citations. As expected, there was a much higher rate of attrition(减员) among scientists who didn't get grants. But among those who stayed on, the close losers performed even better than the narrow winners. To make sure this wasn't by chance, Wang conducted additional tests using different performance measures. He examined how many times people were first authors on influential studies, and the like."
+      },
+      {
+       "id": "G",
+       "text": "One straightforward reason close losers might outperform narrow winners is that the two groups have comparable ability. In Wang's study, he selected the most determined, passionate scientists from the loser group and culled(剔除) what he deemed the weakest members of the winner group. Yet the persevering losers still came out on top. He thinks that being a close loser might give people a psychological boost, or the proverbial kick in the pants."
+      },
+      {
+       "id": "H",
+       "text": "Utrecht University sociologist Arnout van de Rijt was the lead author on the 2018 paper showing the rich get richer. He said the new finding is apparently reasonable and worth some attention. His own work showed that although the narrow winners did get much more money in the near future, the actual performance of the close losers was just as good."
+      },
+      {
+       "id": "I",
+       "text": "He said the people who should be paying regard to the Wang paper are the funding agents who distribute government grant money. After all, by continuing to pile riches on the narrow winners, the taxpayers are not getting the maximum bang for their buck if the close losers are performing just as well or even better. There's a huge amount of time and effort that goes into the process of selecting who gets grants, he said, and the latest research shows that the scientific establishment is not very good at distributing money. \"Maybe we should spend less money trying to figure out who is better than who,\" he said, suggesting that some more equal dividing up of money might be more productive and more efficient. Van de Rijt said he's not convinced that losing out gives people a psychological boost. It may yet be a selection effect. Even though Wang tried to account for this by culling the weakest winners, it's impossible to know which of the winners would have quit had they found themselves on the losing side."
+      },
+      {
+       "id": "J",
+       "text": "For his part, Wang said that in his own experience, losing did light a motivating fire. He recalled a recent paper he submitted to a journal, which accepted it only to request extensive editing, and then reversed course and rejected it. He submitted the unedited version to a more respected journal and got accepted."
+      },
+      {
+       "id": "K",
+       "text": "In sports and many areas of life, we think of failures as evidence of something we could have done better. We regard these disappointments as a fate we could have avoided with more careful preparation, different training, a better strategy, or more focus. And there it makes sense that failures show us the road to success. These papers deal with a kind of failure people have little control over—rejection. Others determine who wins and who loses. But at the very least, the research is starting to show that early setbacks don't have to be fatal. They might even make us better at our jobs. Getting paid like a winner, though? That's a different matter."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Being a close loser could greatly motivate one to persevere in their research."
+      },
+      {
+       "id": "s37",
+       "text": "Grant awarders tend to favor researchers already recognized in their respective fields."
+      },
+      {
+       "id": "s38",
+       "text": "Suffering early setbacks might help people improve their job performance."
+      },
+      {
+       "id": "s39",
+       "text": "Research by social scientists on the effects of career setbacks has produced contradictory findings."
+      },
+      {
+       "id": "s40",
+       "text": "It is not in the best interest of taxpayers to keep giving money to narrow winners."
+      },
+      {
+       "id": "s41",
+       "text": "Scientists who persisted in research without receiving a grant made greater achievements than those who got one with luck, as suggested in one study."
+      },
+      {
+       "id": "s42",
+       "text": "A research paper rejected by one journal may get accepted by another."
+      },
+      {
+       "id": "s43",
+       "text": "According to one recent study, narrow winners of research grants had better chances to be promoted to professors."
+      },
+      {
+       "id": "s44",
+       "text": "One researcher suggests it might be more fruitful to distribute grants on a relatively equal basis."
+      },
+      {
+       "id": "s45",
+       "text": "Minor setbacks in their early career may have a strong negative effect on the career of close losers."
+      }
+     ],
+     "answers": [
+      "G",
+      "D",
+      "K",
+      "B",
+      "I",
+      "F",
+      "J",
+      "C",
+      "I",
+      "E"
+     ],
+     "statementExplains": [
+      "【定位】One straightforward reason close losers might outperform narrow winners is that the two groups have comparable ability.\n【依据】陈述里的 close、loser 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】According to Barabasi, it's easier and less risky for those in positions of power to choose to hand awards and funding to those who've already been so recognized.\n【依据】陈述里的 awarders、already、recognized 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】But at the very least, the research is starting to show that early setbacks don't have to be fatal.\n【依据】陈述里的 early、setbacks 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】One way social scientists have probed the effects of career setbacks is to look at scientists of very similar qualifications.\n【依据】陈述里的 social、scientists、effects、career、setbacks 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】After all, by continuing to pile riches on the narrow winners, the taxpayers are not getting the maximum bang for their buck if the close losers are performing just as well or even better.\n【依据】陈述里的 taxpayers、narrow、winners 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】In a study published in Nature Communications, Northwestern University sociologist Dashun Wang tracked more than 1,100 scientists who were on the border between getting a grant and missing out between 1990 and 2005.\n【依据】陈述里的 scientists、who、grant、who、study 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】He recalled a recent paper he submitted to a journal, which accepted it only to request extensive editing, and then reversed course and rejected it.\n【依据】陈述里的 paper、rejected、journal、accepted 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】And the narrow winners were 50 percent more likely to be given a professorship.\n【依据】陈述里的 narrow、winners、professors 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】There's a huge amount of time and effort that goes into the process of selecting who gets grants, he said, and the latest research shows that the scientific establishment is not very good at distributing money.\n【依据】陈述里的 researcher、distribute、grants 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Small early career setbacks seem to have a disproportionate effect down the line.\n【依据】陈述里的 setbacks、early、career、effect、career 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。"
+     ],
+     "explain": "长篇阅读匹配：11 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "One straightforward reason close losers might outperform narrow winners is that the two groups have comparable ability.",
+       "why": "陈述里的 close、loser 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "According to Barabasi, it's easier and less risky for those in positions of power to choose to hand awards and funding to those who've already been so recognized.",
+       "why": "陈述里的 awarders、already、recognized 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But at the very least, the research is starting to show that early setbacks don't have to be fatal.",
+       "why": "陈述里的 early、setbacks 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "One way social scientists have probed the effects of career setbacks is to look at scientists of very similar qualifications.",
+       "why": "陈述里的 social、scientists、effects、career、setbacks 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "After all, by continuing to pile riches on the narrow winners, the taxpayers are not getting the maximum bang for their buck if the close losers are performing just as well or even better.",
+       "why": "陈述里的 taxpayers、narrow、winners 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In a study published in Nature Communications, Northwestern University sociologist Dashun Wang tracked more than 1,100 scientists who were on the border between getting a grant and missing out between 1990 and 2005.",
+       "why": "陈述里的 scientists、who、grant、who、study 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "He recalled a recent paper he submitted to a journal, which accepted it only to request extensive editing, and then reversed course and rejected it.",
+       "why": "陈述里的 paper、rejected、journal、accepted 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And the narrow winners were 50 percent more likely to be given a professorship.",
+       "why": "陈述里的 narrow、winners、professors 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "There's a huge amount of time and effort that goes into the process of selecting who gets grants, he said, and the latest research shows that the scientific establishment is not very good at distributing money.",
+       "why": "陈述里的 researcher、distribute、grants 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Small early career setbacks seem to have a disproportionate effect down the line.",
+       "why": "陈述里的 setbacks、early、career、effect、career 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Boredom has become trendy. Studies point to how boredom is good for creativity and innovation, as well as mental health. It is found that people are more creative following the completion of a tedious task. When people are bored, they have an increase in \"associative thought\"—the process of making new connections between ideas, which is linked to innovative thinking. These studies are impressive, but in reality, the benefits of boredom may be related to having time to clear your mind, be quiet, or daydream. In our stimulation-rich world, it seems unrealistic that boredom could occur at all. Yet, there are valid reasons boredom may feel so painful. As it turns out, boredom might signal the fact that you have a need that isn't being met. Our always-on world of social media may result in more connections, but they are superficial and can get in the way of building a real sense of belonging. Feeling bored may signal the desire for a greater sense of community and the feeling that you fit in with others around you. So take the step of joining an organization to build face-to-face relationships. You'll find depth that you won't get from your screen no matter how many likes you get on your post. Similar to the need for belonging, bored people often report that they feel a limited sense of meaning. It's a fundamental human need to have a larger purpose and to feel like we're part of something bigger than ourselves. When people are bored, they're more likely to feel less meaning in their lives. If you want to reduce boredom and increase your sense of meaning, seek work where you can make a unique contribution, or find a cause you can support with your time and talent. If your definition of boredom is being quiet, mindful, and reflective, keep it up. But if you're struggling with real boredom and the emptiness it provokes, consider whether you might seek new connections and more significant challenges. These are the things that will genuinely relieve boredom and make you more effective in the process.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What have studies found about boredom?",
+       "options": [
+        "It facilitates innovative thinking.",
+        "It is a result of doing boring tasks.",
+        "It helps people connect with others.",
+        "It does harm to one's mental health."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Studies point to how boredom is good for creativity and innovation, as well as mental health.\n【依据】正确项的核心词 innovative 与定位句对得上；其余 facilitates、thinking 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Studies point to how boredom is good for creativity and innovation, as well as mental health.",
+        "why": "正确项的核心词 innovative 与定位句对得上；其余 facilitates、thinking 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「doing、boring、tasks」全文未出现。",
+         "C": "因果倒置：「helps、connect」全文未出现。",
+         "D": "无中生有：「harm、one's」全文未出现；把原文的「mental、health」换成了「harm、one's」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author say boredom might indicate?",
+       "options": [
+        "A need to be left alone.",
+        "A desire to be fulfilled.",
+        "A conflict to be resolved.",
+        "A feeling to be validated."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Feeling bored may signal the desire for a greater sense of community and the feeling that you fit in with others around you.\n【依据】正确项的核心词 desire 与定位句对得上；其余 fulfilled 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Feeling bored may signal the desire for a greater sense of community and the feeling that you fit in with others around you.",
+        "why": "正确项的核心词 desire 与定位句对得上；其余 fulfilled 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「left、alone」全文未出现。",
+         "C": "无中生有：「conflict、resolved」全文未出现。",
+         "D": "无中生有：「validated」全文未出现；把原文的「feeling」换成了「validated」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do we learn about social media from the passage?",
+       "options": [
+        "It may be an obstacle to expanding one's connections.",
+        "It may get in the way of enhancing one's social status.",
+        "It may prevent people from developing a genuine sense of community.",
+        "It may make people feel that they ought to fit in with the outside world."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Our always-on world of social media may result in more connections, but they are superficial and can get in the way of building a real sense of belonging.\n【依据】正确项的核心词 sense 与定位句对得上；其余 prevent、people、developing、genuine 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Our always-on world of social media may result in more connections, but they are superficial and can get in the way of building a real sense of belonging.",
+        "why": "正确项的核心词 sense 与定位句对得上；其余 prevent、people、developing、genuine 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「obstacle、expanding、one's」全文未出现；把原文的「connections」换成了「obstacle、expanding、one's」，主语或对象被调包。",
+         "B": "无中生有：「enhancing、one's、status」全文未出现；把原文的「get、way、social」换成了「enhancing、one's、status」，主语或对象被调包。",
+         "D": "偷换主体：「ought、outside」全文未出现；把原文的「world」换成了「make、people、feel」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What does the author suggest people do to get rid of boredom?",
+       "options": [
+        "Count the likes they get on their posts.",
+        "Reflect on how they relate to others.",
+        "Engage in real-life interactions.",
+        "Participate in online discussions."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】When people are bored, they have an increase in \"associative thought\"—the process of making new connections between ideas, which is linked to innovative thinking.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 engage、real-life、interactions 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When people are bored, they have an increase in \"associative thought\"—the process of making new connections between ideas, which is linked to innovative thinking.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 engage、real-life、interactions 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「count、posts」全文未出现。",
+         "B": "因果倒置：「reflect、relate」全文未出现。",
+         "D": "无中生有：「participate、online、discussions」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What should people do to enhance their sense of meaning?",
+       "options": [
+        "Try to do something original.",
+        "Confront significant challenges.",
+        "Define boredom in their unique way.",
+        "Devote themselves to a worthy cause."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Similar to the need for belonging, bored people often report that they feel a limited sense of meaning.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 devote、themselves、worthy、cause 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Similar to the need for belonging, bored people often report that they feel a limited sense of meaning.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 devote、themselves、worthy、cause 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「try、original」全文未出现。",
+         "B": "因果倒置：「confront」全文未出现。",
+         "C": "偷换主体：「define」全文未出现；把原文的「boredom」换成了「define、unique、way」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 349 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Can you remember what you ate yesterday? If asked, most people will be able to give a vague description of their main meals: breakfast, lunch, dinner. But can you be sure you've noted every snack bar in your car, or every handful of nuts at your desk? Most people will have a feeling that they've missed something out. We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades. We found reliable evidence that people were drastically under-reporting what they ate. Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim. Why is this happening? We can point to at least three potential causes. One is the rise in obesity levels itself. Under-reporting rates are much higher for obese people, because they simply consume more food, and thus have more to remember. Another cause is that the proportion of people who are trying to lose weight has been increasing over time. People who want to lose weight are more likely to under-report their eating—regardless of whether they are overweight or not. This may be driven partly by self-deception or \"wishful thinking\". The final potential cause is an increase in snacking and eating out over recent decades—both in terms of how often they happen and how much they contribute to our overall energy intake. Again, there is evidence that food consumed out of the home is one of the most poorly recorded categories in surveys. So, what's the message conveyed? For statistics, we should invest in more accurate measurement options. For policy, we need to focus on options that make it easy for people to eat fewer calories. If people do not know how much they are eating, it can be really hard for them to stick to a diet. Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines. If this works, it won't matter if they can't remember what they ate yesterday.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What did the author suspect back in 2016?",
+       "options": [
+        "Calorie consumption had fallen drastically over the decades.",
+        "Most people surveyed were reluctant to reveal what they ate.",
+        "The national statistics did not reflect the actual calorie consumption.",
+        "Most people did not include snacks when reporting their calorie intake."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades.\n【依据】正确项的核心词 national、statistics、calorie、consumption 与定位句对得上；其余 reflect、actual 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades.",
+        "why": "正确项的核心词 national、statistics、calorie、consumption 与定位句对得上；其余 reflect、actual 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「fallen」全文未出现；把原文的「calorie、consumption、over」换成了「fallen、drastically」，主语或对象被调包。",
+         "B": "因果倒置：「surveyed、reluctant、reveal」全文未出现。",
+         "D": "无中生有：「include、snacks、when」全文未出现；把原文的「calorie」换成了「people、include、snacks」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What has the Office for National Statistics verified?",
+       "options": [
+        "People's calorie intake was far from accurately reported.",
+        "The missing out of main meals leads to the habit of snacking.",
+        "The nation's obesity level has much to do with calorie intake.",
+        "Calorie consumption is linked to the amount of snacks one eats."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim.\n【依据】正确项的核心词 calorie 与定位句对得上；其余 people's、intake、far、accurately 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim.",
+        "why": "正确项的核心词 calorie 与定位句对得上；其余 people's、intake、far、accurately 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「missing、leads、habit」全文未出现。",
+         "C": "偷换主体：「level」全文未出现；把原文的「nation's、calorie」换成了「obesity、level、much」，主语或对象被调包。",
+         "D": "无中生有：「linked、amount、snacks」全文未出现；把原文的「calorie、consumption」换成了「linked、amount、snacks」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do we learn about obese people from the passage?",
+       "options": [
+        "They usually keep their eating habits a secret.",
+        "They overlook the potential causes of obesity.",
+        "They cannot help eating more than they should.",
+        "They have difficulty recalling what they have eaten."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines.\n【依据】正确项的核心词 what 与定位句对得上；其余 difficulty、recalling、eaten 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines.",
+        "why": "正确项的核心词 what 与定位句对得上；其余 difficulty、recalling、eaten 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「usually、keep、habits」全文未出现。",
+         "B": "因果倒置：「overlook」全文未出现。",
+         "C": "无中生有：「cannot、help」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What often goes unnoticed in surveys on food consumption?",
+       "options": [
+        "The growing trend of eating out.",
+        "The potential causes of snacking.",
+        "People's home energy consumption.",
+        "People's changing diet over the years."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Again, there is evidence that food consumed out of the home is one of the most poorly recorded categories in surveys.\n【依据】正确项的核心词 out 与定位句对得上；其余 growing、trend、eating 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Again, there is evidence that food consumed out of the home is one of the most poorly recorded categories in surveys.",
+        "why": "正确项的核心词 out 与定位句对得上；其余 growing、trend、eating 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "偷换主体：「people's」全文未出现；把原文的「home、consumption」换成了「people's、energy」，主语或对象被调包。",
+         "D": "无中生有：「people's、changing、years」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author suggest policymakers do about obesity?",
+       "options": [
+        "Remind people to cut down on snacking.",
+        "Make sure people eat non-fattening food.",
+        "Ensure people don't miss their main meals.",
+        "See that people don't stick to the same diet."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】For policy, we need to focus on options that make it easy for people to eat fewer calories.\n【依据】正确项的核心词 make、people、eat 与定位句对得上；其余 sure、non-fattening、food 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For policy, we need to focus on options that make it easy for people to eat fewer calories.",
+        "why": "正确项的核心词 make、people、eat 与定位句对得上；其余 sure、non-fattening、food 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「remind、cut、down」全文未出现；把原文的「people」换成了「remind、cut、down」，主语或对象被调包。",
+         "C": "偷换主体：「don't、miss」全文未出现；把原文的「people」换成了「ensure、don't、miss」，主语或对象被调包。",
+         "D": "无中生有：「see、don't、same」全文未出现；把原文的「people」换成了「see、don't、stick」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 345 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "龙井是一种绿茶，主要产自中国东部沿海的浙江省。龙井茶独特的香味和口感为其赢得了\"中国名茶\"的称号，在中国深受大众的欢迎在海外饮用的人也越来越多。龙井茶通常手工制作，其价格可能极其昂贵也可能比较便宜，这取决于茶的生长地、采摘时间和制作工艺。龙井茶富含维生素和其他多种有益健康的元素。经常喝龙井茶有助于减轻疲劳、延缓衰老。",
+     "reference": "Longjing is a kind of green tea produced mainly in Zhejiang Province on the eastern coast of China. Its unique aroma and taste have earned Longjing the title of \"China Famous Tea\", and it is very popular among the public in China, with an increasing number of people drinking it abroad as well. Longjing tea is usually made by hand, and its price can be extremely high or relatively low, depending on where it grows, when it is picked, and how it is made. Longjing tea is rich in vitamin C and various other elements beneficial to health. Drinking Longjing tea regularly helps relieve fatigue and delay aging",
+     "keyPoints": [
+      "Longjing is a kind of green tea produced mainly in Zhejiang Province on the eastern coast of China.",
+      "Its unique aroma and taste have earned Longjing the title of \"China Famous Tea\", and it is very popular among the public in China, with an increasing number of people drinking it abroad as well.",
+      "Longjing tea is usually made by hand, and its price can be extremely high or relatively low, depending on where it grows, when it is picked, and how it is made.",
+      "Longjing tea is rich in vitamin C and various other elements beneficial to health.",
+      "Drinking Longjing tea regularly helps relieve fatigue and delay aging"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

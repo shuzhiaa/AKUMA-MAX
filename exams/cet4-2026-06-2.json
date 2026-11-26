@@ -1,0 +1,1186 @@
+{
+ "id": "cet4-2026-06-2",
+ "levelId": "cet4",
+ "title": "四级 2026 年 06 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2026年6月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2026-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2026-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "一名104岁的女子正在出售她从两岁起就一直居住的房子"
+      },
+      {
+       "idx": 2,
+       "zh": "她的家人于1921年以200英镑买下了这栋房子"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 没关系，女士。如果您不介意的话"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 那太好了。我不太会用电脑"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 确实如此，女士"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 是的，就是那场"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 实际上，前排的票已经全部售罄了"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 哦，天哪，当然不想"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 没问题，女士。我现在就为您预留那两个座位"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What does the news report say about Nancy Gifford?",
+       "options": [
+        "She was born months after the end of World War I.",
+        "She has been living in her house throughout her life.",
+        "She suffered a great deal during the Second World War.",
+        "She is a 102-year-old woman living in Somerset Village."
+       ],
+       "optionsZh": [
+        "她出生于第一次世界大战结束几个月后。",
+        "她一生都住在自己的房子里。",
+        "第二次世界大战期间，她遭受了巨大的痛苦。",
+        "她是一名居住在萨默塞特村的102岁女性。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She was born months after the end of World War I.（她出生于第一次世界大战结束几个月后。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "Why is Mrs. Gifford selling the house?",
+       "options": [
+        "She has been persuaded by the estate agent.",
+        "She needs the money badly for her health.",
+        "She is leaving Glastonbury Village.",
+        "She is moving to a nursing home."
+       ],
+       "optionsZh": [
+        "她被房地产经纪人说服了。",
+        "她因健康问题急需这笔钱。",
+        "她要离开格拉斯顿伯里村。",
+        "她要搬到养老院去。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She is moving to a nursing home.（她要搬到养老院去。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the news report say was key to the man's rescue?",
+       "options": [
+        "The navy's timely arrival.",
+        "His rich sailing experience.",
+        "The word HELP written on the boat.",
+        "His use of a mirror to send a signal."
+       ],
+       "optionsZh": [
+        "海军及时赶到。",
+        "他丰富的航海经验。",
+        "船上写着“救命”二字。",
+        "他用镜子发出信号。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The word HELP written on the boat.（船上写着“救命”二字。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What do we learn about the man when he was rescued?",
+       "options": [
+        "He lost all consciousness.",
+        "He was in good condition.",
+        "He was too distressed to pick himself up.",
+        "He entirely abandoned himself to despair."
+       ],
+       "optionsZh": [
+        "他完全失去了意识。",
+        "他的状况良好。",
+        "他因过度悲痛而无法站起身来。",
+        "他完全陷入了绝望。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He was in good condition.（他的状况良好。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn about the elementary and middle schools to be closed in Denver?",
+       "options": [
+        "Their efforts to provide social services have been ignored.",
+        "They have been criticized by the Denver school board.",
+        "They have taken various steps to get more funding.",
+        "Their enrollment has been on a noticeable decline."
+       ],
+       "optionsZh": [
+        "它们为提供社会服务所作的努力一直被忽视。",
+        "它们一直受到丹佛教育委员会的批评。",
+        "它们采取了各种措施来获得更多资金。",
+        "它们的入学人数一直在明显减少。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Their enrollment has been on a noticeable decline.（它们的入学人数一直在明显减少。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the Denver district expect to do in the next three years?",
+       "options": [
+        "Approve criteria for closing schools with decreased funding.",
+        "Enroll 3,000 fewer elementary and middle school students.",
+        "Decide which elementary and middle schools to close.",
+        "Alter its per-pupil funding policy on a rational basis."
+       ],
+       "optionsZh": [
+        "批准在资金减少的情况下关闭学校的标准。",
+        "小学和初中的入学人数减少三千名。",
+        "决定关闭哪些小学和初中。",
+        "根据合理原则调整其按学生人数拨款的政策。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Enroll 3,000 fewer elementary and middle school students.（小学和初中的入学人数减少三千名。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why are some schools in Denver to be closed according to the district spokesperson?",
+       "options": [
+        "To enable the district to remain competitive.",
+        "To avoid a negative impact on its economy.",
+        "To keep the district free of debt.",
+        "To obtain the expected funding."
+       ],
+       "optionsZh": [
+        "使该学区能够保持竞争力。",
+        "避免对其经济造成负面影响。",
+        "使该学区不负债。",
+        "获得预期的资金。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To keep the district free of debt.（使该学区不负债。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "Why does the woman call the man?",
+       "options": [
+        "To book tickets for a musical.",
+        "To enquire about the price of cats.",
+        "To pay for her afternoon flight to London.",
+        "To have her personal computer repaired."
+       ],
+       "optionsZh": [
+        "预订音乐剧的票。",
+        "询问猫的价格。",
+        "支付她下午飞往伦敦的航班费用。",
+        "维修她的个人电脑。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：To book tickets for a musical.（预订音乐剧的票。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What do we learn about the woman's husband?",
+       "options": [
+        "He frequents the Lion Theatre.",
+        "He knows how to sell things well.",
+        "He is a computer science expert.",
+        "He is away on a business trip."
+       ],
+       "optionsZh": [
+        "他经常去狮子剧院。",
+        "他知道如何很好地销售东西。",
+        "他是计算机科学专家。",
+        "他出差了。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He is away on a business trip.（他出差了。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the man say about the tickets at the front?",
+       "options": [
+        "They are sold at a discount.",
+        "They are in low demand.",
+        "They are no longer available.",
+        "They are not too expensive."
+       ],
+       "optionsZh": [
+        "这些票打折出售。",
+        "这些票需求量很低。",
+        "这些票已经没有了。",
+        "这些票并不太贵。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They are no longer available.（这些票已经没有了。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the woman say she is scared of?",
+       "options": [
+        "Heights.",
+        "Circus.",
+        "Wild animals.",
+        "Dark nights."
+       ],
+       "optionsZh": [
+        "高处。",
+        "马戏团。",
+        "野生动物。",
+        "漆黑的夜晚。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Heights.（高处。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "Why hasn't the man answered the woman's text messages lately?",
+       "options": [
+        "He finds it bothersome to reply.",
+        "He has switched off his phone.",
+        "He hasn't got the time to text back.",
+        "He doesn't know how to respond."
+       ],
+       "optionsZh": [
+        "他觉得回复短信很麻烦。",
+        "他已经关掉了手机。",
+        "他没有时间回复短信。",
+        "他不知道该如何回应。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：He has switched off his phone.（他已经关掉了手机。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What was the man shocked to realize after he downloaded the APP?",
+       "options": [
+        "His lack of sufficient sleep at night.",
+        "His addiction to mobile phone games.",
+        "His excessive use of the mobile phone.",
+        "His high frequency of surfing the net."
+       ],
+       "optionsZh": [
+        "自己夜间睡眠不足。",
+        "自己沉迷于手机游戏。",
+        "自己过度使用手机。",
+        "自己上网的频率很高。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：His excessive use of the mobile phone.（自己过度使用手机。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What did the man spend much time doing with his phone?",
+       "options": [
+        "Shopping online and paying for his purchases.",
+        "Communicating with friends on social media.",
+        "Exploring whatever content to his liking.",
+        "Sharing and posting pictures and videos."
+       ],
+       "optionsZh": [
+        "网上购物并为所购商品付款。",
+        "在社交媒体上与朋友交流。",
+        "浏览自己喜欢的各种内容。",
+        "分享和发布图片及视频。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Communicating with friends on social media.（在社交媒体上与朋友交流。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "Why does the woman say she has to use her mobile phone?",
+       "options": [
+        "She prefers chatting with others online to meeting them.",
+        "There are few physical stores near where she lives.",
+        "Ordering meals online is a great convenience to her.",
+        "She needs to talk with her friends and family far away."
+       ],
+       "optionsZh": [
+        "比起与他人见面，她更喜欢在网上与他人聊天。",
+        "她居住地附近几乎没有实体店。",
+        "网上订餐给她带来了极大的便利。",
+        "她需要和远方的朋友及家人交谈。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She needs to talk with her friends and family far away.（她需要和远方的朋友及家人交谈。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the passage say about the gap in wage gains between job switchers and those who stay in their jobs?",
+       "options": [
+        "It is now narrowing.",
+        "It keeps increasing.",
+        "It has remained huge.",
+        "It will soon disappear."
+       ],
+       "optionsZh": [
+        "如今正在缩小。",
+        "一直在扩大。",
+        "一直非常悬殊。",
+        "很快就会消失。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is now narrowing.（如今正在缩小。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What do we learn about wage growth now?",
+       "options": [
+        "It is fluctuating between 5-7%.",
+        "It is slowing down for everyone.",
+        "It is faster for those who stay in their jobs.",
+        "It is inadequate for dealing with inflation."
+       ],
+       "optionsZh": [
+        "在5%至7%之间波动。",
+        "对所有人来说都在放缓。",
+        "留在原岗位的人工资增长更快。",
+        "不足以应对通货膨胀。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It is slowing down for everyone.（对所有人来说都在放缓。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What is the labor market likely doing according to the passage?",
+       "options": [
+        "Booming.",
+        "Stabilizing.",
+        "Struggling.",
+        "Cooling."
+       ],
+       "optionsZh": [
+        "蓬勃发展。",
+        "趋于稳定。",
+        "举步维艰。",
+        "降温。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Cooling.（降温。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does a new study show about highly processed foods?",
+       "options": [
+        "They have smaller amounts of nutrients than unprocessed diets.",
+        "Their contribution to calorie consumption is hard to determine.",
+        "They account for nearly half of the average American diet.",
+        "Their low price and convenience negatively impact health."
+       ],
+       "optionsZh": [
+        "与未加工饮食相比，其中的营养成分含量更低。",
+        "它们对热量摄入的贡献难以确定。",
+        "它们约占美国人平均饮食的一半。",
+        "它们价格低廉且方便，这对健康有负面影响。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Their low price and convenience negatively impact health.（它们价格低廉且方便，这对健康有负面影响。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What are highly processed foods linked to, according to other research?",
+       "options": [
+        "A strong desire to overeat.",
+        "A lack of nutrients like fiber.",
+        "A higher risk of cancer and obesity.",
+        "A greater intake of sugar and salt."
+       ],
+       "optionsZh": [
+        "强烈的过量进食欲望。",
+        "缺乏纤维等营养素。",
+        "较高的癌症和肥胖风险。",
+        "摄入更多的糖和盐。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：A higher risk of cancer and obesity.（较高的癌症和肥胖风险。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What do people tend to do when eating highly processed foods?",
+       "options": [
+        "Eat more quickly.",
+        "Feel full sooner.",
+        "Chew thoroughly.",
+        "Swallow bit by bit."
+       ],
+       "optionsZh": [
+        "吃得更快。",
+        "更快产生饱腹感。",
+        "充分咀嚼。",
+        "一小口一小口地吞咽。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Eat more quickly.（吃得更快。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "How do people generally account for differences between men and women in the amount of time spent on housework?",
+       "options": [
+        "By attributing them to current cultural influences.",
+        "By attributing them to conservative thinking.",
+        "In terms of new genetic findings.",
+        "In terms of personal preferences."
+       ],
+       "optionsZh": [
+        "将其归因于当今的文化影响。",
+        "将其归因于保守思想。",
+        "从新的遗传学发现的角度解释。",
+        "从个人偏好的角度解释。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：By attributing them to conservative thinking.（将其归因于保守思想。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What did men lean toward doing according to the new study?",
+       "options": [
+        "Sharing with women the chores they see necessary.",
+        "Dividing housework that is demanding for women.",
+        "Performing household tasks that they enjoy.",
+        "Doing tasks that are physically challenging."
+       ],
+       "optionsZh": [
+        "与女性分担他们认为必要的家务。",
+        "分担对女性来说要求较高的家务。",
+        "做他们喜欢的家务。",
+        "做体力上具有挑战性的家务。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Performing household tasks that they enjoy.（做他们喜欢的家务。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What should we keep in mind as regards any research on group differences?",
+       "options": [
+        "The large within-group differences.",
+        "The great similarities across groups.",
+        "The researchers' subjective biases.",
+        "The noticeable overgeneralizations."
+       ],
+       "optionsZh": [
+        "群体内部存在的巨大差异。",
+        "不同群体之间存在的巨大相似性。",
+        "研究人员的主观偏见。",
+        "明显的过度概括。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The large within-group differences.（群体内部存在的巨大差异。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What did previous research reveal about gender differences in attitudes toward family and career?",
+       "options": [
+        "They seem to be universal.",
+        "They impact people's whole life.",
+        "They shape one's role in society.",
+        "They appear at an early age."
+       ],
+       "optionsZh": [
+        "这种差异似乎是普遍存在的。",
+        "这种差异影响人们的一生。",
+        "这种差异塑造了一个人在社会中的角色。",
+        "这种差异在很小的年龄就会出现。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They appear at an early age.（这种差异在很小的年龄就会出现。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose your university newspaper is inviting submissions from the students for its coming edition on future applications of robots on campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but not more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "Robots are no longer figures from science fiction; in the near future, they are likely to become common helpers\non university campuses. As the university newspaper invites students to imagine future applications of robots\non campus, I believe intelligent machines will mainly reshape our campus life in three areas: library services,\nlaboratory assistance, and daily guidance.\nFirst, in the library, robots could locate, fetch, and even deliver requested books to reading rooms, saving\nstudents valuable study time. Second, in science labs, robotic assistants might handle repetitive experiments or\ndangerous chemicals, allowing students to focus on analysis and innovation. Third, robots placed around the\ncampus could provide real-time directions and campus information for visitors and freshmen, reducing\nconfusion during busy periods.\nOf course, these technologies should serve people rather than replace human interaction. If universities\nintroduce robots wisely, campus life will become more efficient, safe, and welcoming."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "It may sound surprising, but people who are supersensitive to coffee's bitter taste actually drink more of it, a new study finds. This sensitivity isn't {{1}} a matter of taste, either, but rather is influenced by a person's genetic makeup, the researchers said in the study. \"You'd expect that people who are particularly sensitive to the bitter taste of caffeine would drink less coffee,\" said study senior researcher Marilyn Cornelis. \"The {{2}} results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive {{3}} brought out by caffeine.\" Put another way, people who have a {{4}} ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said. This finding is surprising, given that bitterness often serves as a warning mechanism to {{5}} people to spit out harmful substances, the scientists said. Researchers conducted the study to understand how genetics influences people's {{6}} of tea, coffee and alcohol which tend to taste bitter, said lead researcher Jue Sheng Ong. \"While all bitter flavors may seem the same, we {{7}} the bitterness of Brussels sprouts(抱子甘蓝), quinine(奎宁) and caffeine {{8}} ,\" Ong told Live Science. \"The degree to which we find these flavors bitter is, in part, determined by your genes.\" People with the genes to taste the bitterness of green vegetables are more likely to prefer tea to coffee. In {{9}} , people who were more sensitive to quinine's bitter flavors and those found in green vegetables tended to {{10}} coffee.",
+     "options": [
+      "addition",
+      "approximately",
+      "avoid",
+      "consumption",
+      "converted",
+      "convince",
+      "heightened",
+      "omission",
+      "opposite",
+      "perceive",
+      "prospect",
+      "reinforcement",
+      "separately",
+      "simply",
+      "targeted"
+     ],
+     "answers": [
+      13,
+      8,
+      11,
+      6,
+      5,
+      3,
+      9,
+      12,
+      0,
+      2
+     ],
+     "blankExplains": [
+      "【定位】This sensitivity isn't ____ a matter of taste, either, but rather is influenced by a person's genetic makeup, the researchers said in the study.\n【依据】答案是 simply：填回后与所在句 sensitivity、isn't、matter、taste、either、rather 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"The ____ results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive  … brought out by caffeine.\" Put another way, people who have a  … ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said.\n【依据】答案是 opposite：填回后与所在句 results、study、suggest、coffee、consumers、acquire 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"The  … results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive ____ brought out by caffeine.\" Put another way, people who have a  … ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said.\n【依据】答案是 reinforcement：填回后与所在句 results、study、suggest、coffee、consumers、acquire 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"The  … results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive  … brought out by caffeine.\" Put another way, people who have a ____ ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said.\n【依据】答案是 heightened：填回后与所在句 results、study、suggest、coffee、consumers、acquire 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This finding is surprising, given that bitterness often serves as a warning mechanism to ____ people to spit out harmful substances, the scientists said.\n【依据】答案是 convince：填回后与所在句 finding、surprising、given、bitterness、often、serves 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Researchers conducted the study to understand how genetics influences people's ____ of tea, coffee and alcohol which tend to taste bitter, said lead researcher Jue Sheng Ong.\n【依据】答案是 consumption：填回后与所在句 researchers、conducted、study、understand、how、genetics 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"While all bitter flavors may seem the same, we ____ the bitterness of Brussels sprouts(抱子甘蓝), quinine(奎宁) and caffeine  … ,\" Ong told Live Science.\n【依据】答案是 perceive：填回后与所在句 while、bitter、flavors、seem、same、bitterness 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"While all bitter flavors may seem the same, we  … the bitterness of Brussels sprouts(抱子甘蓝), quinine(奎宁) and caffeine ____ ,\" Ong told Live Science.\n【依据】答案是 separately：填回后与所在句 while、bitter、flavors、seem、same、bitterness 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In ____ , people who were more sensitive to quinine's bitter flavors and those found in green vegetables tended to  … coffee.\n【依据】答案是 addition：填回后与所在句 people、who、sensitive、quinine's、bitter、flavors 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In  … , people who were more sensitive to quinine's bitter flavors and those found in green vegetables tended to ____ coffee.\n【依据】答案是 avoid：填回后与所在句 people、who、sensitive、quinine's、bitter、flavors 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "This sensitivity isn't ____ a matter of taste, either, but rather is influenced by a person's genetic makeup, the researchers said in the study.",
+       "why": "答案是 simply：填回后与所在句 sensitivity、isn't、matter、taste、either、rather 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 simply 这个词性/语义，而不是 separately）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 simply 这个词性/语义，而不是 addition）。"
+       }
+      },
+      {
+       "locate": "\"The ____ results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive  … brought out by caffeine.\" Put another way, people who have a  … ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said.",
+       "why": "答案是 opposite：填回后与所在句 results、study、suggest、coffee、consumers、acquire 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 opposite 这个词性/语义，而不是 omission）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 opposite 这个词性/语义，而不是 addition）。"
+       }
+      },
+      {
+       "locate": "\"The  … results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive ____ brought out by caffeine.\" Put another way, people who have a  … ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said.",
+       "why": "答案是 reinforcement：填回后与所在句 results、study、suggest、coffee、consumers、acquire 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reinforcement 这个词性/语义，而不是 addition）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 reinforcement 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "\"The  … results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive  … brought out by caffeine.\" Put another way, people who have a ____ ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said.",
+       "why": "答案是 heightened：填回后与所在句 results、study、suggest、coffee、consumers、acquire 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 heightened 这个词性/语义，而不是 addition）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 heightened 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "This finding is surprising, given that bitterness often serves as a warning mechanism to ____ people to spit out harmful substances, the scientists said.",
+       "why": "答案是 convince：填回后与所在句 finding、surprising、given、bitterness、often、serves 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "与 convince 拼写相近（共同开头 conv），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "D": "与 convince 拼写相近（共同开头 con），但词性或语义方向不同，填进本空后整句逻辑不成立。"
+       }
+      },
+      {
+       "locate": "Researchers conducted the study to understand how genetics influences people's ____ of tea, coffee and alcohol which tend to taste bitter, said lead researcher Jue Sheng Ong.",
+       "why": "答案是 consumption：填回后与所在句 researchers、conducted、study、understand、how、genetics 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "与 consumption 拼写相近（共同开头 con），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "F": "与 consumption 拼写相近（共同开头 con），但词性或语义方向不同，填进本空后整句逻辑不成立。"
+       }
+      },
+      {
+       "locate": "\"While all bitter flavors may seem the same, we ____ the bitterness of Brussels sprouts(抱子甘蓝), quinine(奎宁) and caffeine  … ,\" Ong told Live Science.",
+       "why": "答案是 perceive：填回后与所在句 while、bitter、flavors、seem、same、bitterness 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 perceive 这个词性/语义，而不是 prospect）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 perceive 这个词性/语义，而不是 addition）。"
+       }
+      },
+      {
+       "locate": "\"While all bitter flavors may seem the same, we  … the bitterness of Brussels sprouts(抱子甘蓝), quinine(奎宁) and caffeine ____ ,\" Ong told Live Science.",
+       "why": "答案是 separately：填回后与所在句 while、bitter、flavors、seem、same、bitterness 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 separately 这个词性/语义，而不是 simply）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 separately 这个词性/语义，而不是 addition）。"
+       }
+      },
+      {
+       "locate": "In ____ , people who were more sensitive to quinine's bitter flavors and those found in green vegetables tended to  … coffee.",
+       "why": "答案是 addition：填回后与所在句 people、who、sensitive、quinine's、bitter、flavors 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 addition 这个词性/语义，而不是 approximately）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 addition 这个词性/语义，而不是 avoid）。"
+       }
+      },
+      {
+       "locate": "In  … , people who were more sensitive to quinine's bitter flavors and those found in green vegetables tended to ____ coffee.",
+       "why": "答案是 avoid：填回后与所在句 people、who、sensitive、quinine's、bitter、flavors 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 avoid 这个词性/语义，而不是 addition）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 avoid 这个词性/语义，而不是 approximately）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "If this doesn't encourage you to squeeze in a workout today, nothing will: a new study from Sweden shows that women who were highly fit in mid-life were nearly 90% less likely to get dementia(失智) decades later."
+      },
+      {
+       "id": "B",
+       "text": "After initial exercise tests in middle age, researchers followed the women for 44 years. Both groups lived just as long, but those who could ride an exercise bike at a fast rate for 6 minutes in the initial test had a much lower risk of dementia later on than those who couldn't complete the workout."
+      },
+      {
+       "id": "C",
+       "text": "The study, published Wednesday in the journal Neurology, couldn't prove that exercise prevented dementia, and the findings aren't a surprise—it's long been known there's a correlation between exercise and decreased dementia risk—but the results were particularly dramatic. About 5% of the women with the highest peak workload—those who were able to bike the hardest over those 6 minutes—developed dementia, compared to 25% of those with medium fitness and 45% who weren't fit enough to finish the test, the study found. Overall, women who were highly fit compared to those who were moderately fit decreased their risk of dementia by 88%. The few highly fit women who did develop dementia became symptomatic at age 90 on average, 11 years later than the moderately fit."
+      },
+      {
+       "id": "D",
+       "text": "\"I'm very surprised that the finding was so strong,\" said Ingmar Skoog, the paper's senior author and a psychiatry(精神病学) professor at The University of Gothenburg in Sweden. \"It really shows the importance of exercise.\""
+      },
+      {
+       "id": "E",
+       "text": "Dementia, as defined in medical dictionaries, is a broad term that describes a loss of thinking ability, memory, attention, logical reasoning, and other mental abilities. These changes are severe enough to interfere with social or occupational functioning. Dementia isn't a disease. Instead, it's a group of symptoms caused by other conditions. It happens when the parts of your brain used for learning, memory, decision making, and language are damaged or diseased. About 5%-8% of adults over age 65 have some form of dementia. This percentage doubles every 5 years after 65. As many as half of people in their 80s have some form of dementia."
+      },
+      {
+       "id": "F",
+       "text": "Dementia is not temporary confusion or forgetfulness that might result from an infection that heals without treatment. It can also come from an underlying(潜在的) illness or side effects of medications. Dementia typically gets worse over time. People with dementia have problems with thinking and remembering that affect their ability to manage their daily life."
+      },
+      {
+       "id": "G",
+       "text": "Dementia is typically associated with declines in cognitive function. Yet researchers have found an association between dementia and declines in hearing and other basic sensory functions."
+      },
+      {
+       "id": "H",
+       "text": "Though the study mentioned above was fairly small (only 191 women took the initial fitness test, which means it's hard to maintain statistical significance while breaking the group down into sub-categories of more or less fit), it does give us hope that dementia can be prevented or delayed through exercise in one's middle age."
+      },
+      {
+       "id": "I",
+       "text": "Alzheimer's(阿尔茨海默症) and other dementias are believed to begin 15-20 years before symptoms even appear, so it makes sense that exercising in mid-life would affect the risk, Skoog said. Exercise alone is not likely to prevent Alzheimer's, but the study shows people are not helpless in the face of one of the most feared, costliest and common diseases of old age, he added. And the same activities that help prevent Alzheimer's—including avoiding smoking, getting adequate exercise and sleep and eating a healthy diet—also prevent heart disease, he said, making them even more worthwhile. \"You can do something yourself to decrease your odds,\" Skoog said."
+      },
+      {
+       "id": "J",
+       "text": "Maintaining a healthy lifestyle in mid-life, decades before disease sets in, makes sense, said David Knopman, a fellow of the American Academy of Neurology, who was not involved in the study. \"I suspect it's a dose,\" said Knopman, also associate director of the Alzheimer's Disease Research Center at Mayo Clinic in Rochester, Minnesota. \"Starting in late life is better than not starting at all, but starting in mid-life seems to offer a larger benefit.\""
+      },
+      {
+       "id": "K",
+       "text": "Although it is not entirely clear why exercise helps put off or prevent Alzheimer's, Knopman said it's likely that exercise maintains good blood flow to the brain. \"When the brain is healthier from a vascular(血管的) point of view, it can absorb more Alzheimer's pathogen(病原体) before people become symptomatic,\" he said."
+      },
+      {
+       "id": "L",
+       "text": "The message isn't that everyone needs to run marathons in middle age, Knopman said, but a healthy lifestyle pays off."
+      },
+      {
+       "id": "M",
+       "text": "This type of study can't say exactly what kind of exercise is best, or how much is needed—only a study that has a placebo(安慰剂) group and tracks people going forward can do that, said Keith Fargo, director of scientific programs and outreach at the non-profit Alzheimer's Association. \"The literature has not yet settled on an amount or type of exercise that is going to be key, although the bulk of literature has suggested that aerobic(有氧的) exercise is what you need to be doing,\" he said. That doesn't mean you have to compete in marathons but \"more than a 10-min dog walk\" would be a good idea, Fargo said."
+      },
+      {
+       "id": "N",
+       "text": "Several lifestyle studies are getting underway soon, including one backed by the Alzheimer's Association called the US POINTER study, which will offer at-risk adults, ages 60-79, a series of lifestyle interventions(干预) to see if they impact Alzheimer's risk. That and other Alzheimer's-related studies are always looking for volunteers to participate, he said."
+      },
+      {
+       "id": "O",
+       "text": "In the next three to five years, these studies should allow researchers to provide clearer recommendations for exercise and other lifestyle modifications that might reduce Alzheimer's risk, such as sleep, diet and social activities, Fargo said. But it's already quite clear that exercising at any point in life is better for your brain than not exercising at all, Fargo added."
+      },
+      {
+       "id": "P",
+       "text": "\"If you don't want to have dementia when you're 80, the time to start getting fit is now,\" he said. \"It may not necessarily give you a longer life, but there's a compelling body of work that it will give you more good years.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "It is typical for dementia to worsen with the passage of time."
+      },
+      {
+       "id": "s37",
+       "text": "According to Knopman, the study gives the message that a healthy lifestyle is beneficial, but not that all the middle-aged need heavy exercise."
+      },
+      {
+       "id": "s38",
+       "text": "The results of a new study will encourage middle-aged women to find time exercising however busy they are."
+      },
+      {
+       "id": "s39",
+       "text": "Hopefully, one can postpone or prevent dementia by exercising in their mid-life."
+      },
+      {
+       "id": "s40",
+       "text": "In a few years, researchers should be able to offer clearer advice on exercise and other lifestyle changes for reducing the incidence of Alzheimer's."
+      },
+      {
+       "id": "s41",
+       "text": "Dementia refers to a loss of multiple mental abilities such as memory and logical reasoning."
+      },
+      {
+       "id": "s42",
+       "text": "One researcher believes that exercise may keep the brain well supplied with blood."
+      },
+      {
+       "id": "s43",
+       "text": "Medical literature has not concluded as to what exercise or how much exercise is crucial, although it generally agrees that people should do aerobic exercise."
+      },
+      {
+       "id": "s44",
+       "text": "It has long been common knowledge that exercise correlates with reduced risk of dementia."
+      },
+      {
+       "id": "s45",
+       "text": "Activities helpful in the prevention of Alzheimer's also prevent heart disease."
+      }
+     ],
+     "answers": [
+      "F",
+      "L",
+      "A",
+      "H",
+      "O",
+      "E",
+      "K",
+      "M",
+      "C",
+      "I"
+     ],
+     "statementExplains": [
+      "【定位】Dementia typically gets worse over time.\n【依据】陈述里的 typical、dementia、worsen、time 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】The message isn't that everyone needs to run marathons in middle age, Knopman said, but a healthy lifestyle pays off.\n【依据】陈述里的 knopman、message、healthy、lifestyle、middle-aged 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】If this doesn't encourage you to squeeze in a workout today, nothing will: a new study from Sweden shows that women who were highly fit in mid-life were nearly 90% less likely to get dementia(失智) decades later.\n【依据】陈述里的 new、study、encourage、women 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Though the study mentioned above was fairly small (only 191 women took the initial fitness test, which means it's hard to maintain statistical significance while breaking the group down into sub-categories of more or less fit), it does give us hope that dementia can be prevented or delayed through exercise in one's middle age.\n【依据】陈述里的 prevent、dementia、exercising 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】In the next three to five years, these studies should allow researchers to provide clearer recommendations for exercise and other lifestyle modifications that might reduce Alzheimer's risk, such as sleep, diet and social activities, Fargo said.\n【依据】陈述里的 years、researchers、clearer、exercise、other、lifestyle 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+      "【定位】Dementia, as defined in medical dictionaries, is a broad term that describes a loss of thinking ability, memory, attention, logical reasoning, and other mental abilities.\n【依据】陈述里的 dementia、loss、mental、abilities、memory、logical 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Although it is not entirely clear why exercise helps put off or prevent Alzheimer's, Knopman said it's likely that exercise maintains good blood flow to the brain.\n【依据】陈述里的 exercise、brain、blood 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】This type of study can't say exactly what kind of exercise is best, or how much is needed—only a study that has a placebo(安慰剂) group and tracks people going forward can do that, said Keith Fargo, director of scientific programs and outreach at the non-profit Alzheimer's Association.\n【依据】陈述里的 what、exercise、how、much、exercise、people 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】The study, published Wednesday in the journal Neurology, couldn't prove that exercise prevented dementia, and the findings aren't a surprise—it's long been known there's a correlation between exercise and decreased dementia risk—but the results were particularly dramatic.\n【依据】陈述里的 long、exercise、correlates、risk、dementia 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】And the same activities that help prevent Alzheimer's—including avoiding smoking, getting adequate exercise and sleep and eating a healthy diet—also prevent heart disease, he said, making them even more worthwhile.\n【依据】陈述里的 activities、prevention、alzheimer's、prevent、heart、disease 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。"
+     ],
+     "explain": "长篇阅读匹配：16 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Dementia typically gets worse over time.",
+       "why": "陈述里的 typical、dementia、worsen、time 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The message isn't that everyone needs to run marathons in middle age, Knopman said, but a healthy lifestyle pays off.",
+       "why": "陈述里的 knopman、message、healthy、lifestyle、middle-aged 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If this doesn't encourage you to squeeze in a workout today, nothing will: a new study from Sweden shows that women who were highly fit in mid-life were nearly 90% less likely to get dementia(失智) decades later.",
+       "why": "陈述里的 new、study、encourage、women 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Though the study mentioned above was fairly small (only 191 women took the initial fitness test, which means it's hard to maintain statistical significance while breaking the group down into sub-categories of more or less fit), it does give us hope that dementia can be prevented or delayed through exercise in one's middle age.",
+       "why": "陈述里的 prevent、dementia、exercising 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In the next three to five years, these studies should allow researchers to provide clearer recommendations for exercise and other lifestyle modifications that might reduce Alzheimer's risk, such as sleep, diet and social activities, Fargo said.",
+       "why": "陈述里的 years、researchers、clearer、exercise、other、lifestyle 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Dementia, as defined in medical dictionaries, is a broad term that describes a loss of thinking ability, memory, attention, logical reasoning, and other mental abilities.",
+       "why": "陈述里的 dementia、loss、mental、abilities、memory、logical 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Although it is not entirely clear why exercise helps put off or prevent Alzheimer's, Knopman said it's likely that exercise maintains good blood flow to the brain.",
+       "why": "陈述里的 exercise、brain、blood 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This type of study can't say exactly what kind of exercise is best, or how much is needed—only a study that has a placebo(安慰剂) group and tracks people going forward can do that, said Keith Fargo, director of scientific programs and outreach at the non-profit Alzheimer's Association.",
+       "why": "陈述里的 what、exercise、how、much、exercise、people 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The study, published Wednesday in the journal Neurology, couldn't prove that exercise prevented dementia, and the findings aren't a surprise—it's long been known there's a correlation between exercise and decreased dementia risk—but the results were particularly dramatic.",
+       "why": "陈述里的 long、exercise、correlates、risk、dementia 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And the same activities that help prevent Alzheimer's—including avoiding smoking, getting adequate exercise and sleep and eating a healthy diet—also prevent heart disease, he said, making them even more worthwhile.",
+       "why": "陈述里的 activities、prevention、alzheimer's、prevent、heart、disease 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "People who systematically underestimate themselves and their own performance suffer from the so-called Impostor Phenomenon. They think that any success is due to external circumstances or just luck and chance. Those people live in constant fear that their \"deception\" will be exposed. It is common for people to question their abilities now and again. A healthy amount of reflection and self-doubt can protect a person from acting impulsively. However, there are people who are permanently plagued by a massive amount of self-doubt despite delivering a good performance. They think that all of their successes are not a product of their skill or hard work, instead they attribute their own successes to external circumstances, for example, to luck and chance, or believe that their performance is massively overestimated by others. Failures, on the other hand, are always internalised as the result of their own shortcomings. Psychologists from Martin Luther University Halle-Wittenberg examined the topic for the first time under real-life conditions. Seventy-six participants completed a range of intelligence tests and received positive feedback on them, regardless of their actual performance. They were then asked why they think they did so well. The study showed two things: First, the self-reported degree of Impostor Phenomenon is not related to actual measured intelligence or performance. Secondly, the test supported the assumption that people with a tendency to exhibit the Impostor Phenomenon devalue their objectively measured performance and attribute positive results to external causes such as luck and chance, but not to their own abilities. These results are also completely unrelated to age and gender. A permanent underestimation of one's own abilities is often accompanied by the fear that this supposed intellectual deception will be exposed sooner or later and that they will pay the price for this. The Impostor Phenomenon was first described in 1978 by US psychologists Pauline Clance and Suzanne Imes. They observed that there is a particularly high number of successful women who do not think they are very intelligent. The Impostor Phenomenon is not defined as a mental illness. However, people who suffer from it show a higher vulnerability to depression.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn from the passage about people who suffer from the so-called Impostor Phenomenon?",
+       "options": [
+        "They systematically underestimate their chances of success.",
+        "They tend to attribute their achievements to good fortune.",
+        "They seem to live in constant fear of being deceived.",
+        "They generally rely on luck and chance for success."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】People who systematically underestimate themselves and their own performance suffer from the so-called Impostor Phenomenon.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 tend、attribute、achievements、good 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "People who systematically underestimate themselves and their own performance suffer from the so-called Impostor Phenomenon.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 tend、attribute、achievements、good 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「chances」全文未出现；把原文的「systematically、underestimate」换成了「chances、success」，主语或对象被调包。",
+         "C": "因果倒置：「seem、deceived」全文未出现。",
+         "D": "因果倒置：「generally、rely」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do people with a healthy amount of reflection and self-doubt tend to do?",
+       "options": [
+        "Credit all their successes to hard work.",
+        "Strive hard to perfect their skills.",
+        "Refrain from acting on impulse.",
+        "Deliver a better performance."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】A healthy amount of reflection and self-doubt can protect a person from acting impulsively.\n【依据】正确项的核心词 acting、impulse 与定位句对得上；其余 refrain 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A healthy amount of reflection and self-doubt can protect a person from acting impulsively.",
+        "why": "正确项的核心词 acting、impulse 与定位句对得上；其余 refrain 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "绝对化：出现 all/always/never 这类绝对限定，原文没有对应强度；「credit」全文未出现。",
+         "B": "无中生有：「strive、perfect、skills」全文未出现。",
+         "D": "无中生有：「deliver、better」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do Impostor Phenomenon sufferers often do according to psychologists from Martin Luther University Halle-Wittenberg?",
+       "options": [
+        "Attribute their accomplishments to others.",
+        "Deny their actual measured intelligence.",
+        "Claim to have confidence in their own abilities.",
+        "Mark down their objectively rated performance."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Psychologists from Martin Luther University Halle-Wittenberg examined the topic for the first time under real-life conditions.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 mark、down、objectively、rated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Psychologists from Martin Luther University Halle-Wittenberg examined the topic for the first time under real-life conditions.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 mark、down、objectively、rated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「accomplishments」全文未出现。",
+         "B": "因果倒置：「deny」全文未出现。",
+         "C": "因果倒置：「claim、confidence」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What happens when a person permanently underestimates their own abilities?",
+       "options": [
+        "They will focus their attention on external factors.",
+        "They will be fearful of potential consequences.",
+        "They will count on good fortune for success.",
+        "They will keep improving their own skills."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】A permanent underestimation of one's own abilities is often accompanied by the fear that this supposed intellectual deception will be exposed sooner or later and that they will pay the price for this.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 fearful、potential、consequences 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A permanent underestimation of one's own abilities is often accompanied by the fear that this supposed intellectual deception will be exposed sooner or later and that they will pay the price for this.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 fearful、potential、consequences 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「focus、attention、factors」全文未出现。",
+         "C": "因果倒置：「count、fortune」全文未出现。",
+         "D": "无中生有：「keep、improving、skills」全文未出现；把原文的「own」换成了「keep、improving、skills」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What did US psychologists Pauline Clance and Suzanne Imes say about Impostor Phenomenon sufferers?",
+       "options": [
+        "They are more liable to have depression.",
+        "They seldom realise their potential fully.",
+        "They will develop mental illnesses.",
+        "They will pay higher prices one day."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The Impostor Phenomenon was first described in 1978 by US psychologists Pauline Clance and Suzanne Imes.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 liable、depression 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The Impostor Phenomenon was first described in 1978 by US psychologists Pauline Clance and Suzanne Imes.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 liable、depression 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「seldom、realise、potential」全文未出现。",
+         "C": "无中生有：「develop、illnesses」全文未出现。",
+         "D": "因果倒置：「prices、day」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 350 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Music is a universal language. In every culture and country, you will find music. It is vitally important across the globe and has the potential to bring people together in peace and harmony. One of my favorite experiences in music is seeing musicians from different cultures come together and perform as a group. When each culture brings its own unique qualities to the group, an entirely new sound is achieved. This can create extraordinary results. People can communicate with each other using music as the common language. One common musical thread between cultures is known as the pentatonic scale. It is astonishing how many cultures share this tool in approaching music. The pentatonic scale consists of five notes; \"penta-\" meaning 5, and \"tonic\" meaning tone or note. This scale can be found in music everywhere including that of Native Americans, Africans, and Asians. It is also found in popular music, blues, jazz, and rock. Using this five-note scale, musicians from around the globe have a medium through which they can relate, communicate, perform, and ultimately understand each other. Music is tied to specific perceptual(感知的), mental, and emotional faculties, including language (all societies put words to their songs), motor control (people in all societies dance), sound analysis (all musical systems have a distinct pitch and quality), and aesthetics(美感) (their tunes and rhythms are balanced between repetitiveness and chaos). There is no known society that existed without music. Although each culture has their own specific style and approach to music, you will find that the purposes behind music are very similar across the board. Music essentially serves to express or change emotions. It can cheer you up, sadden you, anger you or excite you. Music is often ceremonial: used in religion, ceremony, and celebration. Music can simply be recreational: entertaining, joyful and fun. Any way you have used music, it is almost certain that every other culture has used music in the very same way. And that is something that bonds all of us. We all share a deep love for music and it has the power to unite us.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "In what way is music important?",
+       "options": [
+        "It is able to create novel and extraordinary emotions.",
+        "It has the power to unite people throughout the world.",
+        "It allows different cultural groups to sing in harmony.",
+        "It is the only language favored by all peoples of the world."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Any way you have used music, it is almost certain that every other culture has used music in the very same way.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 power、unite、people、throughout 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Any way you have used music, it is almost certain that every other culture has used music in the very same way.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 power、unite、people、throughout 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「able、novel」全文未出现。",
+         "C": "无中生有：「allows、groups、sing」全文未出现；把原文的「cultural」换成了「allows、different、groups」，主语或对象被调包。",
+         "D": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「only、favored、peoples」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "Why does the author like to see musicians from different cultures perform together?",
+       "options": [
+        "Their musical experience can be compared.",
+        "A novel language can be created.",
+        "Their unique skills can be displayed.",
+        "Fantastic results can be achieved."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】One of my favorite experiences in music is seeing musicians from different cultures come together and perform as a group.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 fantastic、results、achieved 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One of my favorite experiences in music is seeing musicians from different cultures come together and perform as a group.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 fantastic、results、achieved 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「compared」全文未出现；把原文的「musical、experience」换成了「compared」，主语或对象被调包。",
+         "B": "无中生有：「novel、created」全文未出现。",
+         "C": "无中生有：「skills、displayed」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the passage say about the pentatonic scale?",
+       "options": [
+        "It is present in music all around the world.",
+        "It is helpful to understanding music.",
+        "It is the basis for musicians' creation.",
+        "It is a medium for ordinary people to relate."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】One common musical thread between cultures is known as the pentatonic scale.\n【依据】正确项的核心词 music 与定位句对得上；其余 present、around、world 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One common musical thread between cultures is known as the pentatonic scale.",
+        "why": "正确项的核心词 music 与定位句对得上；其余 present、around、world 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「helpful、understanding」全文未出现；把原文的「music」换成了「helpful、understanding」，主语或对象被调包。",
+         "C": "无中生有：「basis、creation」全文未出现；把原文的「musicians'」换成了「basis、creation」，主语或对象被调包。",
+         "D": "因果倒置：「ordinary」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What is the fundamental role of music in people's life?",
+       "options": [
+        "To bring them together.",
+        "To show their identity.",
+        "To express their emotions.",
+        "To keep them entertained."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Music is tied to specific perceptual(感知的), mental, and emotional faculties, including language (all societies put words to their songs), motor control (people in all societies dance), sound analysis (all musical systems have a distinct pitch and quality), and aesthetics(美感) (their tunes and rhythms are balanced between repetitiveness and chaos).\n【依据】正确项的核心词 emotions 与定位句对得上；其余 express 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Music is tied to specific perceptual(感知的), mental, and emotional faculties, including language (all societies put words to their songs), motor control (people in all societies dance), sound analysis (all musical systems have a distinct pitch and quality), and aesthetics(美感) (their tunes and rhythms are balanced between repetitiveness and chaos).",
+        "why": "正确项的核心词 emotions 与定位句对得上；其余 express 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "B": "无中生有：「show、identity」全文未出现。",
+         "D": "无中生有：「keep、entertained」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "In what aspect is music similar throughout the world?",
+       "options": [
+        "The way people respond to it.",
+        "The role it plays in society.",
+        "The joy it brings to people.",
+        "The way it is made use of."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Using this five-note scale, musicians from around the globe have a medium through which they can relate, communicate, perform, and ultimately understand each other.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 way、made、use 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Using this five-note scale, musicians from around the globe have a medium through which they can relate, communicate, perform, and ultimately understand each other.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 way、made、use 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「respond」全文未出现。",
+         "B": "无中生有：「role、plays」全文未出现。",
+         "C": "因果倒置：「joy」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 347 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "餐桌礼仪是中华传统文化的重要组成部分，蕴含着热情有礼的待客之道。为了招待客人，主人会根据客人的口味和喜好准备丰富精致的菜肴。就餐座位的安排非常讲究，主人坐在正对大门的位置，在主人身边就座的是最重要的客人。进餐时，主人会不时地为客人添酒加菜。这种独特的餐桌礼仪已延续了数千年，对促进和谐的人际交往起到了重要的作用。",
+     "reference": "Dining etiquette is an important part of traditional Chinese culture, embodying the warm and courteous way of treating guests. To entertain guests, the host prepares rich and exquisite dishes according to their tastes and preferences. The seating arrangement is very particular: the host sits in the seat directly facing the gate, while the most important guest sits beside the host During the meal, the host refills wine and adds more dishes for the guests from time to time. This unique dining etiquette has lasted for thousands of years and has played an important role in promoting harmonious interpersonal relationships.",
+     "keyPoints": [
+      "Dining etiquette is an important part of traditional Chinese culture, embodying the warm and courteous way of treating guests.",
+      "To entertain guests, the host prepares rich and exquisite dishes according to their tastes and preferences.",
+      "The seating arrangement is very particular: the host sits in the seat directly facing the gate, while the most important guest sits beside the host During the meal, the host refills wine and adds more dishes for the guests from time to time.",
+      "This unique dining etiquette has lasted for thousands of years and has played an important role in promoting harmonious interpersonal relationships."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

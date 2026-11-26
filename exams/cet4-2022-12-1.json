@@ -1,0 +1,1180 @@
+{
+ "id": "cet4-2022-12-1",
+ "levelId": "cet4",
+ "title": "四级 2022 年 12 月 第 1 套",
+ "minutes": 150,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2022年12月英语四级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2022-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2022-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "周五,澳大利亚最大的金矿之一因其中一座尾矿坝发生部分坝体垮塌而不得不暂时停止运营"
+      },
+      {
+       "idx": 2,
+       "zh": "Cadia矿区的坝体垮塌发生在该地区遭受两次地震袭击后仅数天"
+      },
+      {
+       "idx": 3,
+       "zh": "周五傍晚,工作人员发现北坝的一段坝体已坍塌至南坝中"
+      },
+      {
+       "idx": 4,
+       "zh": "这些尾矿坝容纳采矿废弃物"
+      },
+      {
+       "idx": 5,
+       "zh": "这些尾矿坝通常采用土石填筑建造"
+      },
+      {
+       "idx": 6,
+       "zh": "该公司无法确认近期地震是否导致了坝体垮塌"
+      },
+      {
+       "idx": 7,
+       "zh": "公司发言人表示,在调查期间该矿区的运营已被暂停"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 我只对新课程感兴趣"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 第一个月所有人在门口都能享受同样的8折优惠"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 我明白了。"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 不过如果您提前报名可以享受75折"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What happened at one of Australia's largest gold mines?",
+       "options": [
+        "Part of its dam wall collapsed.",
+        "It released a lot of harmful gases.",
+        "It was destroyed by an earthquake.",
+        "Some miners were trapped underground."
+       ],
+       "optionsZh": [
+        "其大坝墙体部分坍塌。",
+        "它释放了大量有害气体。",
+        "它被地震摧毁。",
+        "一些矿工被困在地下。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Part of its dam wall collapsed.（其大坝墙体部分坍塌。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What did the spokesperson say about the incident?",
+       "options": [
+        "It posed a safety threat to the miners.",
+        "It caused damage too heavy to assess.",
+        "It brought the mine's operations to a halt.",
+        "It was followed by two more earthquakes."
+       ],
+       "optionsZh": [
+        "它对矿工的安全构成了威胁。",
+        "它造成的损失过于严重而无法评估。",
+        "它使该矿的运营陷入停顿。",
+        "它之后又发生了两次地震。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It brought the mine's operations to a halt.（它使该矿的运营陷入停顿。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What did the hospital do for the delivery of the babies?",
+       "options": [
+        "It prepared beds for all the six new citizens.",
+        "It assigned a team of doctors for each expected baby.",
+        "It made ample preparations for various possibilities.",
+        "It brought in the most advanced instruments."
+       ],
+       "optionsZh": [
+        "它为所有六位新公民准备了床位。",
+        "它为每个预产婴儿指派了一个医生团队。",
+        "它为各种可能性做了充分准备。",
+        "它引进了最先进的仪器。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It assigned a team of doctors for each expected baby.（它为每个预产婴儿指派了一个医生团队。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What did the doctor say about the newborns?",
+       "options": [
+        "They had to undergo 2-3 physical checkups.",
+        "They were all of normal size except the sixth.",
+        "They could go home together with their mother a day later.",
+        "They needed to stay in the hospital for a couple of months."
+       ],
+       "optionsZh": [
+        "他们必须接受2到3次体检。",
+        "除了第六个婴儿外,他们的体型都正常。",
+        "他们可以在一天后与母亲一起回家。",
+        "他们需要在医院住几个月。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They needed to stay in the hospital for a couple of months.（他们需要在医院住几个月。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn from the news report about the Spanish island Palmador?",
+       "options": [
+        "It is owned by the local government.",
+        "It has been turned into a public park.",
+        "It has been bought by an American.",
+        "It is a perfect tourist destination."
+       ],
+       "optionsZh": [
+        "它归当地政府所有。",
+        "它已被改建成公共公园。",
+        "它已被一位美国人购买。",
+        "它是一个完美的旅游目的地。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is a perfect tourist destination.（它是一个完美的旅游目的地。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What do holidaymakers come to Palmador to enjoy?",
+       "options": [
+        "Its seafood.",
+        "Its unusual coastline.",
+        "Its unspoiled beaches.",
+        "Its architecture."
+       ],
+       "optionsZh": [
+        "它的海鲜。",
+        "它不同寻常的海岸线。",
+        "它未受破坏的海滩。",
+        "它的建筑。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Its unspoiled beaches.（它未受破坏的海滩。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What do estate agents say about Palmador?",
+       "options": [
+        "It has an unmatched location.",
+        "It is worth over 18 million euros.",
+        "It has beautiful weather all year round.",
+        "It is an ideal place to meet famous stars."
+       ],
+       "optionsZh": [
+        "它拥有无与伦比的地理位置。",
+        "它价值超过1800万欧元。",
+        "它全年气候宜人。",
+        "它是邂逅著名明星的理想场所。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It has an unmatched location.（它拥有无与伦比的地理位置。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What do we learn about the woman from the conversation?",
+       "options": [
+        "She has been attending some group classes.",
+        "She has registered for two new gym classes.",
+        "She became a member of the gym two months ago.",
+        "She is entitled to a discount on all the gym exercises."
+       ],
+       "optionsZh": [
+        "她一直在参加一些团体课程。",
+        "她报名参加了两门新的健身房课程。",
+        "她两个月前成为了健身房的会员。",
+        "她有资格享受健身房所有运动项目的折扣。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：She became a member of the gym two months ago.（她两个月前成为了健身房的会员。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What is the gym center doing right now?",
+       "options": [
+        "Considering the promotion of its regular classes.",
+        "Taking measures to expand its exercise programs.",
+        "Recruiting coaches for hot yoga and advanced spinning.",
+        "Offering existing members a discount off two new classes."
+       ],
+       "optionsZh": [
+        "考虑推广其常规课程。",
+        "采取措施扩展其运动项目。",
+        "招聘高温瑜伽和高级动感单车的教练。",
+        "为现有会员提供两门新课程的折扣。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Offering existing members a discount off two new classes.（为现有会员提供两门新课程的折扣。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does the man say is a pity for the woman?",
+       "options": [
+        "She missed the deadline for the 10-week course.",
+        "She missed out on the gym's general discount.",
+        "She didn't sign up for membership in time.",
+        "She wasn't so much interested in hot yoga."
+       ],
+       "optionsZh": [
+        "她错过了10周课程的报名截止日期。",
+        "她错过了健身房的普遍折扣。",
+        "她没有及时注册会员资格。",
+        "她对高温瑜伽不太感兴趣。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She missed out on the gym's general discount.（她错过了健身房的普遍折扣。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "Why is the woman unwilling to pay in advance?",
+       "options": [
+        "She doesn't want to reveal her card details over the phone.",
+        "She doesn't think it wise to pay before attending any class.",
+        "She might have to cancel her registration any minute.",
+        "She prefers to have the fee added to her monthly bill."
+       ],
+       "optionsZh": [
+        "她不想通过电话透露她的银行卡信息。",
+        "她认为在参加任何课程之前付款是不明智的。",
+        "她可能随时不得不取消她的注册。",
+        "她更愿意将费用加到她的月账单上。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She doesn't want to reveal her card details over the phone.（她不想通过电话透露她的银行卡信息。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "Why are the speakers in China?",
+       "options": [
+        "To make investments.",
+        "To sign a business contract.",
+        "To research new markets.",
+        "To open a new office."
+       ],
+       "optionsZh": [
+        "进行投资。",
+        "签署商业合同。",
+        "研究新市场。",
+        "开设新办公室。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To research new markets.（研究新市场。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "Where will the man stop over on his way to London?",
+       "options": [
+        "Dubai.",
+        "Beijing.",
+        "Amsterdam.",
+        "Earl's Court."
+       ],
+       "optionsZh": [
+        "为他租一辆自行车以便在镇上出行。",
+        "在总部预订一间会议室。",
+        "帮他准备演示文稿。",
+        "给他发送一份酒店区域地图。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Dubai.（为他租一辆自行车以便在镇上出行。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the man ask the woman to do?",
+       "options": [
+        "Dubai。",
+        "北京。",
+        "Amsterdam。",
+        "Earl's Court。"
+       ],
+       "optionsZh": [
+        "带上他的投影仪。",
+        "保留他所有的收据。",
+        "提交他的报销单。",
+        "用他的信用卡支付。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Earl's Court。（用他的信用卡支付。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What did the woman remind the man to do at the end of the conversation?",
+       "options": [
+        "Rent a bike for him to get around the town.",
+        "Reserve a meeting room in the head office.",
+        "Help him prepare his presentation.",
+        "Send him a map of the hotel area."
+       ],
+       "optionsZh": [
+        "一个国家的教育水平是否与妇女权利相关联。",
+        "妇女权利在世界范围内是否正在取得良好进展。",
+        "一个国家对妇女权利的保护是否与其公共卫生相关。",
+        "妇女权利在欠发达国家是否更常被忽视。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Reserve a meeting room in the head office.（妇女权利在世界范围内是否正在取得良好进展。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What did the researchers of the new study try to determine?",
+       "options": [
+        "Bring his projector.",
+        "Keep all his receipts.",
+        "Submit his claims form.",
+        "Pay with his credit card."
+       ],
+       "optionsZh": [
+        "如果妇女权利得到尊重,这些国家的人民仍然拥有更好的健康状况。",
+        "它们必须努力增加妇女获得医疗保健的机会。",
+        "这些国家的人民倾向于重视妇女权利。",
+        "它们需要在医院人员和设施方面投入更多资金。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Submit his claims form.（这些国家的人民倾向于重视妇女权利。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the passage say about countries lacking in medical resources?",
+       "options": [
+        "Whether a country's educational level is linked to women's rights.",
+        "Whether women's rights are making good progress around the world.",
+        "Whether a country's protection of women's rights is related to its public health.",
+        "Whether women's rights are more often overlooked in less-developed countries."
+       ],
+       "optionsZh": [
+        "妇女权利与一个国家公共卫生的关联。",
+        "妇女权利对社会进步的潜在影响。",
+        "妇女权利对一个国家国际形象的价值。",
+        "妇女权利对经济发展的积极作用。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Whether a country's educational level is linked to women's rights.（妇女权利与一个国家公共卫生的关联。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What has often been questioned regarding women's rights?",
+       "options": [
+        "Their people still have better health if women's rights are respected.",
+        "They must make efforts to increase women's access to health care.",
+        "Their people tend to attach importance to women's rights.",
+        "They need to invest more in hospital staff and facilities."
+       ],
+       "optionsZh": [
+        "它为约会创造了美妙的环境。",
+        "它可能引起奇怪的身体反应。",
+        "它把公园变成了野餐场所。",
+        "它可能导致海滩拥挤。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They need to invest more in hospital staff and facilities.（它可能导致海滩拥挤。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the passage say about hot sunshine?",
+       "options": [
+        "Their link with a country's public health.",
+        "Their potential impact on social progress.",
+        "Their value to a country's international image.",
+        "Their positive effect on economic development."
+       ],
+       "optionsZh": [
+        "呼吸困难。",
+        "口臭。",
+        "过度出汗。",
+        "高血压。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Their potential impact on social progress.（口臭。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What does the passage say is a negative side effect of water loss?",
+       "options": [
+        "It creates a wonderful setting for dating.",
+        "It may cause strange physical reactions.",
+        "It turns parks into picnic sites.",
+        "It may result in a crowded beach."
+       ],
+       "optionsZh": [
+        "它保护人们免受细菌侵害。",
+        "它使人们能够增强耐力。",
+        "它加速人们的血液循环。",
+        "它为人们提供额外的能量。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It may cause strange physical reactions.（它使人们能够增强耐力。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What is said to be a positive effect of sunshine?",
+       "options": [
+        "Breathing difficulty.",
+        "Bad breath.",
+        "Excessive sweating.",
+        "High blood pressure."
+       ],
+       "optionsZh": [
+        "他们更有可能在格斗运动中获胜。",
+        "他们在人口中占少数。",
+        "他们有更高的机会加入运动队。",
+        "他们在取得成功方面有更多劣势。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：High blood pressure.（他们在取得成功方面有更多劣势。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the passage say about left-handed people?",
+       "options": [
+        "It protects people against bacteria.",
+        "It enables people to build up endurance.",
+        "It accelerates people's blood circulation.",
+        "It provides people with extra energy."
+       ],
+       "optionsZh": [
+        "他们的大脑比右撇子的大脑更强大。",
+        "他们大脑的左侧比右侧更强大。",
+        "他们往往比右撇子更具攻击性。",
+        "他们大脑两侧之间的连接更强。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It protects people against bacteria.（他们的大脑比右撇子的大脑更强大。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What is said to be special about left-handed people?",
+       "options": [
+        "They are more likely to win in combat sports.",
+        "They are in the minority among the population.",
+        "They have a higher chance of joining sports teams.",
+        "They have more disadvantages in getting ahead."
+       ],
+       "optionsZh": [
+        "他们有更大的大脑。",
+        "这仍然未知。",
+        "这与他们的基因有关。",
+        "他们更擅长推理。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They have more disadvantages in getting ahead.（他们更擅长推理。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Why are left-handed people better at solving more difficult problems?",
+       "options": [
+        "Their brain is more powerful than that of right-handed people.",
+        "The left side of their brain is more powerful than its right side.",
+        "They tend to be a lot more aggressive than right-handed people.",
+        "Their brain has a stronger connection between its two sides."
+       ],
+       "optionsZh": [
+        "教他们如何用右手完成任务。",
+        "帮助他们充分发展数学能力。",
+        "鼓励他们参加快节奏的互动运动。",
+        "建议他们选择需要快速反应的工作。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The left side of their brain is more powerful than its right side.（帮助他们充分发展数学能力。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What should parents do about a left-handed child?",
+       "options": [
+        "They have a larger brain.",
+        "It still remains unknown.",
+        "It is related to their genes.",
+        "They are better at reasoning."
+       ],
+       "optionsZh": [
+        "",
+        "",
+        "",
+        ""
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It is related to their genes."
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "In this task, you are to write an essay on the role of physical exercise in achieving success at college. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "While many college students bury themselves in books and treat workouts as a waste of time, it is often\noverlooked that physical exercise plays an indispensable role in achieving success at college. In my view,\nstaying active is not the enemy of study but its solid foundation.\nFirst, regular exercise strengthens the body and guarantees the energy that intense coursework demands. A\nstudent who jogs every morning is more likely to stay focused through back-to-back lectures than one who\nnever moves. Moreover, working out is a powerful way to relieve stress. When exams and job hunting pile up,\na quick run on the track can wash away tension and rebuild mental resilience. In addition, sticking to a fixed\nexercise routine cultivates self-discipline, and this habit naturally transfers to managing study plans on time.\nIn short, physical exercise is by no means a distraction; rather, it is the cornerstone of college success.\nTherefore, every student is advised to fit regular workouts into daily life before body and mind break down."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Researchers, writing in the journal Heart, pooled data from 23 studies and found that social isolation or feelings of loneliness were tied to an increased risk of coronary heart disease(冠心病) and strokes. The studies included data from 181,006 men and women ages 18 and over. There were 4,628 coronary events and 3,002 strokes in follow-up periods {{1}} from three to 21 years. Three of the papers {{2}} loneliness, 18 looked at social isolation and two included both. Social isolation and loneliness were determined with questionnaires; the researchers depended on medical records and death {{3}} for determining coronary events and strokes. The scientists found that loneliness and social isolation increased the {{4}} risk of having a heart attack or a death from heart disease by 29 percent, and the risk of stroke by 32 percent. There were no {{5}} between men and women. \"People have tended to focus from a policy point of view on {{6}} lonely people to make them more {{7}} ,\" said the lead author, Nicole K. Valtorta, a research fellow at the University of York in England. \"Our study {{8}} that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" The authors {{9}} that this was a review of observational studies and did not {{10}} cause and effect.",
+     "options": [
+      "acknowledge",
+      "certificates",
+      "connected",
+      "demonstrates",
+      "differences",
+      "establish",
+      "formats",
+      "measured",
+      "narrow",
+      "permanent",
+      "produces",
+      "ranging",
+      "relative",
+      "submitting",
+      "targeting"
+     ],
+     "answers": [
+      11,
+      7,
+      1,
+      12,
+      4,
+      14,
+      2,
+      3,
+      0,
+      5
+     ],
+     "blankExplains": [
+      "【定位】There were 4,628 coronary events and 3,002 strokes in follow-up periods ____ from three to 21 years.\n【依据】答案是 ranging：填回后与所在句 there、coronary、events、strokes、follow-up、periods 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Three of the papers ____ loneliness, 18 looked at social isolation and two included both.\n【依据】答案是 measured：填回后与所在句 three、papers、loneliness、looked、social、isolation 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Social isolation and loneliness were determined with questionnaires; the researchers depended on medical records and death ____ for determining coronary events and strokes.\n【依据】答案是 certificates：填回后与所在句 social、isolation、loneliness、determined、questionnaires、researchers 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The scientists found that loneliness and social isolation increased the ____ risk of having a heart attack or a death from heart disease by 29 percent, and the risk of stroke by 32 percent.\n【依据】答案是 relative：填回后与所在句 scientists、found、loneliness、social、isolation、increased 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】There were no ____ between men and women.\n【依据】答案是 differences：填回后与所在句 there、between、men、women 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"People have tended to focus from a policy point of view on ____ lonely people to make them more  … ,\" said the lead author, Nicole K.\n【依据】答案是 targeting：填回后与所在句 people、tended、focus、policy、point、view 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"People have tended to focus from a policy point of view on  … lonely people to make them more ____ ,\" said the lead author, Nicole K.\n【依据】答案是 connected：填回后与所在句 people、tended、focus、policy、point、view 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"Our study ____ that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" The authors  … that this was a review of observational studies and did not  … cause and effect.\n【依据】答案是 demonstrates：填回后与所在句 study、risk、factor、trying、prevent、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"Our study  … that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" The authors ____ that this was a review of observational studies and did not  … cause and effect.\n【依据】答案是 acknowledge：填回后与所在句 study、risk、factor、trying、prevent、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"Our study  … that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" The authors  … that this was a review of observational studies and did not ____ cause and effect.\n【依据】答案是 establish：填回后与所在句 study、risk、factor、trying、prevent、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "There were 4,628 coronary events and 3,002 strokes in follow-up periods ____ from three to 21 years.",
+       "why": "答案是 ranging：填回后与所在句 there、coronary、events、strokes、follow-up、periods 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ranging 这个词性/语义，而不是 relative）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 ranging 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "Three of the papers ____ loneliness, 18 looked at social isolation and two included both.",
+       "why": "答案是 measured：填回后与所在句 three、papers、loneliness、looked、social、isolation 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 measured 这个词性/语义，而不是 acknowledge）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 measured 这个词性/语义，而不是 certificates）。"
+       }
+      },
+      {
+       "locate": "Social isolation and loneliness were determined with questionnaires; the researchers depended on medical records and death ____ for determining coronary events and strokes.",
+       "why": "答案是 certificates：填回后与所在句 social、isolation、loneliness、determined、questionnaires、researchers 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 certificates 这个词性/语义，而不是 connected）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 certificates 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "The scientists found that loneliness and social isolation increased the ____ risk of having a heart attack or a death from heart disease by 29 percent, and the risk of stroke by 32 percent.",
+       "why": "答案是 relative：填回后与所在句 scientists、found、loneliness、social、isolation、increased 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 relative 这个词性/语义，而不是 ranging）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 relative 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "There were no ____ between men and women.",
+       "why": "答案是 differences：填回后与所在句 there、between、men、women 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 differences 这个词性/语义，而不是 demonstrates）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 differences 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "\"People have tended to focus from a policy point of view on ____ lonely people to make them more  … ,\" said the lead author, Nicole K.",
+       "why": "答案是 targeting：填回后与所在句 people、tended、focus、policy、point、view 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 targeting 这个词性/语义，而不是 acknowledge）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 targeting 这个词性/语义，而不是 certificates）。"
+       }
+      },
+      {
+       "locate": "\"People have tended to focus from a policy point of view on  … lonely people to make them more ____ ,\" said the lead author, Nicole K.",
+       "why": "答案是 connected：填回后与所在句 people、tended、focus、policy、point、view 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 connected 这个词性/语义，而不是 certificates）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 connected 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "\"Our study ____ that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" The authors  … that this was a review of observational studies and did not  … cause and effect.",
+       "why": "答案是 demonstrates：填回后与所在句 study、risk、factor、trying、prevent、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 demonstrates 这个词性/语义，而不是 differences）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 demonstrates 这个词性/语义，而不是 acknowledge）。"
+       }
+      },
+      {
+       "locate": "\"Our study  … that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" The authors ____ that this was a review of observational studies and did not  … cause and effect.",
+       "why": "答案是 acknowledge：填回后与所在句 study、risk、factor、trying、prevent、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 acknowledge 这个词性/语义，而不是 certificates）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 acknowledge 这个词性/语义，而不是 connected）。"
+       }
+      },
+      {
+       "locate": "\"Our study  … that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" The authors  … that this was a review of observational studies and did not ____ cause and effect.",
+       "why": "答案是 establish：填回后与所在句 study、risk、factor、trying、prevent、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 establish 这个词性/语义，而不是 acknowledge）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 establish 这个词性/语义，而不是 certificates）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "This fall, thousands of college students from across the country will begin their undergraduate studies at colleges around the nation. They will inevitably pack too much to fit in their tiny dorm rooms. They will also carry with them a huge student loan debt, in addition to countless \"hidden\" out-of-pocket costs paid for by their bank accounts and the bank accounts of their families."
+      },
+      {
+       "id": "B",
+       "text": "At my well-respected, private, four-year university in Washington, D.C., which boasts a yearly tuition of $44,046 not including room and board, I receive over $57,000 yearly in financial aid. As a student from a family that is struggling to make ends meet, my financial aid package is a combination of federal grants and federal work study, university merit scholarships and financial aid awards, and about $8,000 yearly in federally subsidized(有补贴的) and unsubsidized loans. On paper, my expenses and my financial aid just about even out. Off paper, they don't."
+      },
+      {
+       "id": "C",
+       "text": "Universities today are in the business of making money, and mine is no exception. They hit me right out of the gate with a $160 fee to attend my freshman orientation, a price which does not include the cost of travel to and from the District. Almost every class has an associated fee not included in the cost of tuition, most between $40 and $100. Fees for lab science classes are the highest, and all students at my university are required to take at least one lab before they graduate. Buying a laptop proved a necessity and, thankfully, a relative bought me one as a gift. Renting a mini-fridge for my dorm room costs my roommates and me about $140 a year."
+      },
+      {
+       "id": "D",
+       "text": "Schools will charge you whatever they can. The costs of any damage to the dorm, including elevators, bathrooms, and common areas, are billed to every person on a dorm floor, or even the entire building if they do not know who caused the damage. After I fell out of my bed twice during my freshman year, the university installed a railing—for $20, billed to my student account. My financial aid did not anticipate any of these costs, and so it did not cover them."
+      },
+      {
+       "id": "E",
+       "text": "An Internet search of \"hidden costs\" of college turns up a host of articles on parent-centered websites on the college application process. These articles are almost always geared towards upper- and middle-class families. For students already struggling to pay tuition, these costs may be the least of their worries."
+      },
+      {
+       "id": "F",
+       "text": "So what hidden costs should low-income students really be paying attention to? My college experience offers a few examples."
+      },
+      {
+       "id": "G",
+       "text": "If you are a low-income student who will be attending school out-of-state, make sure you know if you can use your state benefits, such as the Supplemental Nutrition Assistance Program, or SNAP. It wasn't until after I had accepted admission to an out-of-state school that I learned that I could not use my Ohio Medicaid on campus for anything other than emergency care. My benefits became invalid the second I moved out of Ohio. After my freshman year, I had to opt for the school's insurance plan, which costs around $2,000 a year. Even if your school offers a flat-rate fee for a doctor's appointment at the student health center (mine is $20 a visit), these fees often do not include extra fees for lab tests or prescription medications(药物)."
+      },
+      {
+       "id": "H",
+       "text": "If you plan on paying off bills in your student account with a credit card, be aware of any additional costs. My school charges an additional fee for the use of a credit card to settle outstanding charges, which can add upwards of 3% of the balance to your bill."
+      },
+      {
+       "id": "I",
+       "text": "There is another depressing reality hidden within even the largest financial aid packages: Colleges often offer the most generous packages during freshman year as a way to attract new students. My family was careful to ask about the chances of financial aid being taken away after my freshman year. We were assured that, except for low grades or a raise in family income, no money would be taken away. We did not know to ask—and the school did not readily point out—that even if tuition rises, my financial aid package will stay the same. So when my university voted to raise tuition costs 3% at the end of my freshman year, my financial aid package remained the same and I was suddenly responsible for an additional $1,200 for the next year. The university administration will likely vote to raise costs at least once more before my graduation."
+      },
+      {
+       "id": "J",
+       "text": "Yes, I chose to attend an expensive university far from my hometown. Yes, there were cheaper options. But there are promising students from struggling families across the nation who should not rule out their dream schools entirely. All things considered, I am paying significantly less than the ticket price of my university, and having an educational experience in Washington, D.C., that I would not have had anywhere else. As a low-income student from a down-and-out Rust Belt community, these educational experiences have enormous potential to brighten my future—and my family's future."
+      },
+      {
+       "id": "K",
+       "text": "The key is to make sure that students and their families understand that hidden costs exist, and that they may prove problematic. Fill out a more comprehensive checklist, and be wary of listed prices that seem too low. Understand just how complicated the financial aid process is."
+      },
+      {
+       "id": "L",
+       "text": "Students and families must also understand their ability to self-advocate. They should not pay student bills or excess fees blindly. If something does not look right, ask about it. If it still doesn't look right, negotiate it. In cases where parents are working multiple jobs, are less knowledgeable about college bureaucracies, have limited English language skills, or are not contributing financially to their child's education, the burden of self-advocacy will fall on the student. I understand the difficulty, and the embarrassment. But it is necessary."
+      },
+      {
+       "id": "M",
+       "text": "In the grand scheme of things, however, colleges also must come to understand that the hidden fees they ask for may prove unmanageable for the very kinds of low-income or first-generation students they are trying desperately to attract."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Students' financial aid remains unchanged even when tuition rises."
+      },
+      {
+       "id": "s37",
+       "text": "Students may not be able to enjoy their state benefits when they go to college out of the state."
+      },
+      {
+       "id": "s38",
+       "text": "The financial aid the author receives is supposed to cover all her college expenses."
+      },
+      {
+       "id": "s39",
+       "text": "When the person who damages dorm facilities is not identified, students are required to share the cost."
+      },
+      {
+       "id": "s40",
+       "text": "Though it is difficult and embarrassing, students should make inquiries about what fees they have to pay and why."
+      },
+      {
+       "id": "s41",
+       "text": "Today, many Americans have to go to college on student loans."
+      },
+      {
+       "id": "s42",
+       "text": "Receiving education in a private university in the nation's capital may change the author's future life and that of her family's."
+      },
+      {
+       "id": "s43",
+       "text": "Students may no longer be qualified for financial aid if they perform poorly in school or if their family income has increased."
+      },
+      {
+       "id": "s44",
+       "text": "In addition to tuition, college students have to pay extra fees for the courses they take."
+      },
+      {
+       "id": "s45",
+       "text": "Some schools charge students a fee to their student accounts for using credit cards to pay bills."
+      }
+     ],
+     "answers": [
+      "I",
+      "G",
+      "B",
+      "D",
+      "L",
+      "A",
+      "J",
+      "I",
+      "C",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】We did not know to ask—and the school did not readily point out—that even if tuition rises, my financial aid package will stay the same.\n【依据】陈述里的 financial、aid、even、tuition、rises 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】If you are a low-income student who will be attending school out-of-state, make sure you know if you can use your state benefits, such as the Supplemental Nutrition Assistance Program, or SNAP.\n【依据】陈述里的 students、state、benefits、state 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】At my well-respected, private, four-year university in Washington, D.C., which boasts a yearly tuition of $44,046 not including room and board, I receive over $57,000 yearly in financial aid.\n【依据】陈述里的 financial、aid、receives 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】The costs of any damage to the dorm, including elevators, bathrooms, and common areas, are billed to every person on a dorm floor, or even the entire building if they do not know who caused the damage.\n【依据】陈述里的 person、who、damages、dorm 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】They should not pay student bills or excess fees blindly.\n【依据】陈述里的 students、fees、pay 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】This fall, thousands of college students from across the country will begin their undergraduate studies at colleges around the nation.\n【依据】陈述里的 college、student 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】As a low-income student from a down-and-out Rust Belt community, these educational experiences have enormous potential to brighten my future—and my family's future.\n【依据】陈述里的 education、future、family's 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】There is another depressing reality hidden within even the largest financial aid packages: Colleges often offer the most generous packages during freshman year as a way to attract new students.\n【依据】陈述里的 students、financial、aid 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Fees for lab science classes are the highest, and all students at my university are required to take at least one lab before they graduate.\n【依据】陈述里的 students、fees、take 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】If you plan on paying off bills in your student account with a credit card, be aware of any additional costs.\n【依据】陈述里的 students、student、accounts、credit、bills 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "We did not know to ask—and the school did not readily point out—that even if tuition rises, my financial aid package will stay the same.",
+       "why": "陈述里的 financial、aid、even、tuition、rises 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If you are a low-income student who will be attending school out-of-state, make sure you know if you can use your state benefits, such as the Supplemental Nutrition Assistance Program, or SNAP.",
+       "why": "陈述里的 students、state、benefits、state 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "At my well-respected, private, four-year university in Washington, D.C., which boasts a yearly tuition of $44,046 not including room and board, I receive over $57,000 yearly in financial aid.",
+       "why": "陈述里的 financial、aid、receives 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The costs of any damage to the dorm, including elevators, bathrooms, and common areas, are billed to every person on a dorm floor, or even the entire building if they do not know who caused the damage.",
+       "why": "陈述里的 person、who、damages、dorm 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "They should not pay student bills or excess fees blindly.",
+       "why": "陈述里的 students、fees、pay 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "This fall, thousands of college students from across the country will begin their undergraduate studies at colleges around the nation.",
+       "why": "陈述里的 college、student 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As a low-income student from a down-and-out Rust Belt community, these educational experiences have enormous potential to brighten my future—and my family's future.",
+       "why": "陈述里的 education、future、family's 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "There is another depressing reality hidden within even the largest financial aid packages: Colleges often offer the most generous packages during freshman year as a way to attract new students.",
+       "why": "陈述里的 students、financial、aid 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Fees for lab science classes are the highest, and all students at my university are required to take at least one lab before they graduate.",
+       "why": "陈述里的 students、fees、take 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If you plan on paying off bills in your student account with a credit card, be aware of any additional costs.",
+       "why": "陈述里的 students、student、accounts、credit、bills 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "To write his 2010 book, The 5-Factor World Diet, nutritionist Harley Pasternak traveled to the healthiest countries around the world to learn more about what made their meals extra nourishing. He noted that Japanese people ate a wonderful variety of seaweeds, and that Chinese people tried to include at least five different colors in every meal. Pasternak also came away with some valuable observations about how different the North American way of life was, compared with many other countries. For starters, Americans eat much bigger portions than people in other countries. \"We don't prioritize eating seasonally or locally, and we also add lots of salt, sugar and thickening agents to our foods,\" explained Pasternak. Contrast that to the healthy Mediterranean, Nordic and Okinawan diets listed in Pasternak's book. They all seem to stick to the ethos(特质) of regional, seasonal produce. For example, a traditional Mediterranean diet includes fruits, vegetables, whole grains, nuts and olive oil as the main components of nutritional intake. Fish, chicken and red wine make moderate appearances, while red meat, salt and sugar are used much less often. The benefits of a traditional Mediterranean diet have been studied since the 1970s, and researchers have found that living that olive oil life can help people lose weight, lower their heart disease risk and reverse diabetes. Most other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing down handfuls of cereal above the kitchen sink and calling it dinner. Each of the healthy eating cultures has its own unique feature. But Pasternak did take note of one unifying factor in all of the healthy societies he observed. \"The only overlapping feature in most of these healthy countries is that they all walk way more than the average American,\" said Pasternak, \"So really, regardless of what you're eating, if someone's walking four miles more than you each day, they're going to be a lot thinner and live a lot longer than you.\"",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What characterizes Japanese and Chinese foods?",
+       "options": [
+        "Variety.",
+        "Flavor.",
+        "Color.",
+        "Naturalness."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】He noted that Japanese people ate a wonderful variety of seaweeds, and that Chinese people tried to include at least five different colors in every meal.\n【依据】正确项的核心词 variety 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "He noted that Japanese people ate a wonderful variety of seaweeds, and that Chinese people tried to include at least five different colors in every meal.",
+        "why": "正确项的核心词 variety 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「flavor」全文未出现。",
+         "C": "无中生有：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "无中生有：「naturalness」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What is typical of Americans in the way of eating?",
+       "options": [
+        "They emphasize nutrition.",
+        "They tend to eat quite a lot.",
+        "They prioritize convenience.",
+        "They care about flavors."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】\"The only overlapping feature in most of these healthy countries is that they all walk way more than the average American,\" said Pasternak, \"So really, regardless of what you're eating, if someone's walking four miles more than you each day, they're going to be a lot thinner and live a lot longer than you.\"\n【依据】正确项的核心词 lot 与定位句对得上；其余 tend、eat、quite 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"The only overlapping feature in most of these healthy countries is that they all walk way more than the average American,\" said Pasternak, \"So really, regardless of what you're eating, if someone's walking four miles more than you each day, they're going to be a lot thinner and live a lot longer than you.\"",
+        "why": "正确项的核心词 lot 与定位句对得上；其余 tend、eat、quite 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「emphasize、nutrition」全文未出现。",
+         "C": "因果倒置：「convenience」全文未出现。",
+         "D": "无中生有：「care、flavors」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What features are in Mediterranean, Nordic and Okinawan diets?",
+       "options": [
+        "Fruits and vegetables.",
+        "Olive oil and red wine.",
+        "Seasonal local produce.",
+        "Unprocessed ingredients."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Contrast that to the healthy Mediterranean, Nordic and Okinawan diets listed in Pasternak's book.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 seasonal、local、produce 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Contrast that to the healthy Mediterranean, Nordic and Okinawan diets listed in Pasternak's book.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 seasonal、local、produce 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "无中生有：「unprocessed、ingredients」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What do people in most healthy eating cultures have in common?",
+       "options": [
+        "They get the whole family to eat at a table.",
+        "They eat their meals regularly and punctually.",
+        "They consume plenty of cereal for breakfast.",
+        "They attach great importance to their meals."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Most other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing down handfuls of cereal above the kitchen sink and calling it dinner.\n【依据】正确项的核心词 meals 与定位句对得上；其余 attach、great、importance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Most other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing down handfuls of cereal above the kitchen sink and calling it dinner.",
+        "why": "正确项的核心词 meals 与定位句对得上；其余 attach、great、importance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「get」全文未出现；把原文的「family、table」换成了「get、whole、eat」，主语或对象被调包。",
+         "B": "无中生有：「regularly、punctually」全文未出现；把原文的「meals」换成了「eat、regularly、punctually」，主语或对象被调包。",
+         "C": "无中生有：「consume、plenty、breakfast」全文未出现；把原文的「cereal」换成了「consume、plenty、breakfast」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "Compared with the average American, people in healthy societies ___________.",
+       "options": [
+        "walk at least 4 miles a day",
+        "do considerably more walking",
+        "pay more attention to body shape",
+        "consume a lot more organic food"
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】\"The only overlapping feature in most of these healthy countries is that they all walk way more than the average American,\" said Pasternak, \"So really, regardless of what you're eating, if someone's walking four miles more than you each day, they're going to be a lot thinner and live a lot longer than you.\"\n【依据】正确项的核心词 walking 与定位句对得上；其余 considerably 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"The only overlapping feature in most of these healthy countries is that they all walk way more than the average American,\" said Pasternak, \"So really, regardless of what you're eating, if someone's walking four miles more than you each day, they're going to be a lot thinner and live a lot longer than you.\"",
+        "why": "正确项的核心词 walking 与定位句对得上；其余 considerably 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：把原文的「walk、miles、day」换成了「least」，主语或对象被调包。",
+         "C": "无中生有：「pay、attention、body」全文未出现。",
+         "D": "无中生有：「consume、organic、food」全文未出现；把原文的「lot」换成了「consume、organic、food」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 344 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Recognizing when a friend or colleague feels sad, angry or surprised is key to getting along with others. But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress. This and other research challenge the prevailing view that emotional intelligence is uniformly beneficial to its bearer. In a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence. For example, they showed the students photographs of people's faces and asked them to what extent feelings such as happiness or disgust were being expressed. The students then had to give job talks in front of judges who displayed serious facial expressions. The scientists measured concentrations of stress hormones in the students' saliva(唾液) before and after the talk. In students who were rated more emotionally intelligent, the stress measures increased more during the experiment and took longer to go back to baseline. The findings suggest that some people may be too emotionally clever for their own good, says Bechtoldt. \"Sometimes you can be so good at something that it causes trouble,\" she notes. Indeed, the study adds to previous research hinting at a dark side of emotional intelligence. A study published in 2002 in Personality and Individual Differences suggested that emotionally perceptive people might be particularly influenced by feelings of depression and hopelessness. Furthermore, several studies have implied that emotional intelligence can be used to manipulate others for personal gains. More research is needed to see how exactly the relation between emotional intelligence and stress would play out in women and in people of different ages and education levels. Nevertheless, emotional intelligence is a useful skill to have, as long as you learn to also properly cope with emotions—both others' and your own, says Bechtoldt. For example, some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out. Remember, as Bechtoldt says, \"you are not responsible for how other people feel.\"",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What is the finding of the new study?",
+       "options": [
+        "Emotional intelligence helps people get along with others.",
+        "Emotional intelligence is generally beneficial to its bearer.",
+        "People who are aware of others' feelings may experience more stress.",
+        "People who are emotionally stressed may have trouble making friends."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress.\n【依据】正确项的核心词 people、feelings、stress 与定位句对得上；其余 who、aware、others'、experience 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress.",
+        "why": "正确项的核心词 people、feelings、stress 与定位句对得上；其余 who、aware、others'、experience 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「helps、get」全文未出现；把原文的「people」换成了「emotional、intelligence、helps」，主语或对象被调包。",
+         "B": "因果倒置：「generally」全文未出现。",
+         "D": "偷换主体：「making、friends」全文未出现；把原文的「people、stressed」换成了「who、emotionally、trouble」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What was the purpose of psychologist Myriam Bechtoldt's experiment?",
+       "options": [
+        "To define different types of human feelings.",
+        "To assess the impacts of being emotionally clever.",
+        "To demonstrate how to distinguish different feelings.",
+        "To identify gender differences in emotional intelligence."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence.\n【依据】正确项的核心词 emotionally 与定位句对得上；其余 assess、impacts、clever 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence.",
+        "why": "正确项的核心词 emotionally 与定位句对得上；其余 assess、impacts、clever 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「define、types、human」全文未出现。",
+         "C": "因果倒置：「demonstrate、distinguish」全文未出现。",
+         "D": "无中生有：「identify、gender」全文未出现；把原文的「emotional、intelligence」换成了「identify、gender、differences」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the finding of Myriam Bechtoldt's study indicate?",
+       "options": [
+        "Greater emotional cleverness means less trouble in one's life.",
+        "Emotional intelligence helps people succeed in job interviews.",
+        "People's psychological wellbeing is related to various factors.",
+        "People may suffer from having a high emotional intelligence"
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】In a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence.\n【依据】正确项的核心词 emotional、intelligence 与定位句对得上；其余 people、suffer、having、high 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence.",
+        "why": "正确项的核心词 emotional、intelligence 与定位句对得上；其余 people、suffer、having、high 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「greater、cleverness、means」全文未出现；把原文的「emotional」换成了「greater、cleverness、means」，主语或对象被调包。",
+         "B": "无中生有：「helps、succeed、interviews」全文未出现；把原文的「emotional、intelligence」换成了「helps、people、succeed」，主语或对象被调包。",
+         "C": "无中生有：「wellbeing、related、various」全文未出现；把原文的「psychological」换成了「people's、wellbeing、related」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What do we learn about emotional intelligence from a number of studies?",
+       "options": [
+        "People suffering from depression are emotionally immature.",
+        "People who look at the dark side of life often feel depressed.",
+        "Some people may take advantage of it and benefit themselves.",
+        "Some people may lack it and are easily manipulated by others."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Nevertheless, emotional intelligence is a useful skill to have, as long as you learn to also properly cope with emotions—both others' and your own, says Bechtoldt.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 people、take、advantage、benefit 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Nevertheless, emotional intelligence is a useful skill to have, as long as you learn to also properly cope with emotions—both others' and your own, says Bechtoldt.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 people、take、advantage、benefit 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「suffering、immature」全文未出现；把原文的「emotionally」换成了「people、suffering、depression」，主语或对象被调包。",
+         "B": "因果倒置：「look、life、often」全文未出现。",
+         "D": "无中生有：「lack、easily、manipulated」全文未出现；把原文的「others」换成了「people、lack、easily」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author suggest sensitive individuals do?",
+       "options": [
+        "Avoid burdening themselves with others' feelings.",
+        "Rid themselves of worries over worldly affairs.",
+        "Learn to cope with people's negative feelings.",
+        "Help people to deal with their troubles in life."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】A study published in 2002 in Personality and Individual Differences suggested that emotionally perceptive people might be particularly influenced by feelings of depression and hopelessness.\n【依据】正确项的核心词 feelings 与定位句对得上；其余 avoid、burdening、themselves、others' 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A study published in 2002 in Personality and Individual Differences suggested that emotionally perceptive people might be particularly influenced by feelings of depression and hopelessness.",
+        "why": "正确项的核心词 feelings 与定位句对得上；其余 avoid、burdening、themselves、others' 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「rid、themselves、worries」全文未出现。",
+         "C": "偷换主体：「negative」全文未出现；把原文的「people's、feelings」换成了「learn、cope、negative」，主语或对象被调包。",
+         "D": "无中生有：「help、deal、troubles」全文未出现；把原文的「people」换成了「help、deal、troubles」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 341 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "在中国农历中，立秋意味着夏天的结束和秋天的开始。立秋带来的首先是天气的变化，气温逐渐下降。人们看到树叶开始变黄飘落时，知道秋天已经来临，这就是所谓的\"一叶知秋\"。但此时酷热的天气并未完全结束，高温通常还会持续一段时间，被称为\"秋老虎\"。立秋对农民意义重大，这时各种秋季作物迅速生长、开始成熟，收获的季节即将到来。",
+     "reference": "In the Chinese lunar calendar, the Start of Autumn marks the end of summer and the beginning of autumn. The Start of Autumn first brings a change in the weather; temperatures gradually drop When people see the leaves begin to turn yellow and fall, they know that autumn has arrived; this is the so-called principle that \"one falling leaf heralds the coming of autumn.\" However, the hot weather has not completely ended at this time; high temperatures usually continue for a while, known as the \"Autumn Tiger.\" The Start of Autumn is of great significance to farmers, as various autumn crops grow rapidly and begin to ripen at this time, and the harvest season is approaching",
+     "keyPoints": [
+      "In the Chinese lunar calendar, the Start of Autumn marks the end of summer and the beginning of autumn.",
+      "The Start of Autumn first brings a change in the weather; temperatures gradually drop When people see the leaves begin to turn yellow and fall, they know that autumn has arrived; this is the so-called principle that \"one falling leaf heralds the coming of autumn.\" However, the hot weather has not completely ended at this time; high temperatures usually continue for a while, known as the \"Autumn Tiger.\" The Start of Autumn is of great significance to farmers, as various autumn crops grow rapidly and begin to ripen at this time, and the harvest season is approaching"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

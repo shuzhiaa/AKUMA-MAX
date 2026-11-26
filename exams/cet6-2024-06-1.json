@@ -1,0 +1,1184 @@
+{
+ "id": "cet6-2024-06-1",
+ "levelId": "cet6",
+ "title": "六级 2024 年 06 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2024年6月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2024-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2024-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W: 谢谢你在这么短的时间内抽空见我"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 没问题，Margaret"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 确实同意了。我希望签署协议"
+      },
+      {
+       "idx": 4,
+       "zh": "M: Margaret"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 我理解你的担忧"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 好吧，没问题。那么你想做什么改动？"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 基本上，我们希望新协议不包括中东地区"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 中东地区？为什么？"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 我的客户还收到几家中东公司的其他潜在营销合作邀约"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 你说的中东业务具体属于哪个行业？"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 房地产。"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What does the woman say she will do?",
+       "options": [
+        "Reply to the man's last proposal within a short time.",
+        "Sign the agreement if one small change is made to it.",
+        "Make a sponsorship deal for her client at the meeting.",
+        "Give the man some good news regarding the contract."
+       ],
+       "optionsZh": [
+        "在短时间内回复男士的最新提议。",
+        "如果对协议做一处小的修改就签署协议。",
+        "在会议上为她的客户达成一项赞助协议。",
+        "告诉男士一些关于合同的好消息。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Sign the agreement if one small change is made to it.（如果对协议做一处小的修改就签署协议。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the man say about some people he represents?",
+       "options": [
+        "They are becoming impatient.",
+        "They are afraid time is running out.",
+        "They are used to making alterations.",
+        "They are concerned about the details."
+       ],
+       "optionsZh": [
+        "他们正变得不耐烦。",
+        "他们担心时间不多了。",
+        "他们习惯于做出修改。",
+        "他们关注细节。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They are becoming impatient.（他们正变得不耐烦。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What reason does the woman give for the new deal to exclude the Middle East?",
+       "options": [
+        "To prevent geographical discrimination.",
+        "To tap the food and beverage market.",
+        "To avoid any conflict of interest.",
+        "To reduce unfair competition."
+       ],
+       "optionsZh": [
+        "为了防止地域歧视。",
+        "为了开拓食品和饮料市场。",
+        "为了避免任何利益冲突。",
+        "为了减少不公平竞争。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To avoid any conflict of interest.（为了避免任何利益冲突。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the man say about the Middle East?",
+       "options": [
+        "It is a potential market for food and beverage.",
+        "It is very attractive for real estate developers.",
+        "It is a negligible market for his company.",
+        "It is very different from other markets."
+       ],
+       "optionsZh": [
+        "它是食品和饮料的潜在市场。",
+        "它对房地产开发商很有吸引力。",
+        "对他的公司来说它是一个微不足道的市场。",
+        "它与其他市场非常不同。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It is a negligible market for his company.（对他的公司来说它是一个微不足道的市场。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the woman say about all the astronomers at the Denver Observatory?",
+       "options": [
+        "They are thrilled by a rare astronomic phenomenon.",
+        "They are celebrating a big event on mountain tops.",
+        "They are enthusiastic about big science-related stories.",
+        "They are joined by astronomers all across North America."
+       ],
+       "optionsZh": [
+        "他们对一种罕见的天文现象感到兴奋。",
+        "他们正在山顶庆祝一个重大事件。",
+        "他们对与科学相关的重大新闻充满热情。",
+        "北美各地的天文学家都加入了他们。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They are thrilled by a rare astronomic phenomenon.（他们对一种罕见的天文现象感到兴奋。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What do we learn from the conversation about the Oppenheimer comet?",
+       "options": [
+        "It will be the most formidable of its kind in over a century.",
+        "It will come closest to Earth in more than one hundred years.",
+        "It will eclipse many other such events in human history.",
+        "It will be seen most clearly from Denver's mountain tops."
+       ],
+       "optionsZh": [
+        "它将是一个多世纪以来同类中最壮观的。",
+        "它将在一百多年来最接近地球。",
+        "它将使人类历史上许多其他此类事件黯然失色。",
+        "从丹佛的山顶将最清楚地看到它。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It will come closest to Earth in more than one hundred years.（它将在一百多年来最接近地球。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the woman say people will only see in the sky without a telescope?",
+       "options": [
+        "blur.",
+        "Stars.",
+        "The edge of our galaxy.",
+        "An ordinary flying object."
+       ],
+       "optionsZh": [
+        "模糊的影像。",
+        "星星。",
+        "我们星系的边缘。",
+        "一个普通的飞行物体。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：blur.（模糊的影像。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What do scientists at the Denver Observatory advise amateurs do to facilitate their observation?",
+       "options": [
+        "Use professional equipment.",
+        "Climb to the nearby heights.",
+        "Fix their eyes due north.",
+        "Make use of phone apps."
+       ],
+       "optionsZh": [
+        "使用专业设备。",
+        "爬到附近的高处。",
+        "将目光固定在正北方。",
+        "使用手机应用程序。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Make use of phone apps.（使用手机应用程序。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What question is said to have recently stirred debate?",
+       "options": [
+        "Whether consumers should be warned against ultra-processed foods.",
+        "Whether there is sufficient scientific consensus on dietary guidelines.",
+        "Whether guidelines can form the basis for nutrition advice to consumers.",
+        "Whether food scientists will agree on the concept of ultra-processed foods."
+       ],
+       "optionsZh": [
+        "是否应该警告消费者不要食用超加工食品。",
+        "关于膳食指南是否存在充分的科学共识。",
+        "指南能否构成向消费者提供营养建议的基础。",
+        "食品科学家是否会就超加工食品的概念达成一致。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Whether consumers should be warned against ultra-processed foods.（是否应该警告消费者不要食用超加工食品。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "How does the system developed by Monteiro and colleagues classify foods?",
+       "options": [
+        "By the labor cost for the final products.",
+        "By the degree of industrial processing.",
+        "By the extent of chemical alteration.",
+        "By the convention of classification."
+       ],
+       "optionsZh": [
+        "按最终产品的人工成本。",
+        "按工业加工程度。",
+        "按化学改变程度。",
+        "按分类惯例。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：By the degree of industrial processing.（按工业加工程度。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What is consumption of ultra-processed foods linked with, according to studies?",
+       "options": [
+        "Increased consumers' expenses.",
+        "Greater risk of chronic diseases.",
+        "People's misunderstanding of nutrition.",
+        "Children's dislike for unprocessed foods."
+       ],
+       "optionsZh": [
+        "消费者支出增加。",
+        "慢性疾病风险增大。",
+        "人们对营养的误解。",
+        "儿童不喜欢未加工食品。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Greater risk of chronic diseases.（慢性疾病风险增大。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What do psychologists say people do when they are short of resources?",
+       "options": [
+        "They begin to think of the benefits of constraints.",
+        "They try to seek solutions from creative people.",
+        "They try hard to maximize their mental energy.",
+        "They begin to see the world in a different way."
+       ],
+       "optionsZh": [
+        "他们开始思考约束的好处。",
+        "他们试图从有创造力的人那里寻求解决方案。",
+        "他们努力最大化自己的心理能量。",
+        "他们开始以不同的方式看待世界。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They begin to see the world in a different way.（他们开始以不同的方式看待世界。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the passage say about innovation?",
+       "options": [
+        "It is characteristic of all creative people.",
+        "It is essential to pushing society forward.",
+        "It is a creative person's response to limitation.",
+        "It is an impetus to socio-economic development."
+       ],
+       "optionsZh": [
+        "这是所有有创造力的人的特征。",
+        "这对推动社会前进至关重要。",
+        "这是有创造力的人对限制的回应。",
+        "这是社会经济发展的推动力。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It is a creative person's response to limitation.（这是有创造力的人对限制的回应。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What did a 2015 study by Ravi Mehta and Meng Zhu find?",
+       "options": [
+        "Scarcity or abundance of resources has little impact on people's creativity.",
+        "Innovative people are not constrained in connecting unrelated concepts.",
+        "People have no incentive to use available resources in new ways.",
+        "Creative people tend to consume more available resources."
+       ],
+       "optionsZh": [
+        "资源的稀缺或充裕对人们的创造力影响很小。",
+        "创新型人才在连接不相关概念时不受约束。",
+        "人们没有动力以新方式使用可用资源。",
+        "有创造力的人往往会消耗更多可用资源。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：People have no incentive to use available resources in new ways.（人们没有动力以新方式使用可用资源。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What did Marissa Mayer once write concerning creativity?",
+       "options": [
+        "It is key to a company's survival.",
+        "It shapes and focuses problems.",
+        "It is essential to meeting challenges",
+        "It thrives best when constrained."
+       ],
+       "optionsZh": [
+        "这是公司生存的关键。",
+        "它塑造并聚焦问题。",
+        "它对应对挑战至关重要。",
+        "它在受到约束时最为繁荣。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It thrives best when constrained.（它在受到约束时最为繁荣。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "Why does the speaker say strategies for managing conflicts can always be changed?",
+       "options": [
+        "Because they are learned.",
+        "Because they come naturally.",
+        "Because they have to be properly personalized.",
+        "Because there can be more effective strategies."
+       ],
+       "optionsZh": [
+        "因为它们是习得的。",
+        "因为它们是自然而然产生的。",
+        "因为它们必须被适当地个性化。",
+        "因为可能存在更有效的策略。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Because they are learned.（因为它们是习得的。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What is said to affect the way one acts in a conflict?",
+       "options": [
+        "The extent of difference and of similarity between the two sides.",
+        "The knowledge of the specific expectation the other side holds.",
+        "The importance of one's goals and of the relationship.",
+        "The approaches one adopts to conflict management."
+       ],
+       "optionsZh": [
+        "双方之间差异和相似的程度。",
+        "对另一方所持特定期望的了解。",
+        "一个人的目标和关系的重要性。",
+        "一个人采用的冲突管理方法。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The importance of one's goals and of the relationship.（一个人的目标和关系的重要性。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "Of the five styles the speaker discusses, which views conflicts as problems to be solved?",
+       "options": [
+        "The fox.",
+        "The owl.",
+        "The shark.",
+        "The turtle."
+       ],
+       "optionsZh": [
+        "狐狸型。",
+        "猫头鹰型。",
+        "鲨鱼型。",
+        "乌龟型。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The owl.（猫头鹰型。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What do scientists hope to do by cracking the genetic code of plants and animals?",
+       "options": [
+        "Help save species from extinction and boost human health.",
+        "Understand how plants and animals perished over the past.",
+        "Help gather information publicly available to researchers.",
+        "Find out the cause of extinction of Britain's 66, 000 species."
+       ],
+       "optionsZh": [
+        "帮助拯救物种免于灭绝并促进人类健康。",
+        "了解动植物在过去是如何灭亡的。",
+        "帮助收集研究人员可公开获取的信息。",
+        "找出英国66000个物种灭绝的原因。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Help save species from extinction and boost human health.（帮助拯救物种免于灭绝并促进人类健康。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What do many scientists believe with regard to earth?",
+       "options": [
+        "It was once dominated by dinosaurs.",
+        "It has entered the sixth mass extinction.",
+        "Its prospects depend on future human behaviour.",
+        "Its climate change is aggravated by humans."
+       ],
+       "optionsZh": [
+        "它曾经由恐龙统治。",
+        "它已进入第六次大灭绝。",
+        "它的前景取决于人类未来的行为。",
+        "它的气候变化因人类而加剧。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It has entered the sixth mass extinction.（它已进入第六次大灭绝。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "How does Sir Jim Smith, Director of Science at Wellcome, describe the Darwin Tree of Life Project?",
+       "options": [
+        "It dwarfs all other efforts to conserve, protect and restore biodiversity on earth.",
+        "It is costly to get started and requires the joint efforts of thousands of scientists.",
+        "It can help to bring back the large numbers of plants and animals that have gone extinct.",
+        "It is the most exciting, most relevant, most timely and most internationally inspirational."
+       ],
+       "optionsZh": [
+        "它使地球上所有其他保护、保护和恢复生物多样性的努力都相形见绌。",
+        "它启动成本高昂,需要数千名科学家的共同努力。",
+        "它可以帮助恢复已经灭绝的大量动植物。",
+        "它是最激动人心、最相关、最及时和最具国际启发性的。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is the most exciting, most relevant, most timely and most internationally inspirational.（它是最激动人心、最相关、最及时和最具国际启发性的。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What is indeed just an illusion according to Professor Tom Oliver?",
+       "options": [
+        "Cultural identity.",
+        "Social evolution.",
+        "The Copernican revolution.",
+        "Human individuality."
+       ],
+       "optionsZh": [
+        "文化身份。",
+        "社会演化。",
+        "哥白尼革命。",
+        "人类个体性。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Human individuality.（人类个体性。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What does Professor Tom Oliver think of the idea that we exist as independent selves at the centre of a subjective universe?",
+       "options": [
+        "It is a delusion to be disposed of.",
+        "It is prevalent even among academics.",
+        "It is a myth spread by John Donne's poem.",
+        "It is rooted in the mindset of the 17th century."
+       ],
+       "optionsZh": [
+        "这是一种应当被摒弃的错觉。",
+        "即使在学术界这种观念也很普遍。",
+        "这是一个由John Donne的诗歌传播的谬误。",
+        "这根植于17世纪的思维模式。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is a delusion to be disposed of.（这是一种应当被摒弃的错觉。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "Why does Professor Tom Oliver claim that the material \"us\" is constantly changing?",
+       "options": [
+        "He believes in Copernican philosophical doctrines about the universe.",
+        "He has gained ample scientific evidence at the University of Reading.",
+        "He has found that our inner self and material self are interconnected.",
+        "He contends most of our body cells can only live a few days or weeks."
+       ],
+       "optionsZh": [
+        "他信奉哥白尼关于宇宙的哲学学说。",
+        "他在Reading大学获得了充分的科学证据。",
+        "他发现我们的内在自我与物质自我是相互关联的。",
+        "他认为我们身体的大部分细胞只能存活几天或几周。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He contends most of our body cells can only live a few days or weeks.（他认为我们身体的大部分细胞只能存活几天或几周。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "How can we solve pressing environmental and societal problems according to Professor Tom Oliver?",
+       "options": [
+        "By coming to see how disruptive such problems have got to be.",
+        "By realising that we all can do our own bit in such endeavours.",
+        "By becoming aware that we are part of a bigger world.",
+        "By making joint efforts resolutely and persistently."
+       ],
+       "optionsZh": [
+        "通过认识到这些问题已经变得多么具有破坏性。",
+        "通过意识到我们都可以在这些努力中尽自己的一份力。",
+        "通过认识到我们是更大世界的一部分。",
+        "通过坚决而持续地共同努力。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：By becoming aware that we are part of a bigger world.（通过认识到我们是更大世界的一部分。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays, cultivating independent learning ability is becoming increasingly crucial for personal development.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. (You should copy the sentence given in quotes at the beginning of your essay.)",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "It's quite remarkable how different genres of music can spark unique feelings, emotions, and memories. Studies have shown that music can reduce stress and anxiety before surgeries and we are all attracted toward our own unique life soundtrack. If you're looking to {{1}} stress, you might want to give classical music a try. The sounds of classical music produce a calming effect letting {{2}} pleasure-inducing dopamine(多巴胺) in the brain that helps control attention, learning and emotional responses. It can also turn down the body's stress response, resulting in an overall happier mood. It turns out a pleasant mood can lead to {{3}} in a person's thinking. Although there are many great {{4}} of classical music like Bach, Beethoven and Handel, none of these artists' music seems to have the same health effects as Mozart's does. According to researchers, listening to Mozart can increase brain wave activity and improve {{5}} function. Another study found that the distinctive features of Mozart's music trigger parts of the brain that are responsible for high-level mental functions. Even maternity {{6}} use Mozart to help newborn babies adapt to life outside of the mother's belly. It has been found that listening to classical music {{7}} reduces a person's blood pressure. Researchers believe that the calming sounds of classical music may help your heart {{8}} from stress. Classical music can also be a great tool to help people who have trouble sleeping. One study found that students who had trouble sleeping slept better while they were listening to classical music. Whether classical music is something that you listen to on a regular basis or not, it wouldn't {{9}} to take time out of your day to listen to music that you find {{10}} . You will be surprised at how good it makes you feel and the potentially positive change in your health.",
+     "options": [
+      "alleviate",
+      "clarity",
+      "cognitive",
+      "composers",
+      "hurt",
+      "inhibiting",
+      "interrogation",
+      "intrinsically",
+      "loose",
+      "majestic",
+      "mandatory",
+      "recover",
+      "significantly",
+      "soothing",
+      "wards"
+     ],
+     "answers": [
+      0,
+      8,
+      1,
+      3,
+      2,
+      14,
+      12,
+      11,
+      4,
+      13
+     ],
+     "blankExplains": [
+      "【定位】If you're looking to ____ stress, you might want to give classical music a try.\n【依据】答案是 alleviate：填回后与所在句 you're、looking、stress、want、give、classical 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The sounds of classical music produce a calming effect letting ____ pleasure-inducing dopamine(多巴胺) in the brain that helps control attention, learning and emotional responses.\n【依据】答案是 loose：填回后与所在句 sounds、classical、music、produce、calming、effect 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It turns out a pleasant mood can lead to ____ in a person's thinking.\n【依据】答案是 clarity：填回后与所在句 turns、out、pleasant、mood、lead、person's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Although there are many great ____ of classical music like Bach, Beethoven and Handel, none of these artists' music seems to have the same health effects as Mozart's does.\n【依据】答案是 composers：填回后与所在句 although、there、many、great、classical、music 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】According to researchers, listening to Mozart can increase brain wave activity and improve ____ function.\n【依据】答案是 cognitive：填回后与所在句 according、researchers、listening、mozart、increase、brain 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Even maternity ____ use Mozart to help newborn babies adapt to life outside of the mother's belly.\n【依据】答案是 wards：填回后与所在句 even、maternity、use、mozart、help、newborn 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It has been found that listening to classical music ____ reduces a person's blood pressure.\n【依据】答案是 significantly：填回后与所在句 found、listening、classical、music、reduces、person's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Researchers believe that the calming sounds of classical music may help your heart ____ from stress.\n【依据】答案是 recover：填回后与所在句 researchers、believe、calming、sounds、classical、music 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Whether classical music is something that you listen to on a regular basis or not, it wouldn't ____ to take time out of your day to listen to music that you find  … .\n【依据】答案是 hurt：填回后与所在句 whether、classical、music、something、listen、regular 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Whether classical music is something that you listen to on a regular basis or not, it wouldn't  … to take time out of your day to listen to music that you find ____ .\n【依据】答案是 soothing：填回后与所在句 whether、classical、music、something、listen、regular 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "If you're looking to ____ stress, you might want to give classical music a try.",
+       "why": "答案是 alleviate：填回后与所在句 you're、looking、stress、want、give、classical 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 alleviate 这个词性/语义，而不是 clarity）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 alleviate 这个词性/语义，而不是 cognitive）。"
+       }
+      },
+      {
+       "locate": "The sounds of classical music produce a calming effect letting ____ pleasure-inducing dopamine(多巴胺) in the brain that helps control attention, learning and emotional responses.",
+       "why": "答案是 loose：填回后与所在句 sounds、classical、music、produce、calming、effect 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 loose 这个词性/语义，而不是 alleviate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 loose 这个词性/语义，而不是 clarity）。"
+       }
+      },
+      {
+       "locate": "It turns out a pleasant mood can lead to ____ in a person's thinking.",
+       "why": "答案是 clarity：填回后与所在句 turns、out、pleasant、mood、lead、person's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 clarity 这个词性/语义，而不是 cognitive）。",
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 clarity 这个词性/语义，而不是 composers）。"
+       }
+      },
+      {
+       "locate": "Although there are many great ____ of classical music like Bach, Beethoven and Handel, none of these artists' music seems to have the same health effects as Mozart's does.",
+       "why": "答案是 composers：填回后与所在句 although、there、many、great、classical、music 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 composers 这个词性/语义，而不是 cognitive）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 composers 这个词性/语义，而不是 clarity）。"
+       }
+      },
+      {
+       "locate": "According to researchers, listening to Mozart can increase brain wave activity and improve ____ function.",
+       "why": "答案是 cognitive：填回后与所在句 according、researchers、listening、mozart、increase、brain 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cognitive 这个词性/语义，而不是 composers）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cognitive 这个词性/语义，而不是 clarity）。"
+       }
+      },
+      {
+       "locate": "Even maternity ____ use Mozart to help newborn babies adapt to life outside of the mother's belly.",
+       "why": "答案是 wards：填回后与所在句 even、maternity、use、mozart、help、newborn 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 wards 这个词性/语义，而不是 alleviate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 wards 这个词性/语义，而不是 clarity）。"
+       }
+      },
+      {
+       "locate": "It has been found that listening to classical music ____ reduces a person's blood pressure.",
+       "why": "答案是 significantly：填回后与所在句 found、listening、classical、music、reduces、person's 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 significantly 这个词性/语义，而不是 soothing）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 significantly 这个词性/语义，而不是 alleviate）。"
+       }
+      },
+      {
+       "locate": "Researchers believe that the calming sounds of classical music may help your heart ____ from stress.",
+       "why": "答案是 recover：填回后与所在句 researchers、believe、calming、sounds、classical、music 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recover 这个词性/语义，而不是 alleviate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 recover 这个词性/语义，而不是 clarity）。"
+       }
+      },
+      {
+       "locate": "Whether classical music is something that you listen to on a regular basis or not, it wouldn't ____ to take time out of your day to listen to music that you find  … .",
+       "why": "答案是 hurt：填回后与所在句 whether、classical、music、something、listen、regular 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 hurt 这个词性/语义，而不是 alleviate）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 hurt 这个词性/语义，而不是 clarity）。"
+       }
+      },
+      {
+       "locate": "Whether classical music is something that you listen to on a regular basis or not, it wouldn't  … to take time out of your day to listen to music that you find ____ .",
+       "why": "答案是 soothing：填回后与所在句 whether、classical、music、something、listen、regular 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 soothing 这个词性/语义，而不是 significantly）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 soothing 这个词性/语义，而不是 alleviate）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "In the city of Athens, Georgia, there exists a rather curious local landmark—a large white oak that is almost universally stated to own itself. Because of this, it is considered one of the most famous trees in the world. So how did this tree come to own itself and the land around it?"
+      },
+      {
+       "id": "B",
+       "text": "Sometime in the 19th century a Georgian called Colonel William Jackson reportedly took a liking to the said tree and endeavored to protect it from any danger. As to why he loved it so, the earliest documented account of this story is an anonymously written front page article in the Athens Weekly Banner published on August 12, 1890. It states, \"Col. Jackson had watched the tree grow from his childhood, and grew to love it almost as he would a human. Its luxuriant leaves and sturdy limbs had often protected him from the heavy rains, and out of its highest branches he had many a time gotten the eggs of the feathered singers. He watched its growth, and when reaching a ripe old age he saw the tree standing in its magnificent proportions, he was pained to think that after his death it would fall into the hands of those who might destroy it.\""
+      },
+      {
+       "id": "C",
+       "text": "Towards this end, Jackson transferred by means of a deed ownership of the tree and a little land around it to the tree itself. The deed read, \"W. H. Jackson for and in consideration of the great affection which he bears the said tree, and his great desire to see it protected has conveyed unto the said oak tree entire possession of itself and of all land within eight feet of it on all sides.\""
+      },
+      {
+       "id": "D",
+       "text": "In time, the tree came to be something of a tourist attraction, known as The Tree That Owns Itself. However, in the early 20th century, the tree started showing signs of its slow death, with little that could be done about it. Father time comes for us all eventually, even our often long lived, tall and leafy fellow custodians(看管者) of Earth. Finally, on October 9, 1942, the over 30 meter tall and 200-400 year old tree fell, rumor has it, as a result of a severe windstorm and/or via having previously died and its roots rotted."
+      },
+      {
+       "id": "E",
+       "text": "About four years later, members of the Junior Ladies Garden Club (who'd tended to the tree before its unfortunate death) tracked down a small tree grown from a nut taken from the original tree. And so it was that on October 9, 1946, under the direction of Professor Roy Bowden of the College of Agriculture at the University of Georgia, this little tree was transplanted to the location of its ancestor. A couple of months later, an official ceremony was held featuring none other than the Mayor of Athens, Robert L McWhorter, to commemorate the occasion."
+      },
+      {
+       "id": "F",
+       "text": "This new tree became known as The Son of the Tree That Owns Itself and it was assumed that, as the original tree's heir, it naturally inherited the land it stood on. Of course, there are many dozens of other trees known to exist descending from the original, as people taking a nut from it to grow elsewhere was a certainty. That said, to date, none of the original tree's other children have petitioned the courts for their share of the land, so it seems all good. In any event, The Son of the Tree That Owns Itself still stands today, though often referred to simply as The Tree That Owns Itself."
+      },
+      {
+       "id": "G",
+       "text": "This all brings us around to whether Jackson ever actually gave legal ownership of the tree to itself in the first place and whether such a deed is legally binding."
+      },
+      {
+       "id": "H",
+       "text": "Well, to begin with, it turns out Jackson only spent about three years of his life in Athens, starting at the age of 43 from 1829 to 1832, sort of dismissing the idea that he loved the tree from spending time under it as a child and watching it grow, and then worrying about what would happen to it after he died. Further, an extensive search of land ownership records in Athens does not seem to indicate Jackson ever owned the land the tree sits on."
+      },
+      {
+       "id": "I",
+       "text": "He did live on a lot of land directly next to it for those three years, but whether he owned that land or not isn't clear. Whatever the case, in 1832 a four acre parcel, which included the land the tree was on and the neighboring land Jackson lived on, among others, was sold to University professor Malthus A Ward. In the transaction, Ward was required to pay Jackson a sum of $1,200 (about $31, 000 today), either for the property itself or simply in compensation for improvements Jackson had made on the lot. In the end, whether he ever owned the neighboring lot or was simply allowed to use it while he allegedly worked at the University, he definitely never owned the lot the tree grew on, which is the most important bit for the topic at hand."
+      },
+      {
+       "id": "J",
+       "text": "After Professor Ward purchased the land, Jackson and his family purchased a 655 acre parcel a few miles away and moved there. Ten years later, in 1844, Jackson seemed to have come into financial difficulties and had his little plantation seized by the Clarke County Sheriff's office and auctioned off to settle the mortgage. Thus, had he owned some land in Athens itself, including the land the tree sat on, presumably he would have sold it to raise funds or otherwise had it taken as well."
+      },
+      {
+       "id": "K",
+       "text": "And whatever the case there, Jackson would have known property taxes needed to be paid on the deeded land for the tree to be truly secure in its future. Yet no account or record indicates any trust or the like was set up to facilitate this."
+      },
+      {
+       "id": "L",
+       "text": "On top of all this, there is no hard evidence such a deed ever existed, despite the fact that deed records in Athens go back many decades before Jackson's death in 1876 and that it was supposed to have existed in 1890 in the archives according to the original anonymous news reporter who claims to have seen it."
+      },
+      {
+       "id": "M",
+       "text": "As you might imagine from all of this, few give credit to this side of the story. So how did all of this come about then?"
+      },
+      {
+       "id": "N",
+       "text": "It is speculated to have been invented by the imagination of the said anonymous author at the Athens Weekly Banner in the aforementioned 1890 front page article titled \"Deeded to Itself\", which by the way contained several elements that are much more easily proved to be false. As to why the author would do this, it's speculated perhaps it was a 19th century version of a click-bait thought exercise on whether it would be legal for someone to deed such a non-conscious living thing to itself or not."
+      },
+      {
+       "id": "O",
+       "text": "Whatever the case, the next known instance of the Tree That Owns Itself being mentioned wasn't until 1901 in the Centennial Edition of that same paper, the Athens Weekly Banner. This featured another account very clearly just copying the original article published about a decade before, only slightly reworded. The next account was in 1906, again in the Athens Weekly Banner, again very clearly copying the original account, only slightly reworded, the 19th century equivalent of re-posts when the audience has forgotten about the original."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Jackson was said to have transferred his ownership of the oak tree to itself in order to protect it from being destroyed."
+      },
+      {
+       "id": "s37",
+       "text": "No proof has been found from an extensive search that Jackson had ever owned the land where the oak tree grew."
+      },
+      {
+       "id": "s38",
+       "text": "When it was raining heavily, Jackson often took shelter under a big tree that is said to own itself."
+      },
+      {
+       "id": "s39",
+       "text": "There is no evidence that Jackson had made arrangements to pay property taxes for the land on which the oak tree sat."
+      },
+      {
+       "id": "s40",
+       "text": "Professor Ward paid Jackson over one thousand dollars when purchasing a piece of land from him."
+      },
+      {
+       "id": "s41",
+       "text": "It is said the tree that owned itself fell in a heavy windstorm."
+      },
+      {
+       "id": "s42",
+       "text": "The story of the oak tree is suspected to have been invented as a thought exercise."
+      },
+      {
+       "id": "s43",
+       "text": "Jackson's little plantation was auctioned off to settle his debt in the mid-19th century."
+      },
+      {
+       "id": "s44",
+       "text": "An official ceremony was held to celebrate the transplanting of a small tree to where its ancestor had stood."
+      },
+      {
+       "id": "s45",
+       "text": "The story of the Tree That Owns Itself appeared in the local paper several times, with slight alterations in wording."
+      }
+     ],
+     "answers": [
+      "C",
+      "H",
+      "B",
+      "K",
+      "I",
+      "D",
+      "N",
+      "J",
+      "E",
+      "O"
+     ],
+     "statementExplains": [
+      "【定位】Jackson for and in consideration of the great affection which he bears the said tree, and his great desire to see it protected has conveyed unto the said oak tree entire possession of itself and of all land within eight feet of it on all sides.\"\n【依据】陈述里的 jackson、said、oak、tree、itself、protect 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Further, an extensive search of land ownership records in Athens does not seem to indicate Jackson ever owned the land the tree sits on.\n【依据】陈述里的 extensive、search、jackson、ever、owned、land 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】Sometime in the 19th century a Georgian called Colonel William Jackson reportedly took a liking to the said tree and endeavored to protect it from any danger.\n【依据】陈述里的 jackson、took、tree、said 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】And whatever the case there, Jackson would have known property taxes needed to be paid on the deeded land for the tree to be truly secure in its future.\n【依据】陈述里的 there、jackson、property、taxes、land、tree 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】Whatever the case, in 1832 a four acre parcel, which included the land the tree was on and the neighboring land Jackson lived on, among others, was sold to University professor Malthus A Ward.\n【依据】陈述里的 professor、ward、jackson、land 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Finally, on October 9, 1942, the over 30 meter tall and 200-400 year old tree fell, rumor has it, as a result of a severe windstorm and/or via having previously died and its roots rotted.\n【依据】陈述里的 tree、fell、windstorm 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】As to why the author would do this, it's speculated perhaps it was a 19th century version of a click-bait thought exercise on whether it would be legal for someone to deed such a non-conscious living thing to itself or not.\n【依据】陈述里的 thought、exercise 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+      "【定位】Ten years later, in 1844, Jackson seemed to have come into financial difficulties and had his little plantation seized by the Clarke County Sheriff's office and auctioned off to settle the mortgage.\n【依据】陈述里的 jackson's、little、plantation、auctioned、off、settle 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】And so it was that on October 9, 1946, under the direction of Professor Roy Bowden of the College of Agriculture at the University of Georgia, this little tree was transplanted to the location of its ancestor.\n【依据】陈述里的 transplanting、tree、ancestor 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】Whatever the case, the next known instance of the Tree That Owns Itself being mentioned wasn't until 1901 in the Centennial Edition of that same paper, the Athens Weekly Banner.\n【依据】陈述里的 tree、owns、itself、paper 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。"
+     ],
+     "explain": "长篇阅读匹配：15 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Jackson for and in consideration of the great affection which he bears the said tree, and his great desire to see it protected has conveyed unto the said oak tree entire possession of itself and of all land within eight feet of it on all sides.\"",
+       "why": "陈述里的 jackson、said、oak、tree、itself、protect 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Further, an extensive search of land ownership records in Athens does not seem to indicate Jackson ever owned the land the tree sits on.",
+       "why": "陈述里的 extensive、search、jackson、ever、owned、land 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Sometime in the 19th century a Georgian called Colonel William Jackson reportedly took a liking to the said tree and endeavored to protect it from any danger.",
+       "why": "陈述里的 jackson、took、tree、said 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And whatever the case there, Jackson would have known property taxes needed to be paid on the deeded land for the tree to be truly secure in its future.",
+       "why": "陈述里的 there、jackson、property、taxes、land、tree 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Whatever the case, in 1832 a four acre parcel, which included the land the tree was on and the neighboring land Jackson lived on, among others, was sold to University professor Malthus A Ward.",
+       "why": "陈述里的 professor、ward、jackson、land 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Finally, on October 9, 1942, the over 30 meter tall and 200-400 year old tree fell, rumor has it, as a result of a severe windstorm and/or via having previously died and its roots rotted.",
+       "why": "陈述里的 tree、fell、windstorm 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As to why the author would do this, it's speculated perhaps it was a 19th century version of a click-bait thought exercise on whether it would be legal for someone to deed such a non-conscious living thing to itself or not.",
+       "why": "陈述里的 thought、exercise 在 N 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 N 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Ten years later, in 1844, Jackson seemed to have come into financial difficulties and had his little plantation seized by the Clarke County Sheriff's office and auctioned off to settle the mortgage.",
+       "why": "陈述里的 jackson's、little、plantation、auctioned、off、settle 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And so it was that on October 9, 1946, under the direction of Professor Roy Bowden of the College of Agriculture at the University of Georgia, this little tree was transplanted to the location of its ancestor.",
+       "why": "陈述里的 transplanting、tree、ancestor 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Whatever the case, the next known instance of the Tree That Owns Itself being mentioned wasn't until 1901 in the Centennial Edition of that same paper, the Athens Weekly Banner.",
+       "why": "陈述里的 tree、owns、itself、paper 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "It is irrefutable that employees know the difference between right and wrong. So why don't more employees intervene when they see someone exhibiting at-risk behavior in the workplace? There are a number of factors that influence whether people intervene. First, they need to be able to see a risky situation beginning to unfold. Second, the company's culture needs to make them feel safe to speak up. And third, they need to have the communication skills to say something effectively. This is not strictly a workplace problem; it's a growing problem off the job too. Every day people witness things on the street and choose to stand idly by. This is known as the bystander effect—the more people who witness an event, the less likely anyone in that group is to help the victim. The psychology behind this is called diffusion of responsibility. Basically, the larger the crowd, the more people assume that someone else will take care of it—meaning no one effectively intervenes or acts in a moment of need. This crowd mentality is strong enough for people to evade their known responsibilities. But it's not only frontline workers who don't make safety interventions in the workplace. There are also instances where supervisors do not intervene either. When a group of employees sees unsafe behavior not being addressed at a leadership level it creates the precedent that this is how these situations should be addressed, thus defining the safety culture for everyone. Despite the fact that workers are encouraged to intervene when they observe unsafe operations, this happens less than half of the time. Fear is the ultimate factor in not intervening. There is a fear of penalty, a fear that they'll have to do more work if they intervene. Unsuccessful attempts in the past are another strong contributing factor to why people don't intervene—they tend to prefer to defer that action to someone else for all future situations. On many worksites, competent workers must be appointed. Part of their job is to intervene when workers perform a task without the proper equipment or if the conditions are unsafe. Competent workers are also required to stop work from continuing when there's a danger. Supervisors also play a critical role. Even if a competent person isn't required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them. Beyond competent workers and supervisors, it's important to educate everyone within the organization that they are obliged to intervene if they witness a possible unsafe act, whether you're a designated competent person, a supervisor or a frontline worker.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What is one of the factors contributing to failure of intervention in face of risky behavior in the workplace?",
+       "options": [
+        "Slack supervision style.",
+        "Unfavorable workplace culture.",
+        "Unforeseeable risk.",
+        "Blocked communication."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】So why don't more employees intervene when they see someone exhibiting at-risk behavior in the workplace?\n【依据】正确项的核心词 workplace 与定位句对得上；其余 unfavorable、culture 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "So why don't more employees intervene when they see someone exhibiting at-risk behavior in the workplace?",
+        "why": "正确项的核心词 workplace 与定位句对得上；其余 unfavorable、culture 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「slack、supervision、style」全文未出现。",
+         "C": "无中生有：「unforeseeable、risk」全文未出现。",
+         "D": "因果倒置：「blocked」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the author mean by \"diffusion of responsibility\" (Para. 3)?",
+       "options": [
+        "The more people are around, the more they need to worry about their personal safety.",
+        "The more people who witness an event, the less likely anyone will venture to",
+        "The more people idling around on the street, the more likely they need taking care of.",
+        "The more people are around, the less chance someone will step forward to intervene."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The psychology behind this is called diffusion of responsibility.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 people、around、less、chance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The psychology behind this is called diffusion of responsibility.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 people、around、less、chance 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「around、worry、about」全文未出现。",
+         "B": "因果倒置：「venture」全文未出现。",
+         "C": "因果倒置：「idling、around、taking」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What happens when unsafe behavior at the workplace is not addressed by the leaders?",
+       "options": [
+        "No one will intervene when they see similar behaviors.",
+        "Everyone will see it as the easiest way to deal with crisis.",
+        "Workers have to take extra caution executing their duties.",
+        "Workers are left to take care of the emergency themselves."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】When a group of employees sees unsafe behavior not being addressed at a leadership level it creates the precedent that this is how these situations should be addressed, thus defining the safety culture for everyone.\n【依据】正确项的核心词 when、behaviors 与定位句对得上；其余 intervene、see、similar 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "When a group of employees sees unsafe behavior not being addressed at a leadership level it creates the precedent that this is how these situations should be addressed, thus defining the safety culture for everyone.",
+        "why": "正确项的核心词 when、behaviors 与定位句对得上；其余 intervene、see、similar 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「easiest、way、deal」全文未出现；把原文的「everyone」换成了「see、easiest、way」，主语或对象被调包。",
+         "C": "无中生有：「extra、caution、executing」全文未出现。",
+         "D": "因果倒置：「left、emergency、themselves」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What is the ultimate reason workers won't act when they see unsafe operations?",
+       "options": [
+        "Preference of deferring the action to others.",
+        "Anticipation of leadership intervention.",
+        "Fear of being isolated by coworkers.",
+        "Fear of having to do more work."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Despite the fact that workers are encouraged to intervene when they observe unsafe operations, this happens less than half of the time.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 fear、having、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Despite the fact that workers are encouraged to intervene when they observe unsafe operations, this happens less than half of the time.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 fear、having、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「preference、deferring、others」全文未出现。",
+         "B": "偷换主体：「anticipation」全文未出现；把原文的「intervention」换成了「anticipation、leadership」，主语或对象被调包。",
+         "C": "无中生有：「isolated、coworkers」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What is critical to ensuring workplace safety?",
+       "options": [
+        "Workers be trained to operate their equipment properly.",
+        "Workers exhibiting at-risk behavior be strictly disciplined.",
+        "Supervisors create a safety environment for timely intervention.",
+        "Supervisors conduct effective communication with frontline workers."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Even if a competent person isn't required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them.\n【依据】正确项的核心词 supervisors、safety、intervention 与定位句对得上；其余 create、environment、timely 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Even if a competent person isn't required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them.",
+        "why": "正确项的核心词 supervisors、safety、intervention 与定位句对得上；其余 create、environment、timely 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「trained、operate、properly」全文未出现。",
+         "B": "因果倒置：「disciplined」全文未出现。",
+         "D": "偷换主体：「conduct、effective」全文未出现；把原文的「supervisors、communication」换成了「conduct、effective、frontline」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 449 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "The term \"environmentalist\" can mean different things. It used to refer to people trying to protect wildlife and natural ecosystems. In the 21st century, the term has evolved to capture the need to combat human-made climate change. The distinction between these two strands of environmentalism is the cause of a split within the scientific community about nuclear energy. On one side are purists who believe nuclear power isn't worth the risk and the exclusive solution to the climate crisis is renewable energy. The opposing side agrees that renewables are crucial, but says society needs an amount of power available to meet consumers' basic demands when the sun isn't shining and the wind isn't blowing. Nuclear energy, being far cleaner than oil, gas and coal, is a natural option, especially where hydroelectric capacity is limited. Leon Clarke, who helped author reports for the UN's Intergovernmental Panel on Climate Change, isn't an uncritical supporter of nuclear energy, but says it's a valuable option to have if we're serious about reaching carbon neutrality. \"Core to all of this is the degree to which you think we can actually meet climate goals with 100% renewables,\" he said. \"If you don't believe we can do it, and you care about the climate, you are forced to think about something like nuclear.\" The achievability of universal 100% renewability is similarly contentious. Cities such as Burlington, Vermont, have been \"100% renewable\" for years. But these cities often have small populations, occasionally still rely on fossil fuel energy and have significant renewable resources at their immediate disposal. Meanwhile, countries that manage to run off renewables typically do so thanks to extraordinary hydroelectric capabilities. Germany stands as the best case study for a large, industrialized country pushing into green energy. Chancellor Angela Merkel in 2011 announced Energiewende, an energy transition that would phase out nuclear and coal while phasing in renewables. Wind and solar power generation has increased over 400% since 2010, and renewables provided 46% of the country's electricity in 2019. But progress has halted in recent years. The instability of renewables doesn't just mean energy is often not produced at night, but also that solar and wind can overwhelm the grid during the day, forcing utilities to pay customers to use their electricity. Lagging grid infrastructure struggles to transport this overabundance of green energy from Germany's north to its industrial south, meaning many factories still run on coal and gas. The political limit has also been reached in some places, with citizens meeting the construction of new wind turbines with loud protests. The result is that Germany's greenhouse gas emissions have fallen by around 11.5% since 2010—slower than the EU average of 13.5%.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What accounts for the divide within the scientific community about nuclear energy?",
+       "options": [
+        "Attention to combating human-made climate change.",
+        "Emphasis on protecting wildlife and natural ecosystems.",
+        "Evolution of the term \"green energy\" over the last century.",
+        "Adherence to different interpretations of environmentalism."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The distinction between these two strands of environmentalism is the cause of a split within the scientific community about nuclear energy.\n【依据】正确项的核心词 environmentalism 与定位句对得上；其余 adherence、different、interpretations 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The distinction between these two strands of environmentalism is the cause of a split within the scientific community about nuclear energy.",
+        "why": "正确项的核心词 environmentalism 与定位句对得上；其余 adherence、different、interpretations 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「attention、combating」全文未出现。",
+         "B": "因果倒置：「emphasis、protecting」全文未出现。",
+         "C": "偷换主体：「evolution、last」全文未出现；把原文的「energy」换成了「evolution、term、green」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What is the solution to energy shortage proposed by purists' opponents?",
+       "options": [
+        "Relying on renewables firmly and exclusively.",
+        "Using fossil fuel and green energy alternately.",
+        "Opting for nuclear energy when necessary.",
+        "Limiting people's non-basic consumption."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】On one side are purists who believe nuclear power isn't worth the risk and the exclusive solution to the climate crisis is renewable energy.\n【依据】正确项的核心词 nuclear、energy 与定位句对得上；其余 opting、when、necessary 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "On one side are purists who believe nuclear power isn't worth the risk and the exclusive solution to the climate crisis is renewable energy.",
+        "why": "正确项的核心词 nuclear、energy 与定位句对得上；其余 opting、when、necessary 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「relying、firmly」全文未出现；把原文的「renewables、exclusively」换成了「relying、firmly」，主语或对象被调包。",
+         "B": "偷换主体：「using、alternately」全文未出现；把原文的「energy」换成了「using、fossil、fuel」，主语或对象被调包。",
+         "D": "无中生有：「limiting、people's、non-basic」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What point does the author want to make with cities like Burlington as an example?",
+       "options": [
+        "It is controversial whether the goal of the whole world's exclusive dependence on renewables is attainable.",
+        "It is contentious whether cities with large populations have renewable resources at their immediate disposal.",
+        "It is arguable whether cities that manage to run off renewables have sustainable hydroelectric capabilities.",
+        "It is debatable whether traditional fossil fuel energy can be done away with entirely throughout the world."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Cities such as Burlington, Vermont, have been \"100% renewable\" for years.\n【依据】正确项的核心词 renewables 与定位句对得上；其余 controversial、whether、goal、whole 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Cities such as Burlington, Vermont, have been \"100% renewable\" for years.",
+        "why": "正确项的核心词 renewables 与定位句对得上；其余 controversial、whether、goal、whole 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「whether」全文未出现；把原文的「cities、renewable」换成了「contentious、whether、large」，主语或对象被调包。",
+         "C": "偷换主体：「arguable、whether、sustainable」全文未出现；把原文的「cities、renewables」换成了「arguable、whether、manage」，主语或对象被调包。",
+         "D": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「debatable、whether、traditional」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What do we learn about Germany regarding renewable energy?",
+       "options": [
+        "It has increased its wind and solar power generation four times over the last two decades.",
+        "It represents a good example of a major industrialized country promoting green energy.",
+        "It relies on renewable energy to generate more than half of its electricity.",
+        "It has succeeded in reaching the goal of energy transition set by Merkel."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Germany stands as the best case study for a large, industrialized country pushing into green energy.\n【依据】正确项的核心词 industrialized、country、green、energy 与定位句对得上；其余 represents、good、example、major 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Germany stands as the best case study for a large, industrialized country pushing into green energy.",
+        "why": "正确项的核心词 industrialized、country、green、energy 与定位句对得上；其余 represents、good、example、major 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「four、times、last」全文未出现。",
+         "C": "无中生有：「relies、generate、half」全文未出现；把原文的「energy」换成了「relies、renewable、generate」，主语或对象被调包。",
+         "D": "偷换主体：「succeeded、goal、set」全文未出现；把原文的「energy」换成了「succeeded、reaching、goal」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What may be one of the reasons for Germany's progress having halted in recent years?",
+       "options": [
+        "Its grid infrastructure's capacity has fallen behind its development of green energy.",
+        "Its overabundance of green energy has forced power plants to suspend operation during daytime.",
+        "Its industrial south is used to running factories on conventional energy supplies.",
+        "Its renewable energy supplies are unstable both at night and during the day."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】But progress has halted in recent years.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 grid、infrastructure's、capacity、fallen 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But progress has halted in recent years.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 grid、infrastructure's、capacity、fallen 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「plants、suspend、operation」全文未出现。",
+         "C": "因果倒置：「running、conventional、supplies」全文未出现。",
+         "D": "因果倒置：「supplies、unstable、both」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 436 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "中国的传统婚礼习俗历史悠久，从周朝开始就逐渐形成了一套完整的婚礼仪式，有些一直沿用至今。如今的中式婚礼习俗已有很大变化，但婚礼庆典仍然十分隆重。婚礼场地经过精心装饰，以象征喜庆的红色为主色调，摆放着许多祝愿新人幸福的物件。在婚礼上，新人要拜天地、拜父母和相互对拜，然后设宴招待宾客，并向宾客敬酒致谢。今天，许多年轻人依然钟情于传统的中式婚礼，体验独特而美好的中国式浪漫。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

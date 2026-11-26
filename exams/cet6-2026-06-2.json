@@ -1,0 +1,1176 @@
+{
+ "id": "cet6-2026-06-2",
+ "levelId": "cet6",
+ "title": "六级 2026 年 06 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2026年6月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2026-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2026-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W: 嗨，弗兰克，你又在午餐时间工作吗？"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 不，完全不是。我和简下周要过结婚十周年纪念日了"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 听起来真浪漫。我非常喜欢巴塞罗那"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 我知道。但纪念日就要到了"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 这样吧，如果你们要去整整一周"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 这或许是个不错的计划"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 听起来太完美了"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 考虑到简恐高，我要是想让她去爬那个"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 确实如此。另外"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 很好，很好。我一直在为患有慢性疾病的患者制定一个新的药物治疗管理项目"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 听起来很有意思"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What is the man planning to do?",
+       "options": [
+        "Celebrate his 10th wedding anniversary.",
+        "Celebrate his promotion in Barcelona.",
+        "Give his wife a pleasant surprise.",
+        "Ask for leave to visit Barcelona."
+       ],
+       "optionsZh": [
+        "庆祝他的结婚十周年纪念日。",
+        "在巴塞罗那庆祝他的升职。",
+        "给他的妻子一个惊喜。",
+        "请假去巴塞罗那。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Celebrate his 10th wedding anniversary.（庆祝他的结婚十周年纪念日。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "Why is the man starting to feel a bit frantic?",
+       "options": [
+        "He is unable to find some inexpensive accommodation.",
+        "There are few warm places to go at this time of the year.",
+        "There is so much for him to do before going on vacation.",
+        "He is afraid Barcelona may not be so fabulous as expected."
+       ],
+       "optionsZh": [
+        "他找不到价格便宜的住宿。",
+        "每年的这个时候，适合去的温暖地方很少。",
+        "在度假之前，他有太多事情要做。",
+        "他担心巴塞罗那可能没有预期的那么棒。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He is unable to find some inexpensive accommodation.（他找不到价格便宜的住宿。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the woman suggest the man do?",
+       "options": [
+        "Rent a car to drive into the city and scenic spots so as to save the expenses on transportation.",
+        "Spend a couple of nights in a glamorous hotel and the rest of the week in inexpensive places.",
+        "Find all-inclusive accommodation to eliminate the need to pay for food and drinks.",
+        "Stay in a hotel away from the coast where the accommodation is less expensive."
+       ],
+       "optionsZh": [
+        "租一辆车开进市区并前往景点，以节省交通费用。",
+        "在豪华酒店住几个晚上，其余时间住在价格便宜的地方。",
+        "寻找包含所有费用的住宿，这样就不必另外支付食物和饮料的费用。",
+        "住在远离海岸的酒店，那里的住宿费用较低。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Spend a couple of nights in a glamorous hotel and the rest of the week in inexpensive places.（在豪华酒店住几个晚上，其余时间住在价格便宜的地方。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the man say about his wife Jane?",
+       "options": [
+        "She is sure to like the cathedral.",
+        "She is a romantic at heart.",
+        "She is no good at logistics.",
+        "She is scared of heights."
+       ],
+       "optionsZh": [
+        "她肯定会喜欢那座大教堂。",
+        "她内心是个浪漫的人。",
+        "她不擅长安排事务。",
+        "她恐高。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She is scared of heights.（她恐高。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn about the speakers?",
+       "options": [
+        "They often share each other's experiences.",
+        "They enjoy interacting with patients.",
+        "They always do things tricky.",
+        "They are both pharmacists."
+       ],
+       "optionsZh": [
+        "他们经常分享彼此的经历。",
+        "他们喜欢与患者互动。",
+        "他们总是把事情做得很棘手。",
+        "他们都是药剂师。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are both pharmacists.（他们都是药剂师。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the woman say about an interesting case she had?",
+       "options": [
+        "The doctor ended up admitting his mistake.",
+        "The patient consulted another doctor.",
+        "The patient actually took her advice.",
+        "The doctor double-checked with her."
+       ],
+       "optionsZh": [
+        "医生最终承认了自己的错误。",
+        "患者向另一位医生进行了咨询。",
+        "患者实际上采纳了她的建议。",
+        "医生向她进行了再次确认。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The patient actually took her advice.（患者实际上采纳了她的建议。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What does the man say he has been working on?",
+       "options": [
+        "A proposal for applying flu shots more effectively.",
+        "A new medication therapy management program.",
+        "A novel strategy to persuade stubborn patients.",
+        "A therapy for patients with similar conditions."
+       ],
+       "optionsZh": [
+        "一份关于如何更有效地接种流感疫苗的提案。",
+        "一个新的药物治疗管理项目。",
+        "一种说服固执患者的新策略。",
+        "一种针对病情相似患者的治疗方案。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：A new medication therapy management program.（一个新的药物治疗管理项目。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What is a big problem, especially for older patients according to the woman?",
+       "options": [
+        "Inability to send text messages.",
+        "Distrust in pharmaceutical experts.",
+        "Medication non-adherence.",
+        "Need for constant reminding."
+       ],
+       "optionsZh": [
+        "无法发送短信。",
+        "不信任药学专家。",
+        "不按医嘱服药。",
+        "需要不断提醒。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Medication non-adherence.（不按医嘱服药。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What are passionate people considered likely to do in America?",
+       "options": [
+        "Accomplish their goals.",
+        "View things positively.",
+        "Overstate their importance.",
+        "Dominate job interviews."
+       ],
+       "optionsZh": [
+        "实现自己的目标。",
+        "积极地看待事物。",
+        "夸大自身的重要性。",
+        "在求职面试中占据主导地位。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Accomplish their goals.（实现自己的目标。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What does a new study from Stanford show about the importance of passion in predicting achievement?",
+       "options": [
+        "It reflects a strong sense of obligation to others.",
+        "It signifies a universal model of motivation.",
+        "It may differ in various cultures.",
+        "It may have been underestimated."
+       ],
+       "optionsZh": [
+        "这反映出对他人有强烈的责任感。",
+        "这意味着一种普遍适用的动机模式。",
+        "它可能因文化不同而有所差异。",
+        "它的重要性可能一直被低估。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It may differ in various cultures.（它可能因文化不同而有所差异。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What did the researchers find about the effect of passion on academic achievement for those in more collectivistic societies?",
+       "options": [
+        "It was under-investigated.",
+        "It was more predictable.",
+        "It was taken for granted.",
+        "It was more subtle."
+       ],
+       "optionsZh": [
+        "对这方面的研究并不充分。",
+        "这种影响更容易预测。",
+        "这种影响被视为理所当然。",
+        "这种影响更加微妙。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It was more subtle.（这种影响更加微妙。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the passage say is a pattern in nature?",
+       "options": [
+        "It is any incidental happening in plants and animals or ice crystals.",
+        "It is any basic physical or chemical work in designing substances.",
+        "It is any symmetrical and colorful stripes or spots on organisms.",
+        "It is any regularly repeated arrangement of shapes or colors."
+       ],
+       "optionsZh": [
+        "它是植物、动物或冰晶中任何偶然发生的现象。",
+        "它是设计物质时进行的任何基本物理或化学过程。",
+        "它是生物体上任何对称且色彩斑斓的条纹或斑点。",
+        "它是形状或色彩有规律地重复排列形成的图案。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is any regularly repeated arrangement of shapes or colors.（它是形状或色彩有规律地重复排列形成的图案。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What gives rise to complex patterns at a larger scale?",
+       "options": [
+        "Materials undergoing certain processes.",
+        "Materials exposed to various natural forces.",
+        "Materials impacted by any change of molecules.",
+        "Materials going through extremely radical transformations."
+       ],
+       "optionsZh": [
+        "经历某些过程的材料。",
+        "受到各种自然力量作用的材料。",
+        "受到分子任何变化影响的材料。",
+        "经历极其剧烈转变的材料。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Materials undergoing certain processes.（经历某些过程的材料。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the example of frozen crystals on a window show?",
+       "options": [
+        "The beauty of molecular clustering.",
+        "The way for appreciating patterns.",
+        "The creation of patterns.",
+        "The factors affecting clusters."
+       ],
+       "optionsZh": [
+        "分子聚集之美。",
+        "欣赏图案的方法。",
+        "图案的形成。",
+        "影响聚集的因素。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The creation of patterns.（图案的形成。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What might molecular processes produce, according to the passage?",
+       "options": [
+        "A pattern by accident.",
+        "Patterns for specific purposes.",
+        "Patterns with random imperfections.",
+        "A pattern with artificial intervention."
+       ],
+       "optionsZh": [
+        "偶然形成的图案。",
+        "为特定目的形成的图案。",
+        "带有随机瑕疵的图案。",
+        "经过人为干预形成的图案。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：A pattern by accident.（偶然形成的图案。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say is really difficult?",
+       "options": [
+        "Eliminating all the old habits at once.",
+        "Making a permanent lifestyle change.",
+        "Realizing all the life goals one has set.",
+        "Improving multiple areas of one's life."
+       ],
+       "optionsZh": [
+        "一下子改掉所有旧习惯。",
+        "永久改变生活方式。",
+        "实现自己设定的所有人生目标。",
+        "改善生活的多个方面。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Making a permanent lifestyle change.（永久改变生活方式。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What did researchers find about people with implementation intentions?",
+       "options": [
+        "They were more likely to implement a particular behavior.",
+        "They were more likely to make plans for their future.",
+        "They tended to be committed to a single goal.",
+        "They tended to focus on one thing at a time."
+       ],
+       "optionsZh": [
+        "他们更有可能实施某种特定行为。",
+        "他们更有可能为自己的未来制订计划。",
+        "他们往往致力于实现单一目标。",
+        "他们往往一次专注于一件事。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They were more likely to implement a particular behavior.（他们更有可能实施某种特定行为。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "According to the speaker, what is required of you when you begin practising a new habit?",
+       "options": [
+        "The ability to make the process automatic.",
+        "A practical timetable for implementation.",
+        "A lot of conscious effort to remember to do it.",
+        "Concentration on the benefits it will provide."
+       ],
+       "optionsZh": [
+        "使这一过程自动化的能力。",
+        "一份切实可行的实施时间表。",
+        "需要付出大量有意识的努力来提醒自己去做这件事。",
+        "专注于它将带来的好处。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：A lot of conscious effort to remember to do it.（需要付出大量有意识的努力来提醒自己去做这件事。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What was one of the more bizarre findings about Pluto's atmosphere?",
+       "options": [
+        "It resembles that of Earth in many inconceivable ways.",
+        "It has a haze much thicker than previously believed.",
+        "It is 333.4°F cooler than earlier estimates.",
+        "It is far beyond any quick measurements."
+       ],
+       "optionsZh": [
+        "它以许多难以想象的方式与地球大气层相似。",
+        "它的大气霾层比先前认为的厚得多。",
+        "它比早先估计的温度低333.4华氏度。",
+        "它远远超出了任何快速测量的范围。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It has a haze much thicker than previously believed.（它的大气霾层比先前认为的厚得多。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What is said to determine the overall temperature on Earth?",
+       "options": [
+        "The accumulation of solid particles in the air.",
+        "The distribution of gases in its atmosphere.",
+        "The clouds of particles reflecting sun rays.",
+        "The aggravated effects of climate change."
+       ],
+       "optionsZh": [
+        "空气中固体颗粒的积聚。",
+        "其大气层中气体的分布。",
+        "反射太阳光线的颗粒云。",
+        "气候变化加剧的影响。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：The distribution of gases in its atmosphere.（其大气层中气体的分布。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does the speaker say the researchers have to wait and see?",
+       "options": [
+        "If spectrums of light can be better detected by telescope.",
+        "If Pluto's hazy atmosphere can be more easily observed.",
+        "If Pluto's hazy atmosphere scatters strong sunlight.",
+        "If the light from the telescope confirms their idea."
+       ],
+       "optionsZh": [
+        "望远镜能否更好地探测到光谱。",
+        "能否更容易地观测到冥王星的霾状大气层。",
+        "冥王星的霾状大气层是否会散射强烈的阳光。",
+        "望远镜接收到的光是否证实他们的想法。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：If the light from the telescope confirms their idea.（望远镜接收到的光是否证实他们的想法。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do we learn from researchers' conclusion at the beginning of the talk?",
+       "options": [
+        "Parents can play a decisive role in cultivating their children's musical talent.",
+        "Children are embarrassed by parents' failure to appreciate their music.",
+        "Parents can mould their 8- to 10-year-old children's music taste.",
+        "Children aged 8 to 10 are old enough to produce poetic lyrics."
+       ],
+       "optionsZh": [
+        "父母可以在培养孩子的音乐天赋方面发挥决定性作用。",
+        "孩子们因父母不欣赏自己的音乐而感到难堪。",
+        "父母可以塑造8至10岁孩子的音乐品味。",
+        "8至10岁的孩子已经足够大，能够创作富有诗意的歌词。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Parents can mould their 8- to 10-year-old children's music taste.（父母可以塑造8至10岁孩子的音乐品味。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What does Dr. Hauke Egermann say about adolescents?",
+       "options": [
+        "They start to show their own musical preference.",
+        "They tend to be more influenced by their peers.",
+        "They tend to gravitate away from their homes.",
+        "They are more open to new genres of music."
+       ],
+       "optionsZh": [
+        "他们开始表现出自己的音乐偏好。",
+        "他们往往更容易受到同龄人的影响。",
+        "他们往往会逐渐离开家。",
+        "他们更愿意接受新的音乐流派。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They tend to be more influenced by their peers.（他们往往更容易受到同龄人的影响。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What is the key to fostering good taste in later life, according to Dr. Hauke Egermann?",
+       "options": [
+        "Enabling children to be receptive to music experts' suggestions.",
+        "Helping children develop the ability to manage their emotions.",
+        "Familiarising children with different schools of music.",
+        "Introducing children to a variety of musical styles."
+       ],
+       "optionsZh": [
+        "让孩子能够接受音乐专家的建议。",
+        "帮助孩子培养管理情绪的能力。",
+        "让孩子熟悉不同的音乐流派。",
+        "让孩子接触各种音乐风格。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Introducing children to a variety of musical styles.（让孩子接触各种音乐风格。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "How can parents help children create positive memories about artists and bands?",
+       "options": [
+        "By enhancing children's appreciation of their music.",
+        "By pushing their music hard enough upon children.",
+        "By attending their concerts and live music events with children.",
+        "By introducing their music to children as early as possible."
+       ],
+       "optionsZh": [
+        "通过提高孩子对其音乐的鉴赏力。",
+        "通过强行让孩子接受他们的音乐。",
+        "通过和孩子一起参加他们的音乐会和现场音乐活动。",
+        "通过尽早向孩子介绍他们的音乐。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：By attending their concerts and live music events with children.（通过和孩子一起参加他们的音乐会和现场音乐活动。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"In an era of rapid social development, it is vitally important to enhance young people's sense of responsibility.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Most financial crises have plenty in common: they tend to start in the banking sector and involve excessive borrowing, together with an asset bubble. The {{1}} crisis of 2008 was no different, with the asset bubble focused on US real estate. But my research suggests this crisis had another {{2}} cause—that some people in the banking sector were playing or \"gaming\" the system for their own financial gain. The game being played had several important features. The first was the deliberate complexity of the financial products at its core. Then there are the {{3}} biases that permeate decision-making at all levels of the banking industry. Banking often attracts people with certain personality {{4}} , including those who are overconfident and take excessive risks. Such people tend to like complexity for its own sake, but they often do not fully understand the {{5}} of that complexity for the stability of the financial system as a whole. Often they do not care—they are primarily interested in gaming the system to {{6}} their bonuses. The next element is risk. There are parts of the banking sector that will always be {{7}} to risk, but many bankers have come to feel immune to its potential impact, because they {{8}} that, however recklessly banks behave, governments will always be there to bail them out. Gaming in the banking sector seems virtually impossible to {{9}} . The only effective measure to end it would be to make bankers {{10}} liable for losses, but no government has ever passed such a law, and no single government could do so on its own, since this would immediately cause their entire national banking sector to move wholesale to another jurisdiction.",
+     "options": [
+      "behavioural",
+      "eliminate",
+      "fragile",
+      "global",
+      "implications",
+      "maximise",
+      "overlapping",
+      "personally",
+      "presume",
+      "prone",
+      "prototypes",
+      "reassure",
+      "skeptically",
+      "traits",
+      "underlying"
+     ],
+     "answers": [
+      3,
+      14,
+      0,
+      13,
+      4,
+      5,
+      9,
+      8,
+      1,
+      7
+     ],
+     "blankExplains": [
+      "【定位】The ____ crisis of 2008 was no different, with the asset bubble focused on US real estate.\n【依据】答案是 global：填回后与所在句 crisis、different、asset、bubble、focused、real 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But my research suggests this crisis had another ____ cause—that some people in the banking sector were playing or \"gaming\" the system for their own financial gain.\n【依据】答案是 underlying：填回后与所在句 research、suggests、crisis、another、cause、people 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Then there are the ____ biases that permeate decision-making at all levels of the banking industry.\n【依据】答案是 behavioural：填回后与所在句 there、biases、permeate、decision-making、levels、banking 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Banking often attracts people with certain personality ____ , including those who are overconfident and take excessive risks.\n【依据】答案是 traits：填回后与所在句 banking、often、attracts、people、certain、personality 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Such people tend to like complexity for its own sake, but they often do not fully understand the ____ of that complexity for the stability of the financial system as a whole.\n【依据】答案是 implications：填回后与所在句 people、tend、like、complexity、own、sake 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Often they do not care—they are primarily interested in gaming the system to ____ their bonuses.\n【依据】答案是 maximise：填回后与所在句 often、care、primarily、interested、gaming、system 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】There are parts of the banking sector that will always be ____ to risk, but many bankers have come to feel immune to its potential impact, because they  … that, however recklessly banks behave, governments will always be there to bail them out.\n【依据】答案是 prone：填回后与所在句 there、parts、banking、sector、always、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】There are parts of the banking sector that will always be  … to risk, but many bankers have come to feel immune to its potential impact, because they ____ that, however recklessly banks behave, governments will always be there to bail them out.\n【依据】答案是 presume：填回后与所在句 there、parts、banking、sector、always、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Gaming in the banking sector seems virtually impossible to ____ .\n【依据】答案是 eliminate：填回后与所在句 gaming、banking、sector、seems、virtually、impossible 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The only effective measure to end it would be to make bankers ____ liable for losses, but no government has ever passed such a law, and no single government could do so on its own, since this would immediately cause their entire national banking sector to move wholesale to another jurisdiction.\n【依据】答案是 personally：填回后与所在句 only、effective、measure、end、make、bankers 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "The ____ crisis of 2008 was no different, with the asset bubble focused on US real estate.",
+       "why": "答案是 global：填回后与所在句 crisis、different、asset、bubble、focused、real 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 global 这个词性/语义，而不是 behavioural）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 global 这个词性/语义，而不是 eliminate）。"
+       }
+      },
+      {
+       "locate": "But my research suggests this crisis had another ____ cause—that some people in the banking sector were playing or \"gaming\" the system for their own financial gain.",
+       "why": "答案是 underlying：填回后与所在句 research、suggests、crisis、another、cause、people 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 underlying 这个词性/语义，而不是 behavioural）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 underlying 这个词性/语义，而不是 eliminate）。"
+       }
+      },
+      {
+       "locate": "Then there are the ____ biases that permeate decision-making at all levels of the banking industry.",
+       "why": "答案是 behavioural：填回后与所在句 there、biases、permeate、decision-making、levels、banking 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 behavioural 这个词性/语义，而不是 eliminate）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 behavioural 这个词性/语义，而不是 fragile）。"
+       }
+      },
+      {
+       "locate": "Banking often attracts people with certain personality ____ , including those who are overconfident and take excessive risks.",
+       "why": "答案是 traits：填回后与所在句 banking、often、attracts、people、certain、personality 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 traits 这个词性/语义，而不是 behavioural）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 traits 这个词性/语义，而不是 eliminate）。"
+       }
+      },
+      {
+       "locate": "Such people tend to like complexity for its own sake, but they often do not fully understand the ____ of that complexity for the stability of the financial system as a whole.",
+       "why": "答案是 implications：填回后与所在句 people、tend、like、complexity、own、sake 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 implications 这个词性/语义，而不是 behavioural）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 implications 这个词性/语义，而不是 eliminate）。"
+       }
+      },
+      {
+       "locate": "Often they do not care—they are primarily interested in gaming the system to ____ their bonuses.",
+       "why": "答案是 maximise：填回后与所在句 often、care、primarily、interested、gaming、system 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 maximise 这个词性/语义，而不是 behavioural）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 maximise 这个词性/语义，而不是 eliminate）。"
+       }
+      },
+      {
+       "locate": "There are parts of the banking sector that will always be ____ to risk, but many bankers have come to feel immune to its potential impact, because they  … that, however recklessly banks behave, governments will always be there to bail them out.",
+       "why": "答案是 prone：填回后与所在句 there、parts、banking、sector、always、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "与 prone 拼写相近（共同开头 pro），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 prone 这个词性/语义，而不是 presume）。"
+       }
+      },
+      {
+       "locate": "There are parts of the banking sector that will always be  … to risk, but many bankers have come to feel immune to its potential impact, because they ____ that, however recklessly banks behave, governments will always be there to bail them out.",
+       "why": "答案是 presume：填回后与所在句 there、parts、banking、sector、always、risk 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 presume 这个词性/语义，而不是 prone）。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 presume 这个词性/语义，而不是 prototypes）。"
+       }
+      },
+      {
+       "locate": "Gaming in the banking sector seems virtually impossible to ____ .",
+       "why": "答案是 eliminate：填回后与所在句 gaming、banking、sector、seems、virtually、impossible 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 eliminate 这个词性/语义，而不是 behavioural）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 eliminate 这个词性/语义，而不是 fragile）。"
+       }
+      },
+      {
+       "locate": "The only effective measure to end it would be to make bankers ____ liable for losses, but no government has ever passed such a law, and no single government could do so on its own, since this would immediately cause their entire national banking sector to move wholesale to another jurisdiction.",
+       "why": "答案是 personally：填回后与所在句 only、effective、measure、end、make、bankers 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 personally 这个词性/语义，而不是 presume）。",
+        "J": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 personally 这个词性/语义，而不是 prone）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Five hundred years ago, forests covered much of the Iberian peninsula. But that soon changed. Centuries of wars and invasions, agricultural expansion and woodcutting for firewood and shipping wiped out most of the woods and transformed places like Matamorisca, a small village in northern Spain, into degraded landscapes."
+      },
+      {
+       "id": "B",
+       "text": "The region's dry climate and depleted soils would be a recipe for disaster in your average program to replant trees, but for the Amsterdam-based Land Life Company it's an ideal place. \"We typically operate where nature does not come back by itself,\" says Jurrian Ruys, its CEO. \"We go where there are rougher conditions in terms of weather, with rough or very hot summers.\" In Matamorisca, they intervened in 17 barren hectares owned by the regional government and peppered them with their signature device: a biodegradable(可生物降解的) cardboard container they call the cocoon which can hold 25 litres of water underground to aid a seedling's first year. Around 16,000 trees, including oaks, ashes, walnuts, rowans, and whitebeams, were planted in May 2018, and the company reports that 96% of them survived that year's burning hot summer without extra irrigation, a critical milestone for a young tree."
+      },
+      {
+       "id": "C",
+       "text": "\"Does nature return by itself?\" asks Arnout Asjes, Land Life Company's chief technology officer, who oversees a mix of drone(无人机) and satellite imagery, big data analysis, soil enhancement, QR(二维码) tagging and site-specific tree configuration designs. \"Probably, but it can take decades or hundreds of years, so we are speeding things up.\""
+      },
+      {
+       "id": "D",
+       "text": "His company belongs to a global movement of organisations trying to save degraded or deforested areas, ranging from fertile tropical lowlands to dry hills in temperate(温带的) regions. Spurred by global biodiversity loss and climate change, these groups are pushing the boundary of how to revive forest cover. \"It's not a theoretical proposition,\" says Walter Vergara, a forest and climate specialist at the World Resources Institute(WRI). \"It requires the right incentives, the right stakeholders, the right analysis and sufficient capital, but it can happen.\""
+      },
+      {
+       "id": "E",
+       "text": "How these factors come together for a particular project—and whether saving destroyed woods is even possible—depends on what kind of ecosystem you have in mind. Secondary forests in the Amazon are different from Texas pines recovering after wildfires or the Arctic timber woods that cover much of Sweden. Each provides different reasons for reforestation programs and each has particular needs. In the dry conditions around Matamorisca and similar areas in Spain, Land Life Company worries about rapid desertification(沙漠化). As its focus is on restoring an ecosystem, it works with organisations that don't expect their money back."
+      },
+      {
+       "id": "F",
+       "text": "With around 600 hectares replanted around the world since 2015 and another 1,100 planned for this year, the company's drive fits into the Bonn Challenge, a global effort to restore 150 million hectares of the world's deforested and degraded land by 2020. That's an area roughly the size of Iran or Mongolia. By 2030, the goal is to reach 350 million hectares—20% more land than India. These targets include both the rehabilitation of forested areas that have lost density or look a bit weak (a process known as 'restoration' in forestry jargon) and the recovery of forest cover in areas where it was completely cleared (what's known as 'reforestation')."
+      },
+      {
+       "id": "G",
+       "text": "That global target is broken into smaller pieces and takes shape in Latin America as the 20x20 Initiative, an effort to contribute 20 million hectares to the overall goal by initiating small to medium projects with the political backing of governments. Unlike Land Life Company, this region-wide project makes the economic and business case for reforestation, even though they are after biodiversity conservation. \"You need to bring in private sector money,\" says WRI's Vergara, who leads the initiative, \"and that capital needs to see a return on their investment.\" A study he led predicts Latin America would see an estimated net present value of about $23bn over a 50-year period if it reaches its goal."
+      },
+      {
+       "id": "H",
+       "text": "Money can come from timber sales in sustainably managed forests or from harvesting 'non-wood products' like nuts, oils and fruits from the trees. You can take note of how much carbon dioxide your forest is capturing and sell carbon credits to companies keen to offset their emissions. Or you can even grow the forest hoping that biodiversity will attract ecotourists who'd pay for lodging, birdwatching tours and meals."
+      },
+      {
+       "id": "I",
+       "text": "Still, these backers are not your high-street bank. Money for the 20x20 Initiative comes mostly from financial organisations with triple goal—a modest return on their investment, environmental benefits and social gains—known as impact investors. Take the German fund 12Tree for instance, one of the 20x20 partners. It put $9.5 million into Cuango, a 1,455-hectare property on the Caribbean coast of Panama that combines a commercial cocoa tree plantation with timber extraction from a sustainably managed secondary forest. With their money, they reforested a former cattle ranch, provided high-quality jobs for the surrounding communities and made a return on their investment."
+      },
+      {
+       "id": "J",
+       "text": "Even on land cleared decades ago and currently used by farmers, some crops can coexist with the forest, if you find the right balance. Although not technically reforestation, agroforestry (a system of land use in which harvestable trees or shrubs are grown among or around crops or on pasture land, as a means of preserving or enhancing the productivity of the land) provides an opportunity for small-holder farmers to sustain their livelihoods while adding some forest cover to their farms."
+      },
+      {
+       "id": "K",
+       "text": "A global project called Breedcafs is studying how trees behave in coffee farms, hoping to find crop varieties that manage to grow under the shade of trees. Coffee grows naturally in such forests, so copying that in farms is taking the crop back to its roots. \"By reintroducing trees in the landscape, we impact positively humidity, rain capture, soil conservation and biodiversity preservation,\" says coffee expert Benoit Bertrand, who leads the project from the French Agricultural Research Centre for International Development. Bertrand is analysing which of dozens of coffee varieties fits better for this system. A similar approach can be applied to land with cocoa, vanilla and fruit trees."
+      },
+      {
+       "id": "L",
+       "text": "Not every piece of land is fit for reforestation. Vergara's partners look for safe investments, and even Land Life Company only runs major projects in what they consider \"low-risk\" countries. \"We tend to avoid large-scale operations in countries in some parts of the Middle East or Africa where the permanence is not secured,\" says Ruys."
+      },
+      {
+       "id": "M",
+       "text": "But in the right location, perhaps all you need is time. In the Central Pacific of Costa Rica, the 330-hectare National Wildlife Refuge Baru looks nothing like the cattle ranch it was before 1987, when Jack Ewing decided to turn this large estate into an ecotourism destination. Instead of intervening, a friend told him to let nature have its way. Baru's former grazing lands are now thriving woods and the property boasts over 150 hectares of secondary forests with no intervention from humans. In the past 10 years, animals such as howling monkeys, scarlet macaws and even migratory cougars have returned to the refuge's land, boosting tourism and revitalising the ecosystem. Ewing, now 75, explains this success using the words his friend chose three decades ago: \"In Costa Rica, when you stop managing the shrubs, the jungle comes back for its revenge.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Land Life Company's efforts fit into the global goal to restore millions of hectares of the world's deforested and degraded land."
+      },
+      {
+       "id": "s37",
+       "text": "Planting trees or shrubs together with crops can help improve the yield of the land, while offering small-scale farmers a chance to make a living."
+      },
+      {
+       "id": "s38",
+       "text": "One reforestation project bases its argument on economic benefits and investment returns."
+      },
+      {
+       "id": "s39",
+       "text": "With time, nature may return to its original state without human intervention if the location is appropriate."
+      },
+      {
+       "id": "s40",
+       "text": "According to a forest and climate expert, the revival of forest cover can take place under the necessary conditions."
+      },
+      {
+       "id": "s41",
+       "text": "One company runs its major operations exclusively in countries where risks are not high."
+      },
+      {
+       "id": "s42",
+       "text": "Left alone, nature may take scores of years or even centuries to repair itself."
+      },
+      {
+       "id": "s43",
+       "text": "Economic returns can be derived from selling timber and non-wood products as well as carbon credits."
+      },
+      {
+       "id": "s44",
+       "text": "A study is under way across the world to look for crops that can grow among trees."
+      },
+      {
+       "id": "s45",
+       "text": "Land Life Company's operations are usually located where reforestation is impossible without human intervention."
+      }
+     ],
+     "answers": [
+      "F",
+      "J",
+      "G",
+      "M",
+      "D",
+      "L",
+      "C",
+      "H",
+      "K",
+      "B"
+     ],
+     "statementExplains": [
+      "【定位】With around 600 hectares replanted around the world since 2015 and another 1,100 planned for this year, the company's drive fits into the Bonn Challenge, a global effort to restore 150 million hectares of the world's deforested and degraded land by 2020.\n【依据】陈述里的 land、company's、efforts、into、global、restore 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】Although not technically reforestation, agroforestry (a system of land use in which harvestable trees or shrubs are grown among or around crops or on pasture land, as a means of preserving or enhancing the productivity of the land) provides an opportunity for small-holder farmers to sustain their livelihoods while adding some forest cover to their farms.\n【依据】陈述里的 trees、shrubs、crops、land、while、small-scale 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Unlike Land Life Company, this region-wide project makes the economic and business case for reforestation, even though they are after biodiversity conservation.\n【依据】陈述里的 reforestation、project、economic 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】But in the right location, perhaps all you need is time.\n【依据】陈述里的 time、location 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】Spurred by global biodiversity loss and climate change, these groups are pushing the boundary of how to revive forest cover.\n【依据】陈述里的 forest、climate、revival、forest、cover 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Vergara's partners look for safe investments, and even Land Life Company only runs major projects in what they consider \"low-risk\" countries.\n【依据】陈述里的 company、runs、major、countries 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】\"Does nature return by itself?\" asks Arnout Asjes, Land Life Company's chief technology officer, who oversees a mix of drone(无人机) and satellite imagery, big data analysis, soil enhancement, QR(二维码) tagging and site-specific tree configuration designs.\n【依据】陈述里的 nature、itself 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】Money can come from timber sales in sustainably managed forests or from harvesting 'non-wood products' like nuts, oils and fruits from the trees.\n【依据】陈述里的 timber、non-wood、products 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】A global project called Breedcafs is studying how trees behave in coffee farms, hoping to find crop varieties that manage to grow under the shade of trees.\n【依据】陈述里的 study、under、grow、trees 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】The region's dry climate and depleted soils would be a recipe for disaster in your average program to replant trees, but for the Amsterdam-based Land Life Company it's an ideal place.\n【依据】陈述里的 land、life、company's 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "With around 600 hectares replanted around the world since 2015 and another 1,100 planned for this year, the company's drive fits into the Bonn Challenge, a global effort to restore 150 million hectares of the world's deforested and degraded land by 2020.",
+       "why": "陈述里的 land、company's、efforts、into、global、restore 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Although not technically reforestation, agroforestry (a system of land use in which harvestable trees or shrubs are grown among or around crops or on pasture land, as a means of preserving or enhancing the productivity of the land) provides an opportunity for small-holder farmers to sustain their livelihoods while adding some forest cover to their farms.",
+       "why": "陈述里的 trees、shrubs、crops、land、while、small-scale 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Unlike Land Life Company, this region-wide project makes the economic and business case for reforestation, even though they are after biodiversity conservation.",
+       "why": "陈述里的 reforestation、project、economic 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But in the right location, perhaps all you need is time.",
+       "why": "陈述里的 time、location 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Spurred by global biodiversity loss and climate change, these groups are pushing the boundary of how to revive forest cover.",
+       "why": "陈述里的 forest、climate、revival、forest、cover 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Vergara's partners look for safe investments, and even Land Life Company only runs major projects in what they consider \"low-risk\" countries.",
+       "why": "陈述里的 company、runs、major、countries 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"Does nature return by itself?\" asks Arnout Asjes, Land Life Company's chief technology officer, who oversees a mix of drone(无人机) and satellite imagery, big data analysis, soil enhancement, QR(二维码) tagging and site-specific tree configuration designs.",
+       "why": "陈述里的 nature、itself 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Money can come from timber sales in sustainably managed forests or from harvesting 'non-wood products' like nuts, oils and fruits from the trees.",
+       "why": "陈述里的 timber、non-wood、products 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "A global project called Breedcafs is studying how trees behave in coffee farms, hoping to find crop varieties that manage to grow under the shade of trees.",
+       "why": "陈述里的 study、under、grow、trees 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The region's dry climate and depleted soils would be a recipe for disaster in your average program to replant trees, but for the Amsterdam-based Land Life Company it's an ideal place.",
+       "why": "陈述里的 land、life、company's 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "What does self-discipline look like at work? Sometimes, it's the ability to resist temptation, such as distractions to avoid a particular task. Other times it's the ability to persist with a task when your energy and motivation seem low. What do you believe about the nature of your own self-discipline? Is it something that runs on internal energy that is spent with use? Or is it something that is bolstered as you apply it and persist? Your answer matters, as it determines how much self-discipline you experience. For years, research in psychology pointed to self-control as a resource that is depleted with use and needs to be restored through breaks, rest, or sleep. More recently, however, research points to the importance of mindset. If you view self-discipline as an expendable resource, your willpower tends to fade with use. If you believe that exercising your self-control strengthens and fuels it, that is more likely to be your experience as you resist temptation or push yourself to get something done that is not appealing. If you don't already view self-discipline as a force that feeds itself, what might you do? Reflect on times that you had initial difficulty resisting temptation, getting started on something, or sticking with it, but pushed ahead and accomplished the task or met the goal. That's the kind of experience we're talking about with this particular belief about self-discipline, and you've already had such an experience, so you've shown that it's possible. When you feel your willpower and motivation fading, remind yourself of those previous experiences and imagine the same happening now. What if your experiences have always seemed to indicate that your self-control diminishes with use, and you need breaks to recharge? There's nothing wrong with that as long as you can afford to take those breaks. If not, remind yourself that not everyone experiences self-discipline as a depletable resource and that your experience might be different if you focus on gathering more energy at this point rather than focusing on how difficult it is to continue or the need for a break. Also, if you know someone who is a role model of self-discipline, picture that person in your situation, persisting in the task. Regardless of how you do it, as you push forward to continue to accomplish progress, be sure to mentally reinforce yourself by taking pride in your ability to exert more willpower as you persist. The benefits of exerting willpower are cumulative. Your self-discipline is akin to a muscle, and each time you resist temptation or persist in a task despite a lack of motivation, you strengthen that muscle, leading to less effort and resistance in similar instances in the future.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What plays an important role in determining how much self-discipline people experience?",
+       "options": [
+        "Their belief about the nature of motivation.",
+        "Their use of internal energy for persisting.",
+        "Their conception of self-discipline.",
+        "Their ability to resist temptation."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Your answer matters, as it determines how much self-discipline you experience.\n【依据】正确项的核心词 self-discipline 与定位句对得上；其余 conception 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Your answer matters, as it determines how much self-discipline you experience.",
+        "why": "正确项的核心词 self-discipline 与定位句对得上；其余 conception 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "D": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What did years of research suggest about self-discipline?",
+       "options": [
+        "It is a depletable resource.",
+        "It is bolstered through use.",
+        "Its strength is dependent on willpower.",
+        "Its exercise is an exhausting experience."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】For years, research in psychology pointed to self-control as a resource that is depleted with use and needs to be restored through breaks, rest, or sleep.\n【依据】正确项的核心词 depletable、resource 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For years, research in psychology pointed to self-control as a resource that is depleted with use and needs to be restored through breaks, rest, or sleep.",
+        "why": "正确项的核心词 depletable、resource 与定位句对得上；选项用词几乎与原文同形，属于直接复述型正确答案。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：把原文的「through、use」换成了「bolstered」，主语或对象被调包。",
+         "C": "无中生有：「strength、dependent」全文未出现。",
+         "D": "无中生有：「exercise、exhausting」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "Why does the author ask us to reflect on our experience of meeting the goal despite initial difficulty?",
+       "options": [
+        "To show the urgency of abandoning outdated beliefs about self-control.",
+        "To show the feasibility of viewing self-discipline as a force fueling itself.",
+        "To support the argument for persistence in workplace accomplishments.",
+        "To add evidence to consistent findings in previous psychological research."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Reflect on times that you had initial difficulty resisting temptation, getting started on something, or sticking with it, but pushed ahead and accomplished the task or met the goal.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 show、feasibility、viewing、self-discipline 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Reflect on times that you had initial difficulty resisting temptation, getting started on something, or sticking with it, but pushed ahead and accomplished the task or met the goal.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 show、feasibility、viewing、self-discipline 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「show、urgency、abandoning」全文未出现。",
+         "C": "无中生有：「support、argument、persistence」全文未出现；把原文的「accomplishments」换成了「support、argument、persistence」，主语或对象被调包。",
+         "D": "无中生有：「add、evidence、consistent」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What are we advised to do if we cannot afford to take breaks to recharge?",
+       "options": [
+        "Figure out what has gone wrong.",
+        "Focus on the hardest part of our task.",
+        "Exert ourselves to go on with the work.",
+        "Gather new energy from people around."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】What if your experiences have always seemed to indicate that your self-control diminishes with use, and you need breaks to recharge?\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 exert、ourselves、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "What if your experiences have always seemed to indicate that your self-control diminishes with use, and you need breaks to recharge?",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 exert、ourselves、work 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「figure、out、gone」全文未出现；把原文的「what」换成了「figure、out、gone」，主语或对象被调包。",
+         "B": "因果倒置：「hardest、part」全文未出现。",
+         "D": "无中生有：「gather、new、people」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "Why does the author compare our self-discipline to a muscle?",
+       "options": [
+        "The more it is applied, the more resistance it encounters.",
+        "The more it is exerted, the more proud we become.",
+        "The more it is enforced, the stronger our willpower proves.",
+        "The more it is exercised, the more strengthened it gets."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Your self-discipline is akin to a muscle, and each time you resist temptation or persist in a task despite a lack of motivation, you strengthen that muscle, leading to less effort and resistance in similar instances in the future.\n【依据】正确项的核心词 strengthened 与定位句对得上；其余 exercised、gets 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Your self-discipline is akin to a muscle, and each time you resist temptation or persist in a task despite a lack of motivation, you strengthen that muscle, leading to less effort and resistance in similar instances in the future.",
+        "why": "正确项的核心词 strengthened 与定位句对得上；其余 exercised、gets 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「applied、encounters」全文未出现；把原文的「resistance」换成了「applied、encounters」，主语或对象被调包。",
+         "B": "无中生有：「exerted、proud、become」全文未出现。",
+         "C": "无中生有：「enforced、stronger、proves」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Smartphones have always posed challenges for parents of teens. From social media apps to excessive screen time, the digital world is as threatening as the physical. A new study shows that about half of parents of teens are worried about their teens being exposed to explicit content online. This is a valid concern, of course. But there are ways to alleviate the spread of explicit content, from changing the settings in their kids' phone to monitoring such content with apps like Bark. Just as alarming, if not more so, is that the amount of time teens spend on social media can lead to anxiety and depression. Excessive screen time has detrimental effects, for a lot of obvious reasons. Constant media consumption inhibits healthy activities associated with childhood, like spending time outside, exercising, talking to friends and family. If it interferes with sleep, that's even worse. Ample research shows too much smartphone use produces significant anxiety, depression, and feelings of isolation in teens. Teens log on to social media or spend time online trying to make connections, but end up feeling more alone and sad than ever. Faceless communication not only produces feelings of isolation and loneliness but increases instances of online bullying and susceptibility to criminal conducts. Though I've banned most social media, I've still battled smartphone time with my own kids. A lot of the time I wish I could throw my kids' smartphones into the nearest lake. The convenience of communication—when they need a ride home from school after practice, for instance—often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage \"real-life\" activities outside and with friends and family. I understand the addiction and often tell them I'm not sure how I would have handled having a smartphone as a teen. As an adult, I too, struggle with overuse. In a recent TV interview to promote a new film about a mother and daughter navigating social media use, actress Kate Winslet expressed her view on teens and social media—and her concern mirrors the trends. \"I do definitely feel that the world of social media is frightening to parents because we don't really know what's there,\" she said. \"We don't know how our children are using it. We don't know the effects that it's really having on them.\" I don't think the U.S. government should regulate social media and teen smartphone use, but it is a vital topic for parents to understand and take seriously. Unfortunately, now, parents don't just have to worry about real-world dangers, but all the ones sneaking online and the effects they have on teenagers and their mental health.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do around half of parents of teens do according to a new study?",
+       "options": [
+        "They set their kids' phones to filter out obscene information.",
+        "They try to alleviate the spread of explicit scenes on the internet.",
+        "They feel concerned about their kids' viewing indecent content online.",
+        "They strive to prevent their kids from spending excessive screen time."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】A new study shows that about half of parents of teens are worried about their teens being exposed to explicit content online.\n【依据】正确项的核心词 about、content、online 与定位句对得上；其余 feel、concerned、kids'、viewing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "A new study shows that about half of parents of teens are worried about their teens being exposed to explicit content online.",
+        "why": "正确项的核心词 about、content、online 与定位句对得上；其余 feel、concerned、kids'、viewing 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「set、phones、filter」全文未出现。",
+         "B": "无中生有：「try、scenes、internet」全文未出现；把原文的「explicit」换成了「try、alleviate、spread」，主语或对象被调包。",
+         "D": "因果倒置：「strive、prevent」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does a large amount of research show about teens' excessive smartphone use?",
+       "options": [
+        "It allows them less time for meaningful activities.",
+        "It renders them more lonely and low-spirited.",
+        "It gives them less time for social interactions.",
+        "It makes them more alert to online bullying."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Ample research shows too much smartphone use produces significant anxiety, depression, and feelings of isolation in teens.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 renders、lonely、low-spirited 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Ample research shows too much smartphone use produces significant anxiety, depression, and feelings of isolation in teens.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 renders、lonely、low-spirited 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「allows、less、meaningful」全文未出现。",
+         "C": "无中生有：「gives、less、interactions」全文未出现。",
+         "D": "因果倒置：「makes、alert」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do we learn about the author's feelings regarding smartphones and screen time?",
+       "options": [
+        "They are deep-seated.",
+        "They are instinctive.",
+        "They are unique.",
+        "They are mixed."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The convenience of communication—when they need a ride home from school after practice, for instance—often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage \"real-life\" activities outside and with friends and family.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 mixed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The convenience of communication—when they need a ride home from school after practice, for instance—often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage \"real-life\" activities outside and with friends and family.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 mixed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「deep-seated」全文未出现。",
+         "B": "无中生有：「instinctive」全文未出现。",
+         "C": "无中生有：「unique」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does actress Kate Winslet think about the world of social media?",
+       "options": [
+        "It poses increasing challenges to parents trying to ensure internet safety.",
+        "It scares parents because they don't really know what is on the screen.",
+        "It is a sphere difficult for parents and their teens to navigate.",
+        "It is full of uncertainties frightful to parents and their teens."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In a recent TV interview to promote a new film about a mother and daughter navigating social media use, actress Kate Winslet expressed her view on teens and social media—and her concern mirrors the trends.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 scares、parents、because、don't 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In a recent TV interview to promote a new film about a mother and daughter navigating social media use, actress Kate Winslet expressed her view on teens and social media—and her concern mirrors the trends.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 scares、parents、because、don't 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「poses、increasing、ensure」全文未出现；把原文的「internet」换成了「poses、increasing、challenges」，主语或对象被调包。",
+         "C": "无中生有：「sphere、difficult」全文未出现；把原文的「teens、navigate」换成了「sphere、difficult、parents」，主语或对象被调包。",
+         "D": "无中生有：「full、uncertainties、frightful」全文未出现；把原文的「teens」换成了「full、uncertainties、frightful」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What message does the author try to convey in the last paragraph?",
+       "options": [
+        "Parents have to be concerned about dangers to their teens in both real and virtual worlds.",
+        "Governments have responsibilities in regulating social media and teens' smartphone use.",
+        "Parents should provide guidance to their teens in the use of social media.",
+        "Online dangers are as serious as problems with teenagers' mental health."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The convenience of communication—when they need a ride home from school after practice, for instance—often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage \"real-life\" activities outside and with friends and family.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 parents、concerned、about、dangers 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The convenience of communication—when they need a ride home from school after practice, for instance—often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage \"real-life\" activities outside and with friends and family.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 parents、concerned、about、dangers 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：「governments、responsibilities、regulating」全文未出现。",
+         "C": "因果倒置：「provide、guidance」全文未出现。",
+         "D": "因果倒置：「serious、problems、teenagers'」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "电子商务的蓬勃发展正在深刻改变中国农村的面貌。随着互联网和物流网络快速向农村延伸，越来越多的农村居民通过电子商务平台将农产品直接销售给城市消费者。近年来，直播带货使城市消费者能够与卖家实时互动，已成为促进农村发展的一种新方式。电子商务打破了城乡之间的信息壁垒，拓宽了农产品销售渠道，帮助农村居民增收致富。数字经济与乡村振兴的深度融合，正在为中国农村发展注入前所未有的活力。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

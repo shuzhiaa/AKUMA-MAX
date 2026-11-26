@@ -1,0 +1,1172 @@
+{
+ "id": "cet6-2021-12-1",
+ "levelId": "cet6",
+ "title": "六级 2021 年 12 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2021年12月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2021-12-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2021-12-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "W: 嗨，戴维。我快两周没在课堂上见到你了"
+      },
+      {
+       "idx": 2,
+       "zh": "M: 嗨，莎拉。唉，说来话长"
+      },
+      {
+       "idx": 3,
+       "zh": "W: 哦，是的。今年冬天有好多病毒在传播"
+      },
+      {
+       "idx": 4,
+       "zh": "M: 还有，在从医院回来的路上"
+      },
+      {
+       "idx": 5,
+       "zh": "W: 哦，那太糟糕了！真是太倒霉了！"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 更糟糕的是，我偏偏摔在了四个九年级女生面前"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 天啊，这真是彻头彻尾的灾难！笔记本电脑还在保修期内吗？如果是的话"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 保修期在我摔坏它的前三天就过了"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 听我说，我家里有一家又好又实惠的电脑维修店的电话"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 哇，谢谢你，莎拉！那太好了！我先给我妈妈打个电话"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 但既然你的资历非常适合写历史小说"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What does Sarah think David was doing for the last two weeks?",
+       "options": [
+        "He was enjoying his holiday.",
+        "He was recovering in hospital.",
+        "He was busy writing his essays.",
+        "He was fighting a throat infection."
+       ],
+       "optionsZh": [
+        "他在享受假期。",
+        "他在医院里康复。",
+        "他在忙着写论文。",
+        "他在与喉咙感染作斗争。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He was enjoying his holiday.（他在享受假期。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What happened to David on his way back from the hospital?",
+       "options": [
+        "He broke his wrist.",
+        "He lost his antibiotics.",
+        "He slipped on ice and fell.",
+        "He was laughed at by some girls."
+       ],
+       "optionsZh": [
+        "他摔断了手腕。",
+        "他弄丢了抗生素。",
+        "他在冰上滑倒摔倒了。",
+        "他被一些女孩嘲笑了。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He slipped on ice and fell.（他在冰上滑倒摔倒了。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does Sarah say they should do with the damaged computer?",
+       "options": [
+        "Turn to her father for help.",
+        "Call the repair shop to fix it.",
+        "Ask the manufacturer for repairs.",
+        "Replace it with a brand-new one."
+       ],
+       "optionsZh": [
+        "向她父亲求助。",
+        "打电话给维修店修理它。",
+        "要求制造商进行维修。",
+        "用一台全新的替换它。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Call the repair shop to fix it.（打电话给维修店修理它。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does Sarah say she is going to do?",
+       "options": [
+        "Help David retrieve his essays.",
+        "Introduce David to her parents.",
+        "Offer David some refreshments.",
+        "Accompany David to his home."
+       ],
+       "optionsZh": [
+        "帮助 David 找回他的论文。",
+        "把 David 介绍给她的父母。",
+        "给 David 提供一些茶点。",
+        "陪同 David 回家。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Offer David some refreshments.（给 David 提供一些茶点。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What does the man say about the woman?",
+       "options": [
+        "She is a critic of works on military affairs.",
+        "She is an acclaimed hostess of Book Talk.",
+        "She is a researcher of literary genres.",
+        "She is a historian of military history."
+       ],
+       "optionsZh": [
+        "她是军事著作的评论家。",
+        "她是《书话》节目广受赞誉的主持人。",
+        "她是文学体裁的研究者。",
+        "她是军事史学家。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She is a historian of military history.（她是军事史学家。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the woman say about her newly published book?",
+       "options": [
+        "It is about the military history of Europe.",
+        "It is set in the 18th and 19th centuries.",
+        "It is her fifth book of military history.",
+        "It is a war novel set in the future."
+       ],
+       "optionsZh": [
+        "它是关于欧洲军事史的。",
+        "它以18世纪和19世纪为背景。",
+        "它是她的第五本军事史著作。",
+        "它是一部以未来为背景的战争小说。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is a war novel set in the future.（它是一部以未来为背景的战争小说。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What did the woman do before writing her new book?",
+       "options": [
+        "She visited soldiers' wives and mothers.",
+        "She conducted surveys of many soldiers.",
+        "She met a large number of soldiers in person.",
+        "She looked into the personal lives of soldiers."
+       ],
+       "optionsZh": [
+        "她拜访了士兵的妻子和母亲。",
+        "她对许多士兵进行了调查。",
+        "她亲自见了大量士兵。",
+        "她调查了士兵的个人生活。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：She looked into the personal lives of soldiers.（她调查了士兵的个人生活。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What does the woman say about her writing history books?",
+       "options": [
+        "She doesn't have much freedom for imagination.",
+        "It is not easy to make her readers believe in her.",
+        "It is difficult to attract young readers.",
+        "She has to combine fact with fiction."
+       ],
+       "optionsZh": [
+        "她没有太多想象的自由。",
+        "让读者相信她并不容易。",
+        "吸引年轻读者很困难。",
+        "她必须把事实与虚构结合起来。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：She doesn't have much freedom for imagination.（她没有太多想象的自由。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the passage say appears in almost all ads for Coca-Cola?",
+       "options": [
+        "Santa Claus.",
+        "A polar bear.",
+        "Cocoa seeds.",
+        "A glass bottle."
+       ],
+       "optionsZh": [
+        "圣诞老人。",
+        "北极熊。",
+        "可可豆。",
+        "玻璃瓶。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：A glass bottle.（玻璃瓶。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "Why did the Coca-Cola Company decide to have special packaging designed?",
+       "options": [
+        "To attract customer attention.",
+        "To keep up with the times.",
+        "To combat counterfeits.",
+        "To promote its sales."
+       ],
+       "optionsZh": [
+        "吸引顾客注意。",
+        "与时俱进。",
+        "打击假冒产品。",
+        "促进销售。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：To combat counterfeits.（打击假冒产品。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What do we learn about the Coca-Cola bottle designed by the Root Glass Company?",
+       "options": [
+        "It resembles a picture in the encyclopedia.",
+        "It appears in the shape of a cocoa seed.",
+        "It has the drink's logo in the middle.",
+        "It displays the image of Santa Claus."
+       ],
+       "optionsZh": [
+        "它类似于百科全书中的一幅图片。",
+        "它呈现可可豆的形状。",
+        "它的中间有该饮料的标识。",
+        "它展示圣诞老人的形象。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It appears in the shape of a cocoa seed.（它呈现可可豆的形状。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does research show about a conversation between strangers?",
+       "options": [
+        "It often occurs among commuters.",
+        "It promotes mutual understanding.",
+        "It improves their mood considerably.",
+        "It takes a great deal of effort to sustain."
+       ],
+       "optionsZh": [
+        "它经常发生在通勤者之间。",
+        "它促进相互理解。",
+        "它大大改善他们的心情。",
+        "它需要付出很大努力来维持。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It improves their mood considerably.（它大大改善他们的心情。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What prevents people from starting conversation with strangers?",
+       "options": [
+        "Social anxiety.",
+        "Excessive caution.",
+        "Lack of social skills.",
+        "Preference for solitude."
+       ],
+       "optionsZh": [
+        "社交焦虑。",
+        "过度谨慎。",
+        "缺乏社交技巧。",
+        "对独处的偏好。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Social anxiety.（社交焦虑。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "Why does a negative encounter with strangers stick in one's memory?",
+       "options": [
+        "People usually regard it as an unforgettable lesson.",
+        "Human brains tend to dwell on negative events.",
+        "Negative events often hurt people deeply.",
+        "People generally resent being rejected."
+       ],
+       "optionsZh": [
+        "人们通常把它视为难忘的教训。",
+        "人类大脑倾向于纠结于负面事件。",
+        "负面事件往往深深伤害人们。",
+        "人们普遍讨厌被拒绝。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Human brains tend to dwell on negative events.（人类大脑倾向于纠结于负面事件。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the passage say the pleasure of connection seems to be?",
+       "options": [
+        "Contagious.",
+        "Temporary.",
+        "Unpredictable.",
+        "Measurable."
+       ],
+       "optionsZh": [
+        "有传染性的。",
+        "暂时的。",
+        "不可预测的。",
+        "可测量的。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Contagious.（有传染性的。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say about the economy of the Caribbean islands?",
+       "options": [
+        "It depends heavily on tourism.",
+        "It is flourishing in foreign trade.",
+        "It is mainly based on agriculture.",
+        "It relies chiefly on mineral export."
+       ],
+       "optionsZh": [
+        "它严重依赖旅游业。",
+        "它在对外贸易方面蓬勃发展。",
+        "它主要以农业为基础。",
+        "它主要依靠矿产出口。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It is mainly based on agriculture.（它主要以农业为基础。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What is the main product of the Caribbean islands?",
+       "options": [
+        "Tobacco.",
+        "Bananas.",
+        "Coffee.",
+        "Sugar."
+       ],
+       "optionsZh": [
+        "烟草。",
+        "香蕉。",
+        "咖啡。",
+        "糖。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Sugar.（糖。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What do we learn about the majority of people in the Caribbean islands?",
+       "options": [
+        "They toil on farms.",
+        "They live a poor life.",
+        "They live in Spanish-style houses.",
+        "They hire people to do housework."
+       ],
+       "optionsZh": [
+        "他们在农场辛勤劳作。",
+        "他们生活贫困。",
+        "他们住在西班牙风格的房子里。",
+        "他们雇人做家务。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They live a poor life.（他们生活贫困。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What will happen to children if they always get immediate satisfaction?",
+       "options": [
+        "They will be more demanding of their next generation.",
+        "They will end up lonely, dependent and dissatisfied.",
+        "They will experience more setbacks than successes.",
+        "They will find it difficult to get along with others."
+       ],
+       "optionsZh": [
+        "他们会对下一代提出更多要求。",
+        "他们最终会变得孤独、依赖且不满足。",
+        "他们经历的挫折会多于成功。",
+        "他们会发现难以与他人相处。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They will end up lonely, dependent and dissatisfied.（他们最终会变得孤独、依赖且不满足。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What may prevent parents from raising confident and capable children?",
+       "options": [
+        "Failure to pay due attention to their behavior.",
+        "Unwillingness to allow them to play with toys.",
+        "Unwillingness to satisfy their wishes immediately.",
+        "Failure to spend sufficient quality time with them."
+       ],
+       "optionsZh": [
+        "未能对他们的行为给予应有的关注。",
+        "不愿意让他们玩玩具。",
+        "不愿意立即满足他们的愿望。",
+        "未能与他们共度足够的高质量时间。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Failure to spend sufficient quality time with them.（未能与他们共度足够的高质量时间。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "Why should children be encouraged to keep trying when they fail?",
+       "options": [
+        "It will enable them to learn from mistakes.",
+        "It will help them to handle disappointment.",
+        "It will do much good to their mental health.",
+        "It will build their ability to endure hardships"
+       ],
+       "optionsZh": [
+        "这将使他们能够从错误中学习。",
+        "这将帮助他们应对失望。",
+        "这将对他们的心理健康大有裨益。",
+        "这将培养他们承受艰难困苦的能力。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It will help them to handle disappointment.（这将帮助他们应对失望。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the speaker say can easily prevent an interviewee from getting a job?",
+       "options": [
+        "Failing to make sufficient preparations.",
+        "Looking away from the hiring manager.",
+        "Saying the wrong thing at the wrong time.",
+        "Making a wrong judgment of the interview."
+       ],
+       "optionsZh": [
+        "未能做好充分准备。",
+        "目光避开招聘经理。",
+        "在错误的时间说错话。",
+        "对面试做出错误判断。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Saying the wrong thing at the wrong time.（在错误的时间说错话。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What should the interviewee avoid doing in an interview?",
+       "options": [
+        "Complaining about their previous job.",
+        "Inquiring about their salary to be paid.",
+        "Exaggerating their academic background.",
+        "Understating their previous achievements."
+       ],
+       "optionsZh": [
+        "抱怨之前的工作。",
+        "询问将要支付的薪水。",
+        "夸大学术背景。",
+        "低估之前取得的成就。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Complaining about their previous job.（抱怨之前的工作。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What kind of employees do companies like to recruit?",
+       "options": [
+        "Those who have both skill and experience.",
+        "Those who get along well with colleagues.",
+        "Those who take initiative in their work.",
+        "Those who are loyal to their managers."
+       ],
+       "optionsZh": [
+        "既有技能又有经验的人。",
+        "与同事相处融洽的人。",
+        "在工作中主动采取行动的人。",
+        "对管理者忠诚的人。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Those who take initiative in their work.（在工作中主动采取行动的人。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What is especially important for those working in a small company?",
+       "options": [
+        "Ability to shoulder new responsibilities.",
+        "Experience of performing multiple roles.",
+        "Readiness to work to flexible schedules.",
+        "Skills to communicate with colleagues."
+       ],
+       "optionsZh": [
+        "承担新责任的能力。",
+        "扮演多种角色的经验。",
+        "准备好按照灵活的时间表工作。",
+        "与同事沟通的技能。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Ability to shoulder new responsibilities.（承担新责任的能力。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay related to the short passage given below. In your essay, you are to comment on the phenomenon described in the passage and suggest measures to address the issue. You should write at least 150 words but no more than 200 words. Young people spend a lot of time on the Internet. However, they are sometimes unable to recognize false information on the Internet, judge the reliability of online information sources, or tell real news stories from fake ones.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "If you think life is wonderful and expect it to stay that way, then you may have a good chance of living to a ripe old age, at least that is what the findings of a new study suggest. That study found that participants who reported the highest levels of optimism were far more likely to live to age 85 or {{1}} . This was compared to those participants who reported the lowest levels of optimism. It is {{2}} that the findings held even after the researchers considered factors that could {{3}} the link, including whether participants had health conditions such as heart disease or cancer, or whether they experienced depression. The results add to a growing body of evidence that certain psychological factors may predict a longer life {{4}} . For example, previous studies have found that more optimistic people have a lower risk of developing chronic diseases, and a lower risk of {{5}} death. However, the new study appears to be the first to {{6}} look at the relationship between optimism and longevity. The researchers {{7}} that the link found in the new study was not as strong when they factored in the effects of certain health behaviors, including exercise levels, sleep habits and diet. This suggests that these behaviors may, at least in part, explain the link. In other words, optimism may {{8}} good habits that bolster health. It is also important to note that the study found only a {{9}} , as researchers did not prove for certain that optimism leads to a longer life. However, if the findings are true, they suggest that optimism could serve as a psychological {{10}} that promotes health and a longer life.",
+     "options": [
+      "affect",
+      "beyond",
+      "conceded",
+      "correlation",
+      "foster",
+      "henceforth",
+      "lofty",
+      "noteworthy",
+      "plausibly",
+      "premature",
+      "reconciled",
+      "span",
+      "specifically",
+      "spiral",
+      "trait"
+     ],
+     "answers": [
+      1,
+      7,
+      0,
+      11,
+      9,
+      12,
+      2,
+      4,
+      3,
+      14
+     ],
+     "blankExplains": [
+      "【定位】That study found that participants who reported the highest levels of optimism were far more likely to live to age 85 or ____ .\n【依据】答案是 beyond：填回后与所在句 study、found、participants、who、reported、highest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It is ____ that the findings held even after the researchers considered factors that could  … the link, including whether participants had health conditions such as heart disease or cancer, or whether they experienced depression.\n【依据】答案是 noteworthy：填回后与所在句 findings、held、even、after、researchers、considered 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It is  … that the findings held even after the researchers considered factors that could ____ the link, including whether participants had health conditions such as heart disease or cancer, or whether they experienced depression.\n【依据】答案是 affect：填回后与所在句 findings、held、even、after、researchers、considered 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The results add to a growing body of evidence that certain psychological factors may predict a longer life ____ .\n【依据】答案是 span：填回后与所在句 results、add、growing、body、evidence、certain 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】For example, previous studies have found that more optimistic people have a lower risk of developing chronic diseases, and a lower risk of ____ death.\n【依据】答案是 premature：填回后与所在句 example、previous、studies、found、optimistic、people 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】However, the new study appears to be the first to ____ look at the relationship between optimism and longevity.\n【依据】答案是 specifically：填回后与所在句 however、new、study、appears、first、look 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The researchers ____ that the link found in the new study was not as strong when they factored in the effects of certain health behaviors, including exercise levels, sleep habits and diet.\n【依据】答案是 conceded：填回后与所在句 researchers、link、found、new、study、strong 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】In other words, optimism may ____ good habits that bolster health.\n【依据】答案是 foster：填回后与所在句 other、words、optimism、good、habits、bolster 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It is also important to note that the study found only a ____ , as researchers did not prove for certain that optimism leads to a longer life.\n【依据】答案是 correlation：填回后与所在句 important、note、study、found、only、researchers 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】However, if the findings are true, they suggest that optimism could serve as a psychological ____ that promotes health and a longer life.\n【依据】答案是 trait：填回后与所在句 however、findings、true、suggest、optimism、serve 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "That study found that participants who reported the highest levels of optimism were far more likely to live to age 85 or ____ .",
+       "why": "答案是 beyond：填回后与所在句 study、found、participants、who、reported、highest 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 beyond 这个词性/语义，而不是 affect）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 beyond 这个词性/语义，而不是 conceded）。"
+       }
+      },
+      {
+       "locate": "It is ____ that the findings held even after the researchers considered factors that could  … the link, including whether participants had health conditions such as heart disease or cancer, or whether they experienced depression.",
+       "why": "答案是 noteworthy：填回后与所在句 findings、held、even、after、researchers、considered 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 noteworthy 这个词性/语义，而不是 affect）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 noteworthy 这个词性/语义，而不是 beyond）。"
+       }
+      },
+      {
+       "locate": "It is  … that the findings held even after the researchers considered factors that could ____ the link, including whether participants had health conditions such as heart disease or cancer, or whether they experienced depression.",
+       "why": "答案是 affect：填回后与所在句 findings、held、even、after、researchers、considered 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 affect 这个词性/语义，而不是 beyond）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 affect 这个词性/语义，而不是 conceded）。"
+       }
+      },
+      {
+       "locate": "The results add to a growing body of evidence that certain psychological factors may predict a longer life ____ .",
+       "why": "答案是 span：填回后与所在句 results、add、growing、body、evidence、certain 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 span 这个词性/语义，而不是 specifically）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 span 这个词性/语义，而不是 spiral）。"
+       }
+      },
+      {
+       "locate": "For example, previous studies have found that more optimistic people have a lower risk of developing chronic diseases, and a lower risk of ____ death.",
+       "why": "答案是 premature：填回后与所在句 example、previous、studies、found、optimistic、people 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 premature 这个词性/语义，而不是 plausibly）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 premature 这个词性/语义，而不是 affect）。"
+       }
+      },
+      {
+       "locate": "However, the new study appears to be the first to ____ look at the relationship between optimism and longevity.",
+       "why": "答案是 specifically：填回后与所在句 however、new、study、appears、first、look 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 specifically 这个词性/语义，而不是 span）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 specifically 这个词性/语义，而不是 spiral）。"
+       }
+      },
+      {
+       "locate": "The researchers ____ that the link found in the new study was not as strong when they factored in the effects of certain health behaviors, including exercise levels, sleep habits and diet.",
+       "why": "答案是 conceded：填回后与所在句 researchers、link、found、new、study、strong 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 conceded 这个词性/语义，而不是 correlation）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 conceded 这个词性/语义，而不是 affect）。"
+       }
+      },
+      {
+       "locate": "In other words, optimism may ____ good habits that bolster health.",
+       "why": "答案是 foster：填回后与所在句 other、words、optimism、good、habits、bolster 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 foster 这个词性/语义，而不是 affect）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 foster 这个词性/语义，而不是 beyond）。"
+       }
+      },
+      {
+       "locate": "It is also important to note that the study found only a ____ , as researchers did not prove for certain that optimism leads to a longer life.",
+       "why": "答案是 correlation：填回后与所在句 important、note、study、found、only、researchers 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlation 这个词性/语义，而不是 conceded）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 correlation 这个词性/语义，而不是 affect）。"
+       }
+      },
+      {
+       "locate": "However, if the findings are true, they suggest that optimism could serve as a psychological ____ that promotes health and a longer life.",
+       "why": "答案是 trait：填回后与所在句 however、findings、true、suggest、optimism、serve 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 trait 这个词性/语义，而不是 affect）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 trait 这个词性/语义，而不是 beyond）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Last week, Burberry's annual report revealed that £28.6 million worth of stock was burnt last year. The news has left investors and consumers outraged but comes as little surprise to those in the fashion industry."
+      },
+      {
+       "id": "B",
+       "text": "The practice of destroying unsold stock, and even rolls of unused fabric, is commonplace for luxury labels. Becoming too widely available at a cheaper price through discount stores discourages full-price sales. Sending products for recycling leaves them vulnerable to being stolen and sold on the black market. Jasmine Bina, CEO of brand strategy agency Concept Bureau explains, \"Typically, luxury brands rally around exclusivity to protect their business interests, namely intellectual property and preservation of brand equity(资产).\" She stated she had heard rumors of stock burning but not specific cases until this week."
+      },
+      {
+       "id": "C",
+       "text": "Another reason for the commonplace practice is a financial incentive for brands exporting goods to America. United States Customs states that if imported merchandise is unused and destroyed under their supervision, 99% of the duties, taxes or fees paid on the merchandise may be recovered. It is incredibly difficult to calculate how much dead stock currently goes to waste. While there are incentives to do it, there's no legal obligation to report it."
+      },
+      {
+       "id": "D",
+       "text": "A source, who chose to remain anonymous, shared her experience working in a Burberry store in New York in October 2016. \"My job was to toss items in boxes so they could be sent to be burned. It was killing me inside because all that leather and fur went to waste and animals had died for nothing. I couldn't stay there any longer, their business practices threw me off the roof.\" In May this year, Burberry announced it was taking fur out of its catwalk shows and reviewing its use elsewhere in the business. \"Even though we asked the management, they refused to give us detailed answers as to why they would do this with their collection,\" continued the source, who left her role within two weeks. She has since worked with another high-profile, luxury label."
+      },
+      {
+       "id": "E",
+       "text": "In an online forum post, which asked if it's true that Louis Vuitton burned its bags, Ahmed Bouchfaa, who claimed to work for Louis Vuitton, responded that the brand holds sales of old stock for staff members twice a year. Items which have still not sold after several sales are destroyed. \"Louis Vuitton doesn't have public sales. They either sell a product at a given price or discontinue it. This is to make sure that everybody pays the same price for an item,\" he says. He goes on to disclose the strict guidelines around the employee sales: \"You may buy gifts for someone, but they track each item, and if your gift ends up online they know who to ask.\" One investor commenting on the Burberry figures was reportedly outraged that the unsold goods were not even offered to investors before they were destroyed."
+      },
+      {
+       "id": "F",
+       "text": "Richemont, who owns several luxury brands, hit the headlines in May for taking back £437 million of watches for destruction in the last two years to avoid marked-down prices. It's not just luxury brands either. In October last year, a Danish TV show exposed H&M for burning 12 tonnes of unsold clothing since 2013. In a statement, the high street retailer defended itself by saying that the burnt clothing had failed safety tests: \"The products to which the media are referring have been tested in external laboratories. The test results show that one of the products is mold infested and the other product contains levels of lead that are too high. Those products have rightly been stopped in accordance with our safety routines.\" In March, a report revealed that H&M was struggling with $4.3 billion worth of unsold stock. The brand told The New York Times that the plan was to reduce prices to move the stock, arguably encouraging consumers to buy and throw away with little thought."
+      },
+      {
+       "id": "G",
+       "text": "Over-production is perhaps the biggest concern for Burberry. While there has been much outrage at the elitist connotation of burning goods rather than making them affordable, executives at the British fashion house are no doubt struggling to defend how they miscalculated production. The waste has been put down to burning old cosmetic stock to make way for their new beauty range. However, while the value of destroyed stock is up from £26.9 million last year, it's an even more significant increase from 2016's figure of £18.8 million, highlighting that this is an ongoing issue."
+      },
+      {
+       "id": "H",
+       "text": "In September 2016, Burberry switched to a \"see now, buy now\" catwalk show format. The move was a switch to leverage on the coverage of their fashion week show to make stock available immediately to consumers. This is opposed to the traditional format of presenting to the industry, taking orders for production and becoming available in six months' time. While Burberry announced \"record-breaking\" online reach and engagement, there has been little evidence to suggest that the strategy has had a significant effect on sales, particularly as the hype(炒作) slows across the season. In February they made adjustments to the format, dropping some catwalk items immediately and promising that others would launch in the coming months."
+      },
+      {
+       "id": "I",
+       "text": "In a statement, Burberry denied that switching to \"see now, buy now\" has had an impact on waste. A Burberry spokesperson further said, \"On the occasions when disposal of products is necessary, we do so in a responsible manner. We are always seeking ways to reduce and revalue our waste. This is a core part of our strategy and we have forged partnerships and committed support to innovative organizations to help reach this goal.\""
+      },
+      {
+       "id": "J",
+       "text": "One such partnership is with Elvis & Kresse, an accessories brand working with reclaimed materials. Co-founder Kresse Wesling said, \"Late last year we launched an ambitious five-year partnership with the Burberry Foundation. The main aim of this is to scale our leather rescue project, starting with off-cuts from the production of Burberry leather goods. We are working tirelessly to expand our solutions and would love to welcome anyone to our workshop to come and see what we are doing.\" At the moment, the partnership only addresses waste at the production stage and not unsold goods."
+      },
+      {
+       "id": "K",
+       "text": "While these are honorable schemes, it makes it harder for Burberry to defend these latest figures. Fifteen years ago, Burberry was at crisis point as their signature check pattern was widely imitated by cheap, imitation brands. It deterred luxury consumers who found their expensive clothing more closely associated with working-class youth culture than a prestigious heritage fashion house. In the year 2004, at the height of over-exposure of the Burberry check, the brand's turnover was £715.5 million. Under Christopher Bailey as creative director they turned the brand around and this past year revenue hit £2.73 billion."
+      },
+      {
+       "id": "L",
+       "text": "Bina believes that brands need to readdress their exclusivity tactic. \"Exclusivity is starting to be challenged,\" she says, \"I think that goes hand in hand with how luxury itself is being challenged. Access to fashion, and the brands who police it, are becoming less and less relevant. Things like health, enlightenment, and social and environmental responsibility are the new luxuries. These all come from within, not without. That's the challenge that traditional luxury brands will have to contend with in the mid- to long-term future.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Burberry's executives are trying hard to attribute their practice of destroying old products to miscalculated production."
+      },
+      {
+       "id": "s37",
+       "text": "Selling products at a discount will do greater harm to luxury brands than destroying them."
+      },
+      {
+       "id": "s38",
+       "text": "Imitated Burberry products discouraged luxury consumers from buying its genuine products."
+      },
+      {
+       "id": "s39",
+       "text": "Staff members of a luxury brand may buy its old stock at cheaper prices, but they are not allowed to resell them."
+      },
+      {
+       "id": "s40",
+       "text": "In future traditional luxury brands will have to adapt their business strategies to the changing concepts of luxury."
+      },
+      {
+       "id": "s41",
+       "text": "One luxury brand employee quit her job because she simply couldn't bear to see the destruction of unsold products."
+      },
+      {
+       "id": "s42",
+       "text": "Destroying old stock is a practice not just of luxury brands but of less prestigious fashion brands."
+      },
+      {
+       "id": "s43",
+       "text": "Burberry is working with a partner to make full use of leather materials to reduce waste."
+      },
+      {
+       "id": "s44",
+       "text": "Burberry's plan to destroy its unsold products worth millions of dollars aroused public indignation."
+      },
+      {
+       "id": "s45",
+       "text": "Burberry's change of marketing strategy to make a product available as soon as consumers see it on the fashion show did not turn out to be as effective as expected."
+      }
+     ],
+     "answers": [
+      "G",
+      "B",
+      "K",
+      "E",
+      "L",
+      "D",
+      "F",
+      "J",
+      "A",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】While there has been much outrage at the elitist connotation of burning goods rather than making them affordable, executives at the British fashion house are no doubt struggling to defend how they miscalculated production.\n【依据】陈述里的 executives、products、miscalculated、production 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】The practice of destroying unsold stock, and even rolls of unused fabric, is commonplace for luxury labels.\n【依据】陈述里的 luxury、destroying 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Fifteen years ago, Burberry was at crisis point as their signature check pattern was widely imitated by cheap, imitation brands.\n【依据】陈述里的 imitated、burberry 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】In an online forum post, which asked if it's true that Louis Vuitton burned its bags, Ahmed Bouchfaa, who claimed to work for Louis Vuitton, responded that the brand holds sales of old stock for staff members twice a year.\n【依据】陈述里的 staff、members、brand、old、stock 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+      "【定位】That's the challenge that traditional luxury brands will have to contend with in the mid- to long-term future.\"\n【依据】陈述里的 future、traditional、luxury、brands、luxury 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】\"My job was to toss items in boxes so they could be sent to be burned.\n【依据】陈述里的 job 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Richemont, who owns several luxury brands, hit the headlines in May for taking back £437 million of watches for destruction in the last two years to avoid marked-down prices.\n【依据】陈述里的 destroying、luxury、brands、brands 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】One such partnership is with Elvis & Kresse, an accessories brand working with reclaimed materials.\n【依据】陈述里的 working、partner、materials 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Last week, Burberry's annual report revealed that £28.6 million worth of stock was burnt last year.\n【依据】陈述里的 burberry's、worth、millions 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】The move was a switch to leverage on the coverage of their fashion week show to make stock available immediately to consumers.\n【依据】陈述里的 make、available、consumers、fashion、show 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "While there has been much outrage at the elitist connotation of burning goods rather than making them affordable, executives at the British fashion house are no doubt struggling to defend how they miscalculated production.",
+       "why": "陈述里的 executives、products、miscalculated、production 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The practice of destroying unsold stock, and even rolls of unused fabric, is commonplace for luxury labels.",
+       "why": "陈述里的 luxury、destroying 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Fifteen years ago, Burberry was at crisis point as their signature check pattern was widely imitated by cheap, imitation brands.",
+       "why": "陈述里的 imitated、burberry 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In an online forum post, which asked if it's true that Louis Vuitton burned its bags, Ahmed Bouchfaa, who claimed to work for Louis Vuitton, responded that the brand holds sales of old stock for staff members twice a year.",
+       "why": "陈述里的 staff、members、brand、old、stock 在 E 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 E 段。",
+       "traps": {}
+      },
+      {
+       "locate": "That's the challenge that traditional luxury brands will have to contend with in the mid- to long-term future.\"",
+       "why": "陈述里的 future、traditional、luxury、brands、luxury 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"My job was to toss items in boxes so they could be sent to be burned.",
+       "why": "陈述里的 job 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Richemont, who owns several luxury brands, hit the headlines in May for taking back £437 million of watches for destruction in the last two years to avoid marked-down prices.",
+       "why": "陈述里的 destroying、luxury、brands、brands 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "One such partnership is with Elvis & Kresse, an accessories brand working with reclaimed materials.",
+       "why": "陈述里的 working、partner、materials 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Last week, Burberry's annual report revealed that £28.6 million worth of stock was burnt last year.",
+       "why": "陈述里的 burberry's、worth、millions 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The move was a switch to leverage on the coverage of their fashion week show to make stock available immediately to consumers.",
+       "why": "陈述里的 make、available、consumers、fashion、show 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Social media is absolutely everywhere. Billions of people use social media on a daily basis to create, share, and exchange ideas, messages, and information. Both individuals and businesses post regularly to engage and interact with people from around the world. It is a powerful communication medium that simultaneously provides immediate, frequent, permanent, and wide-reaching information across the globe. People post their lives on social media for the world to see. Facebook, Twitter, LinkedIn, and countless other social channels provide a quick and simple way to glimpse into a job candidate's personal life—both the positive and negative sides of it. Social media screening is tempting to use as part of the hiring process, but should employers make use of it when researching a potential candidate's background? Incorporating the use of social media to screen job candidates is not an uncommon practice. A 2018 survey found that almost 70% of employers use social media to screen candidates before hiring them. But there are consequences and potential legal risks involved too. When done inappropriately, social media screening can be considered unethical or even illegal. Social media screening is essentially scrutinising a job candidate's private life. It can reveal information about protected characteristics like age, race, nationality, disability, gender, religion, etc., and that could bias a hiring decision. Pictures or comments on a private page that are taken out of context could ruin a perfectly good candidate's chances of getting hired. This process could potentially give an unfair advantage to one candidate over another. It creates an unequal playing field and potentially provides hiring managers with information that can impact their hiring decision in a negative way. It's hard to ignore social media as a screening tool. While there are things that you shouldn't see, there are some things that can be lawfully considered—making it a valuable source of relevant information too. Using social media screening appropriately can help ensure that you don't hire a toxic employee who will cost you money or stain your company's reputation. Consider the lawful side of this process and you may be able to hire the best employee ever. There is a delicate balance. Screening job candidates on social media must be done professionally and responsibly. Companies should stipulate that they will never ask for passwords, be consistent, document decisions, consider the source used and be aware that other laws may apply. In light of this, it is probably best to look later in the process and ask human resources for help in navigating it. Social media is here to stay. But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the author mainly discuss in the passage?",
+       "options": [
+        "The advantage of using social media in screening job candidates.",
+        "The potentially invasive nature of social media in everyday life.",
+        "Whether the benefits of social media outweigh the drawbacks.",
+        "Whether social media should be used to screen job candidates."
+       ],
+       "answer": 3,
+       "kind": "main",
+       "explain": "【定位】But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws.\n【依据】正确项的核心词 social、media、screen、job、candidates 与定位句对得上；其余 whether、used 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws.",
+        "why": "正确项的核心词 social、media、screen、job、candidates 与定位句对得上；其余 whether、used 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：把原文的「using、social、media」换成了「advantage」，主语或对象被调包。",
+         "B": "无中生有：「invasive、nature、everyday」全文未出现；把原文的「social、media」换成了「potentially、invasive、nature」，主语或对象被调包。",
+         "C": "无中生有：「whether、benefits、outweigh」全文未出现；把原文的「social、media」换成了「whether、benefits、outweigh」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What might happen when social media is used to screen job candidates?",
+       "options": [
+        "Moral or legal issues might arise.",
+        "Company reputation might suffer.",
+        "Sensational information might surface.",
+        "Hiring decisions might be complicated."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws.\n【依据】正确项的核心词 legal 与定位句对得上；其余 moral、issues、arise 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws.",
+        "why": "正确项的核心词 legal 与定位句对得上；其余 moral、issues、arise 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「company、suffer」全文未出现。",
+         "C": "无中生有：「sensational、surface」全文未出现。",
+         "D": "偷换主体：把原文的「complicated」换成了「hiring、decisions」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "When could online personal information be detrimental to candidates?",
+       "options": [
+        "When it is separated from context.",
+        "When it is scrutinised by an employer.",
+        "When it is magnified to a ruinous degree.",
+        "When it is revealed to the human resources."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Social media screening is tempting to use as part of the hiring process, but should employers make use of it when researching a potential candidate's background?\n【依据】正确项的核心词 when 与定位句对得上；其余 separated、context 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Social media screening is tempting to use as part of the hiring process, but should employers make use of it when researching a potential candidate's background?",
+        "why": "正确项的核心词 when 与定位句对得上；其余 separated、context 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「scrutinised」全文未出现；把原文的「when、employer」换成了「scrutinised」，主语或对象被调包。",
+         "C": "无中生有：「magnified、ruinous、degree」全文未出现；把原文的「when」换成了「magnified、ruinous、degree」，主语或对象被调包。",
+         "D": "偷换主体：「revealed」全文未出现；把原文的「when」换成了「revealed、human、resources」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "How can employers use social media information to their advantage while avoiding unnecessary risks?",
+       "options": [
+        "By tipping the delicate balance.",
+        "By using it in a legitimate way.",
+        "By keeping personal information on record.",
+        "By separating relevant from irrelevant data."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Using social media screening appropriately can help ensure that you don't hire a toxic employee who will cost you money or stain your company's reputation.\n【依据】正确项的核心词 using 与定位句对得上；其余 legitimate、way 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Using social media screening appropriately can help ensure that you don't hire a toxic employee who will cost you money or stain your company's reputation.",
+        "why": "正确项的核心词 using 与定位句对得上；其余 legitimate、way 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「tipping」全文未出现。",
+         "C": "因果倒置：「keeping、record」全文未出现。",
+         "D": "无中生有：「separating、irrelevant、data」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What does the author suggest doing before screening job candidates on social media?",
+       "options": [
+        "Hiring professionals to navigate the whole process.",
+        "Anticipating potential risks involved in the process.",
+        "Seeking advice from management and legal experts.",
+        "Stipulating a set of rules for asking specific questions."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws.\n【依据】正确项的核心词 management、legal 与定位句对得上；其余 seeking、advice、experts 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws.",
+        "why": "正确项的核心词 management、legal 与定位句对得上；其余 seeking、advice、experts 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「professionals、navigate、whole」全文未出现。",
+         "B": "因果倒置：「anticipating」全文未出现。",
+         "D": "无中生有：「stipulating、set、rules」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "In recent years, the food industry has increased its use of labels. Whether the labels say 'non-GMO(非转基因的)' or 'no sugar,' or 'zero carbohydrates', consumers are increasingly demanding more information about what's in their food. One report found that 39 percent of consumers would switch from the brands they currently buy to others that provide clearer, more accurate product information. Food manufacturers are responding to the report with new labels to meet that demand, and they're doing so with an eye towards giving their products an advantage over the competition, and bolstering profits. This strategy makes intuitive sense. If consumers say they want transparency, tell them exactly what is in your product. That is simply supplying a certain demand. But the marketing strategy in response to this consumer demand has gone beyond articulating what is in a product, to labeling what is NOT in the food. These labels are known as \"absence claims\" labels, and they represent an emerging labeling trend that is detrimental both to the consumers who purchase the products and the industry that supplies them. For example, Hunt's put a \"non-GMO\" label on its canned crushed tomatoes a few years ago—despite the fact that at the time there was no such thing as a GMO tomato on the market. Some dairy companies are using the \"non-GMO\" label on their milk, despite the fact that all milk is naturally GMO-free, another label that creates unnecessary fear around food. While creating labels that play on consumer fears and misconceptions about their food may give a company a temporary marketing advantage over competing products on the grocery aisle, in the long term this strategy will have just the opposite effect: by injecting fear into the discourse about our food, we run the risk of eroding consumer trust in not just a single product, but the entire food business. Eventually, it becomes a question in consumers' minds: Were these foods ever safe? By purchasing and consuming these types of products, have I already done some kind of harm to my family or the planet? For food manufacturers, it will mean damaged consumer trust and lower sales for everyone. And this isn't just supposition. A recent study found that absence claims labels can create a stigma around foods even when there is no scientific evidence that they cause harm. It's clear that food manufacturers must tread carefully when it comes to using absence claims. In addition to the likely negative long-term impact on sales, this verbal trick sends a message that innovations in farming and food processing are unwelcome, eventually leading to less efficiency, fewer choices for consumers, and ultimately, more costly food products. If we allow this kind of labeling to continue, we will all lose.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What trend has been observed in a report?",
+       "options": [
+        "Food manufacturers, rising awareness of product safety.",
+        "Food manufacturers, changing strategies to bolster profits.",
+        "Consumers, growing demand for eye-catching food labels.",
+        "Consumers, increasing desire for clear product information."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】One report found that 39 percent of consumers would switch from the brands they currently buy to others that provide clearer, more accurate product information.\n【依据】正确项的核心词 consumers、clear、product、information 与定位句对得上；其余 increasing、desire 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One report found that 39 percent of consumers would switch from the brands they currently buy to others that provide clearer, more accurate product information.",
+        "why": "正确项的核心词 consumers、clear、product、information 与定位句对得上；其余 increasing、desire 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「rising、awareness、safety」全文未出现；把原文的「product」换成了「food、manufacturers、rising」，主语或对象被调包。",
+         "B": "因果倒置：「changing、strategies、bolster」全文未出现。",
+         "C": "偷换主体：「growing、eye-catching」全文未出现；把原文的「consumers」换成了「growing、demand、eye-catching」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What does the author say is manufacturers' new marketing strategy?",
+       "options": [
+        "Stressing the absence of certain elements in their products.",
+        "Articulating the unique nutritional value of their products.",
+        "Supplying detailed information of their products.",
+        "Designing transparent labels for their products."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】But the marketing strategy in response to this consumer demand has gone beyond articulating what is in a product, to labeling what is NOT in the food.\n【依据】正确项的核心词 products 与定位句对得上；其余 stressing、absence、certain、elements 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But the marketing strategy in response to this consumer demand has gone beyond articulating what is in a product, to labeling what is NOT in the food.",
+        "why": "正确项的核心词 products 与定位句对得上；其余 stressing、absence、certain、elements 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「unique、nutritional、value」全文未出现；把原文的「articulating、products」换成了「unique、nutritional、value」，主语或对象被调包。",
+         "C": "偷换主体：「detailed」全文未出现；把原文的「products」换成了「supplying、detailed、information」，主语或对象被调包。",
+         "D": "无中生有：「designing、transparent」全文未出现；把原文的「labels、products」换成了「designing、transparent」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What point does the author make about non-GMO labels?",
+       "options": [
+        "They are increasingly attracting customers' attention.",
+        "They create lots of trouble for GMO food producers.",
+        "They should be used more for vegetables and milk.",
+        "They cause anxiety about food among consumers."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Whether the labels say 'non-GMO(非转基因的)' or 'no sugar,' or 'zero carbohydrates', consumers are increasingly demanding more information about what's in their food.\n【依据】正确项的核心词 about、food、consumers 与定位句对得上；其余 cause、anxiety、among 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Whether the labels say 'non-GMO(非转基因的)' or 'no sugar,' or 'zero carbohydrates', consumers are increasingly demanding more information about what's in their food.",
+        "why": "正确项的核心词 about、food、consumers 与定位句对得上；其余 cause、anxiety、among 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「attracting、customers'、attention」全文未出现；把原文的「increasingly」换成了「attracting、customers'、attention」，主语或对象被调包。",
+         "B": "无中生有：「lots、trouble、producers」全文未出现；把原文的「food」换成了「create、lots、trouble」，主语或对象被调包。",
+         "C": "无中生有：「used、vegetables」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the author say absence claims labels will do to food manufacturers?",
+       "options": [
+        "Cause changes in their marketing strategies.",
+        "Help remove stigma around their products.",
+        "Erode consumer trust and reduce sales.",
+        "Decrease support from food scientists."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】For food manufacturers, it will mean damaged consumer trust and lower sales for everyone.\n【依据】正确项的核心词 consumer、trust、sales 与定位句对得上；其余 erode、reduce 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For food manufacturers, it will mean damaged consumer trust and lower sales for everyone.",
+        "why": "正确项的核心词 consumer、trust、sales 与定位句对得上；其余 erode、reduce 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「changes、strategies」全文未出现。",
+         "B": "因果倒置：「help、remove」全文未出现。",
+         "D": "无中生有：「decrease、support、scientists」全文未出现；把原文的「food」换成了「decrease、support、scientists」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author suggest food manufacturers do?",
+       "options": [
+        "Take measures to lower the cost of food products.",
+        "Exercise caution about the use of absence claims.",
+        "Welcome new innovations in food processing.",
+        "Promote efficiency and increase food variety."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】It's clear that food manufacturers must tread carefully when it comes to using absence claims.\n【依据】正确项的核心词 absence、claims 与定位句对得上；其余 exercise、caution、about、use 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "It's clear that food manufacturers must tread carefully when it comes to using absence claims.",
+        "why": "正确项的核心词 absence、claims 与定位句对得上；其余 exercise、caution、about、use 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「take、measures、cost」全文未出现；把原文的「food」换成了「take、measures、lower」，主语或对象被调包。",
+         "C": "偷换主体：「welcome」全文未出现；把原文的「food」换成了「welcome、new、innovations」，主语或对象被调包。",
+         "D": "无中生有：「promote、increase、variety」全文未出现；把原文的「food」换成了「promote、efficiency、increase」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 454 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "中国共产党第一次全国代表大会会址位于上海兴业路号，是一栋典型的上海式住宅，建于年秋。年月日，中国共产党第一次全国代表大会在此召开，大会通过了中国共产党的第一个纲领和第一个决议，选举产生了中央领导机构，宣告了中国共产党的诞生。年月，中共一大会址修复，建立纪念馆并对外开放。纪念馆除了介绍参加一大的代表之外，还介绍党的历史发展进程，现已成为了解党史缅怀革命先烈的爱国主义教育基地。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

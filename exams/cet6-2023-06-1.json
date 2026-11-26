@@ -1,0 +1,1176 @@
+{
+ "id": "cet6-2023-06-1",
+ "levelId": "cet6",
+ "title": "六级 2023 年 06 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2023年6月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2023-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2023-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 嗨，莉莉，新公寓怎么样？"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 还行吧。"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 什么？上周你还对这个地方兴奋不已"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 嗯，我上周搬进去的时候"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 啊，问题就在这儿"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 我这么说听起来可能像个傻瓜"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 你当然会想念他们"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 我还以为只有我会有这种感觉"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 你以前和我们住在家里"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 其实，它还不错"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 听起来确实很可爱"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What was the woman's first impression of the apartment?",
+       "options": [
+        "It was spacious and tranquil.",
+        "It was warm and comfortable.",
+        "It was shabby and solitary.",
+        "It was tiny and noisy."
+       ],
+       "optionsZh": [
+        "宽敞而安静。",
+        "温暖而舒适。",
+        "破旧而孤独。",
+        "狭小而嘈杂。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It was warm and comfortable.（温暖而舒适。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "Why does the woman say she is going to sound like an idiot?",
+       "options": [
+        "She no longer hates people talking loudly in the dorm.",
+        "She misses her roommates she used to complain about.",
+        "She begins to enjoy the movies she once found irritating.",
+        "She finds the crowded dorm as cozy as her new apartment."
+       ],
+       "optionsZh": [
+        "她不再讨厌人们在宿舍里大声说话。",
+        "她怀念她曾经抱怨过的室友们。",
+        "她开始喜欢她曾经觉得烦人的电影。",
+        "她觉得拥挤的宿舍和她的新公寓一样舒适。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She misses her roommates she used to complain about.（她怀念她曾经抱怨过的室友们。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What do we learn about the man when he left the dormitory to live on his own?",
+       "options": [
+        "He found the apartment perfectly furnished.",
+        "He had a feeling of despair and frustration.",
+        "He had a similar feeling to the woman's.",
+        "He felt the new place was like paradise."
+       ],
+       "optionsZh": [
+        "他发现这套公寓家具齐全。",
+        "他有一种绝望和沮丧的感觉。",
+        "他有与这位女士相似的感觉。",
+        "他觉得新地方就像天堂一样。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He had a similar feeling to the woman's.（他有与这位女士相似的感觉。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the man say he can't wait to do?",
+       "options": [
+        "Go to see the woman's apartment.",
+        "Make a phone call to his parents.",
+        "Buy some furniture for the woman.",
+        "Decorate the woman's apartment."
+       ],
+       "optionsZh": [
+        "去看这位女士的公寓。",
+        "给他的父母打个电话。",
+        "给这位女士买些家具。",
+        "装修这位女士的公寓。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Go to see the woman's apartment.（去看这位女士的公寓。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What do we learn from the conversation about the man?",
+       "options": [
+        "He works as a literary critic.",
+        "He hosts an educational program.",
+        "He has initiated a university reform.",
+        "He has published a book recently."
+       ],
+       "optionsZh": [
+        "他从事文学评论工作。",
+        "他主持一档教育节目。",
+        "他发起了一项大学改革。",
+        "他最近出版了一本书。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：He has published a book recently.（他最近出版了一本书。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the man believe is the problem with the current American system of higher education?",
+       "options": [
+        "It fails to keep up with the radical changes of society.",
+        "It fails to ensure universities get sufficient resources.",
+        "It has not prepared young people for the job market.",
+        "It has not fostered the growth of the arts disciplines."
+       ],
+       "optionsZh": [
+        "它未能跟上社会的剧烈变革。",
+        "它未能确保大学获得充足的资源。",
+        "它没有为年轻人进入就业市场做好准备。",
+        "它没有促进人文艺术学科的发展。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It has not prepared young people for the job market.（它没有为年轻人进入就业市场做好准备。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "How should the education budget be allocated according to the man?",
+       "options": [
+        "More of the budget should go to science and technology.",
+        "The underfunded music discipline should be prioritized.",
+        "Subdisciplines like sculpture should get more funding.",
+        "Literature should get as much funding as engineering."
+       ],
+       "optionsZh": [
+        "更多预算应该投向科学与技术。",
+        "资金不足的音乐学科应该被优先考虑。",
+        "像雕塑这样的分支学科应该获得更多资金。",
+        "文学应该获得与工程学同等的资金。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：More of the budget should go to science and technology.（更多预算应该投向科学与技术。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What does the woman say the arts can do?",
+       "options": [
+        "Build a prosperous nation.",
+        "Make skilled professionals.",
+        "Create ingenious artists.",
+        "Cultivate better citizens."
+       ],
+       "optionsZh": [
+        "建设繁荣的国家。",
+        "培养技术熟练的专业人才。",
+        "造就才华横溢的艺术家。",
+        "培养更好的公民。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Cultivate better citizens.（培养更好的公民。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What do we learn about the feeling that one doesn't have time to think anymore?",
+       "options": [
+        "It is quite common.",
+        "It is rarely noticed.",
+        "It seldom annoys people.",
+        "It occurs when one is alone."
+       ],
+       "optionsZh": [
+        "这种感觉相当普遍。",
+        "这种感觉很少被注意到。",
+        "这种感觉很少使人烦恼。",
+        "这种感觉在独处时发生。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It is quite common.（这种感觉相当普遍。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What trait do all great professionals share?",
+       "options": [
+        "Seeing things in black and white.",
+        "Engaging in regular contemplation.",
+        "Having a special understanding of creativity.",
+        "Knowing how to make their mental batteries work."
+       ],
+       "optionsZh": [
+        "以非黑即白的方式看待事物。",
+        "定期进行沉思。",
+        "对创造力有特殊的理解。",
+        "懂得如何让他们的精神电池运转。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Engaging in regular contemplation.（定期进行沉思。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What do some researchers believe is conducive to creative ideas?",
+       "options": [
+        "Engaging in intense activity.",
+        "Fantasizing in one's downtime.",
+        "Working on a particular project.",
+        "Reflecting during one's relaxation."
+       ],
+       "optionsZh": [
+        "从事高强度活动。",
+        "在停工期进行幻想。",
+        "致力于某个特定项目。",
+        "在放松期间进行反思。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Reflecting during one's relaxation.（在放松期间进行反思。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the passage say about Colorado before it became a state?",
+       "options": [
+        "Farmers helped Native Americans grow crops.",
+        "There were expansive university campuses.",
+        "There existed post offices.",
+        "Migrants found gold there."
+       ],
+       "optionsZh": [
+        "农民帮助美洲原住民种植农作物。",
+        "那里有广阔的大学校园。",
+        "那里存在邮局。",
+        "移民在那里发现了黄金。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：There existed post offices.（那里存在邮局。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "How did the postal service contribute to America's westward expansion?",
+       "options": [
+        "It helped to boost the economy in the American West.",
+        "It provided job opportunities for many gold seekers.",
+        "It extended the influence of the federal government.",
+        "It kept people in the deserts and plains connected."
+       ],
+       "optionsZh": [
+        "它帮助推动了美国西部的经济发展。",
+        "它为许多淘金者提供了就业机会。",
+        "它扩大了联邦政府的影响力。",
+        "它使沙漠和平原地区的人们保持联系。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It kept people in the deserts and plains connected.（它使沙漠和平原地区的人们保持联系。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What did the federal government do to meet the increasing demand for the postal service in the West?",
+       "options": [
+        "It employed Native Americans to work as postmen.",
+        "It commissioned private wagons to carry the mail.",
+        "It subsidized the locals who acted as postmasters.",
+        "It centralized postal services in its remote areas."
+       ],
+       "optionsZh": [
+        "它雇用美洲原住民担任邮递员。",
+        "它委托私人马车运送邮件。",
+        "它资助担任邮政局长的当地人。",
+        "它在偏远地区集中邮政服务。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It commissioned private wagons to carry the mail.（它委托私人马车运送邮件。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What did Mr. Blevins do to study the history of the US postal service?",
+       "options": [
+        "He analyzed interactive maps of mail routes.",
+        "He read a large collection of books on the topic.",
+        "He examined its historical trends with data science.",
+        "He collected data about its impact on local business."
+       ],
+       "optionsZh": [
+        "他分析了邮路的交互式地图。",
+        "他阅读了大量关于该主题的书籍。",
+        "他用数据科学检验了其历史趋势。",
+        "他收集了关于其对当地商业影响的数据。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：He examined its historical trends with data science.（他用数据科学检验了其历史趋势。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say the new study suggests?",
+       "options": [
+        "Higher levels of anxiety may improve people's memory.",
+        "Some experiences are easier to remember than others.",
+        "Most people tend to remember things selectively.",
+        "Simple things may leave a deep impression on one's memory."
+       ],
+       "optionsZh": [
+        "较高水平的焦虑可能会改善人们的记忆。",
+        "某些经历比其他经历更容易记住。",
+        "大多数人倾向于选择性地记住事情。",
+        "简单的事情可能会在人的记忆中留下深刻印象。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Higher levels of anxiety may improve people's memory.（较高水平的焦虑可能会改善人们的记忆。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What did researchers do first in the new study?",
+       "options": [
+        "They classified the participants' mindset.",
+        "They showed some photos to the participants.",
+        "They measured the participants' anxiety levels.",
+        "They tested the size of the participants' vocabulary."
+       ],
+       "optionsZh": [
+        "他们对参与者的心态进行了分类。",
+        "他们向参与者展示了一些照片。",
+        "他们测量了参与者的焦虑水平。",
+        "他们测试了参与者的词汇量大小。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They measured the participants' anxiety levels.（他们测量了参与者的焦虑水平。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What do we learn from previous studies about anxiety?",
+       "options": [
+        "Anxiety has become a serious problem for an increasing number of people.",
+        "Extreme levels of anxiety can adversely affect cognitive performance.",
+        "People diagnosed with anxiety disorder may forget things selectively.",
+        "There is no direct correlation between memory and levels of anxiety."
+       ],
+       "optionsZh": [
+        "焦虑已经成为越来越多人面临的严重问题。",
+        "极端水平的焦虑会对认知表现产生不利影响。",
+        "被诊断患有焦虑症的人可能会选择性地忘记事情。",
+        "记忆与焦虑水平之间没有直接关联。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Extreme levels of anxiety can adversely affect cognitive performance.（极端水平的焦虑会对认知表现产生不利影响。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker say about today's consumers?",
+       "options": [
+        "They compare products from different companies before making a choice.",
+        "They get information from other consumers' postings and comments.",
+        "They lose patience when their phone call is not promptly answered.",
+        "They expect to get instantaneous responses to their inquiry."
+       ],
+       "optionsZh": [
+        "他们在做出选择之前会比较不同公司的产品。",
+        "他们从其他消费者的发帖和评论中获取信息。",
+        "当他们的电话没有得到及时接听时,他们会失去耐心。",
+        "他们期望对自己的询问得到即时回复。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They expect to get instantaneous responses to their inquiry.（他们期望对自己的询问得到即时回复。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "How do marketers capture consumers' attention as quickly as possible?",
+       "options": [
+        "Giving them rewards on the spot.",
+        "Broadening their scope of interest.",
+        "Speaking directly to their emotions.",
+        "Focusing on the details of the product."
+       ],
+       "optionsZh": [
+        "当场给予他们奖励。",
+        "拓宽他们的兴趣范围。",
+        "直接诉诸他们的情感。",
+        "关注产品的细节。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Speaking directly to their emotions.（直接诉诸他们的情感。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What does the speaker suggest marketers do to meet future challenges?",
+       "options": [
+        "Change the rules of the game in the market every year.",
+        "Keep up with the latest technological developments.",
+        "Learn from technological innovators to do business.",
+        "Make greater efforts to build up consumers' confidence."
+       ],
+       "optionsZh": [
+        "每年改变市场上的游戏规则。",
+        "跟上最新的技术发展。",
+        "向技术创新者学习如何做生意。",
+        "加大努力建立消费者的信心。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Keep up with the latest technological developments.（跟上最新的技术发展。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the speaker say is interesting?",
+       "options": [
+        "People have only one social engagement per week.",
+        "Working together enhances friendship.",
+        "Few people have devoted friends.",
+        "Friendships benefit work."
+       ],
+       "optionsZh": [
+        "人们每周只有一次社交活动。",
+        "一起工作能增进友谊。",
+        "很少有人拥有忠诚的朋友。",
+        "友谊有益于工作。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Friendships benefit work.（友谊有益于工作。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What did researchers from an American university analyze in their initial study?",
+       "options": [
+        "The impact of friends on people's self-esteem.",
+        "How supportive friends can be in the workplace.",
+        "How to boost one's sense of value and worthiness.",
+        "The role of family ties in people's mental well-being."
+       ],
+       "optionsZh": [
+        "朋友对人们自尊的影响。",
+        "朋友在职场中能提供多大支持。",
+        "如何提升一个人的价值感和自我价值。",
+        "家庭关系在人们心理健康中的作用。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：The impact of friends on people's self-esteem.（朋友对人们自尊的影响。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What did the second study find about non-work friends?",
+       "options": [
+        "They show little interest in their friends' work.",
+        "They tend to be much more difficult to make.",
+        "They are more trustworthy and reliable.",
+        "They increase people's job satisfaction."
+       ],
+       "optionsZh": [
+        "他们对朋友的工作兴趣不大。",
+        "他们往往更难建立。",
+        "他们更值得信赖和可靠。",
+        "他们能提高人们的工作满意度。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They increase people's job satisfaction.（他们能提高人们的工作满意度。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the speaker suggest managers do?",
+       "options": [
+        "Allow employees to have a flexible work schedule.",
+        "Encourage employees to be friends with colleagues.",
+        "Help employees balance work and family responsibilities.",
+        "Organize activities to nourish friendships outside of work."
+       ],
+       "optionsZh": [
+        "允许员工有灵活的工作时间安排。",
+        "鼓励员工与同事成为朋友。",
+        "帮助员工平衡工作和家庭责任。",
+        "组织活动以培养工作之外的友谊。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Allow employees to have a flexible work schedule.（允许员工有灵活的工作时间安排。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Scientists recently examined studies on dog intelligence and compared them with research into the minds of other intelligent animals. The researchers found that dogs are among the more intelligent carnivores(食肉动物), social hunters and domestic animals, but that their intelligence does not {{1}} other intelligent animals in any of those categories. Though a significant body of research has examined dog cognition {{2}} , the authors of this new study found little to warrant the {{3}} of work that has been devoted to the topic. Stephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to {{4}} how clever dogs are, rather than simply to study dogs' brains. Lea and a colleague examined more than 300 studies of dog cognition, comparing the studies' results with those from research into other animals. The researchers made specific comparisons between the different species in different categories of intelligence. These comparisons {{5}} that dogs are intelligent, but their intelligence is not as {{6}} as some researchers might have believed. In many areas, though, comparisons were not possible. For example, the researchers noted that both dogs and cats are known to be able to recognize and {{7}} human voices. But the investigators could not find any data to indicate which species can remember a greater number of {{8}} human voices, so it was impossible to compare the two on that front. However, not all researchers agree {{9}} with the findings of this study. Zachary Silver, an American researcher, believes the authors of the new study {{10}} the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think.",
+     "options": [
+      "affirmed",
+      "approximately",
+      "completely",
+      "differentiate",
+      "distinct",
+      "domain",
+      "formidable",
+      "outperformed",
+      "overstated",
+      "pledge",
+      "previously",
+      "prospective",
+      "prove",
+      "surpass",
+      "volume"
+     ],
+     "answers": [
+      13,
+      10,
+      14,
+      12,
+      0,
+      6,
+      3,
+      4,
+      2,
+      8
+     ],
+     "blankExplains": [
+      "【定位】The researchers found that dogs are among the more intelligent carnivores(食肉动物), social hunters and domestic animals, but that their intelligence does not ____ other intelligent animals in any of those categories.\n【依据】答案是 surpass：填回后与所在句 researchers、found、dogs、among、intelligent、carnivores 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Though a significant body of research has examined dog cognition ____ , the authors of this new study found little to warrant the  … of work that has been devoted to the topic.\n【依据】答案是 previously：填回后与所在句 though、significant、body、research、examined、dog 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Though a significant body of research has examined dog cognition  … , the authors of this new study found little to warrant the ____ of work that has been devoted to the topic.\n【依据】答案是 volume：填回后与所在句 though、significant、body、research、examined、dog 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Stephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to ____ how clever dogs are, rather than simply to study dogs' brains.\n【依据】答案是 prove：填回后与所在句 stephen、lea、lead、author、new、study 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】These comparisons ____ that dogs are intelligent, but their intelligence is not as  … as some researchers might have believed.\n【依据】答案是 affirmed：填回后与所在句 comparisons、dogs、intelligent、intelligence、researchers、believed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】These comparisons  … that dogs are intelligent, but their intelligence is not as ____ as some researchers might have believed.\n【依据】答案是 formidable：填回后与所在句 comparisons、dogs、intelligent、intelligence、researchers、believed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】For example, the researchers noted that both dogs and cats are known to be able to recognize and ____ human voices.\n【依据】答案是 differentiate：填回后与所在句 example、researchers、noted、both、dogs、cats 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But the investigators could not find any data to indicate which species can remember a greater number of ____ human voices, so it was impossible to compare the two on that front.\n【依据】答案是 distinct：填回后与所在句 investigators、find、data、indicate、which、species 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】However, not all researchers agree ____ with the findings of this study.\n【依据】答案是 completely：填回后与所在句 however、researchers、agree、findings、study 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Zachary Silver, an American researcher, believes the authors of the new study ____ the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think.\n【依据】答案是 overstated：填回后与所在句 zachary、silver、american、researcher、believes、authors 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "The researchers found that dogs are among the more intelligent carnivores(食肉动物), social hunters and domestic animals, but that their intelligence does not ____ other intelligent animals in any of those categories.",
+       "why": "答案是 surpass：填回后与所在句 researchers、found、dogs、among、intelligent、carnivores 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 surpass 这个词性/语义，而不是 affirmed）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 surpass 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "Though a significant body of research has examined dog cognition ____ , the authors of this new study found little to warrant the  … of work that has been devoted to the topic.",
+       "why": "答案是 previously：填回后与所在句 though、significant、body、research、examined、dog 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 previously 这个词性/语义，而不是 prospective）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 previously 这个词性/语义，而不是 prove）。"
+       }
+      },
+      {
+       "locate": "Though a significant body of research has examined dog cognition  … , the authors of this new study found little to warrant the ____ of work that has been devoted to the topic.",
+       "why": "答案是 volume：填回后与所在句 though、significant、body、research、examined、dog 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 volume 这个词性/语义，而不是 affirmed）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 volume 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "Stephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to ____ how clever dogs are, rather than simply to study dogs' brains.",
+       "why": "答案是 prove：填回后与所在句 stephen、lea、lead、author、new、study 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "与 prove 拼写相近（共同开头 pro），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 prove 这个词性/语义，而不是 previously）。"
+       }
+      },
+      {
+       "locate": "These comparisons ____ that dogs are intelligent, but their intelligence is not as  … as some researchers might have believed.",
+       "why": "答案是 affirmed：填回后与所在句 comparisons、dogs、intelligent、intelligence、researchers、believed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 affirmed 这个词性/语义，而不是 approximately）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 affirmed 这个词性/语义，而不是 completely）。"
+       }
+      },
+      {
+       "locate": "These comparisons  … that dogs are intelligent, but their intelligence is not as ____ as some researchers might have believed.",
+       "why": "答案是 formidable：填回后与所在句 comparisons、dogs、intelligent、intelligence、researchers、believed 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 formidable 这个词性/语义，而不是 affirmed）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 formidable 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "For example, the researchers noted that both dogs and cats are known to be able to recognize and ____ human voices.",
+       "why": "答案是 differentiate：填回后与所在句 example、researchers、noted、both、dogs、cats 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 differentiate 这个词性/语义，而不是 distinct）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 differentiate 这个词性/语义，而不是 domain）。"
+       }
+      },
+      {
+       "locate": "But the investigators could not find any data to indicate which species can remember a greater number of ____ human voices, so it was impossible to compare the two on that front.",
+       "why": "答案是 distinct：填回后与所在句 investigators、find、data、indicate、which、species 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 distinct 这个词性/语义，而不是 differentiate）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 distinct 这个词性/语义，而不是 domain）。"
+       }
+      },
+      {
+       "locate": "However, not all researchers agree ____ with the findings of this study.",
+       "why": "答案是 completely：填回后与所在句 however、researchers、agree、findings、study 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 completely 这个词性/语义，而不是 affirmed）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 completely 这个词性/语义，而不是 approximately）。"
+       }
+      },
+      {
+       "locate": "Zachary Silver, an American researcher, believes the authors of the new study ____ the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think.",
+       "why": "答案是 overstated：填回后与所在句 zachary、silver、american、researcher、believes、authors 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 overstated 这个词性/语义，而不是 outperformed）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 overstated 这个词性/语义，而不是 affirmed）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Gratitude may be more beneficial than we commonly suppose. One recent study asked participants to write a note of thanks to someone and then estimate how surprised and happy the recipient would feel—an impact that they consistently underestimated. Another study assessed the health benefits of writing thank-you notes. The researchers found that writing as few as three weekly thank-you notes over the course of three weeks improved life satisfaction, increased happy feelings and reduced symptoms of depression."
+      },
+      {
+       "id": "B",
+       "text": "While this research into gratitude is relatively new, the principles involved are anything but. Students of mine in a political philosophy course at Indiana University are reading Daniel Defoe's 300-year-old Robinson Crusoe, often regarded as the first novel published in English. Left alone on an unknown island with no apparent prospect of rescue or escape, Crusoe has much to lament(悲叹). But instead of giving in to despair, he makes a list of things for which he is grateful, including the fact that he is the sole survivor from the shipwreck(海难) and has been able to salvage many useful items from the wreckage."
+      },
+      {
+       "id": "C",
+       "text": "Defoe's masterpiece, which is often ranked as one of the world's greatest novels, provides a portrait of gratitude in action that is as timely and relevant today as it has ever been. It is also one with which contemporary psychology and medicine are just beginning to catch up. Simply put, for most of us, it is far more helpful to focus on the things in life for which we can express gratitude than those that incline us toward resentment and lamentation."
+      },
+      {
+       "id": "D",
+       "text": "When we focus on the things we regret, such as failed relationships, family disputes, and setbacks in career and finance, we tend to become more regretful. Conversely, when we focus on the things we are grateful for, a greater sense of happiness tends to spread through our lives. And while no one would argue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings is one of the best habits we can develop to promote mental and physical health."
+      },
+      {
+       "id": "E",
+       "text": "Gratitude has long enjoyed a privileged position in many of the world's cultural traditions. For example, some ancient Western philosophers counsel gratitude that is both enduring and complete, and some Eastern thinkers portray it as not merely an attitude but a virtue to be put into practice."
+      },
+      {
+       "id": "F",
+       "text": "Recent scientific studies support these ancient teachings. Individuals who regularly engage in gratitude exercises, such as counting their blessings or expressing gratitude to others, exhibit increased satisfaction with relationships and fewer symptoms of physical illness. And the benefits are not only psychological and physical. They may also be moral—those who practice gratitude also view their lives less materialistically and suffer from less envy."
+      },
+      {
+       "id": "G",
+       "text": "There are multiple explanations for such benefits of gratefulness. One is the fact that expressing gratitude encourages others to continue being generous, thus promoting a virtuous cycle of goodness in relationships. Similarly, grateful people may be more likely to reciprocate(回报) with acts of kindness of their own. Broadly speaking, a community in which people feel grateful to one another is likely to be a more pleasant place to live than one characterized by mutual suspicion and resentment. The beneficial effects of gratitude may extend even further. For example, when many people feel good about what someone else has done for them, they experience a sense of being lifted up, with a corresponding enhancement of their regard for humanity. Some are inspired to attempt to become better people themselves, doing more to help bring out the best in others and bringing more goodness into the world around them."
+      },
+      {
+       "id": "H",
+       "text": "Gratitude also tends to strengthen a sense of connection with others. When people want to do good things that inspire gratitude, the level of dedication in relationships tends to grow and relationships seem to last longer. And when people feel more connected, they are more likely to choose to spend their time with one another and demonstrate their feelings of affection in daily acts."
+      },
+      {
+       "id": "I",
+       "text": "Of course, acts of kindness can also foster discomfort. For example, if people feel they are not worthy of kindness or suspect that some ulterior(别有用心的) motive lies behind it, the benefits of gratitude will not be realized. Likewise, receiving a kindness can give rise to a sense of indebtedness, leaving beneficiaries feeling that they must now pay back whatever good they have received. Gratitude can flourish only if people are secure enough in themselves and sufficiently trusting to allow it to do so. Another obstacle to gratitude is often called a sense of entitlement. Instead of experiencing a benefaction(善行) as a good turn, people sometimes regard it as a mere payment of what they are owed, for which no one deserves any moral credit."
+      },
+      {
+       "id": "J",
+       "text": "There are a number of practical steps anyone can take to promote a sense of gratitude. One is simply spending time on a regular basis thinking about someone who has made a difference, or perhaps writing a thank-you note or expressing such gratitude in person. Others are found in ancient religious disciplines, such as reflecting on benefactions received from another person or actually praying for the health and happiness of a benefactor. In addition to benefactions received, it is also possible to focus on opportunities to do good oneself, whether those acted on in the past or hoped for in the future. Some people are most grateful not for what others have done for them but for chances they enjoyed to help others. In regularly reflecting on the things in his life he is grateful for, Defoe's Crusoe believes that he becomes a far better person than he would have been had he remained in the society from which he originally set out on his voyage."
+      },
+      {
+       "id": "K",
+       "text": "Reflecting on generosity and gratitude, the great basketball coach John Wooden once offered two counsels to his players and students. First, he said, \"It is impossible to have a perfect day unless you have done something for someone who will never be able to repay you.\" In saying this, Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward. Second, he said, \"Give thanks for your blessings every day.\""
+      },
+      {
+       "id": "L",
+       "text": "Some faith traditions incorporate such practices into the rhythm of daily life. For example, adherents of some religions offer prayers of thanksgiving every morning before rising and every night before lying down to sleep. Others offer thanks throughout the day, such as before meals. Other less frequent special events, such as births, deaths and marriages, may also be heralded by such prayers."
+      },
+      {
+       "id": "M",
+       "text": "When Defoe depicted Robinson Crusoe making thanksgiving a daily part of his island life, he was anticipating findings in social science and medicine that would not appear for hundreds of years. Yet he was also reflecting the wisdom of religious and philosophical traditions that extend back thousands of years. Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it as a habit are enriching not only their own lives but also the lives of those around them."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "It does us far more good to focus on things we can be grateful for than what makes us sad and resentful."
+      },
+      {
+       "id": "s37",
+       "text": "The beneficial impacts of gratitude can extend from individuals to their community and to the wider society."
+      },
+      {
+       "id": "s38",
+       "text": "The participants in a recent study repeatedly underestimated the positive effect on those who received thank-you notes."
+      },
+      {
+       "id": "s39",
+       "text": "Good deeds can sometimes make people feel uncomfortable."
+      },
+      {
+       "id": "s40",
+       "text": "People who regularly express gratitude can benefit in moral terms."
+      },
+      {
+       "id": "s41",
+       "text": "A basketball coach advocated performing generous acts without expecting anything in return."
+      },
+      {
+       "id": "s42",
+       "text": "More and more evidence shows it makes us mentally and physically healthier to routinely count our blessings."
+      },
+      {
+       "id": "s43",
+       "text": "Of all states of mind, feeling grateful is considered one of the most healthy and beneficial."
+      },
+      {
+       "id": "s44",
+       "text": "The principles underlying the research into gratitude are nothing new at all."
+      },
+      {
+       "id": "s45",
+       "text": "Gratitude is likely to enhance one's sense of being connected with other people."
+      }
+     ],
+     "answers": [
+      "C",
+      "G",
+      "A",
+      "I",
+      "F",
+      "K",
+      "D",
+      "M",
+      "B",
+      "H"
+     ],
+     "statementExplains": [
+      "【定位】Simply put, for most of us, it is far more helpful to focus on the things in life for which we can express gratitude than those that incline us toward resentment and lamentation.\n【依据】陈述里的 far、focus、things、resentful 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】The beneficial effects of gratitude may extend even further.\n【依据】陈述里的 beneficial、gratitude、extend 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】One recent study asked participants to write a note of thanks to someone and then estimate how surprised and happy the recipient would feel—an impact that they consistently underestimated.\n【依据】陈述里的 participants、recent、study、underestimated、thank-you 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Instead of experiencing a benefaction(善行) as a good turn, people sometimes regard it as a mere payment of what they are owed, for which no one deserves any moral credit.\n【依据】陈述里的 good、sometimes、people 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Individuals who regularly engage in gratitude exercises, such as counting their blessings or expressing gratitude to others, exhibit increased satisfaction with relationships and fewer symptoms of physical illness.\n【依据】陈述里的 who、regularly、express、gratitude 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】First, he said, \"It is impossible to have a perfect day unless you have done something for someone who will never be able to repay you.\" In saying this, Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward.\n【依据】陈述里的 performing、generous、acts、expecting 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】And while no one would argue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings is one of the best habits we can develop to promote mental and physical health.\n【依据】陈述里的 evidence、mentally、physically、healthier、count、blessings 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it as a habit are enriching not only their own lives but also the lives of those around them.\n【依据】陈述里的 states、mind、healthy 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】While this research into gratitude is relatively new, the principles involved are anything but.\n【依据】陈述里的 principles、research、into、gratitude、new 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Gratitude also tends to strengthen a sense of connection with others.\n【依据】陈述里的 gratitude、sense、connected、other 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。"
+     ],
+     "explain": "长篇阅读匹配：13 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Simply put, for most of us, it is far more helpful to focus on the things in life for which we can express gratitude than those that incline us toward resentment and lamentation.",
+       "why": "陈述里的 far、focus、things、resentful 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The beneficial effects of gratitude may extend even further.",
+       "why": "陈述里的 beneficial、gratitude、extend 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "One recent study asked participants to write a note of thanks to someone and then estimate how surprised and happy the recipient would feel—an impact that they consistently underestimated.",
+       "why": "陈述里的 participants、recent、study、underestimated、thank-you 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Instead of experiencing a benefaction(善行) as a good turn, people sometimes regard it as a mere payment of what they are owed, for which no one deserves any moral credit.",
+       "why": "陈述里的 good、sometimes、people 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Individuals who regularly engage in gratitude exercises, such as counting their blessings or expressing gratitude to others, exhibit increased satisfaction with relationships and fewer symptoms of physical illness.",
+       "why": "陈述里的 who、regularly、express、gratitude 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "First, he said, \"It is impossible to have a perfect day unless you have done something for someone who will never be able to repay you.\" In saying this, Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward.",
+       "why": "陈述里的 performing、generous、acts、expecting 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And while no one would argue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings is one of the best habits we can develop to promote mental and physical health.",
+       "why": "陈述里的 evidence、mentally、physically、healthier、count、blessings 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it as a habit are enriching not only their own lives but also the lives of those around them.",
+       "why": "陈述里的 states、mind、healthy 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "While this research into gratitude is relatively new, the principles involved are anything but.",
+       "why": "陈述里的 principles、research、into、gratitude、new 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Gratitude also tends to strengthen a sense of connection with others.",
+       "why": "陈述里的 gratitude、sense、connected、other 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Technology is never a neutral tool for achieving human ends. Technological innovations reshape people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity. While the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, there are other, deeper implications. As AI increasingly shapes the human experience, how does this change what it means to be human? Central to the problem is a person's capacity to make choices, particularly judgments that have moral implications. Aristotle argued that the capacity for making practical judgments depends on regularly making them—on habit and practice. We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves. In the workplace, managers routinely make decisions about who to hire or fire and which loan to approve, to name a few. These are areas where algorithmic(算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will. Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck. By presenting consumers with algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own. At the same time, though, this selection is optimizing for what people are likely to prefer based on what they've preferred in the past. We think there is some risk that people's options will be constrained by their past in a new and unanticipated way. As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant. Algorithms could soon—if they don't already—have a better idea about which show you'd like to watch next and which job candidate you should hire than you do. One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display. But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn about the deeper implications of AI?",
+       "options": [
+        "It is causing catastrophic levels of unemployment.",
+        "It is doing physical harm to human operators.",
+        "It is altering moral judgments.",
+        "It is reshaping humanity."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant.\n【依据】正确项的核心词 humanity 与定位句对得上；其余 reshaping 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant.",
+        "why": "正确项的核心词 humanity 与定位句对得上；其余 reshaping 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「causing」全文未出现。",
+         "B": "无中生有：「doing、physical、harm」全文未出现；把原文的「human」换成了「doing、physical、harm」，主语或对象被调包。",
+         "C": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What is the consequence of algorithmic prescription replacing human judgment?",
+       "options": [
+        "People lose the chance to cultivate the ability to make practical judgments.",
+        "People are prevented from participating in making major decisions in the workplace.",
+        "Managers no longer have the chance to decide which loan to approve.",
+        "Managers do not need to take the trouble to determine who to hire or fire."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】These are areas where algorithmic(算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will.\n【依据】正确项的核心词 people、chance、practical、judgments 与定位句对得上；其余 lose、cultivate、ability、make 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "These are areas where algorithmic(算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will.",
+        "why": "正确项的核心词 people、chance、practical、judgments 与定位句对得上；其余 lose、cultivate、ability、make 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「prevented、participating、major」全文未出现；把原文的「people」换成了「prevented、participating、making」，主语或对象被调包。",
+         "C": "偷换主体：「decide」全文未出现；把原文的「longer、chance」换成了「managers、decide、which」，主语或对象被调包。",
+         "D": "偷换主体：「need、take、trouble」全文未出现；把原文的「who」换成了「managers、need、take」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What may result from increasing application of recommendation engines in our consumption of culture?",
+       "options": [
+        "Consumers will have much limited choice.",
+        "Consumers will actually enjoy better luck.",
+        "It will be easier to decide on what to enjoy.",
+        "Humans will develop tastes similar to machines'."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck.\n【依据】正确项的核心词 consumers、choice 与定位句对得上；其余 much、limited 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck.",
+        "why": "正确项的核心词 consumers、choice 与定位句对得上；其余 much、limited 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「actually、enjoy」全文未出现；把原文的「consumers、luck」换成了「actually、enjoy、better」，主语或对象被调包。",
+         "C": "无中生有：「easier、decide、enjoy」全文未出现。",
+         "D": "无中生有：「tastes、similar、machines'」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What is likely to happen to larger parts of our daily life as machine learning algorithms improve?",
+       "options": [
+        "They will turn out to be more pleasant.",
+        "They will repeat our past experience.",
+        "They can be completely anticipated.",
+        "They may become better and better."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 completely、anticipated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 completely、anticipated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「turn、out」全文未出现。",
+         "B": "因果倒置：「repeat」全文未出现。",
+         "D": "偷换主体：把原文的「become」换成了「better、better」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "Why does the author say the creatures living in the more and more AI-mediated world will become increasingly unlike us?",
+       "options": [
+        "They will have lost the most significant human element of being intelligent.",
+        "They will no longer possess the human characteristic of being unpredictable.",
+        "They will not be able to understand themselves as we can do today.",
+        "They will be deprived of what their predecessors were proud of about themselves."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 longer、possess、human、characteristic 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 longer、possess、human、characteristic 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「lost、element、intelligent」全文未出现。",
+         "C": "因果倒置：「able、today」全文未出现。",
+         "D": "因果倒置：「deprived、predecessors、proud」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 450 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "Phonics, which involves sounding out words syllable(音节) by syllable, is the best way to teach children to read. But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom. Most American children are taught to read in a way that study after study has found to be wrong. The consequences of this are striking. Less than half of all American adults were proficient readers in 2017. American fourth graders rank 15th on the Progress in International Literacy Study, an international exam. America is stuck in a debate about teaching children to read that has been going on for decades. Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as \"whole language\". Most teachers today, almost three out of four according to a survey by the Ed Week Research Centre in 2019, use a mix called \"balanced literacy\". This combination of methods is ineffective. \"You can't sprinkle in a little phonics,\" says Tenette Smith, executive director of elementary education and reading at Mississippi's education department. \"It has to be systematic and explicitly taught.\" Mississippi, often behind in social policy, has set an example here. In a state once notorious for its low reading scores, the Mississippi state legislature passed new literacy standards in 2013. Since then Mississippi has seen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National Assessment of Educational Progress, a nationwide exam. In 2019 it was the only state to improve its scores. For the first time since measurement began, Mississippi's pupils are now average readers, a remarkable achievement in such a poor state. Mississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading. In 1997 Congress requested the National Institute of Child Health and Human Development and the Department of Education to convene a National Reading Panel to end the \"reading wars\" and synthesize the evidence. The panel found that phonics, along with explicit instruction in phonemic(音位的) awareness, fluency and comprehension, worked best. Yet over two decades on, \"balanced literacy\" is still being taught in classrooms. But advances in statistics and brain imaging have disproved the whole-language method. To the teacher who is a proficient reader, literacy seems like a natural process that requires educated guessing, rather than the deliberate process emphasized by phonics. Teachers can imagine that they learned to read through osmosis(潜移默化) when they were children. Without proper training, they bring this to classrooms.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn about phonics in many American classrooms?",
+       "options": [
+        "It is ill reputed.",
+        "It is mostly misapplied.",
+        "It is arbitrarily excluded.",
+        "It is misrepresented."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】America is stuck in a debate about teaching children to read that has been going on for decades.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 ill、reputed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "America is stuck in a debate about teaching children to read that has been going on for decades.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 ill、reputed 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「mostly、misapplied」全文未出现。",
+         "C": "无中生有：「arbitrarily、excluded」全文未出现。",
+         "D": "无中生有：「misrepresented」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What has America been witnessing for decades?",
+       "options": [
+        "An obsession with innovating teaching methodologies of reading.",
+        "An enduring debate over the approach to teaching children to read.",
+        "An increasing concern with many children's inadequacy in literacy.",
+        "An ever-forceful advocacy of a combined method for teaching reading."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】America is stuck in a debate about teaching children to read that has been going on for decades.\n【依据】正确项的核心词 debate、teaching、children、read 与定位句对得上；其余 enduring、over、approach 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "America is stuck in a debate about teaching children to read that has been going on for decades.",
+        "why": "正确项的核心词 debate、teaching、children、read 与定位句对得上；其余 enduring、over、approach 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「obsession、innovating、methodologies」全文未出现；把原文的「teaching」换成了「obsession、innovating、methodologies」，主语或对象被调包。",
+         "C": "无中生有：「increasing、concern、inadequacy」全文未出现；把原文的「children's」换成了「increasing、concern、many」，主语或对象被调包。",
+         "D": "无中生有：「ever-forceful、advocacy、combined」全文未出现；把原文的「teaching」换成了「ever-forceful、advocacy、combined」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "Why does Tenette Smith think a combination of teaching methods is ineffective?",
+       "options": [
+        "Elementary schoolchildren will be frustrated when taught with several methods combined.",
+        "Phonics has to be systematically applied and clearly taught to achieve the desired effect.",
+        "Sprinkling in a little phonics deters the progress of even adequately motivated children.",
+        "Balanced literacy fails to sustain children's interest in developing a good reading habit."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】This combination of methods is ineffective.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 phonics、systematically、applied、clearly 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This combination of methods is ineffective.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 phonics、systematically、applied、clearly 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「schoolchildren、frustrated、several」全文未出现；把原文的「methods、combined」换成了「elementary、schoolchildren、frustrated」，主语或对象被调包。",
+         "C": "因果倒置：「sprinkling、deters、even」全文未出现。",
+         "D": "无中生有：「fails、sustain、children's」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What does the author say Mississippi's success is attributed to?",
+       "options": [
+        "Convening a National Reading Panel to synthesize research evidence.",
+        "Placing sufficient emphasis upon both fluency and comprehension.",
+        "Adopting scientifically grounded approaches to teaching reading.",
+        "Obtaining support from Congress to upgrade teaching methods."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Mississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading.\n【依据】正确项的核心词 scientifically、reading 与定位句对得上；其余 adopting、grounded、approaches、teaching 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Mississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading.",
+        "why": "正确项的核心词 scientifically、reading 与定位句对得上；其余 adopting、grounded、approaches、teaching 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「convening」全文未出现；把原文的「reading、research」换成了「convening、national、panel」，主语或对象被调包。",
+         "B": "无中生有：「placing、sufficient、emphasis」全文未出现。",
+         "D": "偷换主体：「obtaining、upgrade」全文未出现；把原文的「support、methods」换成了「obtaining、congress、upgrade」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What have advances in statistics and brain imaging proved ineffective?",
+       "options": [
+        "The teaching of symbol-sound relationships.",
+        "Explicit instruction in phonemic awareness.",
+        "Efforts to end the reading wars.",
+        "The immersive approach."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】But advances in statistics and brain imaging have disproved the whole-language method.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 immersive、approach 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "But advances in statistics and brain imaging have disproved the whole-language method.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 immersive、approach 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "因果倒置：「efforts」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 444 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "近年来越来越多的中国文化产品走向全球市场日益受到海外消费者的青睐。随着中国对外文化贸易的快速发展中国文化产品出口额已持续多年位居世界前列形成了一批具有国际影响力的文化企业、产品和品牌。数据显示中国的出版物、影视作品、网络文学与动漫作品等在海外的销售量连年攀升。中国政府出台了一系列政策鼓励和支持更多具有中国元素的优秀文化产品走出国门扩大海外市场份额进一步提升中国文化的世界影响力。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

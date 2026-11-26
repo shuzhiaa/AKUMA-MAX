@@ -1,0 +1,631 @@
+{
+ "id": "cet4-2020-12-3",
+ "levelId": "cet4",
+ "title": "四级 2020 年 12 月 第 3 套",
+ "minutes": 125,
+ "band": "3",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2020年12月英语四级真题及答案解析（第3套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2020-12-3/",
+ "_missing": [],
+ "_answerCount": 30,
+ "sections": [
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part , you are allowed 30 minutes to write on the topic Changes in the Way of Communication. You should write at least 120 words but no more than 180 words.",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "The way people communicate has changed dramatically over the past few decades. In the past, staying in touch\nmeant writing letters or making phone calls, while nowadays a tap on the screen connects us instantly. In my\nview, this shift has reshaped our lives in profound ways.\nThe most obvious change lies in speed and distance. Our parents used to wait days for a letter to arrive,\nwhereas we now send messages, photos and even video calls across continents in seconds. Take my\ngrandmother as an example: she once relied on the post office, but today she chats with me through instant\nmessaging and social media every night. Such tools help families stay connected regardless of where they live.\nHowever, this convenience comes at a price. When face-to-face talk is replaced by screens, warmth and\nsincerity may fade away. Therefore, we should embrace new means of communication while still valuing\ngenuine human contact. Only by balancing the two can we truly benefit from these changes."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "The things people make, and the way they make them, determine how cities grow and decline, and influence how empires rise and fall. So, any disruption to the world's factories {{1}} . And that disruption is surely coming. Factories are being digitised, filled with new sensors and new computers to make them quicker, more {{2}} , and more efficient. Robots are breaking free from the cages that surround them, learning new skills and new ways of working. And 3D printers have long {{3}} a world where you can make anything, anywhere, from a computerised design. That vision is {{4}} closer to reality. These forces will lead to cleaner factories, producing better goods at lower prices, personalised to our individual needs and desires. Humans will be {{5}} many of the dirty, repetitive, and dangerous jobs that have long been a {{6}} of factory life. Greater efficiency {{7}} means fewer people can do the same work. Yet factory bosses in many developed countries are worried about a lack of skilled human workers—and see {{8}} and robots as a solution. But economist Helena Leurent says this period of rapid change in manufacturing is a {{9}} opportunity to make the world a better place. \"Manufacturing is the one system where you have got the biggest source of innovation, the biggest source of economic growth, and the biggest source of great jobs in the past. You can see it changing. That's an opportunity to {{10}} that system differently, and if we can, it will have tremendous significance.\"",
+     "options": [
+      "automation",
+      "concerns",
+      "enormously",
+      "fantastic",
+      "fascinated",
+      "feature",
+      "flexible",
+      "inevitably",
+      "interaction",
+      "leaning",
+      "matters",
+      "moving",
+      "promised",
+      "shape",
+      "spared"
+     ],
+     "answers": [
+      10,
+      6,
+      12,
+      11,
+      14,
+      5,
+      7,
+      0,
+      3,
+      13
+     ],
+     "blankExplains": [
+      "【定位】So, any disruption to the world's factories ____ .\n【依据】答案是 matters：填回后与所在句 disruption、world's、factories 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Factories are being digitised, filled with new sensors and new computers to make them quicker, more ____ , and more efficient.\n【依据】答案是 flexible：填回后与所在句 factories、digitised、filled、new、sensors、new 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】And 3D printers have long ____ a world where you can make anything, anywhere, from a computerised design.\n【依据】答案是 promised：填回后与所在句 printers、long、world、where、make、anything 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】That vision is ____ closer to reality.\n【依据】答案是 moving：填回后与所在句 vision、closer、reality 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Humans will be ____ many of the dirty, repetitive, and dangerous jobs that have long been a  … of factory life.\n【依据】答案是 spared：填回后与所在句 humans、many、dirty、repetitive、dangerous、jobs 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Humans will be  … many of the dirty, repetitive, and dangerous jobs that have long been a ____ of factory life.\n【依据】答案是 feature：填回后与所在句 humans、many、dirty、repetitive、dangerous、jobs 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Greater efficiency ____ means fewer people can do the same work.\n【依据】答案是 inevitably：填回后与所在句 greater、efficiency、means、fewer、people、same 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Yet factory bosses in many developed countries are worried about a lack of skilled human workers—and see ____ and robots as a solution.\n【依据】答案是 automation：填回后与所在句 yet、factory、bosses、many、developed、countries 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But economist Helena Leurent says this period of rapid change in manufacturing is a ____ opportunity to make the world a better place.\n【依据】答案是 fantastic：填回后与所在句 economist、helena、leurent、says、period、rapid 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】That's an opportunity to ____ that system differently, and if we can, it will have tremendous significance.\"\n【依据】答案是 shape：填回后与所在句 that's、opportunity、system、differently、tremendous、significance 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "So, any disruption to the world's factories ____ .",
+       "why": "答案是 matters：填回后与所在句 disruption、world's、factories 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 matters 这个词性/语义，而不是 moving）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 matters 这个词性/语义，而不是 automation）。"
+       }
+      },
+      {
+       "locate": "Factories are being digitised, filled with new sensors and new computers to make them quicker, more ____ , and more efficient.",
+       "why": "答案是 flexible：填回后与所在句 factories、digitised、filled、new、sensors、new 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 flexible 这个词性/语义，而不是 fantastic）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 flexible 这个词性/语义，而不是 fascinated）。"
+       }
+      },
+      {
+       "locate": "And 3D printers have long ____ a world where you can make anything, anywhere, from a computerised design.",
+       "why": "答案是 promised：填回后与所在句 printers、long、world、where、make、anything 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 promised 这个词性/语义，而不是 automation）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 promised 这个词性/语义，而不是 concerns）。"
+       }
+      },
+      {
+       "locate": "That vision is ____ closer to reality.",
+       "why": "答案是 moving：填回后与所在句 vision、closer、reality 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 moving 这个词性/语义，而不是 matters）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 moving 这个词性/语义，而不是 automation）。"
+       }
+      },
+      {
+       "locate": "Humans will be ____ many of the dirty, repetitive, and dangerous jobs that have long been a  … of factory life.",
+       "why": "答案是 spared：填回后与所在句 humans、many、dirty、repetitive、dangerous、jobs 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 spared 这个词性/语义，而不是 shape）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 spared 这个词性/语义，而不是 automation）。"
+       }
+      },
+      {
+       "locate": "Humans will be  … many of the dirty, repetitive, and dangerous jobs that have long been a ____ of factory life.",
+       "why": "答案是 feature：填回后与所在句 humans、many、dirty、repetitive、dangerous、jobs 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 feature 这个词性/语义，而不是 fantastic）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 feature 这个词性/语义，而不是 fascinated）。"
+       }
+      },
+      {
+       "locate": "Greater efficiency ____ means fewer people can do the same work.",
+       "why": "答案是 inevitably：填回后与所在句 greater、efficiency、means、fewer、people、same 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inevitably 这个词性/语义，而不是 interaction）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 inevitably 这个词性/语义，而不是 automation）。"
+       }
+      },
+      {
+       "locate": "Yet factory bosses in many developed countries are worried about a lack of skilled human workers—and see ____ and robots as a solution.",
+       "why": "答案是 automation：填回后与所在句 yet、factory、bosses、many、developed、countries 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 automation 这个词性/语义，而不是 concerns）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 automation 这个词性/语义，而不是 enormously）。"
+       }
+      },
+      {
+       "locate": "But economist Helena Leurent says this period of rapid change in manufacturing is a ____ opportunity to make the world a better place.",
+       "why": "答案是 fantastic：填回后与所在句 economist、helena、leurent、says、period、rapid 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 fantastic 这个词性/语义，而不是 fascinated）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 fantastic 这个词性/语义，而不是 feature）。"
+       }
+      },
+      {
+       "locate": "That's an opportunity to ____ that system differently, and if we can, it will have tremendous significance.\"",
+       "why": "答案是 shape：填回后与所在句 that's、opportunity、system、differently、tremendous、significance 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "O": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shape 这个词性/语义，而不是 spared）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 shape 这个词性/语义，而不是 automation）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "It was made of shiny, bright pink plastic with a Little Mermaid sticker on the front, and I carried it with me nearly every single day. My lunch box was one of my first prized possessions, a proud statement to everyone in my kindergarten: \"I love Mermaid-Ariel on my lunch box.\""
+      },
+      {
+       "id": "B",
+       "text": "That bulky container served me well through my first and second grades, until the live-action version of 101 Dalmatians hit theaters, and I needed the newest red plastic box with characters like Pongo and Perdita on the front. I know I'm not alone here—I bet you loved your first lunchbox, too."
+      },
+      {
+       "id": "C",
+       "text": "Lunch boxes have been connecting kids to cartoons and TV shows and super-heroes for decades. But it wasn't always that way. Once upon a time, they weren't even boxes. As schools have changed in the past century, the midday meal container has evolved right along with them."
+      },
+      {
+       "id": "D",
+       "text": "Let's start back at the beginning of the 20th century—the beginning of the lunch box story, really. While there were neighborhood schools in cities and suburbs, one-room schoolhouses were common in rural areas. As grandparents have been saying for generations, kids would travel miles to school in the countryside (often on foot)."
+      },
+      {
+       "id": "E",
+       "text": "\"You had kids in rural areas who couldn't go home from school for lunch, so bringing your lunch wrapped in a cloth, in oiled paper, in a little wooden box or something like that was a very long-standing rural tradition,\" says Paula Johnson, head of food history section at the Smithsonian National Museum of American History in Washington, D.C."
+      },
+      {
+       "id": "F",
+       "text": "City kids, on the other hand, went home for lunch and came back. Since they rarely carried a meal, the few metal lunch buckets on the market were mainly for tradesmen and factory workers."
+      },
+      {
+       "id": "G",
+       "text": "After World War II, a bunch of changes reshaped schools—and lunches. More women joined the workforce. Small schools consolidated into larger ones, meaning more students were farther away from home. And the National School Lunch Act in 1946 made cafeterias much more common. Still, there wasn't much of a market for lunch containers—yet. Students who carried their lunch often did so in a re-purposed bucket or tin of some kind."
+      },
+      {
+       "id": "H",
+       "text": "And then everything changed in the year of 1950. You might as well call it the Year of the Lunch Box, thanks in large part to a genius move by a Nashville-based manufacturer, Aladdin Industries. The company already made square metal meal containers, the kind workers carried, and some had started to show up in the hands of school kids."
+      },
+      {
+       "id": "I",
+       "text": "But these containers were really durable, lasting years on end. That was great for the consumer, not so much for the manufacturer. So executives at Aladdin hit on an idea that would harness the newfound popularity of television. They covered lunch boxes with striking red paint and added a picture of TV and radio cowboy Hopalong Cassidy on the front."
+      },
+      {
+       "id": "J",
+       "text": "The company sold 600,000 units the first year. It was a major \"Ah-ha!\" moment, and a wave of other manufacturers jumped on board to capitalize on new TV shows and movies. \"The Partridge Family, the Addams Family, the Six Million Dollar Man, the Bionic Woman—everything that was on television ended up on a lunch box,\" says Allen Woodall. He's the founder of the Lunch Box Museum in Columbus, Georgia. \"It was a great marketing tool because kids were taking that TV show to school with them, and then when they got home they had them captured back on TV,\" he says."
+      },
+      {
+       "id": "K",
+       "text": "And yes, you read that right: There is a lunch box museum, right near the Chattahoochee River. Woodall has more than 2,000 items on display. His favorite? The Green Hornet lunch box, because he used to listen to the radio show back in the 1940s."
+      },
+      {
+       "id": "L",
+       "text": "The new trend was also a great example of planned obsolescence, that is, to design a product so that it will soon become unfashionable or impossible to use and will need replacing. Kids would beg for a new lunch box every year to keep up with the newest characters, even if their old lunchbox was perfectly usable."
+      },
+      {
+       "id": "M",
+       "text": "The metal lunch box craze lasted until the mid-1980s, when plastic took over. Two theories exist as to why. The first—and most likely—is that plastic had simply become cheaper. The second theory—possibly an urban myth—is that concerned parents in several states proposed bans on metal lunch boxes, claiming kids were using them as \"weapons\" to hit one another. There's a lot on the internet about a state-wide ban in Florida, but a few days worth of digging by a historian at the Florida State Historical Society found no such legislation. Either way, the metal lunch box was out."
+      },
+      {
+       "id": "N",
+       "text": "The last few decades have brought a new lunch box revolution, of sorts. Plastic boxes changed to lined cloth sacks, and eventually, globalism brought tiffin containers from India and bento boxes from Japan. Even the old metal lunch boxes have regained popularity. \"I don't think the heyday(鼎盛时期) has passed,\" says D.J. Jayasekara, owner and founder of lunchbox.com, a retailer in Pasadena, California. \"I think it has evolved. The days of the ready-made, 'you stick it in a lunchbox and carry it to school' are kind of done.\""
+      },
+      {
+       "id": "O",
+       "text": "The introduction of backpacks changed the lunch box scene a bit, he adds. Once kids started carrying book bags, that bulky traditional lunch box was hard to fit inside. \"But you can't just throw a sandwich in a backpack,\" Jayasekara says. \"It still has to go into a container.\" That is, in part, why smaller and softer containers have taken off—they fit into backpacks."
+      },
+      {
+       "id": "P",
+       "text": "And don't worry—whether it's a plastic bento box or a cloth bag, lunch containers can still easily be covered with popular culture. \"We keep pace with the movie industries so we can predict which characters are going to be popular for the coming months,\" Jayasekara says. \"You know, kids are kids.\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Lunch containers were not necessary for school kids in cities."
+      },
+      {
+       "id": "s37",
+       "text": "Putting TV characters on lunch boxes proved an effective marketing strategy."
+      },
+      {
+       "id": "s38",
+       "text": "Smaller lunch boxes are preferred because they fit easily into backpacks."
+      },
+      {
+       "id": "s39",
+       "text": "Lunch boxes have evolved along with the transformation of schools."
+      },
+      {
+       "id": "s40",
+       "text": "Around the beginning of the nineteen fifties, some school kids started to use metal meal containers."
+      },
+      {
+       "id": "s41",
+       "text": "School kids are eager to get a new lunch box every year to stay in fashion."
+      },
+      {
+       "id": "s42",
+       "text": "Rural kids used to walk a long way to school in the old days."
+      },
+      {
+       "id": "s43",
+       "text": "The author was proud of using a lunch box in her childhood."
+      },
+      {
+       "id": "s44",
+       "text": "The most probable reason for the popularity of plastic lunch boxes is that they are less expensive."
+      },
+      {
+       "id": "s45",
+       "text": "The durability of metal meal containers benefited consumers."
+      }
+     ],
+     "answers": [
+      "F",
+      "J",
+      "O",
+      "C",
+      "H",
+      "L",
+      "D",
+      "A",
+      "M",
+      "I"
+     ],
+     "statementExplains": [
+      "【定位】City kids, on the other hand, went home for lunch and came back.\n【依据】陈述里的 lunch、kids 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】\"The Partridge Family, the Addams Family, the Six Million Dollar Man, the Bionic Woman—everything that was on television ended up on a lunch box,\" says Allen Woodall.\n【依据】陈述里的 lunch 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】\"It still has to go into a container.\" That is, in part, why smaller and softer containers have taken off—they fit into backpacks.\n【依据】陈述里的 smaller、fit、into、backpacks 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+      "【定位】As schools have changed in the past century, the midday meal container has evolved right along with them.\n【依据】陈述里的 evolved、along、schools 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】The company already made square metal meal containers, the kind workers carried, and some had started to show up in the hands of school kids.\n【依据】陈述里的 school、kids、started、metal、meal、containers 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】Kids would beg for a new lunch box every year to keep up with the newest characters, even if their old lunchbox was perfectly usable.\n【依据】陈述里的 kids、new、lunch、box、every、year 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】While there were neighborhood schools in cities and suburbs, one-room schoolhouses were common in rural areas.\n【依据】陈述里的 rural、school 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】My lunch box was one of my first prized possessions, a proud statement to everyone in my kindergarten: \"I love Mermaid-Ariel on my lunch box.\"\n【依据】陈述里的 proud、lunch、box 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】The metal lunch box craze lasted until the mid-1980s, when plastic took over.\n【依据】陈述里的 plastic、lunch 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】But these containers were really durable, lasting years on end.\n【依据】陈述里的 durability、containers 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。"
+     ],
+     "explain": "长篇阅读匹配：16 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "City kids, on the other hand, went home for lunch and came back.",
+       "why": "陈述里的 lunch、kids 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"The Partridge Family, the Addams Family, the Six Million Dollar Man, the Bionic Woman—everything that was on television ended up on a lunch box,\" says Allen Woodall.",
+       "why": "陈述里的 lunch 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "\"It still has to go into a container.\" That is, in part, why smaller and softer containers have taken off—they fit into backpacks.",
+       "why": "陈述里的 smaller、fit、into、backpacks 在 O 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 O 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As schools have changed in the past century, the midday meal container has evolved right along with them.",
+       "why": "陈述里的 evolved、along、schools 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The company already made square metal meal containers, the kind workers carried, and some had started to show up in the hands of school kids.",
+       "why": "陈述里的 school、kids、started、metal、meal、containers 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Kids would beg for a new lunch box every year to keep up with the newest characters, even if their old lunchbox was perfectly usable.",
+       "why": "陈述里的 kids、new、lunch、box、every、year 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "While there were neighborhood schools in cities and suburbs, one-room schoolhouses were common in rural areas.",
+       "why": "陈述里的 rural、school 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "My lunch box was one of my first prized possessions, a proud statement to everyone in my kindergarten: \"I love Mermaid-Ariel on my lunch box.\"",
+       "why": "陈述里的 proud、lunch、box 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "The metal lunch box craze lasted until the mid-1980s, when plastic took over.",
+       "why": "陈述里的 plastic、lunch 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But these containers were really durable, lasting years on end.",
+       "why": "陈述里的 durability、containers 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "A growing number of U.S. bike riders are attracted to electric bikes for convenience, health benefits and their fun factor. Although ebikes first appeared in the 90s, cheaper options and longer-lasting batteries are breathing new life into the concept. Established bike companies and startups are embracing ebikes to meet demand. About 34 million ebikes were sold worldwide last year, according to data from eCycleElectric Consultants. Most were sold in Europe and China, where the bikes already have exploded in popularity. Recently, the U.S. market has grown to 263,000 bikes, a 25% gain from the prior year. The industry is benefiting from improved batteries as suppliers over the years developed technology for laptops, smartphones and electric cars. In 2004, the price of batteries used on ebikes fell, spurring European sales. But lower cost options are emerging, too. This month, three U.S. bikeshare companies, Motivate, LimeBike and Spin, announced electric bicycles will be added to their fleets. New York-based Jump Bikes is already operating an electric bikeshare in Washington, D.C., and is launching in San Francisco Thursday. Rides cost $2 for 30 minutes. The system works like existing dockless bikeshare systems, where riders unlock bikes through a smartphone app. \"This is the beginning of a long-term shift away from regular pedal(踏板) to electric bikes,\" said Jump Bikes CEO Ryan Rzepecki. \"When people first jump on an ebike, their face lights up. It's exciting and joyful in a way that you don't get from a regular bike.\" Two years ago, CEO Chris Cocalis of Pivot Cycles, which sells high-end mountain bikes, found that U.S. bike shops weren't interested in stocking ebikes. Some retailers warned Cocalis that they'd drop the brand if it came out with an electric bike. Now that sales are taking off, the vast majority of bike dealers are asking Cocalis when he'll make an ebike available. \"There's tremendous opportunity to get a generation of people for whom suffering isn't their thing,\" Cocalis said. \"Ebike riders get the enjoyable part of cycling without the massive suffering of climbing huge hills.\"",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn from the passage about ebikes?",
+       "options": [
+        "Their health benefits and fun values outweigh their cost.",
+        "They did not catch public attention in the United States until the 1990s.",
+        "They did not become popular until the emergence of improved batteries.",
+        "Their widespread use is attributable to people's environmental awareness."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】About 34 million ebikes were sold worldwide last year, according to data from eCycleElectric Consultants.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 become、popular、until、emergence 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "About 34 million ebikes were sold worldwide last year, according to data from eCycleElectric Consultants.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 become、popular、until、emergence 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「values、outweigh」全文未出现。",
+         "B": "无中生有：「catch、public、attention」全文未出现。",
+         "D": "无中生有：「widespread、use、attributable」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What brought about the boost in ebike sales in Europe at the beginning of the century?",
+       "options": [
+        "Updated technology of bike manufacture.",
+        "The falling prices of ebike batteries.",
+        "Changed fashion in short-distance travel.",
+        "The rising costs for making electric cars."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】In 2004, the price of batteries used on ebikes fell, spurring European sales.\n【依据】正确项的核心词 prices、ebike、batteries 与定位句对得上；其余 falling 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In 2004, the price of batteries used on ebikes fell, spurring European sales.",
+        "why": "正确项的核心词 prices、ebike、batteries 与定位句对得上；其余 falling 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「updated、manufacture」全文未出现。",
+         "C": "无中生有：「changed、fashion、short-distance」全文未出现。",
+         "D": "无中生有：「rising、costs、making」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What is the prospect of the bike industry according to Ryan Rzepecki?",
+       "options": [
+        "More will be invested in bike battery research.",
+        "The sales of ebikes will increase.",
+        "It will profit from ebike sharing.",
+        "It will make a difference in people's daily lives."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】Now that sales are taking off, the vast majority of bike dealers are asking Cocalis when he'll make an ebike available.\n【依据】正确项的核心词 sales、ebikes 与定位句对得上；其余 increase 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Now that sales are taking off, the vast majority of bike dealers are asking Cocalis when he'll make an ebike available.",
+        "why": "正确项的核心词 sales、ebikes 与定位句对得上；其余 increase 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「invested、battery、research」全文未出现；把原文的「bike」换成了「invested、battery、research」，主语或对象被调包。",
+         "C": "无中生有：「profit、sharing」全文未出现；把原文的「ebike」换成了「profit、sharing」，主语或对象被调包。",
+         "D": "无中生有：「difference、people's、daily」全文未出现；把原文的「make」换成了「difference、people's、daily」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What prevented Chris Cocalis from developing ebikes sooner?",
+       "options": [
+        "Retailers' refusal to deal in ebikes.",
+        "High profits from conventional bikes.",
+        "Users' concern about risks of ebike riding.",
+        "His focus on selling costly mountain bikes."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Now that sales are taking off, the vast majority of bike dealers are asking Cocalis when he'll make an ebike available.\n【依据】正确项的核心词 ebikes 与定位句对得上；其余 retailers'、refusal、deal 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Now that sales are taking off, the vast majority of bike dealers are asking Cocalis when he'll make an ebike available.",
+        "why": "正确项的核心词 ebikes 与定位句对得上；其余 retailers'、refusal、deal 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「high、profits、conventional」全文未出现。",
+         "C": "无中生有：「users'、concern、risks」全文未出现；把原文的「ebike」换成了「users'、concern、about」，主语或对象被调包。",
+         "D": "无中生有：「focus、selling、costly」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What makes Chris Cocalis believe there is a greater opportunity for ebike sales?",
+       "options": [
+        "The further lowering of ebike prices.",
+        "The public's concern for their health.",
+        "The increasing interest in mountain climbing.",
+        "The younger generation's pursuit of comfortable riding."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】\"There's tremendous opportunity to get a generation of people for whom suffering isn't their thing,\" Cocalis said.\n【依据】正确项的核心词 generation's 与定位句对得上；其余 younger、pursuit、comfortable、riding 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "\"There's tremendous opportunity to get a generation of people for whom suffering isn't their thing,\" Cocalis said.",
+        "why": "正确项的核心词 generation's 与定位句对得上；其余 younger、pursuit、comfortable、riding 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「further、lowering、prices」全文未出现。",
+         "B": "无中生有：「public's、concern」全文未出现。",
+         "C": "因果倒置：「increasing、interest」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 338 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "The terms \"global warming\" and \"climate change\" are used by many, seemingly interchangeably. But do they really mean the same thing? Scientists shaped the history of the terms while attempting to accurately describe how humans continue to alter the planet. Later, political strategists adopted the terms to influence public opinion. In 1975, geochemist Wallace Broecker introduced the term \"climate change\" in an article published by Science. In 1979, a National Academy of Sciences report used the term \"global warming\" to define increases in the Earth's average surface temperature, while \"climate change\" more broadly referred to the numerous effects of this increase, such as sea-level rise and ocean acidification(酸化). During the following decades, some industrialists and politicians launched a campaign to sow doubt in the minds of the American public about the ability of fossil-fuel use, deforestation and other human activities to influence the planet's climate. Word use played a critical role in developing that doubt. For example, the language and polls expert Frank Luntz wrote a memo encouraging the use of \"climate change\" because the phrase sounded less scary than \"global warming,\" reported the Guardian. However, Luntz's recommendation wasn't necessary. A Google Ngram Viewer chart shows that by 1993 climate change was already more commonly used in books than global warming. By the end of the next decade both words were used more frequently, and climate change was used nearly twice as often as global warming. NASA used the term \"climate change\" because it more accurately reflects the wide range of changes to the planet caused by increasing amounts of greenhouse gases in the atmosphere. The debate isn't new. A century ago, chemist Svante Arrhenius started one of the first debates over the potential for humans to influence the planet's climate. Arrhenius calculated the capability of carbon dioxide to trap heat in the Earth's atmosphere, but other chemists disagreed. Some argued that humans weren't producing enough greenhouse gases, while others claimed the effects would be tiny. Now, of course, we know that whatever you call it, human behavior is warming the planet, with grave consequences ahead.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "Why did politicians use the two terms \"global warming\" and \"climate change\"?",
+       "options": [
+        "To sway public opinion of the impact of human activities on Earth.",
+        "To more accurately describe the consequences of human activities.",
+        "To win more popular votes in their campaign activities.",
+        "To assure the public of the safety of existing industries."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】For example, the language and polls expert Frank Luntz wrote a memo encouraging the use of \"climate change\" because the phrase sounded less scary than \"global warming,\" reported the Guardian.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 sway、public、opinion、impact 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For example, the language and polls expert Frank Luntz wrote a memo encouraging the use of \"climate change\" because the phrase sounded less scary than \"global warming,\" reported the Guardian.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 sway、public、opinion、impact 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "无中生有：「win、popular、votes」全文未出现。",
+         "D": "无中生有：「assure、safety、existing」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "As used in a National Academy of Sciences report, the term \"climate change\" differs from \"global warming\" in that_________.",
+       "options": [
+        "it sounds less vague",
+        "it looks more scientific",
+        "it covers more phenomena",
+        "it is much closer to reality"
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In 1979, a National Academy of Sciences report used the term \"global warming\" to define increases in the Earth's average surface temperature, while \"climate change\" more broadly referred to the numerous effects of this increase, such as sea-level rise and ocean acidification(酸化).\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 covers、phenomena 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In 1979, a National Academy of Sciences report used the term \"global warming\" to define increases in the Earth's average surface temperature, while \"climate change\" more broadly referred to the numerous effects of this increase, such as sea-level rise and ocean acidification(酸化).",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 covers、phenomena 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「sounds、vague」全文未出现。",
+         "B": "无中生有：「looks」全文未出现；把原文的「scientific」换成了「looks」，主语或对象被调包。",
+         "D": "无中生有：「much、closer、reality」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What did industrialists of the late 20th century resort to in order to mislead Americans?",
+       "options": [
+        "Made-up survey results.",
+        "False research findings.",
+        "Hired climate experts.",
+        "Deliberate choice of words."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】During the following decades, some industrialists and politicians launched a campaign to sow doubt in the minds of the American public about the ability of fossil-fuel use, deforestation and other human activities to influence the planet's climate.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 deliberate、choice、words 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "During the following decades, some industrialists and politicians launched a campaign to sow doubt in the minds of the American public about the ability of fossil-fuel use, deforestation and other human activities to influence the planet's climate.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 deliberate、choice、words 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「made-up、survey、results」全文未出现。",
+         "B": "无中生有：「false、research、findings」全文未出现。",
+         "C": "无中生有：「hired、experts」全文未出现；把原文的「climate」换成了「hired、experts」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "Why did NASA choose the term \"climate change\"?",
+       "options": [
+        "To obtain more funds.",
+        "For greater precision.",
+        "For political needs.",
+        "To avoid debate."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】NASA used the term \"climate change\" because it more accurately reflects the wide range of changes to the planet caused by increasing amounts of greenhouse gases in the atmosphere.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 greater、precision 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "NASA used the term \"climate change\" because it more accurately reflects the wide range of changes to the planet caused by increasing amounts of greenhouse gases in the atmosphere.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 greater、precision 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「obtain、funds」全文未出现。",
+         "C": "因果倒置：「needs」全文未出现。",
+         "D": "因果倒置：「avoid」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What is the author's final conclusion?",
+       "options": [
+        "Global warming is the more accurate term.",
+        "Accuracy of terminology matters in science.",
+        "Human activities have serious effects on Earth.",
+        "Politics interferes with serious scientific debate."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】In 1979, a National Academy of Sciences report used the term \"global warming\" to define increases in the Earth's average surface temperature, while \"climate change\" more broadly referred to the numerous effects of this increase, such as sea-level rise and ocean acidification(酸化).\n【依据】正确项的核心词 effects、earth 与定位句对得上；其余 human、activities、serious 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In 1979, a National Academy of Sciences report used the term \"global warming\" to define increases in the Earth's average surface temperature, while \"climate change\" more broadly referred to the numerous effects of this increase, such as sea-level rise and ocean acidification(酸化).",
+        "why": "正确项的核心词 effects、earth 与定位句对得上；其余 human、activities、serious 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「accurate」全文未出现；把原文的「global、warming、term」换成了「accurate」，主语或对象被调包。",
+         "B": "无中生有：「accuracy、terminology、matters」全文未出现；把原文的「science」换成了「accuracy、terminology、matters」，主语或对象被调包。",
+         "D": "无中生有：「politics、interferes、serious」全文未出现；把原文的「scientific」换成了「politics、interferes、serious」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 343 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "鱼是春节前夕餐桌上不可或缺的一道菜因为汉语中\"鱼\"字的发音与\"余\"字的发音相同。正由于这个象征性的意义春节期间鱼也作为礼物送给亲戚朋友。鱼的象征意义据说源于中国传统文化。中国人有节省的传统他们认为节省得愈多就感到愈为安全。今天尽管人们愈来愈富裕了但他们仍然认为节省是一种值得弘扬的美德。",
+     "reference": "Fish is an indispensable dish on the dinner table on the Spring Festival Eve, because the Chinese character (fish) has the same pronunciation as Because of this symbolic meaning, fish is also given as a gift to relatives and friends during the Spring Festival. The symbolic meaning of fish is said to originate from traditional Chinese culture The Chinese have a tradition of being thrifty, and they believe that the more they save, the more secure they feel. Today, although people are getting richer and richer, they still believe that thrift is a virtue worth promoting.",
+     "keyPoints": [
+      "Fish is an indispensable dish on the dinner table on the Spring Festival Eve, because the Chinese character (fish) has the same pronunciation as Because of this symbolic meaning, fish is also given as a gift to relatives and friends during the Spring Festival.",
+      "The symbolic meaning of fish is said to originate from traditional Chinese culture The Chinese have a tradition of being thrifty, and they believe that the more they save, the more secure they feel.",
+      "Today, although people are getting richer and richer, they still believe that thrift is a virtue worth promoting."
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

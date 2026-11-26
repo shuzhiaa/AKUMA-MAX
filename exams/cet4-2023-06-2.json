@@ -1,0 +1,1185 @@
+{
+ "id": "cet4-2023-06-2",
+ "levelId": "cet4",
+ "title": "四级 2023 年 06 月 第 2 套",
+ "minutes": 150,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2023年6月英语四级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet4/paper/2023-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet4-2023-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "警方报告称,周日早晨一名男子在掀开马桶盖时被一条4英尺长的蛇咬伤"
+      },
+      {
+       "idx": 2,
+       "zh": "这条蛇没有毒性,因此该男子无需前往医院"
+      },
+      {
+       "idx": 3,
+       "zh": "接受采访的警官告诉新闻记者"
+      },
+      {
+       "idx": 4,
+       "zh": "这条蛇最终被当地动物处理人员捕获"
+      },
+      {
+       "idx": 5,
+       "zh": "多年来,青蛙和鱼等其他生物也曾以各种方式进入马桶"
+      },
+      {
+       "idx": 6,
+       "zh": "M: 是的。有两种不同的依恋类型:焦虑型依恋和回避型依恋"
+      },
+      {
+       "idx": 7,
+       "zh": "W: 回避能降低他们的压力水平吗?"
+      },
+      {
+       "idx": 8,
+       "zh": "M: 并不能。他们的压力水平实际上和那些大喊大叫的孩子经历的压力水平是一样的"
+      },
+      {
+       "idx": 9,
+       "zh": "W: 我猜这两种都可以被称为不安全型"
+      },
+      {
+       "idx": 10,
+       "zh": "M: 完全正确。这是一种非常不安全的依恋"
+      },
+      {
+       "idx": 11,
+       "zh": "W: 不安全型依恋如何影响朋友之间"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What do we learn from the police report?",
+       "options": [
+        "A man was bitten by a snake.",
+        "A man was taken to a hospital.",
+        "A man kept a 4-foot snake as a pet.",
+        "A man fell off his toilet seat."
+       ],
+       "optionsZh": [
+        "一名男子被蛇咬伤。",
+        "一名男子被送往医院。",
+        "一名男子养了一条4英尺长的蛇作为宠物。",
+        "一名男子从马桶座上摔了下来。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：A man was bitten by a snake.（一名男子被蛇咬伤。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the report say was still unclear?",
+       "options": [
+        "Where the snake had been taken.",
+        "Whether the snake was infected.",
+        "How the snake was captured.",
+        "Who owned the snake."
+       ],
+       "optionsZh": [
+        "蛇被带到了哪里。",
+        "蛇是否被感染。",
+        "蛇是如何被捕获的。",
+        "蛇的主人是谁。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Who owned the snake.（蛇的主人是谁。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What has Andrea Belcher been doing since last April?",
+       "options": [
+        "Taking her trash out in fancy dresses.",
+        "Amusing herself by going to ball parties.",
+        "Sharing her photos with famous movie stars.",
+        "Posting her daughter's photos on social media."
+       ],
+       "optionsZh": [
+        "穿着华丽的礼服去倒垃圾。",
+        "通过参加舞会派对来自娱自乐。",
+        "与著名电影明星分享她的照片。",
+        "在社交媒体上发布她女儿的照片。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Taking her trash out in fancy dresses.（穿着华丽的礼服去倒垃圾。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "Why has Andrea Belcher kept up her videos?",
+       "options": [
+        "To make herself popular.",
+        "To amuse people.",
+        "To please her daughter.",
+        "To record her achievements."
+       ],
+       "optionsZh": [
+        "为了让自己受欢迎。",
+        "为了逗乐人们。",
+        "为了取悦她的女儿。",
+        "为了记录她的成就。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：To amuse people.（为了逗乐人们。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What can people do at Frank's restaurant?",
+       "options": [
+        "Eat as much as they want for $10.",
+        "Have a chance of winning a $100 prize.",
+        "Have a meal even if they have no money.",
+        "Get a free meal after answering some questions."
+       ],
+       "optionsZh": [
+        "花10美元想吃多少就吃多少。",
+        "有机会赢得100美元的奖金。",
+        "即使没有钱也能吃一顿饭。",
+        "回答一些问题后获得免费餐食。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Have a meal even if they have no money.（即使没有钱也能吃一顿饭。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the owner of the restaurant say about the idea for the board of free meals?",
+       "options": [
+        "It was brought up by two staffers.",
+        "It helped to popularize her restaurant.",
+        "It originated from a donation to her staff.",
+        "It was suggested by some of her customers."
+       ],
+       "optionsZh": [
+        "这是由两名员工提出的。",
+        "这帮助推广了她的餐厅。",
+        "这源于一笔给她员工的捐款。",
+        "这是由她的一些顾客建议的。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It originated from a donation to her staff.（这源于一笔给她员工的捐款。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What has happened at Frank's restaurant since the board of free meals was created?",
+       "options": [
+        "Fifty customers have offered donations.",
+        "More people have been giving than taking.",
+        "Many people have come to eat at the restaurant.",
+        "Most staffers have received messages of kindness."
+       ],
+       "optionsZh": [
+        "五十位顾客提供了捐款。",
+        "付出的人比索取的人更多。",
+        "许多人来这家餐厅吃饭。",
+        "大多数员工都收到了善意的留言。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：More people have been giving than taking.（付出的人比索取的人更多。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "B",
+       "stem": "What do we learn about the man?",
+       "options": [
+        "He is a psychologist.",
+        "He is a famous writer.",
+        "He is a host for a TV program.",
+        "He is a primary school teacher."
+       ],
+       "optionsZh": [
+        "他是一位心理学家。",
+        "他是一位著名作家。",
+        "他是一档电视节目的主持人。",
+        "他是一位小学教师。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He is a psychologist.（他是一位心理学家。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What are the speakers mainly talking about?",
+       "options": [
+        "Why social media accounts vanish without a trace.",
+        "Why parents raise their children in different ways.",
+        "Why people fail to respond to emails promptly.",
+        "Why friends break off contact all of a sudden."
+       ],
+       "optionsZh": [
+        "为什么社交媒体账号会消失得无影无踪。",
+        "为什么父母以不同方式抚养孩子。",
+        "为什么人们无法及时回复电子邮件。",
+        "为什么朋友会突然断绝联系。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Why friends break off contact all of a sudden.（为什么朋友会突然断绝联系。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "How do children with an anxious attachment style react to a breakdown in their relationship with parents?",
+       "options": [
+        "They simply shut themselves down.",
+        "They avoid showing their emotions.",
+        "They scream to get their parents back.",
+        "They attempt to ignore the whole situation."
+       ],
+       "optionsZh": [
+        "他们只是把自己封闭起来。",
+        "他们避免表露自己的情绪。",
+        "他们通过尖叫来让父母回到身边。",
+        "他们试图忽视整个情况。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They scream to get their parents back.（他们通过尖叫来让父母回到身边。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does the man say about insecurely attached people?",
+       "options": [
+        "They may regard any difference as the end of a relationship.",
+        "They are on better terms with friends and romantic partners.",
+        "They try to express their feelings and thoughts effectively.",
+        "They attach more value to their relationships with others."
+       ],
+       "optionsZh": [
+        "他们可能把任何分歧都视为一段关系的终结。",
+        "他们与朋友和恋爱伴侣的关系更好。",
+        "他们试图有效地表达自己的感受和想法。",
+        "他们更加重视与他人的关系。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They may regard any difference as the end of a relationship.（他们可能把任何分歧都视为一段关系的终结。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What makes the man choose to buy jeans made in Japan?",
+       "options": [
+        "Their price.",
+        "Their color.",
+        "Their quality.",
+        "Their design."
+       ],
+       "optionsZh": [
+        "它们的价格。",
+        "它们的颜色。",
+        "它们的质量。",
+        "它们的设计。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Their quality.（它们的质量。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "Why is the woman puzzled by the man's request?",
+       "options": [
+        "Jeans are a typical American garment.",
+        "America makes the best-known brands of jeans.",
+        "America has the best weaving tools in the world.",
+        "Jeans are available in a greater variety in America."
+       ],
+       "optionsZh": [
+        "牛仔裤是典型的美国服装。",
+        "美国生产最知名品牌的牛仔裤。",
+        "美国拥有世界上最好的编织工具。",
+        "牛仔裤在美国有更多样化的选择。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Jeans are a typical American garment.（牛仔裤是典型的美国服装。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does the man say about the dyes of Japanese jeans?",
+       "options": [
+        "They are artificial.",
+        "They are natural.",
+        "They are unique.",
+        "They are special."
+       ],
+       "optionsZh": [
+        "它们是人工的。",
+        "它们是天然的。",
+        "它们是独特的。",
+        "它们是特殊的。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：They are natural.（它们是天然的。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What does the man say about Japanese jeans at the end of the conversation?",
+       "options": [
+        "They are for casual wearing.",
+        "They are popular with boys.",
+        "They are much too pricey.",
+        "They are worth the price."
+       ],
+       "optionsZh": [
+        "它们适合休闲穿着。",
+        "它们受男孩们欢迎。",
+        "它们太贵了。",
+        "它们物有所值。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are worth the price.（它们物有所值。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "How does the speaker feel every time he walks out of a superhero movie?",
+       "options": [
+        "He desires more in life.",
+        "He wants to see it again.",
+        "He feels as inspired as other audience members.",
+        "He longs to become a superstar himself."
+       ],
+       "optionsZh": [
+        "他渴望生活中有更多东西。",
+        "他想再看一遍。",
+        "他感到和其他观众一样受到鼓舞。",
+        "他渴望自己成为超级明星。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：He desires more in life.（他渴望生活中有更多东西。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What does the passage say about the plot of all superhero movies?",
+       "options": [
+        "It is rather unrealistic.",
+        "It is extremely artistic.",
+        "It is somewhat complicated.",
+        "It is relatively predictable."
+       ],
+       "optionsZh": [
+        "相当不现实。",
+        "极具艺术性。",
+        "有些复杂。",
+        "相对可预测。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is relatively predictable.（相对可预测。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What do the elites of American society think of superhero movies?",
+       "options": [
+        "They are biased against women.",
+        "They are basically misleading.",
+        "They are full of shootings.",
+        "They are too simple."
+       ],
+       "optionsZh": [
+        "它们对女性存有偏见。",
+        "它们基本上具有误导性。",
+        "它们充满枪战场面。",
+        "它们过于简单。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They are too simple.（它们过于简单。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the passage say about storytelling?",
+       "options": [
+        "It can highlight leadership.",
+        "It can help connect people.",
+        "It is a means to inspire creative thinking.",
+        "It is an intuitive way to solidify friendship."
+       ],
+       "optionsZh": [
+        "它能突出领导力。",
+        "它能帮助连接人们。",
+        "它是激发创造性思维的手段。",
+        "它是巩固友谊的直观方式。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It can help connect people.（它能帮助连接人们。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What can good stories do to listeners according to the passage?",
+       "options": [
+        "Allow them to recite data points.",
+        "Make them more open to learning.",
+        "Enable them to remember the main idea.",
+        "Stimulate them to engage in discussions."
+       ],
+       "optionsZh": [
+        "让他们背诵数据要点。",
+        "使他们更愿意学习。",
+        "使他们能够记住主要观点。",
+        "激励他们参与讨论。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Make them more open to learning.（使他们更愿意学习。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What can leaders do with a simple personal story?",
+       "options": [
+        "Inspire listeners' imagination.",
+        "Convey fundamental values.",
+        "Enrich their own experience.",
+        "Explain insightful ideas."
+       ],
+       "optionsZh": [
+        "激发听众的想象力。",
+        "传达基本价值观。",
+        "丰富他们自己的经验。",
+        "解释富有洞察力的想法。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Convey fundamental values.（传达基本价值观。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does the passage say statistics prove?",
+       "options": [
+        "Immigrants outnumber U.S.-born Americans.",
+        "Immigrants have been contributing to the U.S.",
+        "Another wave of immigrants is hitting the U.S.",
+        "The number of immigrants to the U.S. is declining."
+       ],
+       "optionsZh": [
+        "移民人数超过在美国出生的美国人。",
+        "移民一直在为美国做贡献。",
+        "另一波移民潮正在冲击美国。",
+        "移民美国的人数正在下降。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Immigrants have been contributing to the U.S.（移民一直在为美国做贡献。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What do we learn about immigrants in the U.S., compared with native-born Americans?",
+       "options": [
+        "More of them expect their children to succeed in business.",
+        "They have fewer chances to be hired by U.S. companies.",
+        "They have founded most Fortune 500 companies.",
+        "More of them are successful business people."
+       ],
+       "optionsZh": [
+        "他们当中更多人期望自己的孩子在商业上取得成功。",
+        "他们被美国公司雇用的机会更少。",
+        "他们创立了大多数财富500强公司。",
+        "他们当中更多人是成功的商业人士。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：More of them are successful business people.（他们当中更多人是成功的商业人士。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What does the passage say about immigrants in the U.S., in terms of financial strength?",
+       "options": [
+        "They have higher installment loan debt than native-born Americans.",
+        "Nineteen percent of them borrow money from friends and family.",
+        "Their level of debt is lower than that of native-born Americans.",
+        "Thirty-four percent of them use credit for their daily purchases."
+       ],
+       "optionsZh": [
+        "他们的分期贷款债务高于在美国出生的美国人。",
+        "他们当中有百分之十九的人从朋友和家人那里借钱。",
+        "他们的债务水平低于在美国出生的美国人。",
+        "他们当中有百分之三十四的人使用信贷进行日常购物。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Their level of debt is lower than that of native-born Americans.（他们的债务水平低于在美国出生的美国人。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What do immigrants do to achieve their goals in the U.S.?",
+       "options": [
+        "Keep their traditional values and old habits.",
+        "Find employment in competitive businesses.",
+        "Borrow money from financial institutions.",
+        "Collaborate with native-born Americans."
+       ],
+       "optionsZh": [
+        "保持他们的传统价值观和旧习惯。",
+        "在竞争激烈的行业中找到工作。",
+        "从金融机构借钱。",
+        "与在美国出生的美国人合作。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Keep their traditional values and old habits.（保持他们的传统价值观和旧习惯。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 120–180 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "Suppose the student union of your university is organizing an online discussion on interpersonal relationships. You are to write an essay on ways to maintain a warm and friendly relationship with your classmates and on the benefits of such a relationship. You will have 30 minutes f or the task. You should write at least 120 words but no more than 180 words .",
+     "zhPrompt": "",
+     "minWords": 120,
+     "maxWords": 180,
+     "outline": [],
+     "rubric": "CET 写作 15 分制：切题 3、表达 9、字数 3",
+     "sample": "A warm and friendly relationship plays an important part in our campus life. Since we spend most of our time\nwith classmates, it is worth thinking about how to maintain such a relationship and what benefits it can bring.\nThere are several practical ways to keep such a relationship close. First, we should communicate sincerely. For\nexample, when a misunderstanding happens, we can simply talk it over honestly instead of staying cold.\nBesides, it also helps to support each other in study and daily life. When a classmate misses a lecture, sharing\nour notes and showing respect for different habits can quickly bring us closer.\nAs a result, such a relationship can bring us real benefits. It eases our pressure when courses get hard, pushes\nus to make progress together, and creates a strong sense of belonging in class. In short, building such warm\nbonds with our classmates is well worth our effort throughout the precious college years."
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "Morocco is responding to increasing energy demands by setting up one of the largest solar plants in the world. The Noor solar power station is {{1}} in the city of Ouarzazate and, once completed, will generate 580 million watts of electricity. The World Bank estimates it will serve 1.1 million people. It's {{2}} to be completed soon. Morocco's current energy comes {{3}} from imports. The nation hopes to get 50 percent of its energy from renewable sources by 2030. With demand for energy {{4}} at an annual rate of 7 percent, the new solar plant could be a {{5}} part of that goal. \"This makes Morocco a big {{6}} in the field of solar energy in the Arab region and the African continent. It could also be a forerunner for many other countries in the world that {{7}} on foreign imports of energy,\" said Ali Hajji, a solar energy specialist and engineering professor. Experts believe that the Middle East and North Africa have huge {{8}} for solar energy projects. This is partly because of adequate sunlight and partly because technology has become more {{9}} in the region. \"The last few years have seen a realization of {{10}} how competitive solar technologies can be,\" said Michael Taylor, a senior analyst at the International Renewable Energy Agency.",
+     "options": [
+      "affordable",
+      "ancestor",
+      "crucial",
+      "depend",
+      "initial",
+      "insist",
+      "just",
+      "located",
+      "mostly",
+      "operating",
+      "perhaps",
+      "pioneer",
+      "potential",
+      "rising",
+      "scheduled"
+     ],
+     "answers": [
+      7,
+      14,
+      8,
+      13,
+      2,
+      11,
+      3,
+      12,
+      0,
+      6
+     ],
+     "blankExplains": [
+      "【定位】The Noor solar power station is ____ in the city of Ouarzazate and, once completed, will generate 580 million watts of electricity.\n【依据】答案是 located：填回后与所在句 noor、solar、power、station、city、ouarzazate 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It's ____ to be completed soon.\n【依据】答案是 scheduled：填回后与所在句 it's、completed、soon 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Morocco's current energy comes ____ from imports.\n【依据】答案是 mostly：填回后与所在句 morocco's、current、energy、comes、imports 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】With demand for energy ____ at an annual rate of 7 percent, the new solar plant could be a  … part of that goal.\n【依据】答案是 rising：填回后与所在句 demand、energy、annual、rate、percent、new 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】With demand for energy  … at an annual rate of 7 percent, the new solar plant could be a ____ part of that goal.\n【依据】答案是 crucial：填回后与所在句 demand、energy、annual、rate、percent、new 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"This makes Morocco a big ____ in the field of solar energy in the Arab region and the African continent.\n【依据】答案是 pioneer：填回后与所在句 makes、morocco、big、field、solar、energy 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】It could also be a forerunner for many other countries in the world that ____ on foreign imports of energy,\" said Ali Hajji, a solar energy specialist and engineering professor.\n【依据】答案是 depend：填回后与所在句 forerunner、many、other、countries、world、foreign 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Experts believe that the Middle East and North Africa have huge ____ for solar energy projects.\n【依据】答案是 potential：填回后与所在句 experts、believe、middle、east、north、africa 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】This is partly because of adequate sunlight and partly because technology has become more ____ in the region.\n【依据】答案是 affordable：填回后与所在句 partly、because、adequate、sunlight、partly、because 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】\"The last few years have seen a realization of ____ how competitive solar technologies can be,\" said Michael Taylor, a senior analyst at the International Renewable Energy Agency.\n【依据】答案是 just：填回后与所在句 last、few、years、seen、realization、how 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "The Noor solar power station is ____ in the city of Ouarzazate and, once completed, will generate 580 million watts of electricity.",
+       "why": "答案是 located：填回后与所在句 noor、solar、power、station、city、ouarzazate 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 located 这个词性/语义，而不是 affordable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 located 这个词性/语义，而不是 ancestor）。"
+       }
+      },
+      {
+       "locate": "It's ____ to be completed soon.",
+       "why": "答案是 scheduled：填回后与所在句 it's、completed、soon 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 scheduled 这个词性/语义，而不是 affordable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 scheduled 这个词性/语义，而不是 ancestor）。"
+       }
+      },
+      {
+       "locate": "Morocco's current energy comes ____ from imports.",
+       "why": "答案是 mostly：填回后与所在句 morocco's、current、energy、comes、imports 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 mostly 这个词性/语义，而不是 affordable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 mostly 这个词性/语义，而不是 ancestor）。"
+       }
+      },
+      {
+       "locate": "With demand for energy ____ at an annual rate of 7 percent, the new solar plant could be a  … part of that goal.",
+       "why": "答案是 rising：填回后与所在句 demand、energy、annual、rate、percent、new 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 rising 这个词性/语义，而不是 affordable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 rising 这个词性/语义，而不是 ancestor）。"
+       }
+      },
+      {
+       "locate": "With demand for energy  … at an annual rate of 7 percent, the new solar plant could be a ____ part of that goal.",
+       "why": "答案是 crucial：填回后与所在句 demand、energy、annual、rate、percent、new 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 crucial 这个词性/语义，而不是 affordable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 crucial 这个词性/语义，而不是 ancestor）。"
+       }
+      },
+      {
+       "locate": "\"This makes Morocco a big ____ in the field of solar energy in the Arab region and the African continent.",
+       "why": "答案是 pioneer：填回后与所在句 makes、morocco、big、field、solar、energy 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pioneer 这个词性/语义，而不是 perhaps）。",
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 pioneer 这个词性/语义，而不是 potential）。"
+       }
+      },
+      {
+       "locate": "It could also be a forerunner for many other countries in the world that ____ on foreign imports of energy,\" said Ali Hajji, a solar energy specialist and engineering professor.",
+       "why": "答案是 depend：填回后与所在句 forerunner、many、other、countries、world、foreign 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 depend 这个词性/语义，而不是 affordable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 depend 这个词性/语义，而不是 ancestor）。"
+       }
+      },
+      {
+       "locate": "Experts believe that the Middle East and North Africa have huge ____ for solar energy projects.",
+       "why": "答案是 potential：填回后与所在句 experts、believe、middle、east、north、africa 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "K": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 potential 这个词性/语义，而不是 perhaps）。",
+        "L": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 potential 这个词性/语义，而不是 pioneer）。"
+       }
+      },
+      {
+       "locate": "This is partly because of adequate sunlight and partly because technology has become more ____ in the region.",
+       "why": "答案是 affordable：填回后与所在句 partly、because、adequate、sunlight、partly、because 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 affordable 这个词性/语义，而不是 ancestor）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 affordable 这个词性/语义，而不是 crucial）。"
+       }
+      },
+      {
+       "locate": "\"The last few years have seen a realization of ____ how competitive solar technologies can be,\" said Michael Taylor, a senior analyst at the International Renewable Energy Agency.",
+       "why": "答案是 just：填回后与所在句 last、few、years、seen、realization、how 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 just 这个词性/语义，而不是 affordable）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 just 这个词性/语义，而不是 ancestor）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "For the past four decades, the leader of Formula One car racing, one of the biggest annual sporting series in the world, was Bernie Ecclestone, a former motorcycle parts dealer who built it into an international presence essentially on his own."
+      },
+      {
+       "id": "B",
+       "text": "A skilled backroom operator who speaks without a filter, Ecclestone said often that in his opinion, the sport was at its best when he was allowed to act as \"a dictator.\""
+      },
+      {
+       "id": "C",
+       "text": "Yet now the dictator is gone. After an American company, Liberty Media, acquired the Formula One competition recently, Chase Carey—a former executive with Fox Broadcasting Company and DirecTV who by his own admission is not a fierce racing fan—was named to replace Ecclestone and to try to renovate the organization's management, reach and ambition."
+      },
+      {
+       "id": "D",
+       "text": "Among the goals, Carey said in an interview on Tuesday, is one that just about every global sport seems interested in chasing: increasing interest in the United States. \"People have said we're going to 'Americanize' it,\" Carey said. \"And we're not going to do that totally. But realistically, there are some elements of Americanization that the sport could use.\""
+      },
+      {
+       "id": "E",
+       "text": "While Formula One commands enormous audiences throughout much of the world, many American sports fans know it as that other motorsport, the one that is not Nascar(纳斯卡车赛). Formula One teams race far more technologically advanced vehicles around tracks all over the world—in magnificent events in places like Malaysia, Monaco, Singapore and the United Arab Emirates, and on tradition-rich tracks like Silverstone in England and Monza in Italy too."
+      },
+      {
+       "id": "F",
+       "text": "The series has an annual race in Austin, Texas. But within \"a few years,\" Carey said, he plans to bring another to a destination American city, like New York, Los Angeles, Miami or Las Vegas. Carey's ambitious plan is two-fold: first, change the business model of Formula One, which he said was a \"one-man show\" under Ecclestone that had a largely narrow vision when it came to negotiating partnership deals; and second, alter the way fans experience the sport, both in person and remotely, so that connections between the audience and people within the series are easier to make."
+      },
+      {
+       "id": "G",
+       "text": "Increased digital access for fans, a more behind-the-scenes experience for broadcast viewers and innovation in areas like virtual reality—what is it like to speed around a track inside a Ferrari?—are among the possibilities. \"The sport has clearly been underserved,\" Carey said. \"It doesn't do anything digitally. There's no marketing. It doesn't tell any stories. The goal in this is to make the fans connect to the live experience as much as possible, and the tools you have to do that, we're not using at all.\""
+      },
+      {
+       "id": "H",
+       "text": "The larger question, though, is a familiar one: Is there room for Formula One in the ever-crowded sports landscape of the United States? Opinions vary, particularly because viewing habits among consumers continue to evolve. John Bloom, a professor at Shippensburg University who has studied American sports history, said the biggest challenge for any sport trying to increase its presence in the United States was framing itself in a way that had lasting appeal. \"Sports generally become popular in some way because they establish a narrative,\" Bloom said. \"When I think of motorsports in the U.S., what we all think of is Nascar, and the narrative of Nascar is sort of rural, white, working-class Americans, mostly in the South, connecting with the atmosphere of those races. That's the narrative. When I think of the narrative of Formula One, it's a very different kind of audience.\""
+      },
+      {
+       "id": "I",
+       "text": "That difference, Carey said, is significant. While some might immediately link Formula One to Nascar in terms of American growth, Carey said Formula One's brand research had indicated there was very little crossover; rather, Formula One fans generally cite other so-called elite events, like Wimbledon or the Ryder Cup, as competitions they enjoy. \"Other than they're both cars, the Nascar fan base is a very different fan base,\" Carey said. \"It's a very regional fan base. Formula One is a global, famous brand of stars. These are machines that shock and awe you.\""
+      },
+      {
+       "id": "J",
+       "text": "Carey's background is in deal making and innovation. At Fox Broadcasting Company, he was a top advisor for years, known for his skill in helping to lead the launch of the company into sports, as well as the start of Fox News Channel. After going to DirecTV, he positioned the satellite provider as a mainstream option in millions of households."
+      },
+      {
+       "id": "K",
+       "text": "Now, after Liberty Media paid $4.4 billion to acquire Formula One, he is charged with making the investment pay off. \"I think they can build Formula One in the U.S.,\" said Patrick Crakes, an executive at InVivo Media Group who spent 25 years at Fox Broadcasting Company before leaving in 2016 as a senior manager at Fox Sports. \"People don't work on their cars anymore. They don't want that connection anymore. It's about technology and pushing the limits. It's about speed, danger and risk. And Formula One has that more than any other racing series.\""
+      },
+      {
+       "id": "L",
+       "text": "That is what hooked Carey, and he said he thought his experience was not unusual. He recalled attending Formula One's Monaco race last year and being overwhelmed by the ceremony leading up to the event, the way the race charmed the city for days ahead of the start. In his mind, it felt like a Super Bowl(超级碗橄榄球赛)."
+      },
+      {
+       "id": "M",
+       "text": "Then, on race day, he watched as the cars rocketed out of a tunnel and went screaming toward a tight turn with the city's harbor and the Mediterranean Sea in the background framing the scene. He was fascinated. \"You can't help but be awed,\" he said, \"and I think that feeling can be translated to the viewer.\""
+      },
+      {
+       "id": "N",
+       "text": "He added: \"The broader sport is a little too inward-looking, and we need to be more open. In some ways, I'm glad to be coming from the outside. The guys who are in the sport forever are sitting there saying: 'We can't do that. We can't do that because it's never been done that way.'\""
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "Chase Carey believes greater use should be made of digital technology to make Formula One more accessible to its fans."
+      },
+      {
+       "id": "s37",
+       "text": "Chase Carey was deeply impressed by the ceremony preceding last year's Monaco race."
+      },
+      {
+       "id": "s38",
+       "text": "One of Chase Carey's goals is to make Formula One more appealing to Americans."
+      },
+      {
+       "id": "s39",
+       "text": "A former motorbike parts dealer led Formula One for the past forty years."
+      },
+      {
+       "id": "s40",
+       "text": "Chase Carey thought the audience of Formula One could be made to share his feeling about the race."
+      },
+      {
+       "id": "s41",
+       "text": "Chase Carey used to serve as a top advisor for a major broadcasting company."
+      },
+      {
+       "id": "s42",
+       "text": "Chase Carey intends to make connections easier between the audience and the Formula One racers."
+      },
+      {
+       "id": "s43",
+       "text": "The new leader of Formula One admitted he was not super interested in car racing."
+      },
+      {
+       "id": "s44",
+       "text": "People's opinions differ as to whether Formula One can be promoted in the U.S."
+      },
+      {
+       "id": "s45",
+       "text": "Compared with other racing series, Formula One focuses more on speed and involves more danger."
+      }
+     ],
+     "answers": [
+      "G",
+      "L",
+      "D",
+      "A",
+      "M",
+      "J",
+      "F",
+      "C",
+      "H",
+      "K"
+     ],
+     "statementExplains": [
+      "【定位】Increased digital access for fans, a more behind-the-scenes experience for broadcast viewers and innovation in areas like virtual reality—what is it like to speed around a track inside a Ferrari?—are among the possibilities.\n【依据】陈述里的 digital、accessible、fans 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】He recalled attending Formula One's Monaco race last year and being overwhelmed by the ceremony leading up to the event, the way the race charmed the city for days ahead of the start.\n【依据】陈述里的 ceremony、last、monaco、race 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】Among the goals, Carey said in an interview on Tuesday, is one that just about every global sport seems interested in chasing: increasing interest in the United States.\n【依据】陈述里的 carey's、goals 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】For the past four decades, the leader of Formula One car racing, one of the biggest annual sporting series in the world, was Bernie Ecclestone, a former motorcycle parts dealer who built it into an international presence essentially on his own.\n【依据】陈述里的 former、motorbike、parts、dealer、formula、past 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Then, on race day, he watched as the cars rocketed out of a tunnel and went screaming toward a tight turn with the city's harbor and the Mediterranean Sea in the background framing the scene.\n【依据】陈述里的 race 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+      "【定位】At Fox Broadcasting Company, he was a top advisor for years, known for his skill in helping to lead the launch of the company into sports, as well as the start of Fox News Channel.\n【依据】陈述里的 top、advisor、broadcasting、company 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Carey's ambitious plan is two-fold: first, change the business model of Formula One, which he said was a \"one-man show\" under Ecclestone that had a largely narrow vision when it came to negotiating partnership deals; and second, alter the way fans experience the sport, both in person and remotely, so that connections between the audience and people within the series are easier to make.\n【依据】陈述里的 carey、make、connections、easier、between、audience 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】After an American company, Liberty Media, acquired the Formula One competition recently, Chase Carey—a former executive with Fox Broadcasting Company and DirecTV who by his own admission is not a fierce racing fan—was named to replace Ecclestone and to try to renovate the organization's management, reach and ambition.\n【依据】陈述里的 formula、racing 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】When I think of the narrative of Formula One, it's a very different kind of audience.\"\n【依据】陈述里的 differ、formula 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】And Formula One has that more than any other racing series.\"\n【依据】陈述里的 other、racing、series、formula 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。"
+     ],
+     "explain": "长篇阅读匹配：14 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "Increased digital access for fans, a more behind-the-scenes experience for broadcast viewers and innovation in areas like virtual reality—what is it like to speed around a track inside a Ferrari?—are among the possibilities.",
+       "why": "陈述里的 digital、accessible、fans 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "He recalled attending Formula One's Monaco race last year and being overwhelmed by the ceremony leading up to the event, the way the race charmed the city for days ahead of the start.",
+       "why": "陈述里的 ceremony、last、monaco、race 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Among the goals, Carey said in an interview on Tuesday, is one that just about every global sport seems interested in chasing: increasing interest in the United States.",
+       "why": "陈述里的 carey's、goals 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For the past four decades, the leader of Formula One car racing, one of the biggest annual sporting series in the world, was Bernie Ecclestone, a former motorcycle parts dealer who built it into an international presence essentially on his own.",
+       "why": "陈述里的 former、motorbike、parts、dealer、formula、past 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Then, on race day, he watched as the cars rocketed out of a tunnel and went screaming toward a tight turn with the city's harbor and the Mediterranean Sea in the background framing the scene.",
+       "why": "陈述里的 race 在 M 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 M 段。",
+       "traps": {}
+      },
+      {
+       "locate": "At Fox Broadcasting Company, he was a top advisor for years, known for his skill in helping to lead the launch of the company into sports, as well as the start of Fox News Channel.",
+       "why": "陈述里的 top、advisor、broadcasting、company 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Carey's ambitious plan is two-fold: first, change the business model of Formula One, which he said was a \"one-man show\" under Ecclestone that had a largely narrow vision when it came to negotiating partnership deals; and second, alter the way fans experience the sport, both in person and remotely, so that connections between the audience and people within the series are easier to make.",
+       "why": "陈述里的 carey、make、connections、easier、between、audience 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "After an American company, Liberty Media, acquired the Formula One competition recently, Chase Carey—a former executive with Fox Broadcasting Company and DirecTV who by his own admission is not a fierce racing fan—was named to replace Ecclestone and to try to renovate the organization's management, reach and ambition.",
+       "why": "陈述里的 formula、racing 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "When I think of the narrative of Formula One, it's a very different kind of audience.\"",
+       "why": "陈述里的 differ、formula 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "And Formula One has that more than any other racing series.\"",
+       "why": "陈述里的 other、racing、series、formula 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit. For more than a decade, they have been under attack from e-commerce giants, blamed for making Americans fat, and accused of contributing to climate change. Supermarkets can technically be defined as giants housing 15,000 to 60,000 different products. The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America. There is some debate about which was the very first, but over the years a consensus has built around King Kullen Supermarket, founded in New York in 1930. For some 300 years, Americans had fed themselves from small stores and public markets. Shopping for food involved mud, noisy chickens, clouds of flies, nasty smells, bargaining, and getting short-changed. The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food. Supermarkets may not feel cutting-edge now, but they were a revolution in distribution at the time. They were such strange marvels that, on her first official state visit to the United States in 1957, Queen Elizabeth II insisted on an impromptu(即兴的) tour of a suburban-Maryland Giant Food. The typical supermarket layout has barely changed over the past 90 years. Most stores open with flowers, fruit and vegetables at the front as a breath of freshness to arouse our appetite. Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you'll travel through as much of the store as possible, and be tempted along the way. In the early days, as the supermarket multiplied, so did our suspicion of it. We have long feared that this \"revolution in distribution\" uses corporate black magic on our appetite. The book The Hidden Persuaders, published in 1957, warned that supermarkets were putting women in a \"hypnoidal trance(催眠恍惚状态),\" causing them to wander aisles bumping into boxes and \"picking things off shelves at random.\"",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What problem have supermarkets been facing?",
+       "options": [
+        "They are actually on the way to bankruptcy.",
+        "They have been losing customers and profits.",
+        "They are forced to use e-commerce strategies.",
+        "They have difficulty adapting to climate change."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The book The Hidden Persuaders, published in 1957, warned that supermarkets were putting women in a \"hypnoidal trance(催眠恍惚状态),\" causing them to wander aisles bumping into boxes and \"picking things off shelves at random.\"\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 losing、customers、profits 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The book The Hidden Persuaders, published in 1957, warned that supermarkets were putting women in a \"hypnoidal trance(催眠恍惚状态),\" causing them to wander aisles bumping into boxes and \"picking things off shelves at random.\"",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 losing、customers、profits 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「actually、bankruptcy」全文未出现。",
+         "C": "无中生有：「forced、use、strategies」全文未出现。",
+         "D": "因果倒置：「difficulty、adapting」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does the passage say about the idea of a self-service grocery?",
+       "options": [
+        "It was put forward by King Kullen.",
+        "It originated in the United States.",
+        "It has been under constant debate.",
+        "It proves revolutionary even today."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 originated、united、states 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 originated、united、states 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「put、forward」全文未出现。",
+         "C": "因果倒置：「constant」全文未出现。",
+         "D": "无中生有：「proves、even、today」全文未出现；把原文的「revolutionary」换成了「proves、even、today」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What did supermarkets do by adopting the Fordist factory approach?",
+       "options": [
+        "They modernized traditional groceries in many ways.",
+        "They introduced cutting-edge layout of their stores.",
+        "They improved the quality of the food they sold.",
+        "They revolutionized the distribution of goods."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 revolutionized、distribution、goods 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 revolutionized、distribution、goods 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「modernized、traditional、groceries」全文未出现。",
+         "B": "因果倒置：「introduced」全文未出现。",
+         "C": "无中生有：「improved、quality、sold」全文未出现；把原文的「food」换成了「improved、quality、sold」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What is the typical supermarket layout intended to do?",
+       "options": [
+        "Arouse customers' appetite to buy flowers, fruit and vegetables.",
+        "Provide customers easy access to items they want to buy.",
+        "Induce customers to make more unplanned purchases.",
+        "Enable customers to have a more enjoyable shopping experience."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The typical supermarket layout has barely changed over the past 90 years.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 induce、customers、make、unplanned 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The typical supermarket layout has barely changed over the past 90 years.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 induce、customers、make、unplanned 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「customers'」全文未出现。",
+         "B": "无中生有：「provide、customers、easy」全文未出现。",
+         "D": "无中生有：「enable、customers、enjoyable」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What have people long feared about supermarkets?",
+       "options": [
+        "They use tricky strategies to promote their business.",
+        "They are going to replace the local groceries entirely.",
+        "They apply corporate black magic to the goods on display.",
+        "They take advantage of the weaknesses of women shoppers."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit.\n【依据】正确项的核心词 business 与定位句对得上；其余 use、tricky、strategies、promote 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit.",
+        "why": "正确项的核心词 business 与定位句对得上；其余 use、tricky、strategies、promote 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「going、replace、local」全文未出现。",
+         "C": "因果倒置：「apply、goods、display」全文未出现。",
+         "D": "无中生有：「take、advantage、weaknesses」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 340 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work. Since then, we've completely changed as a nation. Students no longer spend summers farming, but they aren't in school, either. The average American student receives 13 weeks off from school each calendar year-with about 11 of those during the summer. Few other countries have more than seven weeks off in a school calendar. With the U.S. lagging behind other countries in academics, it's time to consider year-round schooling. One benefit of this change is that students will not fall victim to the \"summer slide,\" or the well-documented phenomenon where students forget some of the knowledge they have acquired when too much time is taken off from school. Decades of research shows that it can take from 8 to 13 weeks at the beginning of every school year for students to get back to where they were before the summer holiday. But year-round schooling isn't just about academics. Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from the school environment. These closer bonds and greater attachment pay off. Research shows that students in year-round schools are more self-confident and feel more positive about their schooling experience. But don't kids need time to relax? Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside. The problem with this argument is that most children aren't playing outside or even spending time with other kids. While some children visit summer camps, most stay at home, watching TV or playing games on electronic devices, which hardly benefits them. The U.S. has changed from a farming economy to a knowledge- and innovation-based economy, so it makes sense for the school year to change as well.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "Why did America's traditional school year have a three-month summer vacation?",
+       "options": [
+        "Students needed to help with farm work.",
+        "Students needed time to learn necessary farming skills.",
+        "The agricultural society then attached less importance to academics.",
+        "America lagged behind other countries in making a scientific school calendar."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work.\n【依据】正确项的核心词 needed、farm、work 与定位句对得上；其余 students、help 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work.",
+        "why": "正确项的核心词 needed、farm、work 与定位句对得上；其余 students、help 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「learn、necessary、skills」全文未出现；把原文的「needed」换成了「students、time、learn」，主语或对象被调包。",
+         "C": "无中生有：「attached、less、importance」全文未出现；把原文的「agricultural、society」换成了「attached、less、importance」，主语或对象被调包。",
+         "D": "偷换主体：「lagged、making、scientific」全文未出现；把原文的「america、school」换成了「lagged、behind、other」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What benefit will year-round schooling bring students in addition to improving their learning?",
+       "options": [
+        "It will help them get back to where their lessons started.",
+        "It will enable them to absorb what they have learned.",
+        "It will familiarize them with the school environment.",
+        "It will strengthen their relationship with teachers."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from the school environment.\n【依据】正确项的核心词 relationship、teachers 与定位句对得上；其余 strengthen 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from the school environment.",
+        "why": "正确项的核心词 relationship、teachers 与定位句对得上；其余 strengthen 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「help、lessons、started」全文未出现。",
+         "B": "无中生有：「enable、absorb、what」全文未出现。",
+         "C": "无中生有：「familiarize」全文未出现；把原文的「school、environment」换成了「familiarize」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What do some childhood development experts believe about the long summer vacation?",
+       "options": [
+        "It meets students' need to study on their own.",
+        "It enables students to learn about the outside world.",
+        "It satisfies students' desire to stay longer at home.",
+        "It contributes to students' healthy growth."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside.\n【依据】正确项的核心词 healthy 与定位句对得上；其余 contributes、students'、growth 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside.",
+        "why": "正确项的核心词 healthy 与定位句对得上；其余 contributes、students'、growth 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「meets、students'、study」全文未出现。",
+         "B": "无中生有：「enables、learn、world」全文未出现；把原文的「outside」换成了「enables、students、learn」，主语或对象被调包。",
+         "C": "因果倒置：「satisfies、students'、desire」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What is the argument against the experts' idea of a long summer vacation?",
+       "options": [
+        "It does little good to most students.",
+        "It benefits few students playing outside.",
+        "It leads students to neglect their studies.",
+        "It makes students addicted to computer games."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 little、good、students 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 little、good、students 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "C": "无中生有：「leads、neglect、studies」全文未出现。",
+         "D": "因果倒置：「addicted、computer」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author think of the traditional school year in the U.S. today?",
+       "options": [
+        "Well-grounded.",
+        "Culture-bound.",
+        "Outdated.",
+        "Welcomed."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 outdated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 outdated 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「well-grounded」全文未出现。",
+         "B": "无中生有：「culture-bound」全文未出现。",
+         "D": "无中生有：「welcomed」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 347 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "改革开放40多年以来，中国政府对高等教育越来越重视，高等教育已经进入稳步发展阶段。高校学生总数已接近4,700万人，位居世界第一。随着我国经济的快速发展，人民生活水平不断提高，越来越多的人渴望接受高等教育。我国高校的数量和学科专业持续增加，招生人数逐年上升，教学质量也在不断改进，为更多年轻人创造了接受高等教育的机会。",
+     "reference": "Since the reform and opening-up over 40 years ago, the Chinese government has attached increasing importance to higher education, which has now entered a stage of steady development. The total number of college students has reached nearly 47 million, ranking first in the world. With the rapid development of China's economy and the steady improvement of people's living standards, more and more people are eager to receive higher education The number of colleges and universities in China and the disciplines they offer continue to increase, and student enrollment rises year by year while teaching quality is constantly improving, creating opportunities for more young people to receive higher education",
+     "keyPoints": [
+      "Since the reform and opening-up over 40 years ago, the Chinese government has attached increasing importance to higher education, which has now entered a stage of steady development.",
+      "The total number of college students has reached nearly 47 million, ranking first in the world.",
+      "With the rapid development of China's economy and the steady improvement of people's living standards, more and more people are eager to receive higher education The number of colleges and universities in China and the disciplines they offer continue to increase, and student enrollment rises year by year while teaching quality is constantly improving, creating opportunities for more young people to receive higher education"
+     ],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

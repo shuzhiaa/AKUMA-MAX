@@ -1,0 +1,1172 @@
+{
+ "id": "cet6-2024-06-2",
+ "levelId": "cet6",
+ "title": "六级 2024 年 06 月 第 2 套",
+ "minutes": 155,
+ "band": "2",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2024年6月英语六级真题及答案解析（第2套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2024-06-2/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2024-06-2.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M: 我刚买了一台新搅拌机"
+      },
+      {
+       "idx": 2,
+       "zh": "W: 那是什么？"
+      },
+      {
+       "idx": 3,
+       "zh": "M: 搅拌机，你知道"
+      },
+      {
+       "idx": 4,
+       "zh": "W: 呃，知道，当然知道"
+      },
+      {
+       "idx": 5,
+       "zh": "M: 没错，这台是最先进的"
+      },
+      {
+       "idx": 6,
+       "zh": "W: 真的吗？它到底有什么特别的？我的意思是"
+      },
+      {
+       "idx": 7,
+       "zh": "M: 嗯，基本上，它就是一台非常好的搅拌机"
+      },
+      {
+       "idx": 8,
+       "zh": "W: 嗯，我明白了。我从来没想过自己也买一台"
+      },
+      {
+       "idx": 9,
+       "zh": "M: 我以前从来没有搅拌机"
+      },
+      {
+       "idx": 10,
+       "zh": "W: 我能想象那一定很令人满足"
+      },
+      {
+       "idx": 11,
+       "zh": "M: 健康多了，根本不是一个级别的"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What does the man say he did before buying the blender?",
+       "options": [
+        "Read numerous comments users put online.",
+        "Blended all his food without using a machine.",
+        "Searched for the state-of-the-art models of blenders.",
+        "Did thorough research on the price of kitchen appliances."
+       ],
+       "optionsZh": [
+        "阅读了大量用户在网上发布的评论。",
+        "不使用机器搅拌他所有的食物。",
+        "搜索了最先进的搅拌机型号。",
+        "对厨房电器的价格做了彻底的研究。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Read numerous comments users put online.（阅读了大量用户在网上发布的评论。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the woman say she has never thought of doing?",
+       "options": [
+        "Eating any blended food.",
+        "Buying a blender herself.",
+        "Using machines to do her cooking.",
+        "Making soups and juices for herself."
+       ],
+       "optionsZh": [
+        "吃任何搅拌食品。",
+        "自己购买一台搅拌机。",
+        "使用机器来做饭。",
+        "自己制作汤和果汁。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Buying a blender herself.（自己购买一台搅拌机。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What does the man say is a really healthy habit?",
+       "options": [
+        "Cooking every meal creatively in the kitchen.",
+        "Paying due attention to his personal hygiene.",
+        "Eating breakfast punctually every morning.",
+        "Making his own fresh fruit juice regularly."
+       ],
+       "optionsZh": [
+        "在厨房里创意性地烹饪每一餐。",
+        "适当关注他的个人卫生。",
+        "每天早上准时吃早餐。",
+        "定期自制新鲜果汁。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Making his own fresh fruit juice regularly.（定期自制新鲜果汁。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What do we learn about store-bought juice from the conversation?",
+       "options": [
+        "One-tenth of it is sugar.",
+        "It looks healthy and attractive.",
+        "One's fancy may be tickled by it.",
+        "It contains an assortment of nutrients."
+       ],
+       "optionsZh": [
+        "其中十分之一是糖。",
+        "它看起来健康且有吸引力。",
+        "它可能会引起人们的兴趣。",
+        "它包含各种营养成分。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：One-tenth of it is sugar.（其中十分之一是糖。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What is the question the woman asked Mr. Grimm after the introduction?",
+       "options": [
+        "How he has made himself popular as the mayor of Berkton.",
+        "How the residents will turn Berkton into a tourist attraction.",
+        "How charming he himself considers the village of Berkton to be.",
+        "How he has led people of Berkton to change the village radically."
+       ],
+       "optionsZh": [
+        "他如何使自己成为广受欢迎的Berkton市长。",
+        "居民将如何把Berkton变成旅游胜地。",
+        "他本人认为Berkton村有多迷人。",
+        "他如何带领Berkton的人们彻底改变了这个村庄。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：How he has led people of Berkton to change the village radically.（他如何带领Berkton的人们彻底改变了这个村庄。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What do we learn about Berkton 10 years ago?",
+       "options": [
+        "It was developed only to a limited extent.",
+        "It was totally isolated as a sleepy village.",
+        "It was relatively unknown to the outside.",
+        "It was endowed with rare natural resources."
+       ],
+       "optionsZh": [
+        "它的开发程度很有限。",
+        "它完全与世隔绝,是个沉睡的村庄。",
+        "它在外界相对不为人知。",
+        "它拥有稀有的自然资源。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：It was relatively unknown to the outside.（它在外界相对不为人知。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "What resulted from the passing of the legislative proposal \"Motion 836\"?",
+       "options": [
+        "All the properties in Berkton were designed by the same architect.",
+        "The majority of residents lived in harmony with their neighbours.",
+        "The majority of residents enjoyed cosy housing conditions.",
+        "All the houses in Berkton looked aesthetically similar."
+       ],
+       "optionsZh": [
+        "Berkton的所有房产都由同一位建筑师设计。",
+        "大多数居民与邻居和睦相处。",
+        "大多数居民享有舒适的住房条件。",
+        "Berkton的所有房屋在美学上看起来相似。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：All the houses in Berkton looked aesthetically similar.（Berkton的所有房屋在美学上看起来相似。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "Why does the man say the tourists are a blessing to Berkton?",
+       "options": [
+        "They have helped boost the local economy.",
+        "They have made the residents unusually proud.",
+        "They have contributed considerably to its popularity.",
+        "They have brought happiness to everyone in the village."
+       ],
+       "optionsZh": [
+        "他们帮助促进了当地经济。",
+        "他们使居民感到异常自豪。",
+        "他们为其知名度做出了相当大的贡献。",
+        "他们给村里的每个人都带来了快乐。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They have helped boost the local economy.（他们帮助促进了当地经济。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What does the passage say about a team of researchers at Northwestern University?",
+       "options": [
+        "They have created the smallest remote-controlled walking robot in the world.",
+        "They are going to publish their research findings in the journal Science Robotics.",
+        "They are the first to build a robot that can bend, crawl, walk, turn and even jump.",
+        "They are engaged in research on a remote-controlled robot which uses special power."
+       ],
+       "optionsZh": [
+        "他们创造了世界上最小的遥控行走机器人。",
+        "他们将在《Science Robotics》期刊上发表他们的研究成果。",
+        "他们是第一个制造出能够弯曲、爬行、行走、转弯甚至跳跃的机器人的团队。",
+        "他们正从事一种使用特殊动力的遥控机器人的研究。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They have created the smallest remote-controlled walking robot in the world.（他们创造了世界上最小的遥控行走机器人。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What did the researchers say about the robot they created?",
+       "options": [
+        "It changes its shape by complex hardware.",
+        "It is operated by a special type of tiny motor.",
+        "It moves from one place to another by memory.",
+        "It is powered by the elastic property of its body."
+       ],
+       "optionsZh": [
+        "它通过复杂的硬件改变形状。",
+        "它由一种特殊类型的微型马达操作。",
+        "它通过记忆从一个地方移动到另一个地方。",
+        "它由其身体的弹性特性提供动力。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is powered by the elastic property of its body.（它由其身体的弹性特性提供动力。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What do the researchers expect their robots to do in the future?",
+       "options": [
+        "Replace humans in exploratory tasks.",
+        "Perform tasks in tightly confined spaces.",
+        "Explore the structure of clogged arteries.",
+        "Assist surgeons in highly complex surgery."
+       ],
+       "optionsZh": [
+        "在探索性任务中取代人类。",
+        "在狭小密闭的空间中执行任务。",
+        "探索堵塞动脉的结构。",
+        "在高度复杂的手术中协助外科医生。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Perform tasks in tightly confined spaces.（在狭小密闭的空间中执行任务。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What does the speaker say she did on her ride to the Isles of Scilly?",
+       "options": [
+        "She threw up in the bathroom.",
+        "She slept during the entire ride.",
+        "She dozed off for a few minutes.",
+        "She boasted of her marathon race."
+       ],
+       "optionsZh": [
+        "她在浴室里呕吐了。",
+        "她在整个行程中都在睡觉。",
+        "她打了几分钟瞌睡。",
+        "她吹嘘自己的马拉松比赛。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：She slept during the entire ride.（她在整个行程中都在睡觉。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What do we learn from the passage about elite sleepers?",
+       "options": [
+        "They are mostly immune to cognitive impairment.",
+        "They can sleep soundly during a rough ride at sea.",
+        "They are genetically determined to need less sleep.",
+        "They constitute about 13 percent of the population."
+       ],
+       "optionsZh": [
+        "他们大多对认知障碍免疫。",
+        "他们能在海上颠簸的行程中安然入睡。",
+        "他们在基因上被决定需要更少的睡眠。",
+        "他们约占人口的百分之十三。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They are genetically determined to need less sleep.（他们在基因上被决定需要更少的睡眠。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What has the speaker been trying to find out over the past year?",
+       "options": [
+        "Whether there is a way to reach elite status.",
+        "Whether it is possible to modify one's genes.",
+        "Whether having a baby impacts one's passion.",
+        "Whether one can train themselves to sleep less."
+       ],
+       "optionsZh": [
+        "是否有办法达到精英睡眠者的状态。",
+        "是否有可能改变一个人的基因。",
+        "生孩子是否会影响一个人的热情。",
+        "一个人是否能训练自己少睡觉。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Whether one can train themselves to sleep less.（一个人是否能训练自己少睡觉。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What has the speaker discovered after a year of tough scientific study?",
+       "options": [
+        "It is in fact quite possible to nurture a passion for sleep.",
+        "Babies can severely disrupt their parents' sleep patterns.",
+        "Being forced to rise early differs from being an early bird.",
+        "New parents are forced to jump out of bed at the crack of dawn."
+       ],
+       "optionsZh": [
+        "事实上完全有可能培养对睡眠的热情。",
+        "婴儿会严重扰乱父母的睡眠模式。",
+        "被迫早起不同于成为早起的人。",
+        "新手父母被迫在破晓时分跳下床。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Being forced to rise early differs from being an early bird.（被迫早起不同于成为早起的人。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does a new paper in the *Quarterly Journal of Experimental Psychology* suggest?",
+       "options": [
+        "We have poor awareness of how many controversial issues are being debated.",
+        "No one knows better than yourself what you are thinking about at the moment.",
+        "No one can change your opinions more than those who speak in a convincing tone.",
+        "We are likely to underestimate how much we can be swayed by a convincing article."
+       ],
+       "optionsZh": [
+        "我们对有多少争议性问题正在被讨论缺乏认识。",
+        "没有人比你自己更清楚此刻你在想什么。",
+        "没有人能比那些以令人信服的语气说话的人更能改变你的观点。",
+        "我们可能低估了自己会在多大程度上被一篇有说服力的文章所影响。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：We are likely to underestimate how much we can be swayed by a convincing article.（我们可能低估了自己会在多大程度上被一篇有说服力的文章所影响。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "What happened when the students read a text that argued against their own initial position?",
+       "options": [
+        "Their belief about physical punishment changed.",
+        "Their memory pushed them toward a current belief.",
+        "The memory of their initial belief came back to them.",
+        "Their experiences of physical punishment haunted them."
+       ],
+       "optionsZh": [
+        "他们对体罚的看法改变了。",
+        "他们的记忆将他们推向了当前的信念。",
+        "他们对最初信念的记忆回到了他们脑海中。",
+        "他们遭受体罚的经历困扰着他们。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Their belief about physical punishment changed.（他们对体罚的看法改变了。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What did the researchers concede concerning their findings?",
+       "options": [
+        "They apparently have little to do with moderate beliefs.",
+        "They don't reflect the change of view on physical punishment.",
+        "They may not apply to changes to extreme or deeply held beliefs.",
+        "They are unlikely to alter people's position without more evidence."
+       ],
+       "optionsZh": [
+        "这些结果显然与温和的信念关系不大。",
+        "这些结果没有反映出对体罚看法的变化。",
+        "这些结果可能不适用于极端或根深蒂固的信念的改变。",
+        "如果没有更多证据,这些结果不太可能改变人们的立场。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They may not apply to changes to extreme or deeply held beliefs.（这些结果可能不适用于极端或根深蒂固的信念的改变。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What does the speaker conclude from her analysis of the Census Bureau's data?",
+       "options": [
+        "American moms have been increasingly inclined to live alone.",
+        "The American population has been on the rise in the past 25 years.",
+        "American motherhood has actually been on the decline.",
+        "The fertility rates in America have in fact been falling sharply."
+       ],
+       "optionsZh": [
+        "美国母亲越来越倾向于独自生活。",
+        "过去25年美国人口一直在增长。",
+        "美国母亲身份实际上一直在减少。",
+        "美国的生育率实际上一直在急剧下降。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：American motherhood has actually been on the decline.（美国母亲身份实际上一直在减少。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What does the speaker say is a positive consequence of the age shift in childbearing?",
+       "options": [
+        "More new mothers tend to take greater care of their children.",
+        "More new mothers are economically able to raise children.",
+        "A larger proportion of women take pride in their children.",
+        "A larger proportion of women really enjoy motherhood."
+       ],
+       "optionsZh": [
+        "更多新手母亲倾向于更悉心照顾她们的孩子。",
+        "更多新手母亲在经济上有能力抚养孩子。",
+        "更大比例的女性为她们的孩子感到自豪。",
+        "更大比例的女性真正享受母亲身份。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：More new mothers are economically able to raise children.（更多新手母亲在经济上有能力抚养孩子。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "What might be one explanation for the rise in retail spending on Mother's Day?",
+       "options": [
+        "The meaning of motherhood has changed considerably.",
+        "More and more mothers go shopping to treat themselves.",
+        "More mothers have adult children celebrating the holiday.",
+        "The number of American mothers has been growing steadily."
+       ],
+       "optionsZh": [
+        "母亲身份的含义已经发生了相当大的变化。",
+        "越来越多的母亲去购物犒劳自己。",
+        "更多母亲有成年子女庆祝这个节日。",
+        "美国母亲的数量一直在稳步增长。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：More mothers have adult children celebrating the holiday.（更多母亲有成年子女庆祝这个节日。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What does NASA's 1989 paper claim houseplants can do?",
+       "options": [
+        "A) Add to indoor toxic pollutants.",
+        "Absorb poisonous chemicals.",
+        "Beautify the home environment.",
+        "Soak up surrounding moisture."
+       ],
+       "optionsZh": [
+        "增加室内有毒污染物。",
+        "吸收有毒化学物质。",
+        "美化家居环境。",
+        "吸收周围湿气。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Absorb poisonous chemicals.（吸收有毒化学物质。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What is said to be the problem with NASA's study reported in its 1989 paper?",
+       "options": [
+        "NASA did experiments in sealed containers resembling the super insulated offices of 1970s.",
+        "It was based on experiments under conditions unlike those in most homes or offices.",
+        "NASA conducted tests in outer space whose environment is different from ours.",
+        "It drew its conclusion without any contrastive data from other experiments."
+       ],
+       "optionsZh": [
+        "NASA在类似1970年代超级隔热办公室的密封容器中进行了实验。",
+        "该研究基于与大多数家庭或办公室条件不同的实验。",
+        "NASA在外太空进行了测试,其环境与我们的环境不同。",
+        "该研究在没有其他实验对比数据的情况下得出了结论。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It was based on experiments under conditions unlike those in most homes or offices.（该研究基于与大多数家庭或办公室条件不同的实验。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What is the finding of a new evaluation of dozens of studies spanning 30 years?",
+       "options": [
+        "Natural ventilation proves much more efficient for cleaning the air than houseplants.",
+        "Houseplants disperse chemical compounds more quickly with people moving around.",
+        "Natural ventilation turns out to be most effective with doors and windows wide open.",
+        "Houseplants in a normal environment rarely have any adverse impact on the air."
+       ],
+       "optionsZh": [
+        "自然通风在清洁空气方面比室内植物有效得多。",
+        "随着人员走动,室内植物更快地散发化学化合物。",
+        "自然通风在门窗大开时最为有效。",
+        "正常环境中的室内植物很少对空气产生任何不良影响。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Natural ventilation proves much more efficient for cleaning the air than houseplants.（自然通风在清洁空气方面比室内植物有效得多。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does NASA's sealed experiment recommendation exemplify in scientists' pursuit of truth?",
+       "options": [
+        "The root cause for misinterpretations of scientific findings.",
+        "The difficulty in understanding what's actually happening.",
+        "The steps to be taken in arriving at any conclusion with certainty.",
+        "The necessity of continually reexamining and challenging findings."
+       ],
+       "optionsZh": [
+        "科学发现被误读的根本原因。",
+        "理解实际发生情况的难度。",
+        "确定无疑地得出任何结论所需采取的步骤。",
+        "不断重新审查和质疑研究发现的必要性。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The necessity of continually reexamining and challenging findings.（不断重新审查和质疑研究发现的必要性。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more college students have come to realize social practice and academic learning are equally important.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. (You should copy the sentence given in quotes at the beginning of your essay.)",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "The Sun Is Also a Star is a truly lovely story of love, romance, fate, and destiny. Natasha is a Jamaican-born immigrant living {{1}} in America, not by choice exactly. Her parents brought her over and created the situation she {{2}} to be out of. Daniel is an American born of Korean immigrants. He believes in true love, fate, and all that other nonsense that Natasha {{3}} through scientific reasoning. Daniel and Natasha meet by {{4}} on the streets of New York on the day that she is to be {{5}} . She doesn't tell him that but does allow him to keep her company while he tries to get her to fall in love with him over the course of the day. Natasha is me. I found her so similar to myself. She's scientifically-minded, practical, somewhat cynical, and always {{6}} . Her obsession with the universe through a scientific lens is infectious and I {{7}} Daniel seeing that too. Daniel is charming and passionate and has a way with words that even {{8}} Natasha's tough outer shell. By the end of the book I fell in love with both of them. I used to find romance stories to always be cheap or laughable. I think now I can see the value in escaping into a story of pure optimism. I got {{9}} in The Sun Is Also a Star and finished it cover to cover in a weekend. I couldn't wait to get to what I hoped would be a happy ending. It's nice every once in a while to give in to magic. It doesn't have to be a hard fantasy novel with actual spells, it can be the magic found between two people who just have that special something. That {{10}} that causes them to react and spark when they're near each other.",
+     "options": [
+      "adore",
+      "appraise",
+      "assaults",
+      "chemistry",
+      "coincidence",
+      "cracks",
+      "deported",
+      "dismisses",
+      "illegally",
+      "lost",
+      "perpetually",
+      "prescribed",
+      "shrewd",
+      "skeptical",
+      "strives"
+     ],
+     "answers": [
+      8,
+      14,
+      7,
+      4,
+      6,
+      13,
+      0,
+      5,
+      9,
+      3
+     ],
+     "blankExplains": [
+      "【定位】Natasha is a Jamaican-born immigrant living ____ in America, not by choice exactly.\n【依据】答案是 illegally：填回后与所在句 natasha、jamaican-born、immigrant、living、america、choice 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Her parents brought her over and created the situation she ____ to be out of.\n【依据】答案是 strives：填回后与所在句 parents、brought、over、created、situation、out 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】He believes in true love, fate, and all that other nonsense that Natasha ____ through scientific reasoning.\n【依据】答案是 dismisses：填回后与所在句 believes、true、love、fate、other、nonsense 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Daniel and Natasha meet by ____ on the streets of New York on the day that she is to be  … .\n【依据】答案是 coincidence：填回后与所在句 daniel、natasha、meet、streets、new、york 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Daniel and Natasha meet by  … on the streets of New York on the day that she is to be ____ .\n【依据】答案是 deported：填回后与所在句 daniel、natasha、meet、streets、new、york 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】She's scientifically-minded, practical, somewhat cynical, and always ____ .\n【依据】答案是 skeptical：填回后与所在句 she's、scientifically-minded、practical、somewhat、cynical、always 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Her obsession with the universe through a scientific lens is infectious and I ____ Daniel seeing that too.\n【依据】答案是 adore：填回后与所在句 obsession、universe、through、scientific、lens、infectious 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Daniel is charming and passionate and has a way with words that even ____ Natasha's tough outer shell.\n【依据】答案是 cracks：填回后与所在句 daniel、charming、passionate、way、words、even 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】I got ____ in The Sun Is Also a Star and finished it cover to cover in a weekend.\n【依据】答案是 lost：填回后与所在句 got、sun、star、finished、cover、cover 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】That ____ that causes them to react and spark when they're near each other.\n【依据】答案是 chemistry：填回后与所在句 causes、react、spark、when、they're、near 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "Natasha is a Jamaican-born immigrant living ____ in America, not by choice exactly.",
+       "why": "答案是 illegally：填回后与所在句 natasha、jamaican-born、immigrant、living、america、choice 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 illegally 这个词性/语义，而不是 adore）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 illegally 这个词性/语义，而不是 appraise）。"
+       }
+      },
+      {
+       "locate": "Her parents brought her over and created the situation she ____ to be out of.",
+       "why": "答案是 strives：填回后与所在句 parents、brought、over、created、situation、out 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 strives 这个词性/语义，而不是 shrewd）。",
+        "N": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 strives 这个词性/语义，而不是 skeptical）。"
+       }
+      },
+      {
+       "locate": "He believes in true love, fate, and all that other nonsense that Natasha ____ through scientific reasoning.",
+       "why": "答案是 dismisses：填回后与所在句 believes、true、love、fate、other、nonsense 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "G": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 dismisses 这个词性/语义，而不是 deported）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 dismisses 这个词性/语义，而不是 adore）。"
+       }
+      },
+      {
+       "locate": "Daniel and Natasha meet by ____ on the streets of New York on the day that she is to be  … .",
+       "why": "答案是 coincidence：填回后与所在句 daniel、natasha、meet、streets、new、york 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 coincidence 这个词性/语义，而不是 chemistry）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 coincidence 这个词性/语义，而不是 cracks）。"
+       }
+      },
+      {
+       "locate": "Daniel and Natasha meet by  … on the streets of New York on the day that she is to be ____ .",
+       "why": "答案是 deported：填回后与所在句 daniel、natasha、meet、streets、new、york 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 deported 这个词性/语义，而不是 dismisses）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 deported 这个词性/语义，而不是 adore）。"
+       }
+      },
+      {
+       "locate": "She's scientifically-minded, practical, somewhat cynical, and always ____ .",
+       "why": "答案是 skeptical：填回后与所在句 she's、scientifically-minded、practical、somewhat、cynical、always 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "M": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 skeptical 这个词性/语义，而不是 shrewd）。",
+        "O": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 skeptical 这个词性/语义，而不是 strives）。"
+       }
+      },
+      {
+       "locate": "Her obsession with the universe through a scientific lens is infectious and I ____ Daniel seeing that too.",
+       "why": "答案是 adore：填回后与所在句 obsession、universe、through、scientific、lens、infectious 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adore 这个词性/语义，而不是 appraise）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 adore 这个词性/语义，而不是 assaults）。"
+       }
+      },
+      {
+       "locate": "Daniel is charming and passionate and has a way with words that even ____ Natasha's tough outer shell.",
+       "why": "答案是 cracks：填回后与所在句 daniel、charming、passionate、way、words、even 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cracks 这个词性/语义，而不是 chemistry）。",
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 cracks 这个词性/语义，而不是 coincidence）。"
+       }
+      },
+      {
+       "locate": "I got ____ in The Sun Is Also a Star and finished it cover to cover in a weekend.",
+       "why": "答案是 lost：填回后与所在句 got、sun、star、finished、cover、cover 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 lost 这个词性/语义，而不是 adore）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 lost 这个词性/语义，而不是 appraise）。"
+       }
+      },
+      {
+       "locate": "That ____ that causes them to react and spark when they're near each other.",
+       "why": "答案是 chemistry：填回后与所在句 causes、react、spark、when、they're、near 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chemistry 这个词性/语义，而不是 coincidence）。",
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chemistry 这个词性/语义，而不是 cracks）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "According to recent research, behavioral change involves physical changes in the brain. In the past decade, researchers have shown that when it comes to the duration of making a new behavior a deep-rooted habit there is not a simple answer. Even for the most productive and disciplined among us, undoing something that has become an automatic part of who we are takes more than an overnight effort. Once we've successfully made that change, we then have to make other adjustments to our lives to ensure that we continue to maintain it, which is often a whole other challenge in itself."
+      },
+      {
+       "id": "B",
+       "text": "At its core, success in changing and maintaining a behavior rarely occurs without the introduction of some sort of system. When there isn't the right framework in place, we face a greater likelihood of derailing our hard-earned progress. To ensure success in changing and maintaining a behavior, we should stay away from some detrimental habits."
+      },
+      {
+       "id": "C",
+       "text": "The first one to avoid is relying on willpower. Think about the last time you vowed to resist a temptation. Perhaps you didn't want to check your phone every 15 minutes, or you were determined not to reach for a chocolate bar at 3 p. m. Think about how difficult it must have been not to glance at your phone when it was within reach, or not to walk to the vending machine when your afternoon slump hit."
+      },
+      {
+       "id": "D",
+       "text": "The research on whether we have finite or infinite willpower is inconclusive, but experts do generally agree that you can't change and sustain a habit if you rely on your willpower alone. The old military saying \"You never rise to the occasion, you only sink to the level of training\" also applies to behavior change. The idea is simple—you repeat something so many times that it becomes automatic."
+      },
+      {
+       "id": "E",
+       "text": "Think about what else you can change about your surrounding that makes it easier for you to perform this change on a daily basis. This is called your \"cue.\" Basically, it's a trigger to perform that particular habit. If you don't want to reach for a sugary treat at 3 p. m. , have a box of herbal tea ready at your desk. When 3 p. m. comes around, that's your cue to pour yourself a cup of hot water and drink that tea, instead of walking to the vending machine."
+      },
+      {
+       "id": "F",
+       "text": "The second one to avoid is focusing on negative goals. Sometimes, it's not your process that lets you down, but the habit that you want to change in the first place. For starters, not eating chocolate to beat your afternoon slump is a harder goal than swapping chocolate for herbal tea when you reach the designated time. Your brain wants to find routines that have succeeded in the past and allow you to repeat those actions again in the future without having to think about them explicitly. However, this habit-learning system isn't so effective when it comes to learning not to do something. That's why rather than giving up something, think about introducing something in its place. Focus on actions you are going to take that will ultimately conflict with the behaviors you want to stop. When your attention is on doing something new, you give your habit system a chance to operate."
+      },
+      {
+       "id": "G",
+       "text": "The third one to avoid is using the same strategies in different circumstances. Because we are creatures of habit, it's natural to assume that when we do manage to adopt and sustain a desirable behavior, that same strategy will work when we want to make another behavior change. But that's not always the case. Sometimes, the system that got you to change one behavior might not work for another."
+      },
+      {
+       "id": "H",
+       "text": "Sometimes we become accustomed to relying on our guts when it comes to decision-making. This serves us well in certain situations, but can hinder us in others especially when we need to consider metrics and data, rather than letting our instinct override everything. For example, if you want to stop checking your email first thing in the morning, you might decide to substitute another activity in its place. But if you want to stop indulging in video games, simply deciding you will go for a run might not be as effective. You might need to introduce another reinforcement, such as meeting a friend and booking an exercise class together."
+      },
+      {
+       "id": "I",
+       "text": "The fourth one to avoid is not forgiving ourselves for slipping up. Of course, even the best-laid plans fail sometimes. You might have stuck to your screen-free nighttime routine for five days, and then a big project landed on your desk and you found yourself in bed with your laptop before you went to sleep. Or you prepared meals on Sunday and stuck to eating healthy dinners at home, but by Friday you found yourself so exhausted and opted to order greasy takeout. Life happens and even if your behavior change is small, every single day can prove pretty inflexible, and at some point your luck may run out, even if just for a day. The perfectionist in you might be screaming to abandon your goals altogether, but try to see it in the bigger picture. Just because you might have temporarily strayed off course doesn't mean you can't start afresh the next day."
+      },
+      {
+       "id": "J",
+       "text": "The final one to avoid is discounting small progress. There's a habit that many perfectionists tend to fall into when they try to establish a behavior change. They focus too much on the big goal and don't take the time to celebrate the small progress they make in the process. Your brain responds to rewards. The basal ganglia, the brain region linked to our performance of habits, is most active at the beginning of a behavior, when the habit is cued, and at the end, when it's rewarded. Say your goal is to run five miles three times a week, and this week you ran one mile on Monday, Wednesday, and Friday. Rather than focusing on how far you've gone toward your goal, think about how you can reward yourself for the progress you've made. It doesn't have to be big or expensive; it can be something as simple as making your favorite fruit juice after your run. Whatever your reward, it has to be more than just the activity itself to get you going."
+      },
+      {
+       "id": "K",
+       "text": "Initiating a new behavior usually seems like the hardest part of the process of change. However, people often fail to adequately prepare for maintaining it. One of the reasons for this is because we mistakenly believe the strategies we used to initiate the change will be equally effective in helping us continue the change. But they won't. Where changing a strongly deep-rooted habit requires changing our belief about that habit that penetrates deeply into our lives, continually manifesting that wisdom requires that we maintain a positive outlook. If our mood is low, the wisdom to behave differently seems to disappear and we go back to eating more and exercising less. The key, then, to maintaining new behaviors is to be happy! Which is why it's so hard to maintain new behaviors."
+      },
+      {
+       "id": "L",
+       "text": "Remember, overcoming the behavioral inertia that prevents us from implementing new changes, like eating a healthy diet or exercising, can benefit us in the long run and can improve our physical and mental health. No one was born with habits. They were all learned, and can all, therefore, be unlearned. The question is: how badly do you really want to change?"
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "There is general consensus among experts that willpower alone cannot guarantee one's success in changing and maintaining a habit."
+      },
+      {
+       "id": "s37",
+       "text": "One need not abandon their goals completely just because they missed their target temporarily; they can start anew."
+      },
+      {
+       "id": "s38",
+       "text": "Research shows it is quite another challenge to maintain a behavioral change after you have initiated it."
+      },
+      {
+       "id": "s39",
+       "text": "It is wrong to assume the strategies we use to start a change of behavior will work equally well in helping maintain it."
+      },
+      {
+       "id": "s40",
+       "text": "Sometimes, it may not be successful to simply substitute one activity with another to effect a change of habit; you may need extra reinforcement."
+      },
+      {
+       "id": "s41",
+       "text": "One should introduce something new to replace an old habit instead of simply kicking it."
+      },
+      {
+       "id": "s42",
+       "text": "Perfectionists focus too much on their big target and neglect celebrating the small gains they make in the process."
+      },
+      {
+       "id": "s43",
+       "text": "It is of great benefit to us in the long term to conquer the inertia that stops us from making behavioral changes."
+      },
+      {
+       "id": "s44",
+       "text": "The strategy that successfully changed one of your behaviors may not work for some other behavior of yours."
+      },
+      {
+       "id": "s45",
+       "text": "Without a happy mood, it seems that our wisdom to adopt a different behavior vanishes."
+      }
+     ],
+     "answers": [
+      "D",
+      "I",
+      "A",
+      "K",
+      "H",
+      "F",
+      "J",
+      "L",
+      "G",
+      "K"
+     ],
+     "statementExplains": [
+      "【定位】The research on whether we have finite or infinite willpower is inconclusive, but experts do generally agree that you can't change and sustain a habit if you rely on your willpower alone.\n【依据】陈述里的 general、experts、willpower、alone、changing、habit 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】Just because you might have temporarily strayed off course doesn't mean you can't start afresh the next day.\n【依据】陈述里的 just、because、temporarily、start 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】According to recent research, behavioral change involves physical changes in the brain.\n【依据】陈述里的 research、behavioral、change 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】One of the reasons for this is because we mistakenly believe the strategies we used to initiate the change will be equally effective in helping us continue the change.\n【依据】陈述里的 strategies、change、equally、helping 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+      "【定位】For example, if you want to stop checking your email first thing in the morning, you might decide to substitute another activity in its place.\n【依据】陈述里的 substitute、activity、another 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】When your attention is on doing something new, you give your habit system a chance to operate.\n【依据】陈述里的 something、new、habit 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】They focus too much on the big goal and don't take the time to celebrate the small progress they make in the process.\n【依据】陈述里的 focus、too、much、big、celebrating、small 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+      "【定位】Remember, overcoming the behavioral inertia that prevents us from implementing new changes, like eating a healthy diet or exercising, can benefit us in the long run and can improve our physical and mental health.\n【依据】陈述里的 benefit、long、inertia、behavioral、changes 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】Because we are creatures of habit, it's natural to assume that when we do manage to adopt and sustain a desirable behavior, that same strategy will work when we want to make another behavior change.\n【依据】陈述里的 strategy、changed、behaviors、work、behavior 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】If our mood is low, the wisdom to behave differently seems to disappear and we go back to eating more and exercising less.\n【依据】陈述里的 mood、seems、wisdom、different、behavior 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。"
+     ],
+     "explain": "长篇阅读匹配：12 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "The research on whether we have finite or infinite willpower is inconclusive, but experts do generally agree that you can't change and sustain a habit if you rely on your willpower alone.",
+       "why": "陈述里的 general、experts、willpower、alone、changing、habit 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Just because you might have temporarily strayed off course doesn't mean you can't start afresh the next day.",
+       "why": "陈述里的 just、because、temporarily、start 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "According to recent research, behavioral change involves physical changes in the brain.",
+       "why": "陈述里的 research、behavioral、change 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "One of the reasons for this is because we mistakenly believe the strategies we used to initiate the change will be equally effective in helping us continue the change.",
+       "why": "陈述里的 strategies、change、equally、helping 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      },
+      {
+       "locate": "For example, if you want to stop checking your email first thing in the morning, you might decide to substitute another activity in its place.",
+       "why": "陈述里的 substitute、activity、another 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "When your attention is on doing something new, you give your habit system a chance to operate.",
+       "why": "陈述里的 something、new、habit 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "They focus too much on the big goal and don't take the time to celebrate the small progress they make in the process.",
+       "why": "陈述里的 focus、too、much、big、celebrating、small 在 J 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 J 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Remember, overcoming the behavioral inertia that prevents us from implementing new changes, like eating a healthy diet or exercising, can benefit us in the long run and can improve our physical and mental health.",
+       "why": "陈述里的 benefit、long、inertia、behavioral、changes 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Because we are creatures of habit, it's natural to assume that when we do manage to adopt and sustain a desirable behavior, that same strategy will work when we want to make another behavior change.",
+       "why": "陈述里的 strategy、changed、behaviors、work、behavior 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "If our mood is low, the wisdom to behave differently seems to disappear and we go back to eating more and exercising less.",
+       "why": "陈述里的 mood、seems、wisdom、different、behavior 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "The \"American Dream\" promises that in the Land of Opportunity, any individual can climb the economic ladder and prosper through hard work and ambition alone. And yet, young Americans today are struggling to earn more than their parents did at the same age, and upward mobility in the US actually compares unfavourably to that of other industrialised nations. So why does the idea of the American Dream persist? A new study in the American Journal of Political Science identifies one factor that has been overlooked: the influence of reality TV. Reality shows have come to dominate US television over the past 20 years, notes Eunji Kim from Vanderbilt University. And the overwhelming majority of these have a \"rags-to-riches\" storyline: they feature ordinary Americans who work hard to achieve great economic success. And while these programmes are regularly among the most-watched shows, news broadcasts—which paint a more realistic view of the economic hardship faced by millions of Americans—get a much smaller proportion of the viewership. Rags-to-riches stories are ubiquitous(无处不在的) on TV—but does watching these programmes actually convince people that economic mobility is easily attainable? To find out, Kim's team had participants watch a 5-minute clip from a reality show with a rags-to-riches storyline. Control participants watched a clip from a reality show that didn't have a rags-to-riches story. After watching the shows, participants rated how much they agreed with four statements relating to the American Dream. The results showed that those who'd watched a rags-to-riches clip did indeed have a significantly greater belief in the American Dream. Interestingly, when participants were separated by party affiliation, this effect was significant among Republicans but not Democrats, suggesting that the kind of messages implicit in these TV shows may play into people's existing socioeconomic beliefs. Kim also conducted a survey of 3,000 US residents. They also rated the extent to which they believed success in life is related to various internal factors (such as ambition) and external factors (such as family wealth). Finally, they read a list of TV programmes and indicated which they regularly watched. Participants who were heavy viewers of rags-to-riches programmes or frequent viewers had a stronger belief in the American Dream than those who never watched such shows. Kim concludes that \"rags-to-riches entertainment media are an important cultural force that promotes and perpetuates beliefs in upward mobility\". And here's the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality. \"In this era of choice, entertainment media is what captures hearts and minds,\" Kim writes. \"Its political consequences are anything but trivial\".",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What do we learn from the passage about young Americans of today?",
+       "options": [
+        "They have greater ambitions than their parents.",
+        "They find it difficult to achieve upward mobility.",
+        "They have overtaken their parents in terms of earnings.",
+        "They envy the opportunities in other industrialised nations."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】And yet, young Americans today are struggling to earn more than their parents did at the same age, and upward mobility in the US actually compares unfavourably to that of other industrialised nations.\n【依据】正确项的核心词 upward、mobility 与定位句对得上；其余 find、difficult、achieve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "And yet, young Americans today are struggling to earn more than their parents did at the same age, and upward mobility in the US actually compares unfavourably to that of other industrialised nations.",
+        "why": "正确项的核心词 upward、mobility 与定位句对得上；其余 find、difficult、achieve 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：「ambitions」全文未出现；把原文的「parents」换成了「greater、ambitions」，主语或对象被调包。",
+         "C": "无中生有：「overtaken、terms、earnings」全文未出现；把原文的「parents」换成了「overtaken、terms、earnings」，主语或对象被调包。",
+         "D": "无中生有：「envy、opportunities」全文未出现；把原文的「other、industrialised、nations」换成了「envy、opportunities」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What does Kim's team find about reality TV shows in America?",
+       "options": [
+        "They reinterpret the essence of the popular rags-to-riches culture.",
+        "They urge people to achieve economic success through hard work.",
+        "They help strengthen people's conviction in the American Dream.",
+        "They feature ordinary Americans striving for social recognition."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】To find out, Kim's team had participants watch a 5-minute clip from a reality show with a rags-to-riches storyline.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 help、strengthen、people's、conviction 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "To find out, Kim's team had participants watch a 5-minute clip from a reality show with a rags-to-riches storyline.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 help、strengthen、people's、conviction 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「reinterpret、essence、popular」全文未出现；把原文的「rags-to-riches」换成了「reinterpret、essence、popular」，主语或对象被调包。",
+         "B": "因果倒置：「urge」全文未出现。",
+         "D": "因果倒置：「striving、social、recognition」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What does the author say about news broadcasts in America?",
+       "options": [
+        "They attract far fewer viewers than reality TV.",
+        "They are bent on reporting the dark side of life.",
+        "They stand in striking contrast with reality TV.",
+        "They focus on Americans' economic hardships."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】And while these programmes are regularly among the most-watched shows, news broadcasts—which paint a more realistic view of the economic hardship faced by millions of Americans—get a much smaller proportion of the viewership.\n【依据】正确项的核心词 viewers、reality 与定位句对得上；其余 attract、far、fewer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "And while these programmes are regularly among the most-watched shows, news broadcasts—which paint a more realistic view of the economic hardship faced by millions of Americans—get a much smaller proportion of the viewership.",
+        "why": "正确项的核心词 viewers、reality 与定位句对得上；其余 attract、far、fewer 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「bent、reporting、dark」全文未出现。",
+         "C": "无中生有：「stand、striking、contrast」全文未出现；把原文的「reality」换成了「stand、striking、contrast」，主语或对象被调包。",
+         "D": "无中生有：「focus」全文未出现；把原文的「americans'、economic、hardships」换成了「focus」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What can we infer from the passage about Republicans in general?",
+       "options": [
+        "They believe strongly in the American Dream.",
+        "They strive to climb the socio-economic ladder.",
+        "They have a very strong affiliation with their party.",
+        "They tend to watch more rags-to-riches TV shows."
+       ],
+       "answer": 0,
+       "kind": "inference",
+       "explain": "【定位】Interestingly, when participants were separated by party affiliation, this effect was significant among Republicans but not Democrats, suggesting that the kind of messages implicit in these TV shows may play into people's existing socioeconomic beliefs.\n【依据】正确项的核心词 believe 与定位句对得上；其余 strongly、american、dream 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Interestingly, when participants were separated by party affiliation, this effect was significant among Republicans but not Democrats, suggesting that the kind of messages implicit in these TV shows may play into people's existing socioeconomic beliefs.",
+        "why": "正确项的核心词 believe 与定位句对得上；其余 strongly、american、dream 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "偷换主体：「strive」全文未出现；把原文的「socio-economic」换成了「strive、climb、ladder」，主语或对象被调包。",
+         "C": "无中生有：「very、strong」全文未出现；把原文的「affiliation、party」换成了「very、strong」，主语或对象被调包。",
+         "D": "偷换主体：「tend」全文未出现；把原文的「shows」换成了「tend、watch、rags-to-riches」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What is stated about people who believe in upward mobility?",
+       "options": [
+        "They are likely to blame the government for their plight.",
+        "They regard political consequences as anything but trivial.",
+        "They respect individuals striving to climb the social ladder.",
+        "They are less likely to approve of policies to fight inequality."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】And here's the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality.\n【依据】正确项的核心词 less、policies、inequality 与定位句对得上；其余 likely、approve、fight 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "And here's the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality.",
+        "why": "正确项的核心词 less、policies、inequality 与定位句对得上；其余 likely、approve、fight 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「likely、blame、government」全文未出现。",
+         "B": "因果倒置：「regard」全文未出现。",
+         "C": "无中生有：「respect、striving、social」全文未出现；把原文的「individuals」换成了「respect、striving、climb」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 447 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "When someone asks us 'what do you do?' we nearly always reply with our occupation. Work, for many of us, is much more than a job. It is the defining aspect of our identity. For many of us it is through our job that we can define ourselves. \"Without my job I don't know who I am,\" is a sentence that has been uttered on more than a handful of occasions from my office chair. Indeed, it can be one of the most challenging aspects I work on with clients who have lost or been forced into changing their jobs. This loss provokes an identity crisis much greater than the loss of the job itself. One of the things I have come to understand, however, is that our identity is much more complex than we recognise at first glance. If we take the time to reflect we might recognise that as well as our work we can also identify as a friend, a spouse, a son or daughter, a parent, a member of a sports team or religious community. We may recognise that we feel and act differently in these roles and relationships than we do at work. The passive daughter becomes an assertive leader at work. Furthermore, our identities at work are not static. They change over time. I myself have been a shop assistant, a waitress, a student, a graduate, and a clinical psychologist. At each stage my ability to adapt to and develop my career identity has been crucial to my wellbeing. Whilst we like to eliminate uncertainty in our lives at some level we have to manage uncertainty, especially in today's volatile and ever-shifting job market. How we see ourselves is central to the issue of our identity. When we tell ourselves \"I'm good at starting projects but not so great at seeing them through\" it can become part of our belief system. But if you have the unfortunate experience of an enforced job change you will need to examine those beliefs to see how grounded in reality they are. You will be required to ask yourself how helpful these beliefs are and consider personal change. We can change our beliefs, behaviours and emotional experience at any time through experimentation, practice and conscious self-discipline. In an age where career progression may lead us into new sectors it is ever more important to challenge our sense of self and explore whether you can create a new experience of your identity by changing the beliefs you hold about yourself in order to expand your career options. Ultimately it is you who define who you are. You are only your job if you let it be so.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What do we learn from the passage about one's loss of a job?",
+       "options": [
+        "It compels them to visit a clinical psychologist.",
+        "It offers them a chance to play different roles.",
+        "It renders them puzzled about who they are.",
+        "It forces them to redefine their life's goals."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】This loss provokes an identity crisis much greater than the loss of the job itself.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 renders、puzzled、about、who 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "This loss provokes an identity crisis much greater than the loss of the job itself.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 renders、puzzled、about、who 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「compels、visit」全文未出现。",
+         "B": "无中生有：「offers、chance、play」全文未出现。",
+         "D": "无中生有：「forces、redefine、life's」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "What has the author come to understand about our identity?",
+       "options": [
+        "It is crucial to our emotional wellbeing.",
+        "It plays a big role in many facets of life.",
+        "It reflects our changing status in society.",
+        "It is more complicated than it appears."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】One of the things I have come to understand, however, is that our identity is much more complex than we recognise at first glance.\n【依据】正确项的核心词 complicated 与定位句对得上；其余 appears 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "One of the things I have come to understand, however, is that our identity is much more complex than we recognise at first glance.",
+        "why": "正确项的核心词 complicated 与定位句对得上；其余 appears 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。",
+         "B": "无中生有：「plays、big、role」全文未出现。",
+         "C": "无中生有：「reflects、status、society」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What does the passage say about our identities at work?",
+       "options": [
+        "They are essential to our self-esteem.",
+        "They evolve with the passage of time.",
+        "They overrule all other self-perceptions.",
+        "They are key to understanding ourselves."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】If we take the time to reflect we might recognise that as well as our work we can also identify as a friend, a spouse, a son or daughter, a parent, a member of a sports team or religious community.\n【依据】正确项的核心词 time 与定位句对得上；其余 evolve、passage 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "If we take the time to reflect we might recognise that as well as our work we can also identify as a friend, a spouse, a son or daughter, a parent, a member of a sports team or religious community.",
+        "why": "正确项的核心词 time 与定位句对得上；其余 evolve、passage 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「essential、self-esteem」全文未出现。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「overrule、other、self-perceptions」全文未出现。",
+         "D": "无中生有：「key、understanding」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What do we have to do in today's ever-changing job market?",
+       "options": [
+        "Strive to develop our social identity.",
+        "Prepare for different career paths.",
+        "Try to be assertive at all times.",
+        "Learn to manage uncertainty."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】Whilst we like to eliminate uncertainty in our lives at some level we have to manage uncertainty, especially in today's volatile and ever-shifting job market.\n【依据】正确项的核心词 manage、uncertainty 与定位句对得上；其余 learn 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Whilst we like to eliminate uncertainty in our lives at some level we have to manage uncertainty, especially in today's volatile and ever-shifting job market.",
+        "why": "正确项的核心词 manage、uncertainty 与定位句对得上；其余 learn 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「strive、social」全文未出现。",
+         "B": "无中生有：「prepare、different、paths」全文未出现。",
+         "C": "无中生有：出现 all/always/never 这类绝对限定，原文没有对应强度；「try、times」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What should we do to expand our career options?",
+       "options": [
+        "Alter our perceptions of ourselves.",
+        "Compare various job opportunities.",
+        "Look into newly emerging sectors.",
+        "Exercise self-discipline consciously."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】In an age where career progression may lead us into new sectors it is ever more important to challenge our sense of self and explore whether you can create a new experience of your identity by changing the beliefs you hold about yourself in order to expand your career options.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 alter、perceptions、ourselves 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "In an age where career progression may lead us into new sectors it is ever more important to challenge our sense of self and explore whether you can create a new experience of your identity by changing the beliefs you hold about yourself in order to expand your career options.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 alter、perceptions、ourselves 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「compare、various、opportunities」全文未出现。",
+         "C": "无中生有：「look、newly、emerging」全文未出现；把原文的「into、sectors」换成了「look、newly、emerging」，主语或对象被调包。",
+         "D": "无中生有：「exercise、consciously」全文未出现。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 448 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "中国盛产竹子，是最早开发利用竹资源的国家。竹子在中国分布广泛，品种丰富。竹子实用性强，用于生产和生活的许多方面，如筷子、桌椅的制作和桥梁、房屋的建造。中国人爱竹，自古以来就有无数文人以竹为主题，创作了绚丽多彩的文学和绘画作品。竹子主干笔直，象征正直的品格。竹子具有强大的生命力和适应能力，无论环境多么恶劣，都能够顽强生存，因而寓意坚韧不拔的精神。几千年来，竹子一直被视为中华民族品格的象征。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}

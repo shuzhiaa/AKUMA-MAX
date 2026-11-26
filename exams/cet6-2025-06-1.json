@@ -1,0 +1,1180 @@
+{
+ "id": "cet6-2025-06-1",
+ "levelId": "cet6",
+ "title": "六级 2025 年 06 月 第 1 套",
+ "minutes": 155,
+ "band": "1",
+ "focus": "历年真题原文（第三方整理版）",
+ "source": "真题原文 · 2025年6月英语六级真题及答案解析（第1套） · 整卷电子版 PDF/Word 下载 · 懒笔记 · 抓取自 https://english-exam.lazynote.cn/cet6/paper/2025-06-1/",
+ "_missing": [],
+ "_answerCount": 55,
+ "sections": [
+  {
+   "type": "listening",
+   "title": "听力",
+   "instructions": "录音只播一遍。25 题单选，每题 9.94 分（710 分制，听力共 248.5 分）。",
+   "scorePerItem": 9.94,
+   "items": [
+    {
+     "id": "listening-full",
+     "type": "listening",
+     "audio": "audio/listening/cet6-2025-06-1.mp3",
+     "parts": [
+      {
+       "idx": 1,
+       "zh": "M：早上好。我叫鲍勃·费特曼"
+      },
+      {
+       "idx": 2,
+       "zh": "W：上周不是我打电话叫你来的吗？"
+      },
+      {
+       "idx": 3,
+       "zh": "M：可能吧？我为 Alpha Maintenance 工作"
+      },
+      {
+       "idx": 4,
+       "zh": "W：是的，我上周二，也就是十天前"
+      },
+      {
+       "idx": 5,
+       "zh": "M：很抱歉，但我不负责安排所有的后勤事宜"
+      },
+      {
+       "idx": 6,
+       "zh": "W：我明白了。不过我要告诉你"
+      },
+      {
+       "idx": 7,
+       "zh": "M：我明白，也很抱歉给你带来不便"
+      },
+      {
+       "idx": 8,
+       "zh": "W：就是这台机器。它运行缓慢有一阵子了"
+      },
+      {
+       "idx": 9,
+       "zh": "M：好的。你知道它有没有备份吗？"
+      },
+      {
+       "idx": 10,
+       "zh": "W：备份？"
+      },
+      {
+       "idx": 11,
+       "zh": "M：我的意思是，你知道里面的内容有没有被复制并保存到其他地方吗？"
+      }
+     ],
+     "questions": [
+      {
+       "id": "L1",
+       "no": 1,
+       "section": "A",
+       "stem": "What did the woman do last Tuesday?",
+       "options": [
+        "Met the computer technician.",
+        "Told the man about her trouble.",
+        "Called the man's company.",
+        "Visited Alpha Maintenance."
+       ],
+       "optionsZh": [
+        "见了电脑技术员。",
+        "把她的麻烦告诉了这位男士。",
+        "给这位男士的公司打了电话。",
+        "拜访了Alpha Maintenance。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Called the man's company.（给这位男士的公司打了电话。）"
+      },
+      {
+       "id": "L2",
+       "no": 2,
+       "section": "A",
+       "stem": "What does the man say he did when he got the call?",
+       "options": [
+        "Consulted someone in charge.",
+        "Came as soon as possible.",
+        "Informed the central office at once.",
+        "Designated an engineer to the case."
+       ],
+       "optionsZh": [
+        "咨询了负责人。",
+        "尽快赶来了。",
+        "立即通知了中心办公室。",
+        "指派了一名工程师处理此事。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Came as soon as possible.（尽快赶来了。）"
+      },
+      {
+       "id": "L3",
+       "no": 3,
+       "section": "A",
+       "stem": "What is the feeling about the problem around the woman's workplace?",
+       "options": [
+        "Frustration.",
+        "Intimidation.",
+        "Desperation.",
+        "Indignation."
+       ],
+       "optionsZh": [
+        "沮丧。",
+        "恐惧。",
+        "绝望。",
+        "愤慨。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Indignation.（愤慨。）"
+      },
+      {
+       "id": "L4",
+       "no": 4,
+       "section": "A",
+       "stem": "What does the woman say her manager would know?",
+       "options": [
+        "Whether the contents have been backed up.",
+        "Whether they can find help somewhere else.",
+        "Whether all data stored on the hard drive has got lost.",
+        "Whether they need to wipe the system directories clean."
+       ],
+       "optionsZh": [
+        "内容是否已备份。",
+        "他们能否在别处找到帮助。",
+        "存储在硬盘上的所有数据是否已丢失。",
+        "他们是否需要清除系统目录。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Whether the contents have been backed up.（内容是否已备份。）"
+      },
+      {
+       "id": "L5",
+       "no": 5,
+       "section": "A",
+       "stem": "What will many people say about a career in law?",
+       "options": [
+        "It's boring.",
+        "It's challenging.",
+        "It's a beautiful thing.",
+        "It's unlike most jobs."
+       ],
+       "optionsZh": [
+        "它很无聊。",
+        "它很有挑战性。",
+        "它是一件美好的事情。",
+        "它不同于大多数工作。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：It's boring.（它很无聊。）"
+      },
+      {
+       "id": "L6",
+       "no": 6,
+       "section": "A",
+       "stem": "What does the man say most of his work involves?",
+       "options": [
+        "Arbitrating between disagreeing solicitors.",
+        "Preventing disputes from escalating.",
+        "Buying and selling property.",
+        "Mediating land disputes."
+       ],
+       "optionsZh": [
+        "在意见不一的律师之间进行仲裁。",
+        "防止争议升级。",
+        "买卖房产。",
+        "调解土地纠纷。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Mediating land disputes.（调解土地纠纷。）"
+      },
+      {
+       "id": "L7",
+       "no": 7,
+       "section": "A",
+       "stem": "Why does the man say it's usually better to resolve problems outside of court whenever possible?",
+       "options": [
+        "Courts are intended for fixing major legal disputes.",
+        "Courts are getting too bureaucratic to function.",
+        "Courts can be frustrating and expensive.",
+        "Courts can be frightening and arbitrary."
+       ],
+       "optionsZh": [
+        "法庭是用来解决重大法律纠纷的。",
+        "法庭正变得过于官僚化而无法运作。",
+        "法庭可能令人沮丧且费用高昂。",
+        "法庭可能令人恐惧且武断。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Courts can be frustrating and expensive.（法庭可能令人沮丧且费用高昂。）"
+      },
+      {
+       "id": "L8",
+       "no": 8,
+       "section": "A",
+       "stem": "What does the man think is required of any law professional?",
+       "options": [
+        "The ability to make arguments in a unique way.",
+        "The skill of preventing conflicts between parties concerned.",
+        "The skill of foreseeing any potential stakes in their work.",
+        "The ability to express themselves clearly and forcefully."
+       ],
+       "optionsZh": [
+        "以独特方式进行论证的能力。",
+        "防止相关各方之间冲突的技能。",
+        "预见工作中任何潜在利害关系的技能。",
+        "清晰有力地表达自己的能力。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：The ability to express themselves clearly and forcefully.（清晰有力地表达自己的能力。）"
+      },
+      {
+       "id": "L9",
+       "no": 9,
+       "section": "B",
+       "stem": "What did the researchers do in their review in the journal Trends in Cognitive Sciences?",
+       "options": [
+        "They looked into the relationship between one's prior knowledge and creativity.",
+        "They offered novel ways to help older adults to keep their memories from aging.",
+        "They proposed an explanation for old people's difficulty in retrieving memories.",
+        "They advanced a new model concerning human information storage and retrieval."
+       ],
+       "optionsZh": [
+        "他们研究了一个人的先验知识与创造力之间的关系。",
+        "他们提供了帮助老年人防止记忆力衰退的新方法。",
+        "他们对老年人提取记忆困难提出了一种解释。",
+        "他们提出了一个关于人类信息存储和提取的新模型。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They proposed an explanation for old people's difficulty in retrieving memories.（他们对老年人提取记忆困难提出了一种解释。）"
+      },
+      {
+       "id": "L10",
+       "no": 10,
+       "section": "B",
+       "stem": "What do several behavioral and brain imaging studies show?",
+       "options": [
+        "Young adults rely on memory while older adults keep notes as a reminder.",
+        "Older adults often retrieve irrelevant memories along with what they want.",
+        "Young adults accumulate knowledge much more quickly than older adults.",
+        "Older adults generally perform cognitive tasks much slower than young adults."
+       ],
+       "optionsZh": [
+        "年轻人依赖记忆,而老年人做笔记作为提醒。",
+        "老年人在提取所需记忆时常常同时提取出不相关的记忆。",
+        "年轻人积累知识的速度比老年人快得多。",
+        "老年人执行认知任务的速度通常比年轻人慢得多。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Older adults often retrieve irrelevant memories along with what they want.（老年人在提取所需记忆时常常同时提取出不相关的记忆。）"
+      },
+      {
+       "id": "L11",
+       "no": 11,
+       "section": "B",
+       "stem": "What does evidence suggest regarding older adults?",
+       "options": [
+        "They show preserved, and sometimes enhanced, creativity.",
+        "They frequently suffer from disorderly crowded memories.",
+        "They can rely on their accumulated wisdom in an emergency.",
+        "They may well be served by forgetting their prior knowledge."
+       ],
+       "optionsZh": [
+        "他们表现出保留的、有时甚至增强的创造力。",
+        "他们经常遭受杂乱拥挤记忆的困扰。",
+        "他们在紧急情况下可以依靠自己积累的智慧。",
+        "忘记先验知识可能对他们很有帮助。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They show preserved, and sometimes enhanced, creativity.（他们表现出保留的、有时甚至增强的创造力。）"
+      },
+      {
+       "id": "L12",
+       "no": 12,
+       "section": "B",
+       "stem": "What do we learn about American workers from the passage?",
+       "options": [
+        "They are actually proud of the goods and services they produce.",
+        "They are worried about being alienated from the outside world.",
+        "They are rarely in control of many things related to their work.",
+        "They are longing to share the profits made from their work."
+       ],
+       "optionsZh": [
+        "他们实际上为自己生产的商品和服务感到自豪。",
+        "他们担心与外部世界隔绝。",
+        "他们很少能掌控与工作相关的许多事情。",
+        "他们渴望分享工作所创造的利润。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：They are rarely in control of many things related to their work.（他们很少能掌控与工作相关的许多事情。）"
+      },
+      {
+       "id": "L13",
+       "no": 13,
+       "section": "B",
+       "stem": "What does the passage say long working hours contribute to?",
+       "options": [
+        "The steady decrease in productivity.",
+        "The adverse effect on physical health.",
+        "The feeling of being time poor.",
+        "The rising economic inequality."
+       ],
+       "optionsZh": [
+        "生产率的持续下降。",
+        "对身体健康的不良影响。",
+        "时间贫乏的感觉。",
+        "经济不平等的加剧。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：The feeling of being time poor.（时间贫乏的感觉。）"
+      },
+      {
+       "id": "L14",
+       "no": 14,
+       "section": "B",
+       "stem": "What does automation do, according to the passage?",
+       "options": [
+        "It alters the structure of work.",
+        "It puts jobs and wages at risk.",
+        "It liberates people from tedious and laborious work.",
+        "It creates new work opportunities in the IT industry."
+       ],
+       "optionsZh": [
+        "它改变了工作的结构。",
+        "它使工作和工资面临风险。",
+        "它将人们从繁琐和费力的工作中解放出来。",
+        "它在信息技术行业创造了新的工作机会。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：It puts jobs and wages at risk.（它使工作和工资面临风险。）"
+      },
+      {
+       "id": "L15",
+       "no": 15,
+       "section": "B",
+       "stem": "What do post-work theorists advocate?",
+       "options": [
+        "Finding meaning in work.",
+        "Prioritizing life over work.",
+        "Improving relationships in the community.",
+        "Realizing one's social value in the workplace."
+       ],
+       "optionsZh": [
+        "在工作中寻找意义。",
+        "将生活置于工作之上。",
+        "改善社区中的关系。",
+        "在工作场所实现个人的社会价值。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Prioritizing life over work.（将生活置于工作之上。）"
+      },
+      {
+       "id": "L16",
+       "no": 16,
+       "section": "C",
+       "stem": "What does the speaker say even our personal beliefs about effort can do?",
+       "options": [
+        "Affect our attitude to novel tasks.",
+        "Distinguish us in the social world.",
+        "Outweigh IQ in importance.",
+        "Impact academic achievements."
+       ],
+       "optionsZh": [
+        "影响我们对新任务的态度。",
+        "在社会世界中使我们与众不同。",
+        "在重要性上超过智商。",
+        "影响学业成就。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Impact academic achievements.（影响学业成就。）"
+      },
+      {
+       "id": "L17",
+       "no": 17,
+       "section": "C",
+       "stem": "How did the researchers turn on the music toy in their experiment?",
+       "options": [
+        "By pressing a hidden button.",
+        "By pushing a big button on top.",
+        "By pressing two buttons at the same time.",
+        "By helping the babies push the right button."
+       ],
+       "optionsZh": [
+        "通过按下一个隐藏的按钮。",
+        "通过按下顶部的一个大按钮。",
+        "通过同时按下两个按钮。",
+        "通过帮助婴儿按下正确的按钮。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：By pressing a hidden button.（通过按下一个隐藏的按钮。）"
+      },
+      {
+       "id": "L18",
+       "no": 18,
+       "section": "C",
+       "stem": "What could the infants do in the experiment according to the speaker?",
+       "options": [
+        "Perform difficult tasks successfully just by observing how adults acted.",
+        "Make generalizable inferences about persistence from a few examples.",
+        "Adapt themselves to different social contexts.",
+        "Work hard to interact with experimenters."
+       ],
+       "optionsZh": [
+        "仅通过观察成人的行为就能成功完成困难的任务。",
+        "从少数例子中对坚持做出可推广的推断。",
+        "使自己适应不同的社会环境。",
+        "努力与实验者互动。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Make generalizable inferences about persistence from a few examples.（从少数例子中对坚持做出可推广的推断。）"
+      },
+      {
+       "id": "L19",
+       "no": 19,
+       "section": "C",
+       "stem": "What is the speaker's purpose of giving this talk?",
+       "options": [
+        "Offering advice on overcoming habitual lateness.",
+        "Exemplifying various recreational opportunities.",
+        "Scrutinizing individuals' defining traits.",
+        "Suggesting ways for setting priorities."
+       ],
+       "optionsZh": [
+        "就克服习惯性迟到提供建议。",
+        "举例说明各种休闲娱乐机会。",
+        "审视个人的决定性特征。",
+        "建议设定优先事项的方法。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：Offering advice on overcoming habitual lateness.（就克服习惯性迟到提供建议。）"
+      },
+      {
+       "id": "L20",
+       "no": 20,
+       "section": "C",
+       "stem": "What should you do if mornings are a struggle for you?",
+       "options": [
+        "Make the breakfast simpler.",
+        "Take the alarms seriously.",
+        "Ready yourself in the early dawn.",
+        "Get prepared the night before."
+       ],
+       "optionsZh": [
+        "把早餐做得更简单。",
+        "认真对待闹钟。",
+        "在清晨做好准备。",
+        "前一天晚上做好准备。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：Get prepared the night before.（前一天晚上做好准备。）"
+      },
+      {
+       "id": "L21",
+       "no": 21,
+       "section": "C",
+       "stem": "According to the speaker, what can we do to combat unexpected delays?",
+       "options": [
+        "Finish the prior task 30 minutes earlier.",
+        "Keep ourselves from hitting a bump.",
+        "Leave time in between activities.",
+        "Try to avoid possible hold-ups."
+       ],
+       "optionsZh": [
+        "提前30分钟完成前一项任务。",
+        "避免自己遇到障碍。",
+        "在各项活动之间留出时间。",
+        "尽量避免可能的耽搁。"
+       ],
+       "answer": 2,
+       "explain": "正确答案 C：Leave time in between activities.（在各项活动之间留出时间。）"
+      },
+      {
+       "id": "L22",
+       "no": 22,
+       "section": "C",
+       "stem": "What do visitors find about the cities they've been to?",
+       "options": [
+        "Their lifestyles vary.",
+        "Their traits vary.",
+        "They have different customs.",
+        "They have different feels."
+       ],
+       "optionsZh": [
+        "它们的生活方式各不相同。",
+        "它们的特征各不相同。",
+        "它们有不同的习俗。",
+        "它们有不同的感觉。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：They have different feels.（它们有不同的感觉。）"
+      },
+      {
+       "id": "L23",
+       "no": 23,
+       "section": "C",
+       "stem": "What did one study find about Bostonians compared with residents of other U.S. cities?",
+       "options": [
+        "They are not as willing to help strangers.",
+        "They are not as patient with one another.",
+        "They violate traffic rules more frequently.",
+        "They become more easily irritated in public."
+       ],
+       "optionsZh": [
+        "他们不太愿意帮助陌生人。",
+        "他们彼此之间不太有耐心。",
+        "他们更频繁地违反交通规则。",
+        "他们在公共场合更容易被激怒。"
+       ],
+       "answer": 0,
+       "explain": "正确答案 A：They are not as willing to help strangers.（他们不太愿意帮助陌生人。）"
+      },
+      {
+       "id": "L24",
+       "no": 24,
+       "section": "C",
+       "stem": "What does Thomas O'Connor say about the idea of strangers greeting one another?",
+       "options": [
+        "It was practiced by Boston's founding fathers.",
+        "It is not deemed exotic by Proper Bostonians.",
+        "It was adopted by Boston's upper class.",
+        "It is not part of Boston's local culture."
+       ],
+       "optionsZh": [
+        "这是Boston建城先辈们践行的做法。",
+        "正统Boston人并不认为这是异域风俗。",
+        "这被Boston上层阶级所采纳。",
+        "这不是Boston地方文化的一部分。"
+       ],
+       "answer": 3,
+       "explain": "正确答案 D：It is not part of Boston's local culture.（这不是Boston地方文化的一部分。）"
+      },
+      {
+       "id": "L25",
+       "no": 25,
+       "section": "C",
+       "stem": "What does the speaker think Boston should do?",
+       "options": [
+        "Stick to its own way of showing courtesy to strangers.",
+        "Follow the examples set by Paris and New York City.",
+        "Learn from the world's major cities in promoting tourism.",
+        "Take pride in its history and adhere to its cultural tradition."
+       ],
+       "optionsZh": [
+        "坚持自己对陌生人表示礼貌的方式。",
+        "效仿Paris和New York City树立的榜样。",
+        "学习世界主要城市在推广旅游方面的做法。",
+        "为其历史感到自豪并坚守其文化传统。"
+       ],
+       "answer": 1,
+       "explain": "正确答案 B：Follow the examples set by Paris and New York City.（效仿Paris和New York City树立的榜样。）"
+      }
+     ],
+     "explain": "听力占 35%（248.5 分），25 题。录音只播一遍：先按原速听完整卷，再对答案。"
+    }
+   ]
+  },
+  {
+   "type": "writing",
+   "title": "写作",
+   "instructions": "真题 Part Ⅰ · 30 分钟 · 150–210 词",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "w1",
+     "type": "writing",
+     "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"As requirements for job applications are getting increasingly higher, college students ought to be better prepared for their future career.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+     "zhPrompt": "",
+     "minWords": 150,
+     "maxWords": 200,
+     "outline": [],
+     "rubric": "CET 写作 15 分制（六级）：切题、篇章连贯、用词准确"
+    }
+   ]
+  },
+  {
+   "type": "cloze",
+   "title": "选词填空",
+   "instructions": "真题 Part Ⅲ Section A · 15 选 10 · 10 空",
+   "scorePerItem": 3.55,
+   "items": [
+    {
+     "id": "c1",
+     "type": "cloze",
+     "stem": "In her second year, Charlene Duong learned of the use of poisonous, synthetic pesticides on her college campus. Shocked but not surprised, she knew she had to do something. Along with a couple of classmates, Charlene did a quick web search and discovered a small but growing movement led by the organization, Herbicide-Free Campus (HFC), to rid college campuses of artificial herbicides(灭草剂). They were {{1}} . Like many, Charlene experiences climate anxiety—a {{2}} fear of a climate catastrophe—and was, at the time, looking for an {{3}} . When she discovered the HFC movement, she said she felt she \"had found a specific area to focus on that still fit into the larger picture of fighting for a healthier, safer, cleaner {{4}} for all.\" Toxic herbicide use in university land care is not unique. Most institutions of higher education rely on synthetic pesticides and fertilizers to achieve {{5}} goals. Having a \"beautiful\" campus means green and perfectly maintained lawns along with flower beds and paved sidewalks. But these {{6}} managed campuses can come at a cost: increased cancer risk, {{7}} waterways, poisoned wildlife and lifeless soil. Pesticide use on college campuses also contributes to our global climate crisis. The use of chemicals to get rid of insects or unwanted plant life can increase indirect {{8}} as they can include petroleum-based ingredients. Pesticide use also decreases the life in soil, {{9}} the ability of soils to absorb carbon or retain water and thus reducing campuses' ability to recover quickly from climate-related extreme weather events like droughts and floods. Instead of using toxic chemicals, students working with HFC help out with {{10}} the campus grounds. \"This work reminds me to be in the present moment as I play my role in reducing herbicide use and keeping my campus safe and healthy,\" says Charlene.",
+     "options": [
+      "aesthetic",
+      "chronic",
+      "contaminated",
+      "conventionally",
+      "emissions",
+      "environment",
+      "hampering",
+      "incidentally",
+      "infringement",
+      "intrigued",
+      "juvenile",
+      "outlet",
+      "rotating",
+      "vibrations",
+      "weeding"
+     ],
+     "answers": [
+      9,
+      1,
+      11,
+      5,
+      0,
+      3,
+      2,
+      4,
+      6,
+      14
+     ],
+     "blankExplains": [
+      "【定位】They were ____ .\n【依据】答案是 intrigued：填回后与所在句 上下文 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Like many, Charlene experiences climate anxiety—a ____ fear of a climate catastrophe—and was, at the time, looking for an  … .\n【依据】答案是 chronic：填回后与所在句 like、many、charlene、experiences、climate、anxiety 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Like many, Charlene experiences climate anxiety—a  … fear of a climate catastrophe—and was, at the time, looking for an ____ .\n【依据】答案是 outlet：填回后与所在句 like、many、charlene、experiences、climate、anxiety 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】When she discovered the HFC movement, she said she felt she \"had found a specific area to focus on that still fit into the larger picture of fighting for a healthier, safer, cleaner ____ for all.\" Toxic herbicide use in university land care is not unique.\n【依据】答案是 environment：填回后与所在句 when、discovered、hfc、movement、said、felt 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Most institutions of higher education rely on synthetic pesticides and fertilizers to achieve ____ goals.\n【依据】答案是 aesthetic：填回后与所在句 institutions、higher、education、rely、synthetic、pesticides 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But these ____ managed campuses can come at a cost: increased cancer risk,  … waterways, poisoned wildlife and lifeless soil.\n【依据】答案是 conventionally：填回后与所在句 managed、campuses、come、cost、increased、cancer 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】But these  … managed campuses can come at a cost: increased cancer risk, ____ waterways, poisoned wildlife and lifeless soil.\n【依据】答案是 contaminated：填回后与所在句 managed、campuses、come、cost、increased、cancer 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】The use of chemicals to get rid of insects or unwanted plant life can increase indirect ____ as they can include petroleum-based ingredients.\n【依据】答案是 emissions：填回后与所在句 use、chemicals、get、rid、insects、unwanted 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Pesticide use also decreases the life in soil, ____ the ability of soils to absorb carbon or retain water and thus reducing campuses' ability to recover quickly from climate-related extreme weather events like droughts and floods.\n【依据】答案是 hampering：填回后与所在句 pesticide、use、decreases、life、soil、ability 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+      "【定位】Instead of using toxic chemicals, students working with HFC help out with ____ the campus grounds.\n【依据】答案是 weeding：填回后与所在句 instead、using、toxic、chemicals、students、working 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。"
+     ],
+     "explain": "本段为选词填空，共 10 空，候选词 15 个。解题顺序是：先通读判断体裁与话题 → 按词性给候选词分组 → 逐空用搭配与语义场排除。15 选 10 意味着有 5 个候选词永远用不上，遇到\"读起来也通顺\"的选项时要看它是否破坏了整段的一致性。",
+     "details": [
+      {
+       "locate": "They were ____ .",
+       "why": "答案是 intrigued：填回后与所在句 上下文 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "H": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 intrigued 这个词性/语义，而不是 incidentally）。",
+        "I": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 intrigued 这个词性/语义，而不是 infringement）。"
+       }
+      },
+      {
+       "locate": "Like many, Charlene experiences climate anxiety—a ____ fear of a climate catastrophe—and was, at the time, looking for an  … .",
+       "why": "答案是 chronic：填回后与所在句 like、many、charlene、experiences、climate、anxiety 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chronic 这个词性/语义，而不是 contaminated）。",
+        "D": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 chronic 这个词性/语义，而不是 conventionally）。"
+       }
+      },
+      {
+       "locate": "Like many, Charlene experiences climate anxiety—a  … fear of a climate catastrophe—and was, at the time, looking for an ____ .",
+       "why": "答案是 outlet：填回后与所在句 like、many、charlene、experiences、climate、anxiety 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 outlet 这个词性/语义，而不是 aesthetic）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 outlet 这个词性/语义，而不是 chronic）。"
+       }
+      },
+      {
+       "locate": "When she discovered the HFC movement, she said she felt she \"had found a specific area to focus on that still fit into the larger picture of fighting for a healthier, safer, cleaner ____ for all.\" Toxic herbicide use in university land care is not unique.",
+       "why": "答案是 environment：填回后与所在句 when、discovered、hfc、movement、said、felt 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "E": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 environment 这个词性/语义，而不是 emissions）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 environment 这个词性/语义，而不是 aesthetic）。"
+       }
+      },
+      {
+       "locate": "Most institutions of higher education rely on synthetic pesticides and fertilizers to achieve ____ goals.",
+       "why": "答案是 aesthetic：填回后与所在句 institutions、higher、education、rely、synthetic、pesticides 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 aesthetic 这个词性/语义，而不是 chronic）。",
+        "C": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 aesthetic 这个词性/语义，而不是 contaminated）。"
+       }
+      },
+      {
+       "locate": "But these ____ managed campuses can come at a cost: increased cancer risk,  … waterways, poisoned wildlife and lifeless soil.",
+       "why": "答案是 conventionally：填回后与所在句 managed、campuses、come、cost、increased、cancer 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "C": "与 conventionally 拼写相近（共同开头 con），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 conventionally 这个词性/语义，而不是 chronic）。"
+       }
+      },
+      {
+       "locate": "But these  … managed campuses can come at a cost: increased cancer risk, ____ waterways, poisoned wildlife and lifeless soil.",
+       "why": "答案是 contaminated：填回后与所在句 managed、campuses、come、cost、increased、cancer 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "D": "与 contaminated 拼写相近（共同开头 con），但词性或语义方向不同，填进本空后整句逻辑不成立。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 contaminated 这个词性/语义，而不是 chronic）。"
+       }
+      },
+      {
+       "locate": "The use of chemicals to get rid of insects or unwanted plant life can increase indirect ____ as they can include petroleum-based ingredients.",
+       "why": "答案是 emissions：填回后与所在句 use、chemicals、get、rid、insects、unwanted 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "F": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 emissions 这个词性/语义，而不是 environment）。",
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 emissions 这个词性/语义，而不是 aesthetic）。"
+       }
+      },
+      {
+       "locate": "Pesticide use also decreases the life in soil, ____ the ability of soils to absorb carbon or retain water and thus reducing campuses' ability to recover quickly from climate-related extreme weather events like droughts and floods.",
+       "why": "答案是 hampering：填回后与所在句 pesticide、use、decreases、life、soil、ability 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 hampering 这个词性/语义，而不是 aesthetic）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 hampering 这个词性/语义，而不是 chronic）。"
+       }
+      },
+      {
+       "locate": "Instead of using toxic chemicals, students working with HFC help out with ____ the campus grounds.",
+       "why": "答案是 weeding：填回后与所在句 instead、using、toxic、chemicals、students、working 构成完整表达，词性与该空位置吻合（本句需要一个与整段话题一致的实词）。按词性先分组、再按搭配与语义场排除，是这一题型唯一可靠的顺序。",
+       "traps": {
+        "A": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 weeding 这个词性/语义，而不是 aesthetic）。",
+        "B": "同属本段话题范围，但在本空位置上搭配不成立（需要的是 weeding 这个词性/语义，而不是 chronic）。"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match",
+   "title": "长篇阅读匹配",
+   "instructions": "真题 Part Ⅲ Section B · 10 句匹配段落",
+   "scorePerItem": 7.1,
+   "items": [
+    {
+     "id": "m1",
+     "type": "match",
+     "paragraphs": [
+      {
+       "id": "A",
+       "text": "Librarians know the value of their community services, and their patrons appreciate their importance as well. But in an increasingly digital world, we see the role of libraries as community and cultural centers at times undervalued. When shrinking municipal budgets combine with the nonstop technological revolution, public library services that focus on building communities face-to-face, inspiring and educating patrons about art, literature, and music, and helping patrons engage in civil discourse can seem old-fashioned. But it is precisely those shrinking budgets and the assault of technologically mediated life that make public libraries' cultural and community offerings more important than ever."
+      },
+      {
+       "id": "B",
+       "text": "Many people point out the value public libraries bring to their communities. More than just books and banks of computers, libraries are still places where individuals gather to explore, interact, and imagine. Some of the specific ways in which libraries add value to our communities and serve as cultural centers for our patrons are community builders, centers for the arts, and champions of youth. Libraries serve in these capacities and are more than just about information."
+      },
+      {
+       "id": "C",
+       "text": "As community builders libraries are engaged in incredible work. From tiny public libraries to huge city institutions with multiple branches, libraries across the United States are building community and supporting local culture in exciting ways. These are inspiring and hopefully will encourage librarians interested in community services and cultural outreach to make connections with each other, share ideas, and build partnerships. Supporters of libraries as community builders claim that unless you are out there changing neighborhoods, you are not completing the work you are to do. Strengthening neighborhoods and championing the cultural lives of communities are big responsibilities."
+      },
+      {
+       "id": "D",
+       "text": "Place-based economic development stresses the importance of offering attractive, functional, and community-based places, such as libraries, in town squares and depressed neighborhoods. Like a major department store in a mall, libraries attract large numbers of people, creating economic opportunities for numerous businesses and organizations in the surrounding area. Large cities, medium-sized ones, and even small towns have successfully transformed their libraries into the hubs(枢纽) of vibrant neighborhoods."
+      },
+      {
+       "id": "E",
+       "text": "As key municipal agencies, and focal points for community education, libraries are major players in creating livable, environmentally friendly cities and towns. The Urban Libraries Council released a report detailing the unique ways in which libraries can further sustainability at the local level. Beyond ensuring that library construction projects consider environmental impact, libraries can take a lead in supporting local foods and craftsmen, like the Peabody Institute Library's partnering with local businesses to pioneer a farmers' market in their courtyard, or the Richmond Public Library's seed lending library which \"nurtures locally-adapted plant varieties, and fosters community resilience(韧性), self-reliance and a culture of sharing.\""
+      },
+      {
+       "id": "F",
+       "text": "Archives preserve historic artifacts, oral histories, digital history projects, and scholarly writings relevant to the community, including minority groups. Communities lucky enough to have archivists have a great advantage when it comes to organizing historical records and artifacts. An organized archive is a place where people can research their ancestry and immigration history, do environmental research, and more. An archivist is an advocate for preservation who, among other things, coordinates the restoration of maps and paintings, the digitization of vital records, and the creation of oral history projects. With projects like the Massachussets Memories Road Show and the Veterans History Project, evidence of the importance of archives is everywhere."
+      },
+      {
+       "id": "G",
+       "text": "In the words of Robert Putnam, \"People may go to the library looking mainly for information, but they find each other there.\" New moms connect at baby story-times; elderly people, often facing difficult life transitions, attend events and find that they make new friends; teenagers meet up in libraries' teen spaces after school; and readers discuss current events in the periodicals room. In libraries, community-building connections are happening all the time."
+      },
+      {
+       "id": "H",
+       "text": "As Keith Richards said, \"The public library is the great equalizer.\" Despite the rising costs of concert and theater tickets, public library events (including concerts, author visits, and gallery displays) are often offered free of charge, enabling people of any income level to attend. In addition, library book groups allow people to explore and discuss the literary arts, and the Great Stories Club introduces at-risk youth to literature. The best part: it's all free and open to the public."
+      },
+      {
+       "id": "I",
+       "text": "In a time when education is increasingly expensive, public libraries provide information and educational opportunities free for all people, regardless of their socio-economic status. Offered by libraries across the country, American Library Association's Let's Talk about It programs are wonderful examples of scholar-facilitated learning opportunities in libraries. In addition, many libraries present classes and discussion programs, and some even provide online continuing education courses such as the Universal Class database."
+      },
+      {
+       "id": "J",
+       "text": "Librarians know that patrons aren't just information consumers, they're information producers. Patrons use the library to gain knowledge in order to create their own new and independent works. Increasing numbers of libraries provide spaces and services that meet the needs of people who want to learn how to edit Wikipedia, set up blogs or podcasts, create their own magazines, and so much more. Many libraries offer art or writing workshops and groups, and some provide music practice rooms for patrons. Programs like ImaginOn in Charlotte, North Carolina, provide exciting models that take community partnership, creativity, and creation to a new level."
+      },
+      {
+       "id": "K",
+       "text": "The decline of civil discourse stems in part from the fact that it is so easy for people to watch news about, buy products from, and engage—in both the virtual and real worlds—only with those of similar backgrounds and ideologies. Public libraries, through such programs as The Human Library and Socrates Café, can help build small communities of difference that encourage people to interact with and learn from each other through dialogue. By both actively promoting civil discourse through these programs, and modeling and upholding the principles of free inquiry and expression for all, libraries help individuals rediscover the importance of and increased need for civil discourse in American life."
+      },
+      {
+       "id": "L",
+       "text": "Free tutoring, homework help programs, and summer reading programs for kids and teens help bridge the economic divide that impacts students' academic performance. The cost of hiring a private tutor is well beyond what many library patrons can afford, so libraries offer homework help and tutoring online, by phone, in person, and even through social media and homework apps. Annual summer reading programs also have a positive impact on student performance and, according to a 2010 study conducted by Dominican University's Graduate School of Library and Information Science, students' reading skills get a boost from these popular nationwide events."
+      },
+      {
+       "id": "M",
+       "text": "Through library collections, programs, and physical spaces, children learn to share, to be engaged in their communities, to participate in the arts, and to explore their immediate world and the world at large. There are surely endless examples of innovative library services for children, including the Middle Country Public Library's Nature Explorium, which engages children in learning about the natural world."
+      },
+      {
+       "id": "N",
+       "text": "These examples are just a few of the many amazing things that public libraries around the United States (and the world) are doing to build and maintain strong community connections. We encourage you to try some of these ideas in your own libraries, and we hope that these ideas will help you be better able to convince your community leaders of the important role that public libraries play in communities large and small."
+      }
+     ],
+     "statements": [
+      {
+       "id": "s36",
+       "text": "People going to the library in search of information can build connections with each other there."
+      },
+      {
+       "id": "s37",
+       "text": "According to advocates of libraries as community builders, librarians are not doing their job well if they do not change their communities."
+      },
+      {
+       "id": "s38",
+       "text": "With the costs of education continually rising, public libraries remain places where all people can have access to education."
+      },
+      {
+       "id": "s39",
+       "text": "Libraries draw large crowds, thus creating lots of business opportunities in neighboring areas."
+      },
+      {
+       "id": "s40",
+       "text": "With the world more and more digitalized, people sometimes underestimate the role of libraries as community and cultural centers."
+      },
+      {
+       "id": "s41",
+       "text": "Various programs organized by public libraries for children and adolescents help narrow the gap between students from varying economic backgrounds."
+      },
+      {
+       "id": "s42",
+       "text": "In an organized archive, people can do research on their family history and find out how their ancestors came to settle in the new land."
+      },
+      {
+       "id": "s43",
+       "text": "Public libraries organize cultural events, often allowing people of different income levels to attend free of charge."
+      },
+      {
+       "id": "s44",
+       "text": "Besides being an information provider, the library performs many other important services for the community."
+      },
+      {
+       "id": "s45",
+       "text": "Public libraries can help build small communities of people with different backgrounds and ideologies."
+      }
+     ],
+     "answers": [
+      "G",
+      "C",
+      "I",
+      "D",
+      "A",
+      "L",
+      "F",
+      "H",
+      "B",
+      "K"
+     ],
+     "statementExplains": [
+      "【定位】In the words of Robert Putnam, \"People may go to the library looking mainly for information, but they find each other there.\" New moms connect at baby story-times; elderly people, often facing difficult life transitions, attend events and find that they make new friends; teenagers meet up in libraries' teen spaces after school; and readers discuss current events in the periodicals room.\n【依据】陈述里的 people、library、information、connections、each、other 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+      "【定位】Supporters of libraries as community builders claim that unless you are out there changing neighborhoods, you are not completing the work you are to do.\n【依据】陈述里的 libraries、community、builders、librarians、change、communities 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+      "【定位】In a time when education is increasingly expensive, public libraries provide information and educational opportunities free for all people, regardless of their socio-economic status.\n【依据】陈述里的 education、public、libraries、people、education 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+      "【定位】Like a major department store in a mall, libraries attract large numbers of people, creating economic opportunities for numerous businesses and organizations in the surrounding area.\n【依据】陈述里的 libraries、large、creating、business、opportunities 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+      "【定位】But in an increasingly digital world, we see the role of libraries as community and cultural centers at times undervalued.\n【依据】陈述里的 world、digitalized、underestimate、role、libraries、community 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+      "【定位】Free tutoring, homework help programs, and summer reading programs for kids and teens help bridge the economic divide that impacts students' academic performance.\n【依据】陈述里的 programs、help、students、economic 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+      "【定位】An organized archive is a place where people can research their ancestry and immigration history, do environmental research, and more.\n【依据】陈述里的 organized、archive、people、research、history、ancestors 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+      "【定位】As Keith Richards said, \"The public library is the great equalizer.\" Despite the rising costs of concert and theater tickets, public library events (including concerts, author visits, and gallery displays) are often offered free of charge, enabling people of any income level to attend.\n【依据】陈述里的 public、libraries、events、often、people、income 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+      "【定位】Many people point out the value public libraries bring to their communities.\n【依据】陈述里的 library、many、community 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+      "【定位】Public libraries, through such programs as The Human Library and Socrates Café, can help build small communities of difference that encourage people to interact with and learn from each other through dialogue.\n【依据】陈述里的 public、libraries、help、build、small、communities 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。"
+     ],
+     "explain": "长篇阅读匹配：14 段对 10 句。做法是先读陈述划关键词，再回段落找同义替换，而不是逐段翻译。注意一句陈述可能被多段\"提到\"，只有信息完整对应那一段才算命中。",
+     "details": [
+      {
+       "locate": "In the words of Robert Putnam, \"People may go to the library looking mainly for information, but they find each other there.\" New moms connect at baby story-times; elderly people, often facing difficult life transitions, attend events and find that they make new friends; teenagers meet up in libraries' teen spaces after school; and readers discuss current events in the periodicals room.",
+       "why": "陈述里的 people、library、information、connections、each、other 在 G 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 G 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Supporters of libraries as community builders claim that unless you are out there changing neighborhoods, you are not completing the work you are to do.",
+       "why": "陈述里的 libraries、community、builders、librarians、change、communities 在 C 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 C 段。",
+       "traps": {}
+      },
+      {
+       "locate": "In a time when education is increasingly expensive, public libraries provide information and educational opportunities free for all people, regardless of their socio-economic status.",
+       "why": "陈述里的 education、public、libraries、people、education 在 I 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 I 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Like a major department store in a mall, libraries attract large numbers of people, creating economic opportunities for numerous businesses and organizations in the surrounding area.",
+       "why": "陈述里的 libraries、large、creating、business、opportunities 在 D 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 D 段。",
+       "traps": {}
+      },
+      {
+       "locate": "But in an increasingly digital world, we see the role of libraries as community and cultural centers at times undervalued.",
+       "why": "陈述里的 world、digitalized、underestimate、role、libraries、community 在 A 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 A 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Free tutoring, homework help programs, and summer reading programs for kids and teens help bridge the economic divide that impacts students' academic performance.",
+       "why": "陈述里的 programs、help、students、economic 在 L 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 L 段。",
+       "traps": {}
+      },
+      {
+       "locate": "An organized archive is a place where people can research their ancestry and immigration history, do environmental research, and more.",
+       "why": "陈述里的 organized、archive、people、research、history、ancestors 在 F 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 F 段。",
+       "traps": {}
+      },
+      {
+       "locate": "As Keith Richards said, \"The public library is the great equalizer.\" Despite the rising costs of concert and theater tickets, public library events (including concerts, author visits, and gallery displays) are often offered free of charge, enabling people of any income level to attend.",
+       "why": "陈述里的 public、libraries、events、often、people、income 在 H 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 H 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Many people point out the value public libraries bring to their communities.",
+       "why": "陈述里的 library、many、community 在 B 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 B 段。",
+       "traps": {}
+      },
+      {
+       "locate": "Public libraries, through such programs as The Human Library and Socrates Café, can help build small communities of difference that encourage people to interact with and learn from each other through dialogue.",
+       "why": "陈述里的 public、libraries、help、build、small、communities 在 K 段这一句里有对应表达（同义替换或近义改写），其余段没有同样的词组合，所以只能落在 K 段。",
+       "traps": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "detail",
+   "title": "仔细阅读",
+   "instructions": "真题 Part Ⅲ Section C · 2 篇 × 5 题",
+   "scorePerItem": 14.2,
+   "items": [
+    {
+     "id": "d1",
+     "type": "detail",
+     "passage": "Nationally, one in six children miss 15 or more days of school in a year. Education officials have deplored all this missed instruction. These chronically absent students suffer academically because of all the classroom instruction they miss out on. In 2015, the U.S. secretary of education responded to this crisis, urging communities to support every student to attend every day and be successful in school. His open letter stated that missing 10% of school days in a year for any reason—excused or unexcused—is a primary cause of low academic achievement. Worrying about whether children attend school makes sense. After all, if students don't show up, teachers can't teach them. But what if America's attendance crisis is about much more than students missing class? What if, instead, it is a reflection of family and community crises these students face—such as being ejected from the family apartment, fearing for their safety in their neighborhood or suffering an illness? As social scientists we investigated how excused and unexcused absences relate to children's academic achievement. We find that absences excused by a parent do little to harm children's learning. In fact, children with no unexcused absences—but 15 to 18 excused absences—have test scores equal to their peers who have no absences. Meanwhile, the average child with even just one unexcused absence does much worse academically than peers with none. We believe unexcused absence is a strong signal of the many challenges children and families face, including economic and medical hardships. Unexcused absences can be a powerful signal of how those out-of-school challenges affect children's academic progress. Our evidence suggests unexcused absences are problematic, but for a different reason than people often think. Absence from school, and especially unexcused absence, matters mainly as a signal of many crises children and their families may be facing. It matters less as a cause of lower student achievement due to missed instruction. How we choose to think of school absences matters for educational policy. School attendance policies typically hold schools and families accountable for the days children miss, regardless of whether they were excused or unexcused absences. These policies assume that missing school for any reason harms children academically because they are missing classroom instruction. They also assume that schools will be able to effectively intervene by reducing student absences. We find neither to be the case. As a result, these attendance policies end up disproportionately punishing families dealing with out-of-school crises in their lives and pressuring schools who serve them to get students to school more often. We instead suggest using unexcused absence from school as a signal to channel resources to the children and families who need them most.",
+     "questions": [
+      {
+       "id": "d46",
+       "stem": "What does the U.S. secretary of education say in his open letter?",
+       "options": [
+        "It is of vital importance to respond promptly to the school absence crisis.",
+        "The academic performance of chronically absent students is deplorable.",
+        "Low academic achievement is mainly attributed to school absences.",
+        "The effect of school absences on American education is worrisome."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】His open letter stated that missing 10% of school days in a year for any reason—excused or unexcused—is a primary cause of low academic achievement.\n【依据】正确项的核心词 low、academic、achievement、school 与定位句对得上；其余 mainly、attributed、absences 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "His open letter stated that missing 10% of school days in a year for any reason—excused or unexcused—is a primary cause of low academic achievement.",
+        "why": "正确项的核心词 low、academic、achievement、school 与定位句对得上；其余 mainly、attributed、absences 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「vital、importance、respond」全文未出现；把原文的「school」换成了「vital、importance、respond」，主语或对象被调包。",
+         "B": "偷换主体：「performance、deplorable」全文未出现；把原文的「academic」换成了「performance、chronically、absent」，主语或对象被调包。",
+         "D": "无中生有：「effect、american、worrisome」全文未出现；把原文的「school」换成了「effect、absences、american」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d47",
+       "stem": "What do the authors find about school absences?",
+       "options": [
+        "Excused school absences have little impact on children's learning.",
+        "There is little difference between unexcused and excused absences.",
+        "Excused absences lead to comparatively better school performance.",
+        "Unexcused absences are a big challenge to both schools and families."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】We find that absences excused by a parent do little to harm children's learning.\n【依据】正确项的核心词 excused、absences、little、children's、learning 与定位句对得上；其余 school、impact 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We find that absences excused by a parent do little to harm children's learning.",
+        "why": "正确项的核心词 excused、absences、little、children's、learning 与定位句对得上；其余 school、impact 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「there、difference、between」全文未出现；把原文的「little、excused、absences」换成了「there、difference、between」，主语或对象被调包。",
+         "C": "无中生有：「lead、comparatively、better」全文未出现；把原文的「excused、absences」换成了「lead、comparatively、better」，主语或对象被调包。",
+         "D": "偷换主体：「big、challenge、both」全文未出现；把原文的「absences」换成了「unexcused、big、challenge」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d48",
+       "stem": "What do the authors believe concerning unexcused school absences?",
+       "options": [
+        "They are likely to cause a decrease in students' academic achievements due to missed instruction.",
+        "They point directly to many of the out-of-school challenges confronting children and their families.",
+        "They are matters the American government typically ignores when formulating educational policies.",
+        "They give a clear signal to children and their families of the crises they are likely to face in the future."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】We believe unexcused absence is a strong signal of the many challenges children and families face, including economic and medical hardships.\n【依据】正确项的核心词 many、challenges、children、families 与定位句对得上；其余 point、directly、out-of-school、confronting 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We believe unexcused absence is a strong signal of the many challenges children and families face, including economic and medical hardships.",
+        "why": "正确项的核心词 many、challenges、children、families 与定位句对得上；其余 point、directly、out-of-school、confronting 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「likely、decrease、students'」全文未出现。",
+         "C": "因果倒置：「american、government、ignores」全文未出现。",
+         "D": "无中生有：「give、clear、likely」全文未出现；把原文的「signal、children、families」换成了「give、clear、crises」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d49",
+       "stem": "What is the assumption underlying education policies in the U.S.?",
+       "options": [
+        "Children's academic performance depends on reducing the number of absences.",
+        "Schools can boost children's academic performance by effective intervention.",
+        "Schools as well as families should be held responsible for out-of-school crises.",
+        "Children's academic performance is closely related to the quality of instruction."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】These policies assume that missing school for any reason harms children academically because they are missing classroom instruction.\n【依据】正确项的核心词 schools、children's、academic 与定位句对得上；其余 boost、performance、effective、intervention 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "These policies assume that missing school for any reason harms children academically because they are missing classroom instruction.",
+        "why": "正确项的核心词 schools、children's、academic 与定位句对得上；其余 boost、performance、effective、intervention 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「performance、depends、number」全文未出现；把原文的「children's、academic」换成了「performance、depends、reducing」，主语或对象被调包。",
+         "C": "偷换主体：「well、held、responsible」全文未出现；把原文的「schools」换成了「well、families、held」，主语或对象被调包。",
+         "D": "无中生有：「performance、closely、related」全文未出现；把原文的「children's、academic、instruction」换成了「performance、closely、related」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d50",
+       "stem": "What do the authors suggest doing regarding school absences?",
+       "options": [
+        "Identifying their underlying causes.",
+        "Reframing school attendance policies.",
+        "Directing resources to helping needy children.",
+        "Pressuring schools to reduce unexcused ones."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】We instead suggest using unexcused absence from school as a signal to channel resources to the children and families who need them most.\n【依据】正确项的核心词 resources、children 与定位句对得上；其余 directing、helping、needy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "We instead suggest using unexcused absence from school as a signal to channel resources to the children and families who need them most.",
+        "why": "正确项的核心词 resources、children 与定位句对得上；其余 directing、helping、needy 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「identifying、underlying、causes」全文未出现。",
+         "B": "偷换主体：「reframing」全文未出现；把原文的「school」换成了「reframing、attendance、policies」，主语或对象被调包。",
+         "D": "无中生有：「reduce、ones」全文未出现；把原文的「schools、unexcused」换成了「pressuring、reduce、ones」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 444 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    },
+    {
+     "id": "d2",
+     "type": "detail",
+     "passage": "After earning a bachelor's degree, I was determined to do what I love. I headed straight to graduate school to investigate the social problems that fascinated me. For almost a decade, I told everyone I encountered that they should do the same. \"Follow your passion,\" I counseled. \"You can figure out the employment stuff later.\" It wasn't until I began to research this widely accepted career advice that I understood how problematic it really was. As a sociologist, I interviewed college students and professional workers to learn what it really meant to pursue their dreams, which I will refer to here as the passion principle. I was stunned by what I found out about this principle in the research for my new book. Surveys show the American public has long held the passion principle in high regard as a career decision-making priority. And its popularity is even stronger among those facing job instability. Advocates of the passion principle found it compelling because they believed that following one's passion can provide workers with both the motivation necessary to work hard and a place to find fulfillment. Yet, what I found is that following one's passion does not necessarily lead to fulfillment, but is one of the most powerful cultural forces perpetuating overwork. I also found that promoting the pursuit of one's passion helps perpetuate social inequalities due to the fact that not everyone has the same economic resources to allow them to pursue their passion with ease. While the passion principle is broadly popular, not everyone has the necessary resources to turn their passion into a stable, good-paying job. Passion-seekers from wealthy families are better able to wait until a job they are passionate about comes along without worrying about student loans in the meantime. They are also better situated to take unpaid internships to get their foot in the door while their parents pay their rent. And they often have access to parents' social networks to help them find jobs. Surveys revealed that working-class and first-generation college graduates, regardless of their career field, are more likely than their wealthier peers to end up in low-paying unskilled jobs when they pursue their passion. Colleges, workplaces and career counselors who promote the \"follow your passion\" path for everyone, without leveling the playing field, help perpetuate socioeconomic inequalities among career aspirants. It's not just well-off passion-seekers who benefit from the passion principle. Employers of passionate workers do, too. Potential employers showed greater interest in passionate applicants in part because they believed the applicants would work hard at their jobs without expecting an increase in pay. They even sacrifice a good salary, job stability and leisure time to work in a job they love.",
+     "questions": [
+      {
+       "id": "d51",
+       "stem": "What did the author advise people do for almost a decade?",
+       "options": [
+        "Figure out what is the most fascinating job.",
+        "Follow widely accepted career counsel.",
+        "Pursue their careers with passion.",
+        "Do whatever they are zealous for."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】For almost a decade, I told everyone I encountered that they should do the same.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 whatever、zealous 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "For almost a decade, I told everyone I encountered that they should do the same.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 whatever、zealous 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「fascinating」全文未出现。",
+         "B": "因果倒置：「counsel」全文未出现。",
+         "C": "因果倒置：「careers」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d52",
+       "stem": "How did the author feel about the passion principle through his research?",
+       "options": [
+        "He was astonished by its consequences.",
+        "He was further convinced of its soundness.",
+        "He was actually right to follow it through.",
+        "He was struck by its broad popularity."
+       ],
+       "answer": 0,
+       "kind": "detail",
+       "explain": "【定位】I was stunned by what I found out about this principle in the research for my new book.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 astonished、consequences 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "I was stunned by what I found out about this principle in the research for my new book.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 astonished、consequences 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "B": "无中生有：「further、convinced、soundness」全文未出现。",
+         "C": "无中生有：「actually、right、through」全文未出现。",
+         "D": "无中生有：「struck、broad」全文未出现。"
+        }
+       }
+      },
+      {
+       "id": "d53",
+       "stem": "What is important to turning one's passion into a stable, good-paying job?",
+       "options": [
+        "Willingness to take unpaid internships and low-paying jobs.",
+        "Full academic preparedness and sound career counseling.",
+        "Hard work and sacrifice of leisure time.",
+        "Financial backing and social connections."
+       ],
+       "answer": 3,
+       "kind": "detail",
+       "explain": "【定位】While the passion principle is broadly popular, not everyone has the necessary resources to turn their passion into a stable, good-paying job.\n【依据】正确项的核心词 （无实词） 与定位句对得上；其余 financial、backing、social、connections 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "While the passion principle is broadly popular, not everyone has the necessary resources to turn their passion into a stable, good-paying job.",
+        "why": "正确项的核心词 （无实词） 与定位句对得上；其余 financial、backing、social、connections 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "因果倒置：「willingness」全文未出现。",
+         "B": "无中生有：「full、academic、preparedness」全文未出现。",
+         "C": "因果倒置：与定位句的表述方向相反或因果顺序颠倒。"
+        }
+       }
+      },
+      {
+       "id": "d54",
+       "stem": "What happens when everyone is encouraged to follow their passion?",
+       "options": [
+        "Many more career aspirants end up unemployed.",
+        "People are less concerned with socioeconomic inequality.",
+        "Socioeconomic inequality is likely to persist.",
+        "Career counselors are going to lose credibility."
+       ],
+       "answer": 2,
+       "kind": "detail",
+       "explain": "【定位】Colleges, workplaces and career counselors who promote the \"follow your passion\" path for everyone, without leveling the playing field, help perpetuate socioeconomic inequalities among career aspirants.\n【依据】正确项的核心词 socioeconomic、inequality 与定位句对得上；其余 likely、persist 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "Colleges, workplaces and career counselors who promote the \"follow your passion\" path for everyone, without leveling the playing field, help perpetuate socioeconomic inequalities among career aspirants.",
+        "why": "正确项的核心词 socioeconomic、inequality 与定位句对得上；其余 likely、persist 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "无中生有：「many、unemployed」全文未出现；把原文的「career、aspirants」换成了「many、end、unemployed」，主语或对象被调包。",
+         "B": "无中生有：「people、less、concerned」全文未出现；把原文的「socioeconomic、inequality」换成了「people、less、concerned」，主语或对象被调包。",
+         "D": "无中生有：「going、lose、credibility」全文未出现；把原文的「career、counselors」换成了「going、lose、credibility」，主语或对象被调包。"
+        }
+       }
+      },
+      {
+       "id": "d55",
+       "stem": "What does the author say about employers of passionate workers?",
+       "options": [
+        "They provide these workers with job stability and a good salary.",
+        "They exploit these workers' passion to benefit themselves.",
+        "They level the playing field for these workers to reach their goals.",
+        "They encourage these workers to realize their aspirations."
+       ],
+       "answer": 1,
+       "kind": "detail",
+       "explain": "【定位】As a sociologist, I interviewed college students and professional workers to learn what it really meant to pursue their dreams, which I will refer to here as the passion principle.\n【依据】正确项的核心词 workers'、passion 与定位句对得上；其余 exploit、benefit、themselves 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+       "detail": {
+        "locate": "As a sociologist, I interviewed college students and professional workers to learn what it really meant to pursue their dreams, which I will refer to here as the passion principle.",
+        "why": "正确项的核心词 workers'、passion 与定位句对得上；其余 exploit、benefit、themselves 属于对原文的概括或换词表达，不是原文缺失。题干预设的提问方向（细节）决定它能在该句中直接落位。",
+        "traps": {
+         "A": "偷换主体：把原文的「workers」换成了「provide、job、stability」，主语或对象被调包。",
+         "C": "无中生有：「level、reach、goals」全文未出现；把原文的「workers」换成了「level、playing、field」，主语或对象被调包。",
+         "D": "无中生有：「encourage、realize、aspirations」全文未出现；把原文的「workers」换成了「encourage、realize、aspirations」，主语或对象被调包。"
+        }
+       }
+      }
+     ],
+     "passageExplain": "本篇 450 词、5 题。出题点分布：第 1 题考细节定位，第 2 题考细节定位，第 3 题考细节定位，第 4 题考细节定位，第 5 题考细节定位。读法：先看题干关键词，再回原文找含该关键词或同义替换的那一句，定位后再比对选项，不要在通读全文后凭印象选。"
+    }
+   ]
+  },
+  {
+   "type": "translation",
+   "title": "汉译英",
+   "instructions": "真题 Part Ⅳ · 30 分钟",
+   "scorePerItem": 106.5,
+   "items": [
+    {
+     "id": "t1",
+     "type": "translation",
+     "zh": "天宫空间站是中国首个太空实验室拥有多立方米使用空间可驻留三名宇航员在距地球表面公里的轨道上运行。天宫空间站已实施多个科学研究与应用项目涉及空间生命科学、太空医学、空间材料科学等领域。天宫空间站的研究成果在我国得到了广泛应用产生了显著的经济效益。例如太空育种创造的直接经济效益高达数千亿元。这不仅标志中国在航天技术上取得了巨大进步也表明中国为全球的太空研究和应用做出了重大贡献。",
+     "reference": "",
+     "keyPoints": [],
+     "notes": [],
+     "pitfalls": []
+    }
+   ]
+  }
+ ]
+}
