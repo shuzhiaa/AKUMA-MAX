@@ -3,15 +3,29 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <meta name="description" content="Akuma Max — 基于 21,421 词词库与间隔重复记忆算法的专业英语学习工具：配图、例句记忆钩子、间隔重复复习、学习数据看板。" />
+    <meta name="robots" content="noindex" />
     <meta name="theme-color" content="#0b0d12" />
-    <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%9A%3C/text%3E%3C/svg%3E" />
     <title>Akuma Max · 英语学习辅助工具</title>
-    <script type="module" crossorigin src="./assets/index-9vRcfxar.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CXInpvsV.css">
+    <script>
+      // 本站使用 hash 路由（#/library）。GitHub Pages 对不存在的路径返回本文件，
+      // 这里把 /AKUMA-MAX/library 这类深层路径转成 /AKUMA-MAX/#/library。
+      // 不能直接把应用外壳放在这里：深层路径下 ./assets/ 会被解析成 /AKUMA-MAX/library/assets/，整页白屏。
+      (function () {
+        var seg = location.pathname.split("/").filter(Boolean);
+        var base = "/";
+        // GitHub Pages 项目站点的第一段是仓库名；部署在站点根目录时没有这一段
+        if (seg.length && (/\.github\.io$/i.test(location.hostname) || /^akuma-max$/i.test(seg[0]))) {
+          base += seg.shift() + "/";
+        }
+        if (seg[0] === "demo") {
+          base += seg.shift() + "/";
+        }
+        var rest = seg.join("/");
+        location.replace(base + location.search + (location.hash || (rest ? "#/" + rest : "")));
+      })();
+    </script>
   </head>
   <body>
-    <div id="root"></div>
+    <noscript>页面不存在。Akuma Max 需要启用 JavaScript。</noscript>
   </body>
 </html>
