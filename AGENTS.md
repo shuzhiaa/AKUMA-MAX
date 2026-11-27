@@ -163,6 +163,10 @@ gh release create v<版本> --repo shuzhiaa/AKUMA-MAX \
 8. **无限更新**：`useEffect` 依赖父级内联函数 + 内部 setState 会死循环；回调要 `useCallback` + 幂等。
 9. **移动端抽屉**：Radix Sheet 打开时给 body 挂 `pointer-events:none`，路由变了没关会导致整页点不动。
 10. **弹层越界**：点词抽屉的横向偏移按触发词真实位置算，窄屏另有 CSS 兜底钉到视口底部；不要写死偏移量。
+11. **提交身份用 noreply**：本地 `git config user.email` 若还是个人邮箱，提交会被算到该邮箱绑定的**另一个**账号名下，仓库首页出现陌生贡献者。统一用 `341553122+shuzhiaa@users.noreply.github.com`（数字 = 账号 ID）。
+12. **改写历史后要连带处理 tag**：`refs/tags/*` 指向改写前的旧提交时，即使 `main` 已全部归一，贡献者列表仍会算上旧邮箱。`filter-branch` 不会动 tag，需手动把 tag 重指向内容树相同的等价提交（`gh api -X PATCH repos/.../git/refs/tags/<tag> --input -`，body 为 `{"sha":"...","force":true}`）。
+13. **Contributors 是异步快照**：改写历史后列表不会立刻刷新，可能长期停留在旧计数。`refs/pull/*` 是只读引用、删不掉，它祖先链里的旧提交会计入统计。遇到这种情况只能等 GitHub 后台重建，或切换仓库可见性强制重算。
+14. **PR 分支要基于当前 main**：从旧 main 分叉的分支带着改写前的历史，即使内容已被吸收也不能合并（无共同祖先）。让贡献者从当前 main 重建分支。
 
 ---
 
