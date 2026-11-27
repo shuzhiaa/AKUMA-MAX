@@ -200,3 +200,4 @@ A：会。每次发布同时更新三种形态，网页版和单文件版刷新�
 - **提 Issue**：报 bug 或提建议，按 [CONTRIBUTING.md](CONTRIBUTING.md) 里的模板写清「版本号 + 复现步骤 + 截图」最容易解决。
 - **提 Pull Request**：不需要先申请权限，Fork 后直接改、直接提。流程与提交规范见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 - **AI 代理 / 维护者**：更新流程、目录约定、已知坑与验证命令见 [AGENTS.md](AGENTS.md)。
+- **交接与现状**：项目全景、线上资产清单、未完成事项、环境配置见 [HANDOFF.md](HANDOFF.md)。
