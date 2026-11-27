@@ -31,7 +31,8 @@
         3) 只清理本应用（akuma-max-）的旧缓存。Cache Storage 按 origin 共享，
            同一 github.io 域名下其他项目的缓存不能被误删。
 */
-const CACHE = "akuma-max-v94";
+   v95：不再向本机回环端口发探活请求（侧车地址只认用户配置）。
+const CACHE = "akuma-max-v95";
 const CACHE_PREFIX = "akuma-max-";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
