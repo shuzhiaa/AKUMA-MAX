@@ -170,7 +170,7 @@ gh release create v<版本> --repo shuzhiaa/AKUMA-MAX \
 
 - 网页三形态：`node tools/check-release.mjs --base=<本地或线上地址>` → 9/9。
 - 数据完整性：`mobile.html` 内联 98 份数据、21,430 词、68 套真题（`exams/` 下 69 个 JSON，含 `index.json`）。
-- 品牌与隐私：`grep -ril "lexicard" <本目录> --exclude-dir=.git --exclude=AGENTS.md` 应无输出；`grep -rIl "127.0.0.1" <本目录> --exclude-dir=.git` 应无输出。
+- 品牌与隐私：`grep -ril "lexicard" <本目录> --exclude-dir=.git --exclude=AGENTS.md` 应无输出；`grep -rIl "127.0.0.1" <本目录> --exclude-dir=.git --exclude=AGENTS.md` 应无输出（本文件含验证命令示例，故排除）。
 - 文档数字：README 与 AGENTS 里的词数、套数、体积要与产物一致；改动后重新核对，不要沿用旧值。
 - APK：`apksigner verify` + `aapt2 dump badging` + 文件大小约 202MB。
 - GitHub：仓库 main 分支最新提交、Pages build 状态 built、Releases 资源可下载（HTTP 200 + Content-Length 正确）。
