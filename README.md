@@ -197,5 +197,6 @@ A：会。每次发布同时更新三种形态，网页版和单文件版刷新�
 
 本仓库只存放**构建好的静态站点**。源码、构建脚本与 Android 工程在独立的源码仓库里，不随本站发布。
 
-- **参与开发**：直接提 Pull Request 即可。提交前请在说明里写清「改了哪部分、怎么验证的」。
+- **提 Issue**：报 bug 或提建议，按 [CONTRIBUTING.md](CONTRIBUTING.md) 里的模板写清「版本号 + 复现步骤 + 截图」最容易解决。
+- **提 Pull Request**：不需要先申请权限，Fork 后直接改、直接提。流程与提交规范见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 - **AI 代理 / 维护者**：更新流程、目录约定、已知坑与验证命令见 [AGENTS.md](AGENTS.md)。
