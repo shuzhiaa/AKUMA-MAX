@@ -44,7 +44,7 @@ Akuma Max 是一个**纯本地、无后端**的英语学习工具。仓库 `shuz
 ## 2. 用户怎么用（回答用户问题时按此摘要）
 
 1. **不想安装**：打开 https://shuzhiaa.github.io/AKUMA-MAX/ ，电脑手机浏览器都能用。
-2. **想离线放进手机**：打开 `mobile.html`，用浏览器“添加到主屏幕”；它内联 72 份数据，断网可查词、做 69 套真题。
+2. **想离线放进手机**：打开 `mobile.html`，用浏览器“添加到主屏幕”；它内联 98 份数据，断网可查词、做 68 套真题。
 3. **想要 App**：到 Releases 下载 `AkumaMax-<版本>-signed.apk`，允许一次“未知来源”后安装；约 200MB，可覆盖旧版并保留学习记录。
 4. 首次使用：选水平（或做水平测试）→ 设每日目标 → 今日页开始复习。
 5. 数据全部存本地（IndexedDB / App 本地存储），无账号、无服务端上传；AI 功能需用户自己填 API Key。
@@ -143,7 +143,7 @@ gh release create v<版本> --repo shuzhiaa/AKUMA-MAX \
 ## 4. 已知坑（改之前先读）
 
 1. **发布工具按工作区绑定应用**：本工作区只有一个 WorkBuddy 应用（英语站）。从这里发布任何别的目录都会覆盖英语站；第二个站点必须换工作区。
-2. **`bundle-single-html` 必须用未混淆的 `dist`**：混淆后的 JS 内联会解析失败；每次改 bundle 脚本都要解析一次内联数据，确认 `lexicon.json` 的 21,430 词与 69 套真题都在，不能只看页面能开。
+2. **`bundle-single-html` 必须用未混淆的 `dist`**：混淆后的 JS 内联会解析失败；每次改 bundle 脚本都要解析一次内联数据，确认 `lexicon.json` 的 21,430 词与 68 套真题都在，不能只看页面能开。
 3. **SW 缓存版本每次发版都改**；`sw.js` 对导航走网络优先、对 hash 资源走网络优先，但旧缓存仍可能留住首页。
 4. **`vite.config.ts` 与 `vite.demo.config.ts` 的 base 都是 `./`**：所以 Pages 子路径 `/AKUMA-MAX/` 下资源与 fetch 都正常；不要改成绝对路径。
 5. **端侧 TTS 三件套缺一不可**：`model.onnx` + `tokens.txt` + `espeak-ng-data`（355 文件）。只给 lexicon 会生成 0.02–0.04 秒静音，插件已有 `<0.15s` 判为失败的防线。不要删 `espeak-ng-data`。
@@ -158,7 +158,7 @@ gh release create v<版本> --repo shuzhiaa/AKUMA-MAX \
 ## 5. 验证清单
 
 - 网页三形态：`node tools/check-release.mjs --base=<本地或线上地址>` → 9/9。
-- 数据完整性：`mobile.html` 内联 72 份数据、21,430 词、69 套真题。
+- 数据完整性：`mobile.html` 内联 98 份数据、21,430 词、68 套真题。
 - 品牌：`grep -ril "lexicard" /d/LexiCard-ghpages` 应无输出。
 - APK：`apksigner verify` + `aapt2 dump badging` + 文件大小约 200MB。
 - GitHub：仓库 main 分支最新提交、Pages build 状态 built、Releases 资源可下载（HTTP 200 + Content-Length 正确）。

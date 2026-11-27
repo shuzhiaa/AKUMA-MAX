@@ -1,0 +1,2540 @@
+{
+ "meta": {
+  "count": 195,
+  "byCategory": {
+   "phrase": 102,
+   "adj": 53,
+   "pattern": 40
+  },
+  "source": "手工整理（四六级考纲常用搭配/形容词辨析/句式）+ 本地 35 套真题频次实测"
+ },
+ "groups": [
+  {
+   "id": "ph1",
+   "category": "phrase",
+   "title": "account for",
+   "words": [
+    "account for"
+   ],
+   "zh": "占（比例）；解释",
+   "tip": "不是「算账」；与 count on（依靠）区分",
+   "example": "Women account for nearly half of the workforce.",
+   "exampleZh": "女性占劳动力的近一半。",
+   "freq": 10
+  },
+  {
+   "id": "ph2",
+   "category": "phrase",
+   "title": "result in",
+   "words": [
+    "result in"
+   ],
+   "zh": "导致（结果）",
+   "tip": "result in 后接结果；result from 后接原因",
+   "example": "The policy resulted in a sharp rise in prices.",
+   "exampleZh": "该政策导致物价大幅上涨。",
+   "freq": 8
+  },
+  {
+   "id": "ph3",
+   "category": "phrase",
+   "title": "result from",
+   "words": [
+    "result from"
+   ],
+   "zh": "由…造成",
+   "tip": "与 result in 方向相反",
+   "example": "The delay resulted from heavy traffic.",
+   "exampleZh": "延误是由严重堵车造成的。",
+   "freq": 3
+  },
+  {
+   "id": "ph4",
+   "category": "phrase",
+   "title": "consist of",
+   "words": [
+    "consist of"
+   ],
+   "zh": "由…组成",
+   "tip": "不用被动；consist in 是「在于」",
+   "example": "The committee consists of ten members.",
+   "exampleZh": "委员会由十名成员组成。",
+   "freq": 0
+  },
+  {
+   "id": "ph5",
+   "category": "phrase",
+   "title": "be composed of",
+   "words": [
+    "be composed of"
+   ],
+   "zh": "由…构成",
+   "tip": "必须带 be，composed 是过去分词",
+   "example": "The team is composed of experts from five countries.",
+   "exampleZh": "该团队由五国专家构成。",
+   "freq": 0
+  },
+  {
+   "id": "ph6",
+   "category": "phrase",
+   "title": "give rise to",
+   "words": [
+    "give rise to"
+   ],
+   "zh": "引起，导致",
+   "tip": "to 是介词，后面接名词",
+   "example": "The discovery gave rise to a new field of study.",
+   "exampleZh": "这一发现催生了一个新研究领域。",
+   "freq": 0
+  },
+  {
+   "id": "ph7",
+   "category": "phrase",
+   "title": "contribute to",
+   "words": [
+    "contribute to"
+   ],
+   "zh": "促成；有助于",
+   "tip": "to 是介词，不接动词原形",
+   "example": "Exercise contributes to better sleep.",
+   "exampleZh": "运动有助于改善睡眠。",
+   "freq": 12
+  },
+  {
+   "id": "ph8",
+   "category": "phrase",
+   "title": "lead to",
+   "words": [
+    "lead to"
+   ],
+   "zh": "导致",
+   "tip": "lead to 后接结果，不接人",
+   "example": "Careless driving leads to accidents.",
+   "exampleZh": "粗心驾驶导致事故。",
+   "freq": 28
+  },
+  {
+   "id": "ph9",
+   "category": "phrase",
+   "title": "be subject to",
+   "words": [
+    "be subject to"
+   ],
+   "zh": "受…影响；须经…",
+   "tip": "to 是介词；subject 是形容词",
+   "example": "Prices are subject to change without notice.",
+   "exampleZh": "价格如有变动恕不另行通知。",
+   "freq": 0
+  },
+  {
+   "id": "ph10",
+   "category": "phrase",
+   "title": "be exposed to",
+   "words": [
+    "be exposed to"
+   ],
+   "zh": "接触；暴露于",
+   "tip": "to 是介词",
+   "example": "Children are exposed to too much screen time.",
+   "exampleZh": "孩子接触屏幕的时间太多。",
+   "freq": 0
+  },
+  {
+   "id": "ph11",
+   "category": "phrase",
+   "title": "be immune to",
+   "words": [
+    "be immune to"
+   ],
+   "zh": "不受…影响",
+   "tip": "to 是介词；immunity 是名词",
+   "example": "No industry is immune to the downturn.",
+   "exampleZh": "没有行业能免受衰退影响。",
+   "freq": 0
+  },
+  {
+   "id": "ph12",
+   "category": "phrase",
+   "title": "be liable to",
+   "words": [
+    "be liable to"
+   ],
+   "zh": "易于…；有…倾向",
+   "tip": "liable to do；be liable for 是「对…负责」",
+   "example": "Such plans are liable to fail.",
+   "exampleZh": "这类计划容易失败。",
+   "freq": 0
+  },
+  {
+   "id": "ph13",
+   "category": "phrase",
+   "title": "be capable of",
+   "words": [
+    "be capable of"
+   ],
+   "zh": "有能力做",
+   "tip": "of 后接动名词",
+   "example": "She is capable of handling the project alone.",
+   "exampleZh": "她有能力独自处理这个项目。",
+   "freq": 1
+  },
+  {
+   "id": "ph14",
+   "category": "phrase",
+   "title": "be aware of",
+   "words": [
+    "be aware of"
+   ],
+   "zh": "意识到",
+   "tip": "aware 后不接 that 以外的从句时用 of",
+   "example": "Few people are aware of the risk.",
+   "exampleZh": "很少有人意识到这个风险。",
+   "freq": 5
+  },
+  {
+   "id": "ph15",
+   "category": "phrase",
+   "title": "be short of",
+   "words": [
+    "be short of"
+   ],
+   "zh": "缺少",
+   "tip": "short of 是「缺少」，不是「矮」",
+   "example": "The hospital is short of nurses.",
+   "exampleZh": "这家医院缺少护士。",
+   "freq": 0
+  },
+  {
+   "id": "ph16",
+   "category": "phrase",
+   "title": "in terms of",
+   "words": [
+    "in terms of"
+   ],
+   "zh": "就…而言",
+   "tip": "terms 必须复数",
+   "example": "In terms of cost, this option is better.",
+   "exampleZh": "就成本而言，这个方案更好。",
+   "freq": 15
+  },
+  {
+   "id": "ph17",
+   "category": "phrase",
+   "title": "in favor of",
+   "words": [
+    "in favor of"
+   ],
+   "zh": "支持；赞成",
+   "tip": "英式拼写 favour",
+   "example": "Most students are in favor of the change.",
+   "exampleZh": "多数学生支持这项改变。",
+   "freq": 1
+  },
+  {
+   "id": "ph18",
+   "category": "phrase",
+   "title": "in charge of",
+   "words": [
+    "in charge of"
+   ],
+   "zh": "负责",
+   "tip": "in the charge of 是「由…负责」",
+   "example": "She is in charge of the marketing team.",
+   "exampleZh": "她负责市场团队。",
+   "freq": 1
+  },
+  {
+   "id": "ph19",
+   "category": "phrase",
+   "title": "in response to",
+   "words": [
+    "in response to"
+   ],
+   "zh": "回应",
+   "tip": "to 是介词",
+   "example": "The company cut prices in response to competition.",
+   "exampleZh": "公司为回应竞争而降价。",
+   "freq": 1
+  },
+  {
+   "id": "ph20",
+   "category": "phrase",
+   "title": "in contrast to",
+   "words": [
+    "in contrast to"
+   ],
+   "zh": "与…相比",
+   "tip": "to 是介词；by contrast 单独用",
+   "example": "In contrast to last year, sales doubled.",
+   "exampleZh": "与去年相比，销量翻倍。",
+   "freq": 0
+  },
+  {
+   "id": "ph21",
+   "category": "phrase",
+   "title": "on behalf of",
+   "words": [
+    "on behalf of"
+   ],
+   "zh": "代表",
+   "tip": "behalf 不可数",
+   "example": "I am writing on behalf of the student union.",
+   "exampleZh": "我代表学生会写信。",
+   "freq": 2
+  },
+  {
+   "id": "ph22",
+   "category": "phrase",
+   "title": "at the expense of",
+   "words": [
+    "at the expense of"
+   ],
+   "zh": "以…为代价",
+   "tip": "expense 用单数",
+   "example": "Growth should not come at the expense of the environment.",
+   "exampleZh": "增长不应以环境为代价。",
+   "freq": 2
+  },
+  {
+   "id": "ph23",
+   "category": "phrase",
+   "title": "take ... into account",
+   "words": [
+    "take",
+    "into account"
+   ],
+   "zh": "把…考虑在内",
+   "tip": "也可说 take account of",
+   "example": "We must take cost into account.",
+   "exampleZh": "我们必须把成本考虑在内。",
+   "freq": 0
+  },
+  {
+   "id": "ph24",
+   "category": "phrase",
+   "title": "take advantage of",
+   "words": [
+    "take advantage of"
+   ],
+   "zh": "利用",
+   "tip": "advantage 可数，用单数",
+   "example": "Students should take advantage of the library.",
+   "exampleZh": "学生应利用图书馆。",
+   "freq": 3
+  },
+  {
+   "id": "ph25",
+   "category": "phrase",
+   "title": "make use of",
+   "words": [
+    "make use of"
+   ],
+   "zh": "利用",
+   "tip": "use 前可加 good/full",
+   "example": "We made good use of the free time.",
+   "exampleZh": "我们很好地利用了空闲时间。",
+   "freq": 0
+  },
+  {
+   "id": "ph26",
+   "category": "phrase",
+   "title": "pay attention to",
+   "words": [
+    "pay attention to"
+   ],
+   "zh": "注意",
+   "tip": "to 是介词",
+   "example": "Pay attention to the details.",
+   "exampleZh": "注意细节。",
+   "freq": 3
+  },
+  {
+   "id": "ph27",
+   "category": "phrase",
+   "title": "attach importance to",
+   "words": [
+    "attach importance to"
+   ],
+   "zh": "重视",
+   "tip": "importance 前常加 great",
+   "example": "The government attaches great importance to education.",
+   "exampleZh": "政府高度重视教育。",
+   "freq": 1
+  },
+  {
+   "id": "ph28",
+   "category": "phrase",
+   "title": "play a role in",
+   "words": [
+    "play a role in"
+   ],
+   "zh": "在…中起作用",
+   "tip": "role 前可加 key/important",
+   "example": "Parents play a key role in a child's growth.",
+   "exampleZh": "父母在孩子成长中起关键作用。",
+   "freq": 1
+  },
+  {
+   "id": "ph29",
+   "category": "phrase",
+   "title": "make a difference",
+   "words": [
+    "make a difference"
+   ],
+   "zh": "产生影响，起作用",
+   "tip": "difference 用单数",
+   "example": "Small habits can make a big difference.",
+   "exampleZh": "小习惯能带来大改变。",
+   "freq": 3
+  },
+  {
+   "id": "ph30",
+   "category": "phrase",
+   "title": "have access to",
+   "words": [
+    "have access to"
+   ],
+   "zh": "有机会接触/使用",
+   "tip": "access 不可数，不加 s",
+   "example": "Rural students now have access to online courses.",
+   "exampleZh": "农村学生现在能上在线课程。",
+   "freq": 6
+  },
+  {
+   "id": "ph31",
+   "category": "phrase",
+   "title": "be attributed to",
+   "words": [
+    "be attributed to"
+   ],
+   "zh": "归因于",
+   "tip": "与 contribute to 方向相反",
+   "example": "The success is attributed to teamwork.",
+   "exampleZh": "成功归因于团队合作。",
+   "freq": 2
+  },
+  {
+   "id": "ph32",
+   "category": "phrase",
+   "title": "be committed to",
+   "words": [
+    "be committed to"
+   ],
+   "zh": "致力于",
+   "tip": "to 是介词",
+   "example": "The firm is committed to reducing waste.",
+   "exampleZh": "该公司致力于减少浪费。",
+   "freq": 0
+  },
+  {
+   "id": "ph33",
+   "category": "phrase",
+   "title": "be devoted to",
+   "words": [
+    "be devoted to"
+   ],
+   "zh": "献身于",
+   "tip": "to 是介词",
+   "example": "He is devoted to teaching.",
+   "exampleZh": "他献身于教学。",
+   "freq": 1
+  },
+  {
+   "id": "ph34",
+   "category": "phrase",
+   "title": "be engaged in",
+   "words": [
+    "be engaged in"
+   ],
+   "zh": "从事于",
+   "tip": "be engaged to sb 是「与某人订婚」",
+   "example": "She is engaged in cancer research.",
+   "exampleZh": "她从事癌症研究。",
+   "freq": 0
+  },
+  {
+   "id": "ph35",
+   "category": "phrase",
+   "title": "be involved in",
+   "words": [
+    "be involved in"
+   ],
+   "zh": "参与；卷入",
+   "tip": "in 是介词",
+   "example": "Many firms are involved in the project.",
+   "exampleZh": "许多公司参与该项目。",
+   "freq": 0
+  },
+  {
+   "id": "ph36",
+   "category": "phrase",
+   "title": "be responsible for",
+   "words": [
+    "be responsible for"
+   ],
+   "zh": "对…负责",
+   "tip": "for 后接对象",
+   "example": "Drivers are responsible for their passengers' safety.",
+   "exampleZh": "司机对乘客安全负责。",
+   "freq": 0
+  },
+  {
+   "id": "ph37",
+   "category": "phrase",
+   "title": "be dependent on",
+   "words": [
+    "be dependent on"
+   ],
+   "zh": "依赖",
+   "tip": "dependent 是形容词，depend 是动词",
+   "example": "The town is dependent on tourism.",
+   "exampleZh": "这个镇依赖旅游业。",
+   "freq": 0
+  },
+  {
+   "id": "ph38",
+   "category": "phrase",
+   "title": "be consistent with",
+   "words": [
+    "be consistent with"
+   ],
+   "zh": "与…一致",
+   "tip": "with 是介词",
+   "example": "The results are consistent with earlier studies.",
+   "exampleZh": "结果与早期研究一致。",
+   "freq": 0
+  },
+  {
+   "id": "ph39",
+   "category": "phrase",
+   "title": "be relevant to",
+   "words": [
+    "be relevant to"
+   ],
+   "zh": "与…相关",
+   "tip": "to 是介词",
+   "example": "The question is not relevant to our topic.",
+   "exampleZh": "这个问题与我们的主题无关。",
+   "freq": 1
+  },
+  {
+   "id": "ph40",
+   "category": "phrase",
+   "title": "be beneficial to",
+   "words": [
+    "be beneficial to"
+   ],
+   "zh": "对…有益",
+   "tip": "to 是介词；也可用 for",
+   "example": "Regular exercise is beneficial to health.",
+   "exampleZh": "规律运动有益健康。",
+   "freq": 1
+  },
+  {
+   "id": "ph41",
+   "category": "phrase",
+   "title": "be essential to",
+   "words": [
+    "be essential to"
+   ],
+   "zh": "对…必不可少",
+   "tip": "to 是介词",
+   "example": "Water is essential to life.",
+   "exampleZh": "水对生命必不可少。",
+   "freq": 0
+  },
+  {
+   "id": "ph42",
+   "category": "phrase",
+   "title": "be similar to",
+   "words": [
+    "be similar to"
+   ],
+   "zh": "与…相似",
+   "tip": "to 是介词，不用 with",
+   "example": "Her view is similar to mine.",
+   "exampleZh": "她的观点与我的相似。",
+   "freq": 1
+  },
+  {
+   "id": "ph43",
+   "category": "phrase",
+   "title": "be familiar with",
+   "words": [
+    "be familiar with"
+   ],
+   "zh": "熟悉（人熟悉某物）",
+   "tip": "be familiar to sb 是「为某人所熟悉」",
+   "example": "I am familiar with this software.",
+   "exampleZh": "我熟悉这个软件。",
+   "freq": 0
+  },
+  {
+   "id": "ph44",
+   "category": "phrase",
+   "title": "be curious about",
+   "words": [
+    "be curious about"
+   ],
+   "zh": "对…好奇",
+   "tip": "about 是介词",
+   "example": "Children are curious about everything.",
+   "exampleZh": "孩子对一切好奇。",
+   "freq": 0
+  },
+  {
+   "id": "ph45",
+   "category": "phrase",
+   "title": "be anxious about",
+   "words": [
+    "be anxious about"
+   ],
+   "zh": "为…焦虑",
+   "tip": "be anxious to do 是「渴望做」",
+   "example": "She is anxious about the exam.",
+   "exampleZh": "她为考试焦虑。",
+   "freq": 0
+  },
+  {
+   "id": "ph46",
+   "category": "phrase",
+   "title": "be keen on",
+   "words": [
+    "be keen on"
+   ],
+   "zh": "热衷于",
+   "tip": "on 是介词",
+   "example": "He is keen on outdoor sports.",
+   "exampleZh": "他热衷户外运动。",
+   "freq": 0
+  },
+  {
+   "id": "ph47",
+   "category": "phrase",
+   "title": "be fond of",
+   "words": [
+    "be fond of"
+   ],
+   "zh": "喜欢",
+   "tip": "of 后接名词或动名词",
+   "example": "She is fond of classical music.",
+   "exampleZh": "她喜欢古典音乐。",
+   "freq": 0
+  },
+  {
+   "id": "ph48",
+   "category": "phrase",
+   "title": "be accustomed to",
+   "words": [
+    "be accustomed to"
+   ],
+   "zh": "习惯于",
+   "tip": "to 是介词，后接动名词",
+   "example": "They are accustomed to cold weather.",
+   "exampleZh": "他们习惯寒冷天气。",
+   "freq": 0
+  },
+  {
+   "id": "ph49",
+   "category": "phrase",
+   "title": "be opposed to",
+   "words": [
+    "be opposed to"
+   ],
+   "zh": "反对",
+   "tip": "to 是介词",
+   "example": "Many residents are opposed to the plan.",
+   "exampleZh": "许多居民反对该计划。",
+   "freq": 0
+  },
+  {
+   "id": "ph50",
+   "category": "phrase",
+   "title": "be inclined to",
+   "words": [
+    "be inclined to"
+   ],
+   "zh": "倾向于",
+   "tip": "to do sth",
+   "example": "I am inclined to agree with you.",
+   "exampleZh": "我倾向于同意你。",
+   "freq": 0
+  },
+  {
+   "id": "ph51",
+   "category": "phrase",
+   "title": "be bound to",
+   "words": [
+    "be bound to"
+   ],
+   "zh": "必定；有义务",
+   "tip": "与 be bound for（开往）区分",
+   "example": "Such mistakes are bound to happen.",
+   "exampleZh": "这类错误必然发生。",
+   "freq": 0
+  },
+  {
+   "id": "ph52",
+   "category": "phrase",
+   "title": "be supposed to",
+   "words": [
+    "be supposed to"
+   ],
+   "zh": "应该",
+   "tip": "口语中常表「按理说」",
+   "example": "You are supposed to submit it by Friday.",
+   "exampleZh": "你应该周五前提交。",
+   "freq": 0
+  },
+  {
+   "id": "ph53",
+   "category": "phrase",
+   "title": "be willing to",
+   "words": [
+    "be willing to"
+   ],
+   "zh": "愿意",
+   "tip": "to do sth",
+   "example": "She is willing to help.",
+   "exampleZh": "她愿意帮忙。",
+   "freq": 2
+  },
+  {
+   "id": "ph54",
+   "category": "phrase",
+   "title": "be likely to",
+   "words": [
+    "be likely to"
+   ],
+   "zh": "可能",
+   "tip": "likely 主语可以是人",
+   "example": "Prices are likely to rise.",
+   "exampleZh": "物价可能上涨。",
+   "freq": 0
+  },
+  {
+   "id": "ph55",
+   "category": "phrase",
+   "title": "be able to",
+   "words": [
+    "be able to"
+   ],
+   "zh": "能够",
+   "tip": "比 can 多用于完成时与将来时",
+   "example": "He was able to finish it alone.",
+   "exampleZh": "他能独自完成。",
+   "freq": 16
+  },
+  {
+   "id": "ph56",
+   "category": "phrase",
+   "title": "be about to",
+   "words": [
+    "be about to"
+   ],
+   "zh": "即将",
+   "tip": "不接具体时间状语",
+   "example": "The train is about to leave.",
+   "exampleZh": "火车即将开走。",
+   "freq": 0
+  },
+  {
+   "id": "ph57",
+   "category": "phrase",
+   "title": "be used to",
+   "words": [
+    "be used to"
+   ],
+   "zh": "习惯于",
+   "tip": "used to do 是「过去常常」；be used to doing 是「习惯」",
+   "example": "I am used to getting up early.",
+   "exampleZh": "我习惯早起。",
+   "freq": 5
+  },
+  {
+   "id": "ph58",
+   "category": "phrase",
+   "title": "used to",
+   "words": [
+    "used to"
+   ],
+   "zh": "过去常常",
+   "tip": "与 be used to 完全不同",
+   "example": "He used to smoke.",
+   "exampleZh": "他过去常抽烟。",
+   "freq": 39
+  },
+  {
+   "id": "ph59",
+   "category": "phrase",
+   "title": "be made of",
+   "words": [
+    "be made of"
+   ],
+   "zh": "由…制成（看得出原料）",
+   "tip": "made from 看不出原料",
+   "example": "The table is made of wood.",
+   "exampleZh": "桌子是木头做的。",
+   "freq": 1
+  },
+  {
+   "id": "ph60",
+   "category": "phrase",
+   "title": "be made from",
+   "words": [
+    "be made from"
+   ],
+   "zh": "由…制成（看不出原料）",
+   "tip": "与 made of 区分",
+   "example": "Paper is made from wood.",
+   "exampleZh": "纸由木材制成。",
+   "freq": 1
+  },
+  {
+   "id": "ph61",
+   "category": "phrase",
+   "title": "turn out",
+   "words": [
+    "turn out"
+   ],
+   "zh": "结果是",
+   "tip": "turn out to be + n/adj",
+   "example": "The plan turned out well.",
+   "exampleZh": "计划结果不错。",
+   "freq": 2
+  },
+  {
+   "id": "ph62",
+   "category": "phrase",
+   "title": "carry out",
+   "words": [
+    "carry out"
+   ],
+   "zh": "执行",
+   "tip": "宾语常为 plan/survey/policy",
+   "example": "They carried out a survey.",
+   "exampleZh": "他们做了一项调查。",
+   "freq": 0
+  },
+  {
+   "id": "ph63",
+   "category": "phrase",
+   "title": "bring about",
+   "words": [
+    "bring about"
+   ],
+   "zh": "带来，引起",
+   "tip": "about 是副词",
+   "example": "Technology has brought about huge changes.",
+   "exampleZh": "技术带来了巨大变化。",
+   "freq": 4
+  },
+  {
+   "id": "ph64",
+   "category": "phrase",
+   "title": "break down",
+   "words": [
+    "break down"
+   ],
+   "zh": "出故障；崩溃",
+   "tip": "也可指情绪崩溃",
+   "example": "The car broke down on the way.",
+   "exampleZh": "车在路上抛锚了。",
+   "freq": 0
+  },
+  {
+   "id": "ph65",
+   "category": "phrase",
+   "title": "come up with",
+   "words": [
+    "come up with"
+   ],
+   "zh": "想出",
+   "tip": "with 不可省",
+   "example": "She came up with a clever solution.",
+   "exampleZh": "她想出一个巧妙的方案。",
+   "freq": 5
+  },
+  {
+   "id": "ph66",
+   "category": "phrase",
+   "title": "put up with",
+   "words": [
+    "put up with"
+   ],
+   "zh": "忍受",
+   "tip": "with 不可省",
+   "example": "I can't put up with the noise.",
+   "exampleZh": "我受不了这噪音。",
+   "freq": 0
+  },
+  {
+   "id": "ph67",
+   "category": "phrase",
+   "title": "look forward to",
+   "words": [
+    "look forward to"
+   ],
+   "zh": "期待",
+   "tip": "to 是介词，后接动名词",
+   "example": "I look forward to hearing from you.",
+   "exampleZh": "期待您的回复。",
+   "freq": 1
+  },
+  {
+   "id": "ph68",
+   "category": "phrase",
+   "title": "look into",
+   "words": [
+    "look into"
+   ],
+   "zh": "调查",
+   "tip": "into 是介词",
+   "example": "Police are looking into the case.",
+   "exampleZh": "警方正在调查此案。",
+   "freq": 1
+  },
+  {
+   "id": "ph69",
+   "category": "phrase",
+   "title": "look up to",
+   "words": [
+    "look up to"
+   ],
+   "zh": "尊敬",
+   "tip": "与 look down on（轻视）相对",
+   "example": "Students look up to their teachers.",
+   "exampleZh": "学生尊敬老师。",
+   "freq": 0
+  },
+  {
+   "id": "ph70",
+   "category": "phrase",
+   "title": "get rid of",
+   "words": [
+    "get rid of"
+   ],
+   "zh": "摆脱",
+   "tip": "of 不可省",
+   "example": "We must get rid of the bad habit.",
+   "exampleZh": "我们必须摆脱这个坏习惯。",
+   "freq": 2
+  },
+  {
+   "id": "ph71",
+   "category": "phrase",
+   "title": "make up for",
+   "words": [
+    "make up for"
+   ],
+   "zh": "弥补",
+   "tip": "for 不可省",
+   "example": "Nothing can make up for the loss.",
+   "exampleZh": "什么也无法弥补这个损失。",
+   "freq": 2
+  },
+  {
+   "id": "ph72",
+   "category": "phrase",
+   "title": "keep up with",
+   "words": [
+    "keep up with"
+   ],
+   "zh": "跟上",
+   "tip": "with 不可省",
+   "example": "It is hard to keep up with technology.",
+   "exampleZh": "很难跟上技术发展。",
+   "freq": 2
+  },
+  {
+   "id": "ph73",
+   "category": "phrase",
+   "title": "catch up with",
+   "words": [
+    "catch up with"
+   ],
+   "zh": "赶上",
+   "tip": "与 keep up with 区分",
+   "example": "He worked hard to catch up with others.",
+   "exampleZh": "他努力赶上其他人。",
+   "freq": 0
+  },
+  {
+   "id": "ph74",
+   "category": "phrase",
+   "title": "run out of",
+   "words": [
+    "run out of"
+   ],
+   "zh": "用完",
+   "tip": "run out 不及物；run out of 及物",
+   "example": "We ran out of time.",
+   "exampleZh": "我们时间用完了。",
+   "freq": 0
+  },
+  {
+   "id": "ph75",
+   "category": "phrase",
+   "title": "figure out",
+   "words": [
+    "figure out"
+   ],
+   "zh": "弄清楚",
+   "tip": "口语高频",
+   "example": "I can't figure out the answer.",
+   "exampleZh": "我弄不懂这个答案。",
+   "freq": 5
+  },
+  {
+   "id": "ph76",
+   "category": "phrase",
+   "title": "point out",
+   "words": [
+    "point out"
+   ],
+   "zh": "指出",
+   "tip": "out 是副词",
+   "example": "He pointed out a serious mistake.",
+   "exampleZh": "他指出一个严重错误。",
+   "freq": 2
+  },
+  {
+   "id": "ph77",
+   "category": "phrase",
+   "title": "set up",
+   "words": [
+    "set up"
+   ],
+   "zh": "建立",
+   "tip": "可分离：set it up",
+   "example": "They set up a new company.",
+   "exampleZh": "他们成立了一家新公司。",
+   "freq": 8
+  },
+  {
+   "id": "ph78",
+   "category": "phrase",
+   "title": "take on",
+   "words": [
+    "take on"
+   ],
+   "zh": "承担；呈现",
+   "tip": "多义，看宾语",
+   "example": "She took on more responsibility.",
+   "exampleZh": "她承担了更多责任。",
+   "freq": 2
+  },
+  {
+   "id": "ph79",
+   "category": "phrase",
+   "title": "take over",
+   "words": [
+    "take over"
+   ],
+   "zh": "接管",
+   "tip": "与 take up（开始从事）区分",
+   "example": "A rival took over the firm.",
+   "exampleZh": "竞争对手接管了这家公司。",
+   "freq": 2
+  },
+  {
+   "id": "ph80",
+   "category": "phrase",
+   "title": "take up",
+   "words": [
+    "take up"
+   ],
+   "zh": "开始从事；占用",
+   "tip": "也可指占用时间空间",
+   "example": "He took up painting last year.",
+   "exampleZh": "他去年开始学画。",
+   "freq": 2
+  },
+  {
+   "id": "ph81",
+   "category": "phrase",
+   "title": "work out",
+   "words": [
+    "work out"
+   ],
+   "zh": "解决；锻炼",
+   "tip": "也可指健身",
+   "example": "Things worked out in the end.",
+   "exampleZh": "事情最终解决了。",
+   "freq": 0
+  },
+  {
+   "id": "ph82",
+   "category": "phrase",
+   "title": "give in",
+   "words": [
+    "give in"
+   ],
+   "zh": "屈服",
+   "tip": "give in to sb/sth",
+   "example": "He refused to give in.",
+   "exampleZh": "他拒绝屈服。",
+   "freq": 0
+  },
+  {
+   "id": "ph83",
+   "category": "phrase",
+   "title": "give up",
+   "words": [
+    "give up"
+   ],
+   "zh": "放弃",
+   "tip": "与 give in 区分",
+   "example": "Never give up your dream.",
+   "exampleZh": "永不放弃梦想。",
+   "freq": 3
+  },
+  {
+   "id": "ph84",
+   "category": "phrase",
+   "title": "hold on",
+   "words": [
+    "hold on"
+   ],
+   "zh": "坚持；稍等",
+   "tip": "口语",
+   "example": "Hold on, I'll check it.",
+   "exampleZh": "稍等，我查一下。",
+   "freq": 1
+  },
+  {
+   "id": "ph85",
+   "category": "phrase",
+   "title": "go through",
+   "words": [
+    "go through"
+   ],
+   "zh": "经历；仔细检查",
+   "tip": "多义",
+   "example": "She went through a hard time.",
+   "exampleZh": "她经历了一段艰难时期。",
+   "freq": 1
+  },
+  {
+   "id": "ph86",
+   "category": "phrase",
+   "title": "deal with",
+   "words": [
+    "deal with"
+   ],
+   "zh": "处理",
+   "tip": "with 不可省",
+   "example": "We must deal with the problem now.",
+   "exampleZh": "我们必须现在处理问题。",
+   "freq": 9
+  },
+  {
+   "id": "ph87",
+   "category": "phrase",
+   "title": "cope with",
+   "words": [
+    "cope with"
+   ],
+   "zh": "应对",
+   "tip": "with 不可省",
+   "example": "Some families cannot cope with the pressure.",
+   "exampleZh": "一些家庭无法应对压力。",
+   "freq": 8
+  },
+  {
+   "id": "ph88",
+   "category": "phrase",
+   "title": "refer to",
+   "words": [
+    "refer to"
+   ],
+   "zh": "提到；参考",
+   "tip": "to 是介词",
+   "example": "He referred to the report twice.",
+   "exampleZh": "他两次提到那份报告。",
+   "freq": 10
+  },
+  {
+   "id": "ph89",
+   "category": "phrase",
+   "title": "rely on",
+   "words": [
+    "rely on"
+   ],
+   "zh": "依靠",
+   "tip": "on 不可省",
+   "example": "We rely on renewable energy.",
+   "exampleZh": "我们依靠可再生能源。",
+   "freq": 13
+  },
+  {
+   "id": "ph90",
+   "category": "phrase",
+   "title": "focus on",
+   "words": [
+    "focus on"
+   ],
+   "zh": "专注于",
+   "tip": "也可用 upon",
+   "example": "Focus on the main idea.",
+   "exampleZh": "专注于主旨。",
+   "freq": 16
+  },
+  {
+   "id": "ph91",
+   "category": "phrase",
+   "title": "depend on",
+   "words": [
+    "depend on"
+   ],
+   "zh": "取决于；依赖",
+   "tip": "口语 It depends",
+   "example": "It depends on the weather.",
+   "exampleZh": "这取决于天气。",
+   "freq": 6
+  },
+  {
+   "id": "ph92",
+   "category": "phrase",
+   "title": "insist on",
+   "words": [
+    "insist on"
+   ],
+   "zh": "坚持",
+   "tip": "on 后接动名词",
+   "example": "She insisted on paying.",
+   "exampleZh": "她坚持付钱。",
+   "freq": 0
+  },
+  {
+   "id": "ph93",
+   "category": "phrase",
+   "title": "object to",
+   "words": [
+    "object to"
+   ],
+   "zh": "反对",
+   "tip": "to 是介词",
+   "example": "They objected to the new rule.",
+   "exampleZh": "他们反对新规定。",
+   "freq": 1
+  },
+  {
+   "id": "ph94",
+   "category": "phrase",
+   "title": "approve of",
+   "words": [
+    "approve of"
+   ],
+   "zh": "赞成",
+   "tip": "approve sth 是「批准」",
+   "example": "Her parents approved of the plan.",
+   "exampleZh": "她父母赞成这个计划。",
+   "freq": 1
+  },
+  {
+   "id": "ph95",
+   "category": "phrase",
+   "title": "complain about",
+   "words": [
+    "complain about"
+   ],
+   "zh": "抱怨",
+   "tip": "complain of 多指「诉说病痛」",
+   "example": "He complained about the noise.",
+   "exampleZh": "他抱怨噪音。",
+   "freq": 1
+  },
+  {
+   "id": "ph96",
+   "category": "phrase",
+   "title": "apologize for",
+   "words": [
+    "apologize for"
+   ],
+   "zh": "为…道歉",
+   "tip": "for 后接事由",
+   "example": "She apologized for being late.",
+   "exampleZh": "她为迟到道歉。",
+   "freq": 0
+  },
+  {
+   "id": "ph97",
+   "category": "phrase",
+   "title": "blame ... for",
+   "words": [
+    "blame",
+    "for"
+   ],
+   "zh": "因…责备",
+   "tip": "blame sth on sb 也可",
+   "example": "Don't blame others for your mistakes.",
+   "exampleZh": "别把自己的错怪别人。",
+   "freq": 0
+  },
+  {
+   "id": "ph98",
+   "category": "phrase",
+   "title": "congratulate ... on",
+   "words": [
+    "congratulate",
+    "on"
+   ],
+   "zh": "祝贺",
+   "tip": "on 不可省",
+   "example": "We congratulated her on the award.",
+   "exampleZh": "我们祝贺她获奖。",
+   "freq": 0
+  },
+  {
+   "id": "ph99",
+   "category": "phrase",
+   "title": "prevent ... from",
+   "words": [
+    "prevent",
+    "from"
+   ],
+   "zh": "阻止",
+   "tip": "from 可省略但不能换",
+   "example": "Rain prevented us from going out.",
+   "exampleZh": "下雨使我们无法外出。",
+   "freq": 0
+  },
+  {
+   "id": "ph100",
+   "category": "phrase",
+   "title": "protect ... from",
+   "words": [
+    "protect",
+    "from"
+   ],
+   "zh": "保护免受",
+   "tip": "from/against 均可",
+   "example": "Sunscreen protects skin from damage.",
+   "exampleZh": "防晒霜保护皮肤免受损伤。",
+   "freq": 0
+  },
+  {
+   "id": "ph101",
+   "category": "phrase",
+   "title": "substitute A for B",
+   "words": [
+    "substitute A for B"
+   ],
+   "zh": "用 A 代替 B",
+   "tip": "方向易错：for 后是被代替的",
+   "example": "You can substitute honey for sugar.",
+   "exampleZh": "你可以用蜂蜜代替糖。",
+   "freq": 0
+  },
+  {
+   "id": "ph102",
+   "category": "phrase",
+   "title": "replace A with B",
+   "words": [
+    "replace A with B"
+   ],
+   "zh": "用 B 替换 A",
+   "tip": "与 substitute 方向相反",
+   "example": "They replaced coal with gas.",
+   "exampleZh": "他们用天然气替代煤。",
+   "freq": 0
+  },
+  {
+   "id": "adj1",
+   "category": "adj",
+   "title": "economic / economical",
+   "words": [
+    "economic",
+    "economical"
+   ],
+   "zh": "economic=经济（的），economical=省钱（的）",
+   "tip": "economic growth 经济增长 / an economical car 省油的车",
+   "example": "",
+   "exampleZh": "",
+   "freq": 31
+  },
+  {
+   "id": "adj2",
+   "category": "adj",
+   "title": "historic / historical",
+   "words": [
+    "historic",
+    "historical"
+   ],
+   "zh": "historic=有历史意义的，historical=与历史有关的",
+   "tip": "a historic moment 历史性时刻 / historical documents 历史文献",
+   "example": "",
+   "exampleZh": "",
+   "freq": 3
+  },
+  {
+   "id": "adj3",
+   "category": "adj",
+   "title": "sensible / sensitive",
+   "words": [
+    "sensible",
+    "sensitive"
+   ],
+   "zh": "sensible=明智的，sensitive=敏感的",
+   "tip": "a sensible decision 明智的决定 / sensitive skin 敏感肌",
+   "example": "",
+   "exampleZh": "",
+   "freq": 12
+  },
+  {
+   "id": "adj4",
+   "category": "adj",
+   "title": "considerable / considerate",
+   "words": [
+    "considerable",
+    "considerate"
+   ],
+   "zh": "considerable=相当大的，considerate=体贴的",
+   "tip": "considerable damage 相当大的损失 / a considerate friend 体贴的朋友",
+   "example": "",
+   "exampleZh": "",
+   "freq": 5
+  },
+  {
+   "id": "adj5",
+   "category": "adj",
+   "title": "respectful / respectable / respective",
+   "words": [
+    "respectful",
+    "respectable",
+    "respective"
+   ],
+   "zh": "respectful=恭敬的，respectable=体面的，respective=各自的",
+   "tip": "respectful attitude 恭敬的态度 / a respectable job 体面的工作 / their respective roles 各自的角色",
+   "example": "",
+   "exampleZh": "",
+   "freq": 2
+  },
+  {
+   "id": "adj6",
+   "category": "adj",
+   "title": "industrial / industrious",
+   "words": [
+    "industrial",
+    "industrious"
+   ],
+   "zh": "industrial=工业的，industrious=勤奋的",
+   "tip": "industrial waste 工业废料 / an industrious student 勤奋的学生",
+   "example": "",
+   "exampleZh": "",
+   "freq": 5
+  },
+  {
+   "id": "adj7",
+   "category": "adj",
+   "title": "comprehensive / comprehensible",
+   "words": [
+    "comprehensive",
+    "comprehensible"
+   ],
+   "zh": "comprehensive=全面的，comprehensible=可理解的",
+   "tip": "a comprehensive survey 全面调查 / comprehensible input 可理解输入",
+   "example": "",
+   "exampleZh": "",
+   "freq": 2
+  },
+  {
+   "id": "adj8",
+   "category": "adj",
+   "title": "imaginary / imaginative / imaginable",
+   "words": [
+    "imaginary",
+    "imaginative",
+    "imaginable"
+   ],
+   "zh": "imaginary=虚构的，imaginative=有想象力的，imaginable=可想象的",
+   "tip": "an imaginary friend 虚构的朋友 / imaginative writing 富有想象力的写作",
+   "example": "",
+   "exampleZh": "",
+   "freq": 3
+  },
+  {
+   "id": "adj9",
+   "category": "adj",
+   "title": "continual / continuous",
+   "words": [
+    "continual",
+    "continuous"
+   ],
+   "zh": "continual=反复发生（有间断），continuous=连续不断",
+   "tip": "continual interruptions 反复打扰 / continuous rain 连绵不断的雨",
+   "example": "",
+   "exampleZh": "",
+   "freq": 4
+  },
+  {
+   "id": "adj10",
+   "category": "adj",
+   "title": "principal / principle",
+   "words": [
+    "principal",
+    "principle"
+   ],
+   "zh": "principal=主要的/校长，principle=原则（名词）",
+   "tip": "the principal reason 主要原因 / a moral principle 道德原则",
+   "example": "",
+   "exampleZh": "",
+   "freq": 9
+  },
+  {
+   "id": "adj11",
+   "category": "adj",
+   "title": "adaptable / adaptive",
+   "words": [
+    "adaptable",
+    "adaptive"
+   ],
+   "zh": "adaptable=适应力强的（人/物），adaptive=适应性的（系统/机制）",
+   "tip": "an adaptable child 适应力强的孩子 / adaptive learning 自适应学习",
+   "example": "",
+   "exampleZh": "",
+   "freq": 6
+  },
+  {
+   "id": "adj12",
+   "category": "adj",
+   "title": "efficient / effective",
+   "words": [
+    "efficient",
+    "effective"
+   ],
+   "zh": "efficient=效率高的（省时省力），effective=有效的（达成目的）",
+   "tip": "an efficient system 高效系统 / an effective method 有效方法",
+   "example": "",
+   "exampleZh": "",
+   "freq": 33
+  },
+  {
+   "id": "adj13",
+   "category": "adj",
+   "title": "valueless / invaluable / priceless",
+   "words": [
+    "valueless",
+    "invaluable",
+    "priceless"
+   ],
+   "zh": "valueless=毫无价值，invaluable/priceless=极珍贵的",
+   "tip": "valueless advice 无用的建议 / invaluable experience 宝贵经验",
+   "example": "",
+   "exampleZh": "",
+   "freq": 2
+  },
+  {
+   "id": "adj14",
+   "category": "adj",
+   "title": "ashamed / shameful",
+   "words": [
+    "ashamed",
+    "shameful"
+   ],
+   "zh": "ashamed=感到羞耻（人），shameful=可耻的（事）",
+   "tip": "be ashamed of 为…羞愧 / shameful behavior 可耻行为",
+   "example": "",
+   "exampleZh": "",
+   "freq": 2
+  },
+  {
+   "id": "adj15",
+   "category": "adj",
+   "title": "bored / boring",
+   "words": [
+    "bored",
+    "boring"
+   ],
+   "zh": "-ed 修饰人（感到…），-ing 修饰事物（令人…）",
+   "tip": "I am bored. 我感到无聊 / a boring lecture 无聊的讲座",
+   "example": "",
+   "exampleZh": "",
+   "freq": 23
+  },
+  {
+   "id": "adj16",
+   "category": "adj",
+   "title": "interested / interesting",
+   "words": [
+    "interested",
+    "interesting"
+   ],
+   "zh": "-ed 修饰人，-ing 修饰事物",
+   "tip": "interested students 感兴趣的学生 / an interesting book 有趣的书",
+   "example": "",
+   "exampleZh": "",
+   "freq": 58
+  },
+  {
+   "id": "adj17",
+   "category": "adj",
+   "title": "excited / exciting",
+   "words": [
+    "excited",
+    "exciting"
+   ],
+   "zh": "-ed 修饰人，-ing 修饰事物",
+   "tip": "excited children 兴奋的孩子 / exciting news 振奋的消息",
+   "example": "",
+   "exampleZh": "",
+   "freq": 10
+  },
+  {
+   "id": "adj18",
+   "category": "adj",
+   "title": "tired / tiring",
+   "words": [
+    "tired",
+    "tiring"
+   ],
+   "zh": "-ed 修饰人，-ing 修饰事物",
+   "tip": "a tired worker 疲惫的工人 / a tiring journey 累人的旅程",
+   "example": "",
+   "exampleZh": "",
+   "freq": 2
+  },
+  {
+   "id": "adj19",
+   "category": "adj",
+   "title": "satisfied / satisfying",
+   "words": [
+    "satisfied",
+    "satisfying"
+   ],
+   "zh": "-ed 修饰人，-ing 修饰事物",
+   "tip": "a satisfied customer 满意的顾客 / a satisfying result 令人满意的结果",
+   "example": "",
+   "exampleZh": "",
+   "freq": 7
+  },
+  {
+   "id": "adj20",
+   "category": "adj",
+   "title": "confused / confusing",
+   "words": [
+    "confused",
+    "confusing"
+   ],
+   "zh": "-ed 修饰人，-ing 修饰事物",
+   "tip": "confused students 困惑的学生 / confusing instructions 令人困惑的说明",
+   "example": "",
+   "exampleZh": "",
+   "freq": 3
+  },
+  {
+   "id": "adj21",
+   "category": "adj",
+   "title": "disappointed / disappointing",
+   "words": [
+    "disappointed",
+    "disappointing"
+   ],
+   "zh": "-ed 修饰人，-ing 修饰事物",
+   "tip": "a disappointed fan 失望的粉丝 / disappointing results 令人失望的结果",
+   "example": "",
+   "exampleZh": "",
+   "freq": 3
+  },
+  {
+   "id": "adj22",
+   "category": "adj",
+   "title": "alive / living / live",
+   "words": [
+    "alive",
+    "living",
+    "live"
+   ],
+   "zh": "alive=活着的（表语），living=活着的（定语），live=现场的/活的（动物）",
+   "tip": "keep hope alive 保持希望 / living things 生物 / a live broadcast 直播",
+   "example": "",
+   "exampleZh": "",
+   "freq": 90
+  },
+  {
+   "id": "adj23",
+   "category": "adj",
+   "title": "alone / lonely",
+   "words": [
+    "alone",
+    "lonely"
+   ],
+   "zh": "alone=独自（客观），lonely=孤独（主观感受）",
+   "tip": "live alone 独居 / feel lonely 感到孤独",
+   "example": "",
+   "exampleZh": "",
+   "freq": 15
+  },
+  {
+   "id": "adj24",
+   "category": "adj",
+   "title": "worth / worthy / worthwhile",
+   "words": [
+    "worth",
+    "worthy",
+    "worthwhile"
+   ],
+   "zh": "worth+doing，worthy of+名词，worthwhile to do/it is worthwhile doing",
+   "tip": "worth trying 值得一试 / worthy of praise 值得表扬 / a worthwhile cause 有价值的事业",
+   "example": "",
+   "exampleZh": "",
+   "freq": 30
+  },
+  {
+   "id": "adj25",
+   "category": "adj",
+   "title": "possible / probable / likely",
+   "words": [
+    "possible",
+    "probable",
+    "likely"
+   ],
+   "zh": "可能性依次增强；likely 主语可为人",
+   "tip": "a possible cause 可能原因 / a probable outcome 很可能的结果 / likely to win 可能获胜",
+   "example": "",
+   "exampleZh": "",
+   "freq": 155
+  },
+  {
+   "id": "adj26",
+   "category": "adj",
+   "title": "essential / necessary / vital",
+   "words": [
+    "essential",
+    "necessary",
+    "vital"
+   ],
+   "zh": "essential=必不可少（绝对），necessary=必要，vital=至关重要",
+   "tip": "essential nutrients 必需营养 / necessary steps 必要步骤 / a vital role 关键作用",
+   "example": "",
+   "exampleZh": "",
+   "freq": 44
+  },
+  {
+   "id": "adj27",
+   "category": "adj",
+   "title": "rare / scarce",
+   "words": [
+    "rare",
+    "scarce"
+   ],
+   "zh": "rare=稀有（不常见），scarce=短缺（供不应求）",
+   "tip": "a rare species 稀有物种 / scarce resources 稀缺资源",
+   "example": "",
+   "exampleZh": "",
+   "freq": 7
+  },
+  {
+   "id": "adj28",
+   "category": "adj",
+   "title": "hollow / empty / vacant",
+   "words": [
+    "hollow",
+    "empty",
+    "vacant"
+   ],
+   "zh": "hollow=中空的，empty=空的（无内容），vacant=空缺的（职位/房间）",
+   "tip": "a hollow tree 空心树 / an empty box 空盒子 / a vacant post 空缺职位",
+   "example": "",
+   "exampleZh": "",
+   "freq": 3
+  },
+  {
+   "id": "adj29",
+   "category": "adj",
+   "title": "bare / empty",
+   "words": [
+    "bare",
+    "empty"
+   ],
+   "zh": "bare=裸露的/无装饰的，empty=空的",
+   "tip": "bare feet 光脚 / an empty room 空房间",
+   "example": "",
+   "exampleZh": "",
+   "freq": 2
+  },
+  {
+   "id": "adj30",
+   "category": "adj",
+   "title": "sensible / sensual",
+   "words": [
+    "sensible",
+    "sensual"
+   ],
+   "zh": "sensible=明智的，sensual=感官的（较少考）",
+   "tip": "a sensible choice 明智选择 / sensual pleasure 感官愉悦",
+   "example": "",
+   "exampleZh": "",
+   "freq": 2
+  },
+  {
+   "id": "adj31",
+   "category": "adj",
+   "title": "credible / credulous / creditable",
+   "words": [
+    "credible",
+    "credulous",
+    "creditable"
+   ],
+   "zh": "credible=可信的，credulous=轻信的，creditable=值得称赞的",
+   "tip": "a credible witness 可信的证人 / a credulous buyer 轻信的买家 / creditable results 值得称赞的成绩",
+   "example": "",
+   "exampleZh": "",
+   "freq": 0
+  },
+  {
+   "id": "adj32",
+   "category": "adj",
+   "title": "intense / intensive",
+   "words": [
+    "intense",
+    "intensive"
+   ],
+   "zh": "intense=强烈的（感受/程度），intensive=密集的（强度/集约）",
+   "tip": "intense heat 酷热 / intensive training 密集训练",
+   "example": "",
+   "exampleZh": "",
+   "freq": 3
+  },
+  {
+   "id": "adj33",
+   "category": "adj",
+   "title": "eligible / illegible",
+   "words": [
+    "eligible",
+    "illegible"
+   ],
+   "zh": "eligible=合格的/有资格的，illegible=字迹难辨的",
+   "tip": "eligible for the post 有资格担任 / illegible handwriting 难以辨认的字",
+   "example": "",
+   "exampleZh": "",
+   "freq": 0
+  },
+  {
+   "id": "adj34",
+   "category": "adj",
+   "title": "moral / morale",
+   "words": [
+    "moral",
+    "morale"
+   ],
+   "zh": "moral=道德的（形/名），morale=士气（名）",
+   "tip": "moral standards 道德标准 / boost morale 提振士气",
+   "example": "",
+   "exampleZh": "",
+   "freq": 25
+  },
+  {
+   "id": "adj35",
+   "category": "adj",
+   "title": "childish / childlike",
+   "words": [
+    "childish",
+    "childlike"
+   ],
+   "zh": "childish=幼稚（贬），childlike=天真（褒）",
+   "tip": "childish behavior 幼稚行为 / a childlike smile 天真的微笑",
+   "example": "",
+   "exampleZh": "",
+   "freq": 1
+  },
+  {
+   "id": "adj36",
+   "category": "adj",
+   "title": "economical / frugal / thrifty",
+   "words": [
+    "economical",
+    "frugal",
+    "thrifty"
+   ],
+   "zh": "economical=省钱的，frugal=节俭的（生活），thrifty=精打细算的",
+   "tip": "an economical car 省油的车 / a frugal meal 简朴的一餐 / thrifty habits 节俭习惯",
+   "example": "",
+   "exampleZh": "",
+   "freq": 1
+  },
+  {
+   "id": "adj37",
+   "category": "adj",
+   "title": "confident / confidential",
+   "words": [
+    "confident",
+    "confidential"
+   ],
+   "zh": "confident=自信的，confidential=机密的",
+   "tip": "a confident speaker 自信的讲者 / confidential files 机密文件",
+   "example": "",
+   "exampleZh": "",
+   "freq": 9
+  },
+  {
+   "id": "adj38",
+   "category": "adj",
+   "title": "complementary / complimentary",
+   "words": [
+    "complementary",
+    "complimentary"
+   ],
+   "zh": "complementary=互补的，complimentary=免费的/赞美的",
+   "tip": "complementary skills 互补技能 / a complimentary ticket 赠票",
+   "example": "",
+   "exampleZh": "",
+   "freq": 0
+  },
+  {
+   "id": "adj39",
+   "category": "adj",
+   "title": "stationary / stationery",
+   "words": [
+    "stationary",
+    "stationery"
+   ],
+   "zh": "stationary=静止的，stationery=文具",
+   "tip": "a stationary car 停着的车 / office stationery 办公文具",
+   "example": "",
+   "exampleZh": "",
+   "freq": 0
+  },
+  {
+   "id": "adj40",
+   "category": "adj",
+   "title": "personal / personnel",
+   "words": [
+    "personal",
+    "personnel"
+   ],
+   "zh": "personal=个人的（形），personnel=人员（名）",
+   "tip": "personal data 个人数据 / sales personnel 销售人员",
+   "example": "",
+   "exampleZh": "",
+   "freq": 43
+  },
+  {
+   "id": "adj41",
+   "category": "adj",
+   "title": "successive / successful",
+   "words": [
+    "successive",
+    "successful"
+   ],
+   "zh": "successive=连续的，successful=成功的",
+   "tip": "three successive years 连续三年 / a successful attempt 成功的尝试",
+   "example": "",
+   "exampleZh": "",
+   "freq": 34
+  },
+  {
+   "id": "adj42",
+   "category": "adj",
+   "title": "former / previous / prior",
+   "words": [
+    "former",
+    "previous",
+    "prior"
+   ],
+   "zh": "former=前任的/前者，previous=以前的，prior=先前的/优先的",
+   "tip": "the former president 前总统 / the previous chapter 前一章 / prior experience 先前经验",
+   "example": "",
+   "exampleZh": "",
+   "freq": 29
+  },
+  {
+   "id": "adj43",
+   "category": "adj",
+   "title": "later / latter / latest / last",
+   "words": [
+    "later",
+    "latter",
+    "latest",
+    "last"
+   ],
+   "zh": "later=后来，latter=后者，latest=最新的，last=最后的",
+   "tip": "two years later 两年后 / the latter option 后者 / the latest news 最新消息",
+   "example": "",
+   "exampleZh": "",
+   "freq": 88
+  },
+  {
+   "id": "adj44",
+   "category": "adj",
+   "title": "abundant / plentiful",
+   "words": [
+    "abundant",
+    "plentiful"
+   ],
+   "zh": "abundant=丰富的（正式），plentiful=充足的（数量）",
+   "tip": "abundant resources 丰富资源 / a plentiful supply 充足供应",
+   "example": "",
+   "exampleZh": "",
+   "freq": 4
+  },
+  {
+   "id": "adj45",
+   "category": "adj",
+   "title": "urgent / emergent",
+   "words": [
+    "urgent",
+    "emergent"
+   ],
+   "zh": "urgent=紧急的，emergent=新出现的",
+   "tip": "an urgent task 紧急任务 / emergent technology 新兴技术",
+   "example": "",
+   "exampleZh": "",
+   "freq": 6
+  },
+  {
+   "id": "adj46",
+   "category": "adj",
+   "title": "alternate / alternative",
+   "words": [
+    "alternate",
+    "alternative"
+   ],
+   "zh": "alternate=交替的/轮流的，alternative=替代的/另一种",
+   "tip": "alternate days 隔天 / an alternative plan 备选方案",
+   "example": "",
+   "exampleZh": "",
+   "freq": 7
+  },
+  {
+   "id": "adj47",
+   "category": "adj",
+   "title": "distinct / distinctive / distinguished",
+   "words": [
+    "distinct",
+    "distinctive",
+    "distinguished"
+   ],
+   "zh": "distinct=明显的/不同的，distinctive=有特色的，distinguished=卓越的",
+   "tip": "a distinct sound 清晰的声音 / a distinctive style 独特风格 / a distinguished scholar 杰出学者",
+   "example": "",
+   "exampleZh": "",
+   "freq": 5
+  },
+  {
+   "id": "adj48",
+   "category": "adj",
+   "title": "tolerant / tolerable",
+   "words": [
+    "tolerant",
+    "tolerable"
+   ],
+   "zh": "tolerant=宽容的（人），tolerable=可忍受的（事）",
+   "tip": "a tolerant attitude 宽容态度 / tolerable pain 可忍受的疼痛",
+   "example": "",
+   "exampleZh": "",
+   "freq": 2
+  },
+  {
+   "id": "adj49",
+   "category": "adj",
+   "title": "desirable / desired",
+   "words": [
+    "desirable",
+    "desired"
+   ],
+   "zh": "desirable=值得拥有的（客观好），desired=想要的（主观）",
+   "tip": "a desirable location 理想地段 / the desired effect 预期效果",
+   "example": "",
+   "exampleZh": "",
+   "freq": 9
+  },
+  {
+   "id": "adj50",
+   "category": "adj",
+   "title": "negligible / negligent",
+   "words": [
+    "negligible",
+    "negligent"
+   ],
+   "zh": "negligible=微不足道的，negligent=疏忽的",
+   "tip": "negligible cost 微不足道的成本 / negligent driving 疏忽驾驶",
+   "example": "",
+   "exampleZh": "",
+   "freq": 0
+  },
+  {
+   "id": "adj51",
+   "category": "adj",
+   "title": "practical / practicable",
+   "words": [
+    "practical",
+    "practicable"
+   ],
+   "zh": "practical=实用的，practicable=可行的",
+   "tip": "practical skills 实用技能 / a practicable plan 可行的计划",
+   "example": "",
+   "exampleZh": "",
+   "freq": 8
+  },
+  {
+   "id": "adj52",
+   "category": "adj",
+   "title": "beneficial / beneficent",
+   "words": [
+    "beneficial",
+    "beneficent"
+   ],
+   "zh": "beneficial=有益的，beneficent=行善的（人/机构）",
+   "tip": "beneficial effects 有益效果 / a beneficent donor 慈善捐赠者",
+   "example": "",
+   "exampleZh": "",
+   "freq": 11
+  },
+  {
+   "id": "adj53",
+   "category": "adj",
+   "title": "credulous / gullible",
+   "words": [
+    "credulous",
+    "gullible"
+   ],
+   "zh": "credulous=轻信的（偏书面），gullible=易受骗的（口语）",
+   "tip": "credulous readers 轻信的读者 / a gullible child 易受骗的孩子",
+   "example": "",
+   "exampleZh": "",
+   "freq": 0
+  },
+  {
+   "id": "pat1",
+   "category": "pattern",
+   "title": "Not only ... but also ...",
+   "words": [],
+   "zh": "不仅…而且…",
+   "tip": "Not only 置句首要部分倒装",
+   "example": "Not only does exercise improve health, but it also reduces stress.",
+   "exampleZh": "运动不仅改善健康，还能减压。",
+   "freq": 0
+  },
+  {
+   "id": "pat2",
+   "category": "pattern",
+   "title": "It is ... that ...（强调句）",
+   "words": [],
+   "zh": "正是…才…",
+   "tip": "去掉 It is/that 句子仍完整",
+   "example": "It is education that changes lives.",
+   "exampleZh": "正是教育改变人生。",
+   "freq": 0
+  },
+  {
+   "id": "pat3",
+   "category": "pattern",
+   "title": "It is widely believed that ...",
+   "words": [],
+   "zh": "人们普遍认为…",
+   "tip": "形式主语，that 从句是真主语",
+   "example": "It is widely believed that reading broadens the mind.",
+   "exampleZh": "人们普遍认为阅读开阔心智。",
+   "freq": 0
+  },
+  {
+   "id": "pat4",
+   "category": "pattern",
+   "title": "There is a growing awareness that ...",
+   "words": [],
+   "zh": "越来越意识到…",
+   "tip": "写作开头常用",
+   "example": "There is a growing awareness that mental health matters.",
+   "exampleZh": "人们越来越意识到心理健康很重要。",
+   "freq": 0
+  },
+  {
+   "id": "pat5",
+   "category": "pattern",
+   "title": "With the development of ...",
+   "words": [],
+   "zh": "随着…的发展",
+   "tip": "独立主格，后接主句",
+   "example": "With the development of technology, our lives have changed.",
+   "exampleZh": "随着技术发展，我们的生活改变了。",
+   "freq": 0
+  },
+  {
+   "id": "pat6",
+   "category": "pattern",
+   "title": "As far as I am concerned, ...",
+   "words": [],
+   "zh": "就我而言",
+   "tip": "表态句",
+   "example": "As far as I am concerned, the benefits outweigh the drawbacks.",
+   "exampleZh": "就我而言，利大于弊。",
+   "freq": 0
+  },
+  {
+   "id": "pat7",
+   "category": "pattern",
+   "title": "From my perspective, ...",
+   "words": [],
+   "zh": "在我看来",
+   "tip": "比 in my opinion 更书面",
+   "example": "From my perspective, the policy is reasonable.",
+   "exampleZh": "在我看来，该政策是合理的。",
+   "freq": 0
+  },
+  {
+   "id": "pat8",
+   "category": "pattern",
+   "title": "The more ..., the more ...",
+   "words": [],
+   "zh": "越…越…",
+   "tip": "两边都用比较级",
+   "example": "The more you practice, the more confident you become.",
+   "exampleZh": "练得越多，越自信。",
+   "freq": 0
+  },
+  {
+   "id": "pat9",
+   "category": "pattern",
+   "title": "It is high time that ... did",
+   "words": [],
+   "zh": "早该…了",
+   "tip": "从句用过去式（虚拟）",
+   "example": "It is high time that we took action.",
+   "exampleZh": "我们早该采取行动了。",
+   "freq": 0
+  },
+  {
+   "id": "pat10",
+   "category": "pattern",
+   "title": "Only by ... can we ...",
+   "words": [],
+   "zh": "只有…才能…",
+   "tip": "Only 置句首，主句倒装",
+   "example": "Only by working together can we solve it.",
+   "exampleZh": "只有合作才能解决。",
+   "freq": 0
+  },
+  {
+   "id": "pat11",
+   "category": "pattern",
+   "title": "so ... that ...",
+   "words": [],
+   "zh": "如此…以至于",
+   "tip": "so 修饰形容词/副词",
+   "example": "The problem is so complex that few can solve it.",
+   "exampleZh": "问题如此复杂，少有人能解决。",
+   "freq": 0
+  },
+  {
+   "id": "pat12",
+   "category": "pattern",
+   "title": "such ... that ...",
+   "words": [],
+   "zh": "如此…以至于",
+   "tip": "such 修饰名词",
+   "example": "It was such a cold day that we stayed in.",
+   "exampleZh": "天气太冷我们没出门。",
+   "freq": 0
+  },
+  {
+   "id": "pat13",
+   "category": "pattern",
+   "title": "too ... to ...",
+   "words": [],
+   "zh": "太…而不能",
+   "tip": "表否定结果",
+   "example": "He is too young to understand.",
+   "exampleZh": "他太小还不懂。",
+   "freq": 0
+  },
+  {
+   "id": "pat14",
+   "category": "pattern",
+   "title": "not ... until ...",
+   "words": [],
+   "zh": "直到…才",
+   "tip": "主句用短暂动词",
+   "example": "He did not leave until midnight.",
+   "exampleZh": "他直到半夜才离开。",
+   "freq": 0
+  },
+  {
+   "id": "pat15",
+   "category": "pattern",
+   "title": "hardly ... when ...",
+   "words": [],
+   "zh": "刚一…就…",
+   "tip": "hardly 置句首需倒装",
+   "example": "Hardly had he arrived when it rained.",
+   "exampleZh": "他刚到就下雨了。",
+   "freq": 0
+  },
+  {
+   "id": "pat16",
+   "category": "pattern",
+   "title": "no sooner ... than ...",
+   "words": [],
+   "zh": "刚一…就…",
+   "tip": "同上，倒装",
+   "example": "No sooner had she left than the phone rang.",
+   "exampleZh": "她刚走电话就响了。",
+   "freq": 0
+  },
+  {
+   "id": "pat17",
+   "category": "pattern",
+   "title": "It goes without saying that ...",
+   "words": [],
+   "zh": "不言而喻",
+   "tip": "书面表态",
+   "example": "It goes without saying that health comes first.",
+   "exampleZh": "不言而喻健康第一。",
+   "freq": 0
+  },
+  {
+   "id": "pat18",
+   "category": "pattern",
+   "title": "There is no denying that ...",
+   "words": [],
+   "zh": "不可否认",
+   "tip": "让步后接 but",
+   "example": "There is no denying that AI changes work.",
+   "exampleZh": "不可否认 AI 改变工作。",
+   "freq": 0
+  },
+  {
+   "id": "pat19",
+   "category": "pattern",
+   "title": "When it comes to ..., ...",
+   "words": [],
+   "zh": "谈到…",
+   "tip": "to 是介词",
+   "example": "When it comes to cost, this option wins.",
+   "exampleZh": "谈到成本，这个方案更好。",
+   "freq": 0
+  },
+  {
+   "id": "pat20",
+   "category": "pattern",
+   "title": "In spite of / Despite ..., ...",
+   "words": [],
+   "zh": "尽管…",
+   "tip": "后接名词，不接句子",
+   "example": "Despite the rain, they went out.",
+   "exampleZh": "尽管下雨，他们仍出门。",
+   "freq": 0
+  },
+  {
+   "id": "pat21",
+   "category": "pattern",
+   "title": "Even if / Even though ..., ...",
+   "words": [],
+   "zh": "即使/尽管…",
+   "tip": "even if 假设，even though 事实",
+   "example": "Even if it rains, we will go.",
+   "exampleZh": "即使下雨我们也去。",
+   "freq": 0
+  },
+  {
+   "id": "pat22",
+   "category": "pattern",
+   "title": "As long as ..., ...",
+   "words": [],
+   "zh": "只要…",
+   "tip": "条件",
+   "example": "As long as you try, you will improve.",
+   "exampleZh": "只要努力就会进步。",
+   "freq": 0
+  },
+  {
+   "id": "pat23",
+   "category": "pattern",
+   "title": "Unless ..., ...",
+   "words": [],
+   "zh": "除非…",
+   "tip": "= if not",
+   "example": "Unless you hurry, you will be late.",
+   "exampleZh": "除非快点，否则会迟到。",
+   "freq": 0
+  },
+  {
+   "id": "pat24",
+   "category": "pattern",
+   "title": "The reason why ... is that ...",
+   "words": [],
+   "zh": "…的原因是…",
+   "tip": "不能用 because 引导表语",
+   "example": "The reason why he failed is that he was careless.",
+   "exampleZh": "他失败的原因是粗心。",
+   "freq": 0
+  },
+  {
+   "id": "pat25",
+   "category": "pattern",
+   "title": "What matters most is ...",
+   "words": [],
+   "zh": "最重要的是…",
+   "tip": "主语从句",
+   "example": "What matters most is your attitude.",
+   "exampleZh": "最重要的是态度。",
+   "freq": 0
+  },
+  {
+   "id": "pat26",
+   "category": "pattern",
+   "title": "It is no use doing ...",
+   "words": [],
+   "zh": "做…没用",
+   "tip": "后接动名词",
+   "example": "It is no use crying over spilt milk.",
+   "exampleZh": "覆水难收。",
+   "freq": 0
+  },
+  {
+   "id": "pat27",
+   "category": "pattern",
+   "title": "There is no point in doing ...",
+   "words": [],
+   "zh": "做…没有意义",
+   "tip": "in 后接动名词",
+   "example": "There is no point in arguing.",
+   "exampleZh": "争论没有意义。",
+   "freq": 0
+  },
+  {
+   "id": "pat28",
+   "category": "pattern",
+   "title": "be worth doing",
+   "words": [],
+   "zh": "值得做",
+   "tip": "主动形式表被动",
+   "example": "The film is worth watching.",
+   "exampleZh": "这部电影值得看。",
+   "freq": 0
+  },
+  {
+   "id": "pat29",
+   "category": "pattern",
+   "title": "have difficulty (in) doing",
+   "words": [],
+   "zh": "做…有困难",
+   "tip": "in 可省，用动名词",
+   "example": "Many students have difficulty in writing.",
+   "exampleZh": "许多学生写作有困难。",
+   "freq": 0
+  },
+  {
+   "id": "pat30",
+   "category": "pattern",
+   "title": "spend ... doing",
+   "words": [],
+   "zh": "花时间做…",
+   "tip": "spend on sth / in doing",
+   "example": "She spends hours reading.",
+   "exampleZh": "她花数小时阅读。",
+   "freq": 0
+  },
+  {
+   "id": "pat31",
+   "category": "pattern",
+   "title": "prefer A to B",
+   "words": [],
+   "zh": "宁愿 A 不愿 B",
+   "tip": "to 是介词，不用 than",
+   "example": "I prefer tea to coffee.",
+   "exampleZh": "比起咖啡我更爱茶。",
+   "freq": 0
+  },
+  {
+   "id": "pat32",
+   "category": "pattern",
+   "title": "would rather ... than ...",
+   "words": [],
+   "zh": "宁愿…也不…",
+   "tip": "后接动词原形",
+   "example": "I would rather walk than wait.",
+   "exampleZh": "我宁愿走也不等。",
+   "freq": 0
+  },
+  {
+   "id": "pat33",
+   "category": "pattern",
+   "title": "not only because ... but also because ...",
+   "words": [],
+   "zh": "不仅因为…而且因为…",
+   "tip": "并列原因",
+   "example": "He succeeded not only because he was smart but also because he worked hard.",
+   "exampleZh": "他成功不仅因为聪明，也因为努力。",
+   "freq": 0
+  },
+  {
+   "id": "pat34",
+   "category": "pattern",
+   "title": "It is said/reported that ...",
+   "words": [],
+   "zh": "据说/据报道…",
+   "tip": "新闻体常用",
+   "example": "It is reported that prices will rise.",
+   "exampleZh": "据报道物价将上涨。",
+   "freq": 0
+  },
+  {
+   "id": "pat35",
+   "category": "pattern",
+   "title": "There used to be ...",
+   "words": [],
+   "zh": "过去曾有…",
+   "tip": "used to 表过去存在",
+   "example": "There used to be a park here.",
+   "exampleZh": "这里过去有个公园。",
+   "freq": 0
+  },
+  {
+   "id": "pat36",
+   "category": "pattern",
+   "title": "No matter how/what/who ..., ...",
+   "words": [],
+   "zh": "无论…",
+   "tip": "让步状语从句",
+   "example": "No matter how hard it is, don't give up.",
+   "exampleZh": "无论多难，别放弃。",
+   "freq": 0
+  },
+  {
+   "id": "pat37",
+   "category": "pattern",
+   "title": "Given that ..., ...",
+   "words": [],
+   "zh": "考虑到…",
+   "tip": "that 可省",
+   "example": "Given that time is limited, we must prioritize.",
+   "exampleZh": "考虑到时间有限，我们必须分清主次。",
+   "freq": 0
+  },
+  {
+   "id": "pat38",
+   "category": "pattern",
+   "title": "Compared with/to ..., ...",
+   "words": [],
+   "zh": "与…相比",
+   "tip": "过去分词作状语",
+   "example": "Compared with last year, sales rose.",
+   "exampleZh": "与去年相比销量上升。",
+   "freq": 0
+  },
+  {
+   "id": "pat39",
+   "category": "pattern",
+   "title": "Faced with ..., ...",
+   "words": [],
+   "zh": "面对…",
+   "tip": "过去分词作状语",
+   "example": "Faced with difficulties, she stayed calm.",
+   "exampleZh": "面对困难她保持冷静。",
+   "freq": 0
+  },
+  {
+   "id": "pat40",
+   "category": "pattern",
+   "title": "Only when ... did ...",
+   "words": [],
+   "zh": "只有当…才…",
+   "tip": "倒装",
+   "example": "Only when we lost it did we value it.",
+   "exampleZh": "只有失去才懂珍惜。",
+   "freq": 0
+  }
+ ]
+}
