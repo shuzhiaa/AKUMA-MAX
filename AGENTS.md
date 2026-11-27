@@ -20,7 +20,16 @@ Akuma Max 是一个**纯前端、无后端**的英语学习工具。本仓库只
 
 ---
 
-## 1. 目录与职责
+## 1. 协作规则
+
+- **提 PR**：任何人都可以直接提。合并前必须本地跑通 `check-release`（9/9），并确认没有引入本机路径、旧品牌字样或调试代码。
+- **仓库协作者**：`AurenQY` 已受邀为协作者（`write` 权限），提交 PR 后可自行推送分支。
+- **提交身份**：用 GitHub 的 noreply 邮箱（`<数字>+<用户名>@users.noreply.github.com`），不要暴露个人邮箱。
+- **改文档也要走 PR**：`README.md` 与 `AGENTS.md` 是仓库的主要门面，改动请保持"数字与实现一致"——每次更新都应重新核对词数、套数、文件体积，不要沿用旧数字。
+
+---
+
+## 2. 目录与职责
 
 | 位置 | 作用 | 是否入库 |
 |---|---|---|
@@ -40,21 +49,24 @@ Akuma Max 是一个**纯前端、无后端**的英语学习工具。本仓库只
 
 ---
 
-## 2. 用户怎么用（回答用户问题时按此摘要）
+## 3. 用户怎么用（回答用户问题时按此摘要）
 
 1. **不想安装**：打开 https://shuzhiaa.github.io/AKUMA-MAX/ ，电脑手机浏览器都能用。
-2. **想离线放进手机**：打开 `mobile.html`，用浏览器“添加到主屏幕”；它内联 98 份数据，断网可查词、做 68 套真题。
-3. **想要 App**：到 Releases 下载 `AkumaMax-<版本>-signed.apk`，允许一次“未知来源”后安装；约 200MB，可覆盖旧版并保留学习记录。
-4. 首次使用：选水平（或做水平测试）→ 设每日目标 → 今日页开始复习。
-5. 数据全部存本地（IndexedDB / App 本地存储），无账号、无服务端上传；AI 功能需用户自己填 API Key。
+2. **想离线放进手机**：打开 `mobile.html`，用浏览器"添加到主屏幕"；它内联 98 份数据，断网可查词、做 68 套真题。
+3. **想要 App**：到 Releases 下载 `AkumaMax-<版本>-signed.apk`，允许一次"未知来源"后安装；约 202MB，可覆盖旧版并保留学习记录。
+4. 首次使用：做一次水平测试（或跳过）→ 设每日目标 → 今日页开始复习。
+5. **词书与难度在「学习」页底部**，不在设置页；词库共 17 本词书 + "全部词书"。
+6. 数据全部存本地（IndexedDB / App 本地存储），无账号、无服务端上传；AI 功能需用户自己填 API Key。
 
-功能分布：今日页看进度；学习页复习/学新词/智能选词；词库查词；真题训练（无听力音频）；写作范文；AI 教练（划选精讲）；语法；水平测试。发音优先级：App 端侧神经语音 → 系统 TTS；网页真人录音 → 在线词典 → 浏览器语音。无声时用“设置 → 声音自检”定位。
+功能分布：今日页看进度；学习页复习/学新词/智能选词；词库查词；真题训练（无听力音频）；写作范文；AI 教练（划选精讲）；语法；水平测试。发音优先级：App 端侧神经语音 → 系统 TTS；网页真人录音 → 在线词典 → 浏览器语音。无声时用"设置 → 声音自检"定位。
+
+**三种形态的数据不互通**：网页版、单文件版、APK 各自独立存储，换形态等于换设备。
 
 ---
 
-## 3. 修改内容的三类任务
+## 4. 修改内容的三类任务
 
-### 3.1 只改仓库展示内容（README、本文件、仓库描述）
+### 4.1 只改仓库展示内容（README、本文件、仓库描述）
 
 直接改本目录的 Markdown，然后：
 
@@ -73,7 +85,7 @@ gh api repos/shuzhiaa/AKUMA-MAX -X PATCH \
   -f homepage="https://shuzhiaa.github.io/AKUMA-MAX/"
 ```
 
-### 3.2 改应用功能 / UI / 词库（改源码仓库）
+### 4.2 改应用功能 / UI / 词库（改源码仓库）
 
 **不要直接改本目录的 JS/CSS/JSON 再推送**，那样下次从源码构建会被覆盖。正确顺序（在源码仓库根目录执行）：
 
@@ -107,7 +119,7 @@ cd <本目录> && git add -A && git commit -m "release: 同步最新版" && git 
 
 线上复核用 `node tools/check-release.mjs --base=https://shuzhiaa.github.io/AKUMA-MAX`（**不要加 `--live`**：那个开关指向另一条发布线路的分享链接，与 GitHub Pages 无关）。
 
-### 3.3 更新安卓 APK
+### 4.3 更新安卓 APK
 
 版本在源码仓库 `android/app/build.gradle` 的 `versionCode` / `versionName`。构建顺序：
 
@@ -139,7 +151,7 @@ gh release create v<版本> --repo shuzhiaa/AKUMA-MAX \
 
 ---
 
-## 4. 已知坑（改之前先读）
+## 5. 已知坑（改之前先读）
 
 1. **发布工具按工作区绑定应用**：从同一个工作区发布任何别的目录都会覆盖当前站点；第二个站点必须换工作区。
 2. **`bundle-single-html` 必须用未混淆的 `dist`**：混淆后的 JS 内联会解析失败；每次改 bundle 脚本都要解析一次内联数据，确认 21,430 词与 68 套真题都在，不能只看页面能开。
@@ -154,17 +166,18 @@ gh release create v<版本> --repo shuzhiaa/AKUMA-MAX \
 
 ---
 
-## 5. 验证清单
+## 6. 验证清单
 
 - 网页三形态：`node tools/check-release.mjs --base=<本地或线上地址>` → 9/9。
-- 数据完整性：`mobile.html` 内联 98 份数据、21,430 词、68 套真题。
+- 数据完整性：`mobile.html` 内联 98 份数据、21,430 词、68 套真题（`exams/` 下 69 个 JSON，含 `index.json`）。
 - 品牌与隐私：`grep -ril "lexicard" <本目录> --exclude-dir=.git --exclude=AGENTS.md` 应无输出；`grep -rIl "127.0.0.1" <本目录> --exclude-dir=.git` 应无输出。
-- APK：`apksigner verify` + `aapt2 dump badging` + 文件大小约 200MB。
+- 文档数字：README 与 AGENTS 里的词数、套数、体积要与产物一致；改动后重新核对，不要沿用旧值。
+- APK：`apksigner verify` + `aapt2 dump badging` + 文件大小约 202MB。
 - GitHub：仓库 main 分支最新提交、Pages build 状态 built、Releases 资源可下载（HTTP 200 + Content-Length 正确）。
 
 ---
 
-## 6. 认证与失败处理
+## 7. 认证与失败处理
 
 - `gh` CLI 通过 keyring 登录仓库所有者账号；推送用 HTTPS。若报未登录，需要新的 classic PAT（`repo`、`read:org`、`gist`），**不要把 token 写进仓库或对话**，用完即删本地临时文件。
 - 设备码登录（`gh auth login` 网页流程）在部分网络下不可达（无法访问 `github.com/login/device/code`），不要反复重试。
